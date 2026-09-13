@@ -97,6 +97,7 @@ a:hover {
 
 .header-inner {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   min-height: var(--header-h);
@@ -145,13 +146,13 @@ a:hover {
 
 .site-nav.is-open {
   display: block;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 100%;
+  flex: 1 1 100%;
+  width: 100%;
+  order: 3;
+  position: static;
   background: var(--white);
-  border-bottom: 1px solid var(--border);
-  padding: 0.5rem 1rem 1.25rem;
+  border-top: 1px solid var(--border);
+  padding: 0.5rem 0 0.85rem;
 }
 
 .site-nav ul {
@@ -180,12 +181,12 @@ a:hover {
   background: var(--green-soft);
 }
 
-/* Categories dropdown / accordion */
-.nav-item.has-dropdown {
-  position: relative;
+/* Categories mega menu */
+.nav-item.has-mega {
+  position: static;
 }
 
-.nav-dropdown-toggle {
+.nav-mega-toggle {
   display: flex;
   align-items: center;
   gap: 0.35rem;
@@ -202,7 +203,7 @@ a:hover {
   border-radius: 8px;
 }
 
-.nav-dropdown-toggle::after {
+.nav-mega-toggle::after {
   content: "";
   display: inline-block;
   width: 0.45em;
@@ -214,59 +215,115 @@ a:hover {
   transition: transform 0.15s ease;
 }
 
-.nav-dropdown-toggle[aria-expanded="true"]::after {
+.nav-mega-toggle[aria-expanded="true"]::after {
   transform: rotate(-135deg) translateY(-0.05em);
 }
 
-.nav-dropdown-toggle:hover,
-.nav-dropdown-toggle[aria-expanded="true"] {
+.nav-mega-toggle:hover,
+.nav-mega-toggle[aria-expanded="true"] {
   color: var(--green);
   background: var(--green-soft);
 }
 
-.nav-dropdown {
-  padding: 0.15rem 0 0.35rem 0.5rem;
-  max-height: min(55vh, 360px);
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-  border-left: 2px solid var(--border);
-  margin-left: 0.35rem;
+.nav-mega {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  z-index: 150;
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  box-shadow: var(--shadow), 0 16px 40px rgba(26, 26, 26, 0.08);
+  padding: 0.85rem 0 1rem;
 }
 
-.nav-dropdown[hidden],
-.nav-dropdown:not(.is-open) {
+.nav-mega[hidden],
+.nav-mega:not(.is-open) {
   display: none !important;
 }
 
-.nav-dropdown.is-open {
+.nav-mega.is-open {
   display: block;
 }
 
-.site-nav .nav-dropdown-list {
+.nav-mega-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.nav-mega-top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.35rem 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.nav-mega-label {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--mid-grey);
+}
+
+.nav-mega-all {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--green);
+  text-decoration: none;
+}
+
+.nav-mega-all:hover {
+  text-decoration: underline;
+}
+
+.nav-mega-list {
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.05rem 0.75rem;
 }
 
-.site-nav .nav-dropdown-list a {
+.nav-mega-list a {
   display: flex;
   align-items: center;
-  min-height: 44px;
-  padding: 0.55rem 0.65rem;
+  min-height: 36px;
+  padding: 0.35rem 0.5rem;
   color: var(--near-black);
   text-decoration: none;
   font-weight: 500;
-  font-size: 0.9375rem;
-  border-radius: 8px;
+  font-size: 0.875rem;
+  line-height: 1.25;
+  border-radius: 6px;
 }
 
-.site-nav .nav-dropdown-list a:hover,
-.site-nav .nav-dropdown-list a[aria-current="page"] {
+.nav-mega-list a:hover,
+.nav-mega-list a[aria-current="page"] {
   color: var(--green);
   background: var(--green-soft);
+}
+
+@media (min-width: 480px) {
+  .nav-mega-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 768px) {
+  .nav-mega-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .nav-mega-list a {
+    min-height: 38px;
+    font-size: 0.9rem;
+  }
 }
 
 /* Tablet: keep hamburger; tighten logo and nav spacing so header doesn't break */
@@ -312,10 +369,13 @@ a:hover {
     display: flex;
     flex-wrap: nowrap;
     flex: 1;
+    order: initial;
+    width: auto;
     justify-content: flex-end;
     align-items: center;
     position: static;
     border: 0;
+    border-top: 0;
     padding: 0;
     background: transparent;
     gap: 0;
@@ -335,41 +395,25 @@ a:hover {
     align-items: center;
   }
 
-  .nav-dropdown-toggle {
+  .nav-mega-toggle {
     width: auto;
     padding: 0.5rem 0.75rem;
     min-height: 44px;
   }
 
-  .nav-dropdown {
-    position: absolute;
-    top: calc(100% + 0.35rem);
-    left: 0;
-    transform: none;
-    z-index: 200;
-    min-width: min(520px, calc(100vw - 2rem));
-    max-width: min(640px, calc(100vw - 2rem));
-    max-height: min(70vh, 420px);
-    overflow-y: auto;
-    -webkit-overflow-scrolling: touch;
-    padding: 0.75rem;
-    margin-left: 0;
-    background: var(--white);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    box-shadow: var(--shadow), 0 16px 40px rgba(26, 26, 26, 0.08);
+  .nav-mega {
+    padding: 1rem 0 1.15rem;
   }
 
-  .site-nav .nav-dropdown-list {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 0.1rem 0.5rem;
+  .nav-mega-list {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.1rem 1rem;
   }
 
-  .site-nav .nav-dropdown-list a {
-    min-height: 44px;
-    padding: 0.5rem 0.75rem;
-    font-size: 0.9375rem;
+  .nav-mega-list a {
+    min-height: 38px;
+    padding: 0.4rem 0.55rem;
+    font-size: 0.9rem;
   }
 }
 
@@ -865,8 +909,6 @@ textarea:focus {
 }
 
 /* ---------- Responsive harden ---------- */
-/* Avoid overflow-x:hidden on html/body — Chrome clips sticky-header dropdowns.
-   Contain horizontal spill on the main content instead. */
 html {
   overflow-x: clip;
 }
@@ -876,8 +918,7 @@ body {
 .site-header,
 .header-inner,
 .site-nav,
-.site-nav > ul,
-.nav-item.has-dropdown {
+.site-nav > ul {
   overflow: visible;
 }
 
@@ -1033,17 +1074,6 @@ nav.crumbs a:hover { color: var(--green); }
 
 @media (min-width: 1100px) {
   .card-grid.cols-4 { grid-template-columns: repeat(4, 1fr); }
-}
-
-/* Wide desktop: 3-column category grid in dropdown */
-@media (min-width: 1200px) {
-  .nav-dropdown {
-    min-width: min(680px, calc(100vw - 2rem));
-  }
-
-  .site-nav .nav-dropdown-list {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
 }
 
 /* Footer: many categories in a denser list */

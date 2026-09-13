@@ -3,47 +3,36 @@
 
   var toggle = document.querySelector(".nav-toggle");
   var nav = document.getElementById("site-nav");
-  var dropdownToggle = document.querySelector(".nav-dropdown-toggle");
-  var dropdown = document.getElementById("nav-categories");
-  var dropdownItem = dropdownToggle
-    ? dropdownToggle.closest(".has-dropdown")
-    : null;
+  var megaToggle = document.querySelector(".nav-mega-toggle");
+  var mega = document.getElementById("nav-categories");
+  var header = document.querySelector(".site-header");
 
-  function closeDropdown() {
-    if (!dropdownToggle || !dropdown) return;
-    dropdownToggle.setAttribute("aria-expanded", "false");
-    dropdown.hidden = true;
-    dropdown.classList.remove("is-open");
+  function closeMega() {
+    if (!megaToggle || !mega) return;
+    megaToggle.setAttribute("aria-expanded", "false");
+    mega.hidden = true;
+    mega.classList.remove("is-open");
   }
 
-  function openDropdown() {
-    if (!dropdownToggle || !dropdown) return;
-    dropdownToggle.setAttribute("aria-expanded", "true");
-    dropdown.hidden = false;
-    dropdown.classList.add("is-open");
-    positionDropdown();
+  function openMega() {
+    if (!megaToggle || !mega) return;
+    megaToggle.setAttribute("aria-expanded", "true");
+    mega.hidden = false;
+    mega.classList.add("is-open");
   }
 
-  function isDropdownOpen() {
-    return !!(dropdownToggle && dropdownToggle.getAttribute("aria-expanded") === "true");
+  function isMegaOpen() {
+    return !!(megaToggle && megaToggle.getAttribute("aria-expanded") === "true");
   }
 
-  /* Keep the panel on-screen in Chrome (wide multi-col menus near the right edge). */
-  function positionDropdown() {
-    if (!dropdown || !dropdownItem) return;
-    if (window.matchMedia("(max-width: 1023.98px)").matches) {
-      dropdown.style.left = "";
-      dropdown.style.right = "";
-      return;
-    }
-    dropdown.style.left = "0";
-    dropdown.style.right = "auto";
-    var rect = dropdown.getBoundingClientRect();
-    var pad = 16;
-    if (rect.right > window.innerWidth - pad) {
-      dropdown.style.left = "auto";
-      dropdown.style.right = "0";
-    }
+  function closeMobileNav() {
+    if (!toggle || !nav) return;
+    toggle.setAttribute("aria-expanded", "false");
+    nav.classList.remove("is-open");
+  }
+
+  function isMobileNavOpen() {
+    return !!(toggle && toggle.getAttribute("aria-expanded") === "true");
   }
 
   if (toggle && nav) {
@@ -52,28 +41,41 @@
       var open = toggle.getAttribute("aria-expanded") === "true";
       toggle.setAttribute("aria-expanded", open ? "false" : "true");
       nav.classList.toggle("is-open", !open);
-      if (open) closeDropdown();
+      if (open) closeMega();
     });
   }
 
-  if (dropdownToggle && dropdown) {
-    dropdownToggle.addEventListener("click", function (event) {
+  if (megaToggle && mega) {
+    megaToggle.addEventListener("click", function (event) {
       event.preventDefault();
       event.stopPropagation();
-      if (isDropdownOpen()) {
-        closeDropdown();
+      if (isMegaOpen()) {
+        closeMega();
       } else {
-        openDropdown();
+        openMega();
       }
     });
 
-    /* Use pointerdown in capture so Chrome doesn't treat the same gesture oddly with deferred listeners. */
+    mega.addEventListener("click", function (event) {
+      var link = event.target.closest("a");
+      if (link) {
+        closeMega();
+        closeMobileNav();
+      }
+    });
+
     document.addEventListener(
       "pointerdown",
       function (event) {
-        if (!isDropdownOpen()) return;
-        if (dropdownItem && dropdownItem.contains(event.target)) return;
-        closeDropdown();
+        if (!isMegaOpen()) return;
+        if (header && header.contains(event.target)) {
+          /* Clicks on Categories toggle are handled separately; other header
+             chrome (logo, Guides, etc.) should close the mega. */
+          if (megaToggle.contains(event.target) || mega.contains(event.target)) {
+            return;
+          }
+        }
+        closeMega();
       },
       true
     );
@@ -82,25 +84,20 @@
   document.addEventListener("keydown", function (event) {
     if (event.key !== "Escape") return;
 
-    if (isDropdownOpen()) {
-      closeDropdown();
-      if (dropdownToggle) dropdownToggle.focus();
+    if (isMegaOpen()) {
+      closeMega();
+      if (megaToggle) megaToggle.focus();
       return;
     }
 
-    if (toggle && toggle.getAttribute("aria-expanded") === "true") {
-      toggle.setAttribute("aria-expanded", "false");
-      if (nav) nav.classList.remove("is-open");
-      toggle.focus();
+    if (isMobileNavOpen()) {
+      closeMobileNav();
+      if (toggle) toggle.focus();
     }
   });
 
-  window.addEventListener("resize", function () {
-    if (isDropdownOpen()) positionDropdown();
-  });
-
   var path = window.location.pathname.replace(/\/+$/, "") || "/";
-  document.querySelectorAll(".site-nav a[href]").forEach(function (link) {
+  document.querySelectorAll(".site-nav a[href], .nav-mega a[href]").forEach(function (link) {
     var href = link.getAttribute("href");
     if (!href || href === "#") return;
     try {
