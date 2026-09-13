@@ -52,6 +52,10 @@ If Hostinger offers **Deploy as static** when importing the repo, choose that. I
 
 Also deployed from the repo root: `robots.txt`, `sitemap.xml`, `llms.txt`, `ai.txt`.
 
+## Categories
+
+The site uses a **locked set of 22 categories** (exact names in nav, headings, URLs, JSON-LD, `llms.txt`, and `sitemap.xml`): Food & Groceries, Transportation, Housing, Utilities, Kids, Clothing, Personal Care, Travel, Personal Finance, Insurance, Healthcare, Household Items and Supplies, Pets, Subscriptions, Entertainment, Students, Weddings, Events, Education, Technology, Internet, Sports. Slug files live under `guides/` (e.g. `food-groceries.html`, `household-items.html`).
+
 ## Edit later
 
 - Shared look: `css/styles.css`

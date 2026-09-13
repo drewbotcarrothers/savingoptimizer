@@ -926,3 +926,92 @@ nav.crumbs a:hover { color: var(--green); }
   color: #2a2a2a;
   font-size: 0.98rem;
 }
+
+
+/* ---------- Dense category grid (22 items) ---------- */
+.card.card-dense {
+  padding: 1.1rem 1.15rem 1rem;
+}
+
+.card.card-dense h3 {
+  font-size: 1.02rem;
+}
+
+.card.card-dense p {
+  font-size: 0.9rem;
+}
+
+.card.card-dense .icon-pill {
+  width: 36px;
+  height: 36px;
+  margin-bottom: 0.7rem;
+}
+
+.card.card-dense .icon-pill svg {
+  width: 18px;
+  height: 18px;
+}
+
+@media (min-width: 640px) {
+  .card-grid.cols-4 { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 900px) {
+  .card-grid.cols-4 { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (min-width: 1100px) {
+  .card-grid.cols-4 { grid-template-columns: repeat(4, 1fr); }
+}
+
+/* Mobile nav categories: compact scrollable list of 22 */
+.nav-cats ul {
+  max-height: min(42vh, 280px);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.nav-cats a {
+  font-size: 0.8125rem;
+  padding: 0.4rem 0.7rem;
+  min-height: 36px;
+}
+
+/* Desktop: keep top nav as Guides / About / Contact only — hide category strip */
+@media (min-width: 1024px) {
+  .nav-cats {
+    display: none;
+  }
+
+  .header-inner {
+    flex-wrap: nowrap;
+    min-height: var(--header-h);
+    padding-top: 0;
+  }
+}
+
+/* Footer: many categories in a denser list */
+.footer-cats ul {
+  columns: 1;
+  column-gap: 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .footer-grid {
+    grid-template-columns: 1.2fr 2fr 0.8fr;
+  }
+
+  .footer-cats ul {
+    columns: 2;
+  }
+}
+
+@media (min-width: 1024px) {
+  .footer-cats ul {
+    columns: 3;
+  }
+}
+
+.footer-cats li {
+  break-inside: avoid;
+}

@@ -8,7 +8,7 @@ Practical guides for Canadians who want to keep more of what they earn — witho
 
 ## Audience
 
-Middle-aged men and women in Canada saving across everyday life: household, energy, food & groceries, travel, transit, clothes, and tech.
+Middle-aged men and women in Canada saving across everyday life: Food & Groceries, Transportation, Housing, Utilities, Kids, Clothing, Personal Care, Travel, Personal Finance, Insurance, Healthcare, Household Items and Supplies, Pets, Subscriptions, Entertainment, Students, Weddings, Events, Education, Technology, Internet, and Sports.
 
 ## Logo
 
@@ -49,15 +49,30 @@ Hover green for buttons: `#0C643D`. Soft green wash for icon pills and nav hover
 - Speak to busy adults optimizing household spending
 - No lorem ipsum, no US-only circulars, no get-rich-quick
 
-## Content pillars
+## Content categories (locked set)
 
-1. Household
-2. Energy
-3. Food & groceries
-4. Travel
-5. Transit
-6. Clothes
-7. Tech
+1. Food & Groceries
+2. Transportation
+3. Housing
+4. Utilities
+5. Kids
+6. Clothing
+7. Personal Care
+8. Travel
+9. Personal Finance
+10. Insurance
+11. Healthcare
+12. Household Items and Supplies
+13. Pets
+14. Subscriptions
+15. Entertainment
+16. Students
+17. Weddings
+18. Events
+19. Education
+20. Technology
+21. Internet
+22. Sports
 
 ## Website principles
 
