@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact — Saving Optimizer</title>
+  <meta name="description" content="Contact Saving Optimizer at hello@savingoptimizer.com. Suggest a topic or send a correction.">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="index.html">
+        <img src="assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="guides/index.html">Guides</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+        <div class="nav-cats">
+          <p>Categories</p>
+          <ul>
+            <li><a href="guides/household.html">Household</a></li>
+            <li><a href="guides/energy.html">Energy</a></li>
+            <li><a href="guides/groceries.html">Food & groceries</a></li>
+            <li><a href="guides/travel.html">Travel</a></li>
+            <li><a href="guides/transit.html">Transit</a></li>
+            <li><a href="guides/clothes.html">Clothes</a></li>
+            <li><a href="guides/tech.html">Tech</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    <section class="page-intro compact">
+      <div class="wrap">
+        <p class="eyebrow">Contact</p>
+        <h1>Tell us what is leaking.</h1>
+        <p>Questions, corrections, or a topic you want covered in a Canadian context. The form opens your email app — nothing is stored on this site.</p>
+      </div>
+    </section>
+    <section class="section" style="padding-top:0;">
+      <div class="wrap">
+        <form class="form" id="contact-form" action="mailto:hello@savingoptimizer.com" method="post" enctype="text/plain">
+          <div>
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" autocomplete="name" required>
+          </div>
+          <div>
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" autocomplete="email" required>
+          </div>
+          <div>
+            <label for="topic">Topic</label>
+            <select id="topic" name="topic">
+              <option>General</option>
+              <option>Household</option>
+              <option>Energy</option>
+              <option>Food &amp; groceries</option>
+              <option>Travel</option>
+              <option>Transit</option>
+              <option>Clothes</option>
+              <option>Tech</option>
+              <option>Correction or update</option>
+            </select>
+          </div>
+          <div>
+            <label for="message">Message</label>
+            <textarea id="message" name="message" required placeholder="What would you like us to look at?"></textarea>
+          </div>
+          <p class="form-note">Sends to <a href="mailto:hello@savingoptimizer.com">hello@savingoptimizer.com</a> using your own email app. If nothing opens, email us directly.</p>
+          <button class="btn btn-primary" type="submit">Open email draft</button>
+        </form>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Categories</h2>
+        <ul>
+            <li><a href="guides/household.html">Household</a></li>
+            <li><a href="guides/energy.html">Energy</a></li>
+            <li><a href="guides/groceries.html">Food & groceries</a></li>
+            <li><a href="guides/travel.html">Travel</a></li>
+            <li><a href="guides/transit.html">Transit</a></li>
+            <li><a href="guides/clothes.html">Clothes</a></li>
+            <li><a href="guides/tech.html">Tech</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>Site</h2>
+        <ul>
+          <li><a href="guides/index.html">All guides</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="js/main.js" defer></script>
+</body>
+</html>
