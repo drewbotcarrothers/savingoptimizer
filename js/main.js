@@ -9,16 +9,66 @@
       var open = toggle.getAttribute("aria-expanded") === "true";
       toggle.setAttribute("aria-expanded", open ? "false" : "true");
       nav.classList.toggle("is-open", !open);
-    });
-
-    document.addEventListener("keydown", function (event) {
-      if (event.key === "Escape" && toggle.getAttribute("aria-expanded") === "true") {
-        toggle.setAttribute("aria-expanded", "false");
-        nav.classList.remove("is-open");
-        toggle.focus();
+      if (open) {
+        closeDropdown();
       }
     });
   }
+
+  var dropdownToggle = document.querySelector(".nav-dropdown-toggle");
+  var dropdown = document.getElementById("nav-categories");
+  var dropdownItem = dropdownToggle
+    ? dropdownToggle.closest(".has-dropdown")
+    : null;
+
+  function closeDropdown() {
+    if (!dropdownToggle || !dropdown) return;
+    dropdownToggle.setAttribute("aria-expanded", "false");
+    dropdown.hidden = true;
+  }
+
+  function openDropdown() {
+    if (!dropdownToggle || !dropdown) return;
+    dropdownToggle.setAttribute("aria-expanded", "true");
+    dropdown.hidden = false;
+  }
+
+  function isDropdownOpen() {
+    return dropdownToggle && dropdownToggle.getAttribute("aria-expanded") === "true";
+  }
+
+  if (dropdownToggle && dropdown) {
+    dropdownToggle.addEventListener("click", function (event) {
+      event.stopPropagation();
+      if (isDropdownOpen()) {
+        closeDropdown();
+      } else {
+        openDropdown();
+      }
+    });
+
+    document.addEventListener("click", function (event) {
+      if (!isDropdownOpen()) return;
+      if (dropdownItem && dropdownItem.contains(event.target)) return;
+      closeDropdown();
+    });
+  }
+
+  document.addEventListener("keydown", function (event) {
+    if (event.key !== "Escape") return;
+
+    if (isDropdownOpen()) {
+      closeDropdown();
+      if (dropdownToggle) dropdownToggle.focus();
+      return;
+    }
+
+    if (toggle && toggle.getAttribute("aria-expanded") === "true") {
+      toggle.setAttribute("aria-expanded", "false");
+      if (nav) nav.classList.remove("is-open");
+      toggle.focus();
+    }
+  });
 
   var path = window.location.pathname.replace(/\/+$/, "") || "/";
   document.querySelectorAll(".site-nav a[href]").forEach(function (link) {
