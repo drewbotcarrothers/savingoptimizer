@@ -3,18 +3,6 @@
 
   var toggle = document.querySelector(".nav-toggle");
   var nav = document.getElementById("site-nav");
-
-  if (toggle && nav) {
-    toggle.addEventListener("click", function () {
-      var open = toggle.getAttribute("aria-expanded") === "true";
-      toggle.setAttribute("aria-expanded", open ? "false" : "true");
-      nav.classList.toggle("is-open", !open);
-      if (open) {
-        closeDropdown();
-      }
-    });
-  }
-
   var dropdownToggle = document.querySelector(".nav-dropdown-toggle");
   var dropdown = document.getElementById("nav-categories");
   var dropdownItem = dropdownToggle
@@ -25,20 +13,52 @@
     if (!dropdownToggle || !dropdown) return;
     dropdownToggle.setAttribute("aria-expanded", "false");
     dropdown.hidden = true;
+    dropdown.classList.remove("is-open");
   }
 
   function openDropdown() {
     if (!dropdownToggle || !dropdown) return;
     dropdownToggle.setAttribute("aria-expanded", "true");
     dropdown.hidden = false;
+    dropdown.classList.add("is-open");
+    positionDropdown();
   }
 
   function isDropdownOpen() {
-    return dropdownToggle && dropdownToggle.getAttribute("aria-expanded") === "true";
+    return !!(dropdownToggle && dropdownToggle.getAttribute("aria-expanded") === "true");
+  }
+
+  /* Keep the panel on-screen in Chrome (wide multi-col menus near the right edge). */
+  function positionDropdown() {
+    if (!dropdown || !dropdownItem) return;
+    if (window.matchMedia("(max-width: 1023.98px)").matches) {
+      dropdown.style.left = "";
+      dropdown.style.right = "";
+      return;
+    }
+    dropdown.style.left = "0";
+    dropdown.style.right = "auto";
+    var rect = dropdown.getBoundingClientRect();
+    var pad = 16;
+    if (rect.right > window.innerWidth - pad) {
+      dropdown.style.left = "auto";
+      dropdown.style.right = "0";
+    }
+  }
+
+  if (toggle && nav) {
+    toggle.addEventListener("click", function (event) {
+      event.stopPropagation();
+      var open = toggle.getAttribute("aria-expanded") === "true";
+      toggle.setAttribute("aria-expanded", open ? "false" : "true");
+      nav.classList.toggle("is-open", !open);
+      if (open) closeDropdown();
+    });
   }
 
   if (dropdownToggle && dropdown) {
     dropdownToggle.addEventListener("click", function (event) {
+      event.preventDefault();
       event.stopPropagation();
       if (isDropdownOpen()) {
         closeDropdown();
@@ -47,11 +67,16 @@
       }
     });
 
-    document.addEventListener("click", function (event) {
-      if (!isDropdownOpen()) return;
-      if (dropdownItem && dropdownItem.contains(event.target)) return;
-      closeDropdown();
-    });
+    /* Use pointerdown in capture so Chrome doesn't treat the same gesture oddly with deferred listeners. */
+    document.addEventListener(
+      "pointerdown",
+      function (event) {
+        if (!isDropdownOpen()) return;
+        if (dropdownItem && dropdownItem.contains(event.target)) return;
+        closeDropdown();
+      },
+      true
+    );
   }
 
   document.addEventListener("keydown", function (event) {
@@ -68,6 +93,10 @@
       if (nav) nav.classList.remove("is-open");
       toggle.focus();
     }
+  });
+
+  window.addEventListener("resize", function () {
+    if (isDropdownOpen()) positionDropdown();
   });
 
   var path = window.location.pathname.replace(/\/+$/, "") || "/";

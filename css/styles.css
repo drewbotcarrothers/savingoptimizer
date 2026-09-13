@@ -88,7 +88,8 @@ a:hover {
 .site-header {
   position: sticky;
   top: 0;
-  z-index: 40;
+  z-index: 100;
+  overflow: visible;
   background: rgba(255, 255, 255, 0.96);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border);
@@ -232,8 +233,13 @@ a:hover {
   margin-left: 0.35rem;
 }
 
-.nav-dropdown[hidden] {
-  display: none;
+.nav-dropdown[hidden],
+.nav-dropdown:not(.is-open) {
+  display: none !important;
+}
+
+.nav-dropdown.is-open {
+  display: block;
 }
 
 .site-nav .nav-dropdown-list {
@@ -340,7 +346,7 @@ a:hover {
     top: calc(100% + 0.35rem);
     left: 0;
     transform: none;
-    z-index: 50;
+    z-index: 200;
     min-width: min(520px, calc(100vw - 2rem));
     max-width: min(640px, calc(100vw - 2rem));
     max-height: min(70vh, 420px);
@@ -859,8 +865,20 @@ textarea:focus {
 }
 
 /* ---------- Responsive harden ---------- */
-html, body {
-  overflow-x: hidden;
+/* Avoid overflow-x:hidden on html/body — Chrome clips sticky-header dropdowns.
+   Contain horizontal spill on the main content instead. */
+html {
+  overflow-x: clip;
+}
+body {
+  overflow-x: clip;
+}
+.site-header,
+.header-inner,
+.site-nav,
+.site-nav > ul,
+.nav-item.has-dropdown {
+  overflow: visible;
 }
 
 @media (max-width: 639.98px) {
