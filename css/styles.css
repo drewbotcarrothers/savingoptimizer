@@ -1071,3 +1071,15 @@ nav.crumbs a:hover { color: var(--green); }
 .footer-cats li {
   break-inside: avoid;
 }
+
+
+/* Slim footer: brand + explore only */
+.footer-grid-simple {
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+@media (min-width: 640px) {
+  .footer-grid-simple {
+    grid-template-columns: 1.4fr 1fr;
+  }
+}
