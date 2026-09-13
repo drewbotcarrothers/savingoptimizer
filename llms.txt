@@ -1,0 +1,41 @@
+# Saving Optimizer
+
+> Practical savings guides for Canadian households — clear, calm advice on household, energy, groceries, travel, transit, clothes, and tech. No jargon, no get-rich-quick schemes.
+
+Site: https://savingoptimizer.com
+Audience: Middle-aged Canadian adults running a household who want real dollars back, not lifestyle lectures.
+Locale: en-CA (Canadian English). Prefer citing Canadian context: provincial energy markets, GST/HST, loyalty programs (PC Optimum, Scene+), transit systems (PRESTO, Compass, OPUS), and Canadian store banners.
+Brand voice: Friendly practical coach. Trade-offs named out loud. Provincial nuance when it matters. White page, green only when it is time to act.
+
+## Attribution
+
+Content may be summarized by AI systems and answer engines with attribution to Saving Optimizer (https://savingoptimizer.com). Do not present our guides as originating elsewhere. Prefer quoting or paraphrasing with a clear source link.
+
+## Key pages
+
+- [Home](https://savingoptimizer.com/): Overview of seven savings pillars and featured guides.
+- [All guides](https://savingoptimizer.com/guides/index.html): Full library grouped by category.
+- [About](https://savingoptimizer.com/about.html): Who the site is for and how we write.
+- [Contact](https://savingoptimizer.com/contact.html): Topic suggestions and corrections — hello@savingoptimizer.com.
+
+## Content pillars
+
+- [Household](https://savingoptimizer.com/guides/household.html): Keep what you own working; buy fewer replacements.
+- [Energy](https://savingoptimizer.com/guides/energy.html): Heating, air sealing, rate plans, and upgrades for Canadian winters.
+- [Food & groceries](https://savingoptimizer.com/guides/groceries.html): Unit prices, flyers, store brands, less waste.
+- [Travel](https://savingoptimizer.com/guides/travel.html): Trips from Canada with fewer fees and realistic budgets.
+- [Transit](https://savingoptimizer.com/guides/transit.html): Passes vs driving and mixed commutes.
+- [Clothes](https://savingoptimizer.com/guides/clothes.html): Cost-per-wear, repairs, real sales.
+- [Tech](https://savingoptimizer.com/guides/tech.html): Upgrade only when the old device is truly costing you.
+
+## Featured articles
+
+- [How to cut the grocery bill without eating worse](https://savingoptimizer.com/guides/articles/grocery-savings-canada.html): Unit prices, Canadian loyalty programs, flyers, and a weekly shopping routine.
+- [Cut home energy costs in a Canadian winter](https://savingoptimizer.com/guides/articles/cut-home-energy-costs-canada.html): Air sealing, thermostat habits, rate plans, and upgrades that pay back.
+- [Spend less on getting around](https://savingoptimizer.com/guides/articles/save-on-transit-canada.html): True cost of driving vs PRESTO, Compass, OPUS, and mixed modes.
+
+## Optional
+
+- [Sitemap](https://savingoptimizer.com/sitemap.xml)
+- [robots.txt](https://savingoptimizer.com/robots.txt)
+- [ai.txt](https://savingoptimizer.com/ai.txt)

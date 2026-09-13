@@ -163,8 +163,10 @@ a:hover {
 }
 
 .site-nav a {
-  display: block;
-  padding: 0.65rem 0.4rem;
+  display: flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.75rem 0.5rem;
   color: var(--near-black);
   text-decoration: none;
   font-weight: 500;
@@ -199,13 +201,51 @@ a:hover {
 }
 
 .nav-cats a {
-  padding: 0.35rem 0.65rem;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.55rem 0.85rem;
   font-size: 0.875rem;
   background: var(--soft-grey);
   color: var(--near-black);
 }
 
-@media (min-width: 900px) {
+/* Tablet: keep hamburger; tighten logo and nav spacing so header doesn't break */
+@media (min-width: 640px) and (max-width: 1023.98px) {
+  .logo img {
+    height: 40px;
+    max-width: min(240px, 55vw);
+  }
+
+  .header-inner {
+    gap: 0.75rem;
+  }
+
+  .site-nav a {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    padding: 0.75rem 0.65rem;
+  }
+
+  .nav-cats a {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    padding: 0.55rem 0.85rem;
+  }
+
+  .hero {
+    padding: 2.5rem 0 3rem;
+  }
+
+  .section {
+    padding: 2.75rem 0;
+  }
+}
+
+/* Desktop nav (≥1024): full horizontal nav */
+@media (min-width: 1024px) {
   .nav-toggle { display: none; }
 
   .header-inner {
@@ -237,7 +277,10 @@ a:hover {
   }
 
   .site-nav a {
-    padding: 0.45rem 0.7rem;
+    padding: 0.5rem 0.75rem;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
   }
 
   .nav-cats {
@@ -251,12 +294,15 @@ a:hover {
 
   .nav-cats ul {
     flex-wrap: wrap;
-    gap: 0.15rem;
+    gap: 0.2rem;
   }
 
   .nav-cats a {
     background: transparent;
-    padding: 0.3rem 0.55rem;
+    padding: 0.4rem 0.65rem;
+    min-height: 40px;
+    display: inline-flex;
+    align-items: center;
     color: var(--mid-grey);
     font-weight: 500;
   }
@@ -399,12 +445,13 @@ main { flex: 1; }
   gap: 1.15rem;
 }
 
+/* Tablet: 2 columns; Desktop (>1024): 3–4 columns */
 @media (min-width: 640px) {
   .card-grid.cols-2,
   .card-grid.cols-3 { grid-template-columns: repeat(2, 1fr); }
 }
 
-@media (min-width: 960px) {
+@media (min-width: 1024px) {
   .card-grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
   .card-grid.cols-4 { grid-template-columns: repeat(4, 1fr); }
 }
@@ -626,7 +673,7 @@ textarea:focus {
   gap: 2rem;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1024px) {
   .split {
     grid-template-columns: 1.2fr 0.8fr;
     gap: 3rem;
@@ -669,7 +716,7 @@ textarea:focus {
   gap: 2rem;
 }
 
-@media (min-width: 720px) {
+@media (min-width: 640px) {
   .footer-grid {
     grid-template-columns: 1.4fr 1fr 1fr;
   }
@@ -756,4 +803,126 @@ textarea:focus {
   width: auto;
   max-width: min(320px, 86vw);
   margin: 0 0 1.35rem;
+}
+
+/* ---------- Responsive harden ---------- */
+html, body {
+  overflow-x: hidden;
+}
+
+@media (max-width: 639.98px) {
+  body {
+    font-size: 1rem;
+  }
+
+  .logo img {
+    height: 36px;
+    max-width: min(200px, 62vw);
+  }
+
+  .hero {
+    padding: 2rem 0 2.5rem;
+  }
+
+  .hero-logo {
+    height: 44px;
+    max-width: min(260px, 82vw);
+  }
+
+  .wrap {
+    width: min(var(--max), calc(100% - 1.5rem));
+  }
+
+  .article-wrap {
+    width: min(720px, calc(100% - 1.5rem));
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .btn-row .btn {
+    width: auto;
+    flex: 1 1 auto;
+  }
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 0 0 1.1rem;
+}
+
+.prose th,
+.prose td {
+  padding: 0.55rem 0.75rem;
+  border: 1px solid var(--border);
+  text-align: left;
+  min-width: 6rem;
+}
+
+/* Breadcrumb landmark */
+nav.crumbs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
+  font-size: 0.875rem;
+  color: var(--mid-grey);
+  margin-bottom: 1.25rem;
+}
+
+nav.crumbs ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
+}
+
+nav.crumbs li {
+  display: inline;
+}
+
+nav.crumbs li + li::before {
+  content: "/";
+  margin-right: 0.5rem;
+  color: var(--mid-grey);
+}
+
+nav.crumbs a {
+  color: var(--mid-grey);
+  text-decoration: none;
+}
+
+nav.crumbs a:hover { color: var(--green); }
+
+/* ---------- FAQ (AIO / snippets) ---------- */
+.faq-list {
+  display: grid;
+  gap: 1rem;
+  max-width: 46rem;
+}
+
+.faq-item {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.15rem 1.25rem;
+}
+
+.faq-item h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.05rem;
+  letter-spacing: -0.015em;
+  line-height: 1.35;
+}
+
+.faq-item p {
+  margin: 0;
+  color: #2a2a2a;
+  font-size: 0.98rem;
 }
