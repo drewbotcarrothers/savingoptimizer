@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Why No Frills Wont Be Beat requests get refused</title>
+  <desc id="desc">Horizontal bars ranking common refusal reasons: loyalty-only prices, spend-X deals, wrong competitor, size mismatch, quantity over four.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What cashiers commonly refuse (not a store ranking)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative mix from public policy language + community reports. Check your stores competitor list.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <text x="24" y="102" font-size="13" fill="#1A1A1A">Loyalty / member-only price</text>
+    <rect x="280" y="84" width="360" height="26" rx="6" fill="#0F7A4B"/>
+    <text x="650" y="102" font-size="12" font-weight="700" fill="#0F7A4B">Most common</text>
+    <text x="24" y="148" font-size="13" fill="#1A1A1A">Spend-X-get-X / free</text>
+    <rect x="280" y="130" width="300" height="26" rx="6" fill="#0C643D"/>
+    <text x="24" y="194" font-size="13" fill="#1A1A1A">Wrong size, flavour, or UPC</text>
+    <rect x="280" y="176" width="250" height="26" rx="6" fill="#4B9B74"/>
+    <text x="24" y="240" font-size="13" fill="#1A1A1A">Competitor not on local list</text>
+    <rect x="280" y="222" width="210" height="26" rx="6" fill="#6B7280"/>
+    <text x="24" y="286" font-size="13" fill="#1A1A1A">Over 4 units / third-party counter</text>
+    <rect x="280" y="268" width="170" height="26" rx="6" fill="#9CA3AF"/>
+  </g>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Fix: match identical national-brand flyer ads from a listed competitor, d4 units, full screenshot.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: No Frills Wont Be Beat legal copy (reviewed 16 Sep 2026). Bars are teaching weights, not a survey.</text>
+</svg>
