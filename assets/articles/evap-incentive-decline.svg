@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">EVAP federal incentive amounts decline from 2026 to 2031</title>
+  <desc id="desc">Bar chart of Transport Canada EVAP incentives: battery-electric and fuel-cell vehicles fall from $5,000 in 2026 to $2,000 in 2030-31; plug-in hybrids fall from $2,500 to $1,000.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">EVAP amounts fall after 2026 - the assessment date locks the year</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Transport Canada EVAP overview. Amount is based on when the dealer submits the eligibility assessment, not delivery day.</text>
+  <line x1="80" y1="90" x2="80" y2="300" stroke="#E5E7EB"/>
+  <line x1="80" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
+  <text x="72" y="304" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="72" y="247" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$2k</text>
+  <text x="72" y="190" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$4k</text>
+  <text x="72" y="133" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$6k</text>
+  <!-- scale $6000=210px; grouped years 2026 2027 2028 2029 2030-31 -->
+  <!-- 2026 BEV 5000=175 y=125; PHEV 2500=88 y=212 -->
+  <rect x="100" y="125" width="36" height="175" rx="4" fill="#0F7A4B"/>
+  <rect x="140" y="212" width="36" height="88" rx="4" fill="#4B9B74"/>
+  <text x="138" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2026</text>
+  <!-- 2027 4000=140 y=160; 2000=70 y=230 -->
+  <rect x="210" y="160" width="36" height="140" rx="4" fill="#0F7A4B"/>
+  <rect x="250" y="230" width="36" height="70" rx="4" fill="#4B9B74"/>
+  <text x="248" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2027</text>
+  <!-- 2028 3000=105 y=195; 1500=53 y=247 -->
+  <rect x="320" y="195" width="36" height="105" rx="4" fill="#0F7A4B"/>
+  <rect x="360" y="247" width="36" height="53" rx="4" fill="#4B9B74"/>
+  <text x="358" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2028</text>
+  <!-- 2029 same -->
+  <rect x="430" y="195" width="36" height="105" rx="4" fill="#0F7A4B"/>
+  <rect x="470" y="247" width="36" height="53" rx="4" fill="#4B9B74"/>
+  <text x="468" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2029</text>
+  <!-- 2030-31 2000=70 y=230; 1000=35 y=265 -->
+  <rect x="540" y="230" width="36" height="70" rx="4" fill="#0F7A4B"/>
+  <rect x="580" y="265" width="36" height="35" rx="4" fill="#4B9B74"/>
+  <text x="578" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2030-31</text>
+  <rect x="100" y="348" width="14" height="14" rx="3" fill="#0F7A4B"/>
+  <text x="120" y="360" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">BEV / FCEV (up to $5,000 ' $2,000)</text>
+  <rect x="400" y="348" width="14" height="14" rx="3" fill="#4B9B74"/>
+  <text x="420" y="360" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PHEV (up to $2,500 ' $1,000)</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Program window: 16 Feb 2026-31 Mar 2031, or until the $2.275B envelope is used. Remaining funds $2.131B as of 1 Jun 2026 (Transport Canada). Confirm before you shop.</text>
+</svg>

@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GO Transit PRESTO monthly vs PAYG math — Saving Optimizer</title>
+  <meta name="description" content="How GO fare-by-distance and the PRESTO loyalty ladder work in 2026: 15.7% / 88.3% / free after 40 trips. Why hybrid office weeks overpay, One Fare with TTC, and tap-on/tap-off mistakes.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/go-transit-presto-monthly-vs-payg.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="GO Transit PRESTO monthly vs PAYG math — Saving Optimizer">
+  <meta property="og:description" content="How GO fare-by-distance and the PRESTO loyalty ladder work in 2026: 15.7% / 88.3% / free after 40 trips. Why hybrid office weeks overpay, One Fare with TTC, and tap-on/tap-off mistakes.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/go-transit-presto-monthly-vs-payg.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="GO Transit PRESTO monthly vs PAYG math — Saving Optimizer">
+  <meta name="twitter:description" content="How GO fare-by-distance and the PRESTO loyalty ladder work in 2026: 15.7% / 88.3% / free after 40 trips. Why hybrid office weeks overpay, One Fare with TTC, and tap-on/tap-off mistakes.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Transportation">
+  <meta name="article:published_time" content="2026-09-16">
+  <meta name="article:modified_time" content="2026-09-16">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "How to stop overpaying on GO Transit: PRESTO monthly vs PAYG math for GTA commuters",
+    "description": "How GO fare-by-distance and the PRESTO loyalty ladder work in 2026: 15.7% / 88.3% / free after 40 trips. Why hybrid office weeks overpay, One Fare with TTC, and tap-on/tap-off mistakes.",
+    "datePublished": "2026-09-16",
+    "dateModified": "2026-09-16",
+    "inLanguage": "en-CA",
+    "author": {
+      "@type": "Organization",
+      "name": "Saving Optimizer",
+      "url": "https://savingoptimizer.com/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Saving Optimizer",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://savingoptimizer.com/assets/logo-primary.png"
+      },
+      "url": "https://savingoptimizer.com/"
+    },
+    "image": "https://savingoptimizer.com/assets/logo-primary.png",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://savingoptimizer.com/guides/articles/go-transit-presto-monthly-vs-payg.html"
+    },
+    "url": "https://savingoptimizer.com/guides/articles/go-transit-presto-monthly-vs-payg.html",
+    "articleSection": "Transportation",
+    "about": {
+      "@type": "Thing",
+      "name": "Canadian transportation savings",
+      "description": "Practical Transportation savings advice for Canadian households."
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://savingoptimizer.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Guides",
+        "item": "https://savingoptimizer.com/guides/index.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Transportation",
+        "item": "https://savingoptimizer.com/guides/transportation.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "How to stop overpaying on GO Transit: PRESTO monthly vs PAYG math for GTA commuters",
+        "item": "https://savingoptimizer.com/guides/articles/go-transit-presto-monthly-vs-payg.html"
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Does GO still sell an adult monthly pass?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Adult GO travel on PRESTO is priced as pay-as-you-go with a loyalty ladder: 15.7% off trips 1–35, 88.3% off 36–40, then free for the rest of the calendar month if you use the same payment method. That ladder is the 2026 ‘monthly.’ Paper and e-tickets miss it. Confirm any remaining pass products on GO’s trip planner."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a typical Oakville–Union PRESTO fare?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "GO’s student-savings table (reviewed 16 Sep 2026) shows Oakville–Union standard $9.70 and adult PRESTO $8.16. Your pair will differ — fares are by distance. Always check the trip planner."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do TTC transfers count toward GO loyalty?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. GO trip counts are GO trips. Ontario’s One Fare program can make TTC–GO transfers free when you tap the same PRESTO or contactless card, but it does not mix the two loyalty/capping systems."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What if I forget to tap off?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "GO can charge a missed tap-off or underpayment, often at the start of your next GO trip. Default trip in the PRESTO app (for a regular pair) reduces the risk. Contactless debit/credit also needs tap on and tap off."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should a 3-day hybrid worker ‘get a monthly’?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Usually no. Three office days is about 26 one-way trips — still on the 15.7% tier, never near trip 41. Paying as if you were a five-day commuter is the overpay this guide exists to stop."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../transportation.html">Transportation</a></li>
+      <li aria-current="page">How to stop overpaying on GO Transit: PRESTO monthly vs PAYG math for GTA commuters</li>
+    </ol>
+    </nav>
+    <p class="kicker">Transportation · Canada</p>
+    <h1>How to stop overpaying on GO Transit: PRESTO monthly vs PAYG math for GTA commuters</h1>
+    <p class="article-meta">The loyalty ladder is the monthly · About 16 minutes · 16 Sep 2026</p>
+    
+    <div class="prose">
+
+      <p>Five-day GO habits died slower than five-day offices. People still talk about “the monthly” as if Metrolinx will invoice a calendar stamp. In 2026, adult GO on PRESTO is <strong>fare-by-distance PAYG</strong> with a <strong>loyalty ladder</strong> that becomes free after 40 trips — if you tap the same method all month. Hybrid workers who ride 8–12 days and think in old monthly-pass units overpay. Paper tickets overpay more.</p>
+      <p>This is GTHA math: GO + PRESTO + Ontario One Fare + TTC’s separate 47-trip cap. Read <a href="ttc-fare-capping-vs-presto-pass-2026.html">TTC capping</a> so you do not merge two counters in your head. For whether the car in the GO lot is the real leak, use <a href="cost-of-owning-a-car-canada-2026.html">ownership TCO</a>.</p>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>GO fares are distance-based. Adult PRESTO (and eligible contactless) takes about <strong>15.7% off</strong> the standard fare on early trips.</li>
+          <li>Same payment method, calendar month: trips <strong>1–35 at 15.7% off</strong>, <strong>36–40 at 88.3% off</strong>, <strong>41+ free</strong>. Mixed trip values after 35 use the average of what you already rode.</li>
+          <li>Labelled Oakville–Union: standard $9.70, PRESTO <strong>$8.16</strong> (GO student-savings table, reviewed 16 Sep 2026). Five office days ≈ $290; three days ≈ $212; two days ≈ $147.</li>
+          <li>One Fare can zero the local transfer to TTC/MiWay/Brampton/YRT/Durham when you use the same card. It does not feed TTC’s 47-trip cap on free arrivals.</li>
+          <li>Missed tap-offs, mixing PRESTO plastic with a credit card, and defaulting to e-tickets are how people donate to Metrolinx.</li>
+        </ul>
+      </div>
+
+      <h2>How GO fare-by-distance works with PRESTO</h2>
+      <p>You pay for the pair of stations (or bus points), not a flat city fare. Kids 12 and under ride free. Youth and post-secondary save <strong>40%</strong> off standard on PRESTO (GO’s student page); seniors save <strong>55%</strong>. Adult PRESTO is the 15%+ column most commuters live in.</p>
+      <p>You can tap a physical PRESTO card, PRESTO in a mobile wallet, or a credit/debit card (including in a wallet) for the adult PRESTO-priced fare. E-tickets and paper tickets are valid but are <strong>not</strong> the loyalty ladder and e-tickets are not eligible for One Fare (GO’s own note). Use them for guests, not for your commute identity.</p>
+      <p>PRESTO’s April 2026 “instant load” transformation matters on the practical side: autoload and app top-ups are immediate. Since 2 Mar 2026, tapping off GO with too little stored value can put the card negative and block <em>all</em> PRESTO travel until you reload. Autoload is cheaper than a missed train plus a paper ticket.</p>
+
+      <h2>Monthly pass vs accumulated PAYG for hybrid office weeks</h2>
+      <p>There is no separate adult “buy March now” pass in the old TTC sense for most PRESTO riders. The monthly product <em>is</em> the ladder. If you still see GO group weekday or $10 weekend pass products, those are event tools, not a hybrid-office plan.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Adult GO loyalty (GO PRESTO page, reviewed 16 Sep 2026). Same form of payment all month — you cannot mix PRESTO card, Google Wallet PRESTO, credit, and debit into one count.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Trips this calendar month</th>
+              <th scope="col">Adult discount vs standard</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1–35</th>
+              <td>15.7% off</td>
+            </tr>
+            <tr>
+              <th scope="row">36–40</th>
+              <td>88.3% off</td>
+            </tr>
+            <tr>
+              <th scope="row">41+</th>
+              <td>100% off (free)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>If every ride is the same pair, the math is clean. If you mix Oakville–Union with a weekend Niagara trip, trips 36+ use the <strong>value of trips already taken</strong> that month — still a discount, not a surprise full fare, but not a simple $8.16 either.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/go-presto-hybrid-weeks.svg" width="720" height="420" alt="Bar chart of labelled Oakville–Union adult PRESTO monthly cost for 2-day, 3-day, and 5-day office weeks.">
+        <figcaption>Oakville–Union at $8.16 PRESTO. Paper at $9.70 × 44 ≈ $427 for a five-day month. Hybrid riders never reach the free tier — and should not pretend they will.</figcaption>
+      </figure>
+
+      <h2>Two-hour transfer and co-fare rules with local agencies</h2>
+      <p>Ontario’s One Fare program: tap the <strong>same</strong> PRESTO or contactless card when connecting between GO and TTC, MiWay, Brampton Transit, York Region Transit, or Durham Region Transit. GO’s Show Up and GO copy: free TTC connection when you keep the same card on and off. TTC’s regional page: if the trip starts on TTC, that paid TTC fare counts toward TTC capping; if you arrive from GO for free, that TTC leg does <strong>not</strong> count toward 47.</p>
+      <p>TTC two-hour transfer and GO’s own transfer window are not the same clock. Do not assume a three-hour shop downtown is still “on the GO fare.” When in doubt, tap and read the reader screen — April 2026 PRESTO devices can show fare and remaining free-transfer time on contactless.</p>
+      <p>Passes that remain on TTC (Adult 12-Month, post-secondary monthly) do not add a GO discount. One Fare is a PAYG/contactless feature.</p>
+
+      <h2>Peak vs off-peak trip planning to cut trips, not just fares</h2>
+      <p>The ladder discounts trips; it does not care if they were peak. Saving a trip — one WFH day, a carpool, a bike to a closer station — is a whole $8.16 (or your pair) that never happens. Off-peak can still matter for crowding and for whether you needed the car that morning, but it will not change the 15.7% column.</p>
+      <p>If you are at 34 trips with a week left, two more office days (four trips) put you onto 88.3% off and toward free rides. That is the only time “maybe I should go in Thursday” is loyalty math. If you are at 22 trips, going in for the ladder is lighting money on fire.</p>
+
+      <h2>Loyalty and corporate programs worth checking</h2>
+      <ul>
+        <li>Set fare type correctly (youth, post-secondary, senior) — a wrong adult setting is a silent 40% or 55% donation.</li>
+        <li>Employer transit benefits or corporate PRESTO: ask HR. A prepaid load is worth more than a slogan.</li>
+        <li>Default trip in the PRESTO app for your regular pair: tap on only, fewer missed tap-offs (GO documents this for some inner stations and generally for regular commutes).</li>
+        <li>Register the card for balance protection. Instant transfer if lost (April 2026 PRESTO features include lock/unlock and card-to-card transfers in-account).</li>
+      </ul>
+
+      <h2>Sample calendars: 2-, 3-, and 5-day office weeks</h2>
+      <p>Assumptions (labelled): Oakville–Union adult PRESTO $8.16; ~4.3 weeks; two trips per office day; no weekend GO. Your fare will differ — scale linearly with your PRESTO single-ride.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>One-way trips ≈ office days × 2 × 4.3, rounded to a realistic month.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Office days / week</th>
+              <th scope="col">Trips / month</th>
+              <th scope="col">Ladder tier</th>
+              <th scope="col">PRESTO $ (Oakville–Union)</th>
+              <th scope="col">Paper $9.70</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">2</th>
+              <td>~18</td>
+              <td>15.7% only</td>
+              <td>18 × $8.16 ≈ <strong>$147</strong></td>
+              <td>≈ $175</td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td>~26</td>
+              <td>15.7% only</td>
+              <td>26 × $8.16 ≈ <strong>$212</strong></td>
+              <td>≈ $252</td>
+            </tr>
+            <tr>
+              <th scope="row">4</th>
+              <td>~35</td>
+              <td>Just at the 35 wall</td>
+              <td>35 × $8.16 ≈ <strong>$286</strong></td>
+              <td>≈ $340</td>
+            </tr>
+            <tr>
+              <th scope="row">5</th>
+              <td>~44</td>
+              <td>Hits 88.3% then free</td>
+              <td>35 × $8.16 + 5 × ~$0.95 + 4 free ≈ <strong>$290</strong></td>
+              <td>44 × $9.70 ≈ $427</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Read the 4-day vs 5-day rows twice. The fifth office day barely costs anything once you have 35 trips — the expensive mistake is living at 3 days while mentally budgeting a 5-day “monthly.” There is no prepay to recover; you already pay PAYG. Just stop imagining a pass you did not buy.</p>
+      <p>Longer distances (Oshawa, Allandale, Kitchener) scale the same percentages on a higher base — the 3-day vs 5-day gap in dollars gets wider. Check the planner once, then multiply.</p>
+
+      <h2>Common PRESTO tap-on/tap-off mistakes that inflate fares</h2>
+      <ul>
+        <li><strong>No tap off.</strong> GO charges a missed tap-off / underpayment, often on the next trip. Default trip helps on a fixed commute; it hurts if you actually got off early without clearing it.</li>
+        <li><strong>Two methods.</strong> PRESTO card in the morning, Visa in the afternoon: two 15.7% counters, no 41-trip gift.</li>
+        <li><strong>Physical card vs wallet of the same card.</strong> Same trap as TTC capping.</li>
+        <li><strong>E-ticket “just today.”</strong> No One Fare, no ladder credit.</li>
+        <li><strong>Wrong fare type</strong> still set to adult after you got a student code.</li>
+        <li><strong>Assuming TTC taps are GO taps.</strong> They are not. A month of TTC+GO can cap TTC and still leave GO at trip 20.</li>
+        <li><strong>Negative balance lockout</strong> after a tap off you could not afford — reload in the app before you stack paper tickets.</li>
+      </ul>
+      <ol class="howto-steps">
+        <li>Open GO’s trip planner. Write your adult PRESTO single-ride.</li>
+        <li>Count last month’s office days × 2. Place that number on the ladder.</li>
+        <li>Pick one payment method. Turn on autoload. Set default trip only if the pair is truly default.</li>
+        <li>Tap on and off like it is a time clock. One missed off is a full-fare donation.</li>
+        <li>If you are under ~30 trips, ignore free-ride folklore. If you are at 36+, keep using the same card through month-end.</li>
+      </ol>
+      <p>GO is expensive when it is a poorly counted habit and reasonable when it replaces a parking stall plus insurance. Count trips. Cap is a ladder, not a vibe.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>GO Transit, Paying with PRESTO — adult ladder 15.7% / 88.3% / 100%; same-payment rule; April 2026 PRESTO transformation; March 2026 overdraft note. Reviewed 16 Sep 2026.</li>
+          <li>GO Transit, Student savings — Oakville/Union $9.70 standard, $8.16 PRESTO, $5.82 youth/post-secondary example; student ladder 40% / 95% / free.</li>
+          <li>GO Transit, Fare information and Show Up and GO — distance fares, One Fare with TTC, inner-station PRESTO amounts as examples of distance pricing.</li>
+          <li>TTC, Regional travel and One Fare — separate caps; free GO→TTC does not count toward TTC 47.</li>
+        </ul>
+      </div>
+
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Does GO still sell an adult monthly pass?</h3>
+          <p>Adult GO travel on PRESTO is priced as pay-as-you-go with a loyalty ladder: 15.7% off trips 1–35, 88.3% off 36–40, then free for the rest of the calendar month if you use the same payment method. That ladder is the 2026 ‘monthly.’ Paper and e-tickets miss it. Confirm any remaining pass products on GO’s trip planner.</p>
+        </div>
+        <div class="faq-item">
+          <h3>What is a typical Oakville–Union PRESTO fare?</h3>
+          <p>GO’s student-savings table (reviewed 16 Sep 2026) shows Oakville–Union standard $9.70 and adult PRESTO $8.16. Your pair will differ — fares are by distance. Always check the trip planner.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Do TTC transfers count toward GO loyalty?</h3>
+          <p>No. GO trip counts are GO trips. Ontario’s One Fare program can make TTC–GO transfers free when you tap the same PRESTO or contactless card, but it does not mix the two loyalty/capping systems.</p>
+        </div>
+        <div class="faq-item">
+          <h3>What if I forget to tap off?</h3>
+          <p>GO can charge a missed tap-off or underpayment, often at the start of your next GO trip. Default trip in the PRESTO app (for a regular pair) reduces the risk. Contactless debit/credit also needs tap on and tap off.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Should a 3-day hybrid worker ‘get a monthly’?</h3>
+          <p>Usually no. Three office days is about 26 one-way trips — still on the 15.7% tier, never near trip 41. Paying as if you were a five-day commuter is the overpay this guide exists to stop.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="ttc-fare-capping-vs-presto-pass-2026.html">TTC fare capping vs 12-Month<span>47 TTC trips are a different counter.</span></a></li>
+        <li><a href="save-on-transit-canada.html">Spend less on getting around<span>Put GO on the same page as driving.</span></a></li>
+        <li><a href="cost-of-owning-a-car-canada-2026.html">Real cost of owning a car<span>Parking at GO plus a car is two bills.</span></a></li>
+        <li><a href="communauto-vs-zipcar-vs-owning-car-canada.html">Car-share vs owning<span>Weekend car without a five-day GO habit.</span></a></li>
+        <li><a href="../transportation.html">Transportation hub<span>Wave 1 transit, gas, EV, insurance.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../transportation.html">More Transportation guides</a>
+      <a class="btn btn-ghost" href="ttc-fare-capping-vs-presto-pass-2026.html">Next: TTC fare capping vs 12-Month</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

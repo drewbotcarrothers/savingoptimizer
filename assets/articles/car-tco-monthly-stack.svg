@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ratehub 2026 average monthly car ownership stack</title>
+  <desc id="desc">Stacked bar of $1,373 monthly: principal $522, interest $192, parking $200, insurance $164, gas $165, maintenance $120, admin $10.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Average cash cost $1,373/month - gas is not the bill</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ratehub TCO, updated 29 Apr 2026. Principal + interest = $714 before the car moves. Parking $200 is a city assumption, not a rural one.</text>
+  <!-- stacked bar total 1373 = 280px height -->
+  <rect x="80" y="80" width="200" height="106" rx="0" fill="#1A1A1A"/>
+  <rect x="80" y="80" width="200" height="8" rx="8" fill="#1A1A1A"/>
+  <text x="180" y="140" text-anchor="middle" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Principal $522</text>
+  <rect x="80" y="186" width="200" height="39" fill="#6B7280"/>
+  <text x="180" y="211" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Interest $192</text>
+  <rect x="80" y="225" width="200" height="41" fill="#9CA3AF"/>
+  <text x="180" y="251" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Parking $200</text>
+  <rect x="80" y="266" width="200" height="33" fill="#4B9B74"/>
+  <text x="180" y="288" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Insurance $164</text>
+  <rect x="80" y="299" width="200" height="34" fill="#0F7A4B"/>
+  <text x="180" y="321" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Gas $165</text>
+  <rect x="80" y="333" width="200" height="24" fill="#E7F4EE"/>
+  <text x="180" y="350" text-anchor="middle" font-size="11" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Maint. $120</text>
+  <rect x="80" y="357" width="200" height="8" rx="4" fill="#F3F4F6"/>
+  <text x="300" y="100" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">What to put on your own dashboard</text>
+  <text x="300" y="128" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">1. Loan or lease (or $0 if paid off)</text>
+  <text x="300" y="152" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">2. Insurance - your postal code, not $164</text>
+  <text x="300" y="176" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">3. Parking: street, condo, workplace</text>
+  <text x="300" y="200" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4. Fuel or kWh + a maintenance reserve</text>
+  <text x="300" y="224" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">5. Registration / inspection (provincial)</text>
+  <text x="300" y="248" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">6. Depreciation if you might sell</text>
+  <text x="300" y="280" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Paid-off compact sketch: drop $714 ' ~$659</text>
+  <text x="300" y="304" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">+ your real parking. That is the number car-share</text>
+  <text x="300" y="328" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">and a transit pass have to beat - not the gas pump.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ratehub also noted ~$231/month fuel if using mid-April 2026 national pump prices during the temporary federal excise pause. Use your last three statements, not the average.</text>
+</svg>

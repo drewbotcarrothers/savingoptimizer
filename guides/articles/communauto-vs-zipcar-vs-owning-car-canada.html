@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Communauto vs Zipcar vs owning a car in Canada — Saving Optimizer</title>
+  <meta name="description" content="Break-even math for Canadian city drivers: Communauto and Zipcar rates (gas, insurance, parking included) versus Ratehub ownership TCO. Toronto, Montréal, and the second-car test.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/communauto-vs-zipcar-vs-owning-car-canada.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Communauto vs Zipcar vs owning a car in Canada — Saving Optimizer">
+  <meta property="og:description" content="Break-even math for Canadian city drivers: Communauto and Zipcar rates (gas, insurance, parking included) versus Ratehub ownership TCO. Toronto, Montréal, and the second-car test.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/communauto-vs-zipcar-vs-owning-car-canada.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Communauto vs Zipcar vs owning a car in Canada — Saving Optimizer">
+  <meta name="twitter:description" content="Break-even math for Canadian city drivers: Communauto and Zipcar rates (gas, insurance, parking included) versus Ratehub ownership TCO. Toronto, Montréal, and the second-car test.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Transportation">
+  <meta name="article:published_time" content="2026-09-16">
+  <meta name="article:modified_time" content="2026-09-16">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Communauto vs Zipcar vs owning a car in Canada: break-even math for city drivers",
+    "description": "Break-even math for Canadian city drivers: Communauto and Zipcar rates (gas, insurance, parking included) versus Ratehub ownership TCO. Toronto, Montréal, and the second-car test.",
+    "datePublished": "2026-09-16",
+    "dateModified": "2026-09-16",
+    "inLanguage": "en-CA",
+    "author": {
+      "@type": "Organization",
+      "name": "Saving Optimizer",
+      "url": "https://savingoptimizer.com/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Saving Optimizer",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://savingoptimizer.com/assets/logo-primary.png"
+      },
+      "url": "https://savingoptimizer.com/"
+    },
+    "image": "https://savingoptimizer.com/assets/logo-primary.png",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://savingoptimizer.com/guides/articles/communauto-vs-zipcar-vs-owning-car-canada.html"
+    },
+    "url": "https://savingoptimizer.com/guides/articles/communauto-vs-zipcar-vs-owning-car-canada.html",
+    "articleSection": "Transportation",
+    "about": {
+      "@type": "Thing",
+      "name": "Canadian transportation savings",
+      "description": "Practical Transportation savings advice for Canadian households."
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://savingoptimizer.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Guides",
+        "item": "https://savingoptimizer.com/guides/index.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Transportation",
+        "item": "https://savingoptimizer.com/guides/transportation.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Communauto vs Zipcar vs owning a car in Canada: break-even math for city drivers",
+        "item": "https://savingoptimizer.com/guides/articles/communauto-vs-zipcar-vs-owning-car-canada.html"
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is car-share cheaper than owning in Canadian cities?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "For a car you drive a handful of days a month, usually yes — especially versus a financed car. Ratehub’s 2026 average ownership is $1,373/month. A labelled Toronto Zipcar compact at ~$78/day plus $9 membership is about $321 for four days. A paid-off car with cheap parking is a closer fight."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is actually included in the hourly rate?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Typically gasoline or charging, insurance/damage protection as defined in the member contract, and designated parking at the home stall. You still pay membership, tax (Communauto lists taxes extra), application fees, and per-km overage. Read the live fee schedule."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Communauto or Zipcar in Toronto?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Zipcar is simple: one hourly/daily price, 200 km/day, $9/month or $90/year. Communauto is cheaper per hour on Value plans if you will use it, but Open is expensive per hour and Value Extra wants a $500 refundable bond plus $30/month. Match the plan to hours, not the logo."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I drop my second car?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "That is the high-value use. Keep the car that does shift work or tools. Replace the ‘Costco and cottage weekend’ car with transit + car-share. Confirm insurance and registration cancellation dates so you do not pay for a month of a parked vehicle."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does this work in winter?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Stations can ice up and weekend demand spikes. Keep a transit plan that works in January. Car-share is a substitute for ownership, not for a snow day with no inventory nearby."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../transportation.html">Transportation</a></li>
+      <li aria-current="page">Communauto vs Zipcar vs owning a car in Canada: break-even math for city drivers</li>
+    </ol>
+    </nav>
+    <p class="kicker">Transportation · Canada</p>
+    <h1>Communauto vs Zipcar vs owning a car in Canada: break-even math for city drivers</h1>
+    <p class="article-meta">Hours and days, not a second insurance policy · About 16 minutes · 16 Sep 2026</p>
+    
+    <div class="prose">
+
+      <p>The expensive car in a Canadian city is often not the one that goes to work. It is the second hatchback that does IKEA, the airport run, and eight quiet weeknights in a $200 stall. Communauto and Zipcar sell hours with gas and insurance baked in. Owning sells a monthly stack that Ratehub puts at <strong>$1,373</strong> for a blended Canadian car in 2026. The skill is matching <em>days you actually drive</em> to the product, not arguing about which app logo you like.</p>
+      <p>This is operator math for Montréal, Toronto, Ottawa, and other cities these fleets actually serve — not a U.S. peer-to-peer rant. For the full ownership stack see <a href="cost-of-owning-a-car-canada-2026.html">how to calculate the real cost of owning a car</a>. For the commute that should not need a car at all, start with <a href="save-on-transit-canada.html">transit and mixed modes</a>.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> Car-share memberships and referral offers are opportunity types. Saving Optimizer may earn a commission if we later add partner links. We do not currently claim Communauto or Zipcar partnerships. Compare live fee schedules on the operator sites before you join.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>Rates usually include fuel, insurance as defined in the contract, and home-stall parking. Membership, tax, bonds, and km overage are extra.</li>
+          <li>Zipcar Toronto public copy (2026): $9/month or $90/year; about $9/hour or $78/day on a compact; 200 km/day then $0.50/km; $25 application fee.</li>
+          <li>Communauto Toronto fee schedule effective <strong>15 Jun 2026</strong>: Open is free but ~$16.10/hour (max $60 first day); Value Extra is $30/month + $3.75/hour (max $26.50/day) with a $500 refundable bond.</li>
+          <li>Four Zipcar compact days ≈ $321 vs $1,373 average ownership. Sixteen Zipcar days ≈ $1,257 — now you are in financed-car territory.</li>
+          <li>The real target is often the <strong>second</strong> household car, not the only vehicle a tradesperson needs at 6:15 a.m.</li>
+        </ul>
+      </div>
+
+      <h2>What membership rates typically include (gas, insurance, parking)</h2>
+      <p>Both operators sell an all-in hour so you stop pretending “just gas” is the cost of a car. Typical inclusions (confirm the current member contract):</p>
+      <ul>
+        <li><strong>Fuel or charging</strong> — Zipcar’s Toronto page says gas, insurance, and 200 km/day are included. Communauto station-based trips include a km package that varies by plan; extra km are billed.</li>
+        <li><strong>Insurance / damage protection</strong> — included at a standard deductible. It is not a personal Ontario auto policy you can shop. If you already have a car, ask your broker whether car-share driving is excluded (educational question, not a coverage opinion).</li>
+        <li><strong>Parking at the home stall</strong> — you do not pay the downtown garage for the hours the car sits in its reserved spot. You may still pay city lots if you park away from the stall on a trip.</li>
+        <li><strong>Maintenance and roadside</strong> — their problem, not your sinking fund.</li>
+      </ul>
+      <p>Typical exclusions: tickets, extra cleaning, smoking fees, missing the return window, km overage, FLEX (one-way) premiums on Communauto, taxes on Communauto Toronto (the PDF says taxes extra), Zipcar application fee. Open plans without a bond look “free” until the hourly rate shows up.</p>
+
+      <h2>Hourly/daily cost profiles for errands vs weekend trips</h2>
+      <div class="table-wrap">
+        <table>
+          <caption>Labelled Toronto figures. Zipcar compact from public April 2026 round-ups (~$9/hr, $78/day). Communauto from the Toronto fee schedule effective 15 Jun 2026 (weekday; weekends add 40¢/hour or $4/day on some plans). Confirm before you book.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Trip</th>
+              <th scope="col">Zipcar compact</th>
+              <th scope="col">Communauto Open</th>
+              <th scope="col">Communauto Value Extra</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">2-hour weekday errand</th>
+              <td>~$18 + $9/mo membership</td>
+              <td>~$32.20 (2 × $16.10)</td>
+              <td>$7.50 + $30/mo (if you already pay it)</td>
+            </tr>
+            <tr>
+              <th scope="row">8-hour day / IKEA</th>
+              <td>Daily ~$78 (beats 8 × $9)</td>
+              <td>Hits $60 first-day max + km</td>
+              <td>Hits $26.50 day max + 34¢/km</td>
+            </tr>
+            <tr>
+              <th scope="row">Weekend 24-hour</th>
+              <td>~$78–$156 depending on calendar day rules</td>
+              <td>First day $60 + extra day $55 (Open) + km</td>
+              <td>$26.50/day + km; weekend surcharge may apply</td>
+            </tr>
+            <tr>
+              <th scope="row">Km package</th>
+              <td>200 km/day; $0.50 after</td>
+              <td>75 km included on Open station-based, then 34¢/km</td>
+              <td>34¢/km on Value Extra (no large included bundle on the cheap hourly)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Communauto Open is the right plan if you drive twice a year. Value Extra is the right plan if you drive most weekends and will recoup the $30 + $500 bond. Zipcar is the right plan if you want a predictable daily cap and 200 km without reading a five-column PDF. Montréal members often live on Communauto FLEX for one-way trips — Toronto FLEX exists but inventory is thinner; price FLEX on that city’s schedule, not Toronto station-based.</p>
+
+      <h2>Ownership TCO reminder: insurance, parking, maintenance</h2>
+      <p>Ratehub’s April 2026 average (updated 29 Apr 2026): <strong>$1,373/month</strong> cash cost, including $522 principal, $192 interest, $200 parking, $164 insurance, $165 gas, $120 maintenance, $10 admin. A paid-off car drops the $714 loan line and leaves roughly <strong>$659</strong> plus <em>your</em> parking. Downtown Toronto condos and monthly garages routinely beat $200; a suburban driveway can be $0. That is why national averages lie in both directions. Build the worksheet in the <a href="cost-of-owning-a-car-canada-2026.html">ownership TCO guide</a> before you compare apps.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/carshare-vs-owning-breakeven.svg" width="720" height="420" alt="Grouped bars of monthly cost at 2, 4, 8, and 16 driving days for Zipcar, Communauto Value Extra, and Ratehub average ownership.">
+        <figcaption>Labelled Toronto days vs Ratehub $1,373 financed average. Value Extra assumes you already pay $30 and use the $26.50 daily max. Taxes extra on Communauto.</figcaption>
+      </figure>
+
+      <h2>City coverage differences: Montréal, Toronto, others</h2>
+      <ul>
+        <li><strong>Montréal / Québec City:</strong> Communauto is the default car-share, with dense station-based and FLEX. Zipcar may exist but is not the local habit. Check neighbourhood pods before you sell a car in Ahuntsic versus downtown.</li>
+        <li><strong>Toronto / Hamilton / Ottawa–Gatineau:</strong> Both Communauto and Zipcar operate. Downtown and west-end Toronto usually have mixed inventory; inner suburbs can be Zipcar-only or empty. Communauto FLEX passes bought in Ontario are valid in Ottawa-Gatineau, Hamilton, and Toronto (their fee PDF note) — still check local km rules.</li>
+        <li><strong>Vancouver:</strong> Zipcar plus local co-ops and one-way products (Evo, Modo) that are out of this Wave 1 comparison. Do not assume a Toronto rate in Kitsilano.</li>
+        <li><strong>Halifax and smaller Communauto cities:</strong> Membership can travel; inventory will not. Open a map, not a national ad.</li>
+      </ul>
+      <p>Coverage is the constraint that kills car-lite plans: if the nearest car is a 25-minute walk on a Sunday in February, you will Uber and then “need” the second car again.</p>
+
+      <h2>Break-even km/hours per month worksheet</h2>
+      <p>Worked examples (labelled, Toronto, before tax on Communauto):</p>
+      <ul>
+        <li><strong>2 days/month Zipcar compact:</strong> 2 × $78 + $9 = <strong>$165</strong>. vs $1,373 ownership. vs ~$659 paid-off running costs.</li>
+        <li><strong>4 days:</strong> $312 + $9 = <strong>$321</strong>.</li>
+        <li><strong>8 days:</strong> $624 + $9 = <strong>$633</strong> — near a paid-off car with $200 parking.</li>
+        <li><strong>16 days:</strong> $1,248 + $9 = <strong>$1,257</strong> — approaching financed ownership; a cheap used car may win if you need that many days.</li>
+        <li><strong>Value Extra, 4 days at daily max:</strong> 4 × $26.50 + $30 = <strong>$136</strong> plus km. This is why Montréal-style heavy users like Communauto plans. You must actually use the plan; a $500 bond sitting idle is a poor GIC.</li>
+      </ul>
+      <div class="table-wrap">
+        <table>
+          <caption>Fill with last month’s calendar, not a hoped-for calendar.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Item</th>
+              <th scope="col">Last month</th>
+              <th scope="col">Car-share quote</th>
+              <th scope="col">Keep/drop car</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Days a car moved</th>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <th scope="row">Hours (errands vs full days)</th>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <th scope="row">Km</th>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <th scope="row">Parking you could drop</th>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <th scope="row">Insurance on that vehicle</th>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>If last month the car moved four days and sat in a paid stall the rest, the stall and insurance are the savings, not the gas.</p>
+
+      <h2>When a second household car is the real target to cut</h2>
+      <p>Keep a vehicle when it does work a bus and a hatchback-share cannot: tools, off-shift timing, caregiving with equipment, rural last kilometres. Cut the vehicle that exists because “we might need it.” That car still needs <a href="shop-auto-insurance-canada-broker-vs-direct.html">insurance</a>, winter tires, and a place to sleep.</p>
+      <p>Sequence that does not strand you:</p>
+      <ol class="howto-steps">
+        <li>Join one operator. Do three real trips (grocery plus one weekend) while both cars still exist.</li>
+        <li>Park the candidate car for 30 days. Pay it, but do not drive it. Track every time you wanted it.</li>
+        <li>If the share covered those wants, cancel insurance at a renewal-friendly date, sell, and drop the stall.</li>
+        <li>Do not sell in week one of a January cold snap before you have seen inventory.</li>
+      </ol>
+
+      <h2>Hybrid strategy: transit pass + car-share</h2>
+      <p>The cheap Canadian urban stack is a fare cap or pass for the commute (<a href="ttc-fare-capping-vs-presto-pass-2026.html">TTC 47-trip cap</a> in Toronto, Compass or OPUS elsewhere) plus car-share for the bulky trips. Count the transit product and the share membership as one mobility bill. A $155 TTC cap + $9 Zipcar + two day trips (~$156) = about <strong>$320</strong> — still a fraction of Ratehub’s financed average, and competitive with a paid-off car once parking is real.</p>
+      <p>Peer-to-peer rentals (Turo-style) can look cheaper per day and then add insurance confusion and owner cancellation. They are a weekend tool, not a second-car replacement plan, unless you enjoy reading two contracts at 10 p.m.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>Communauto Toronto fee schedule, effective 15 Jun 2026 (Open through Value Extra; weekend surcharge; bonds; FLEX note).</li>
+          <li>Zipcar Toronto / Zipcar Canada pages — $9/month or $90/year, 200 km/day, $0.50/km overage, $25 application fee, gas and insurance included in public copy.</li>
+          <li>Ratehub, “What is the total cost of owning a car?”, updated 29 Apr 2026 — $1,373/month average.</li>
+          <li>Operator city maps for Montréal, Toronto, Ottawa, Hamilton (inventory changes; check before you drop a stall).</li>
+        </ul>
+      </div>
+
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Is car-share cheaper than owning in Canadian cities?</h3>
+          <p>For a car you drive a handful of days a month, usually yes — especially versus a financed car. Ratehub’s 2026 average ownership is $1,373/month. A labelled Toronto Zipcar compact at ~$78/day plus $9 membership is about $321 for four days. A paid-off car with cheap parking is a closer fight.</p>
+        </div>
+        <div class="faq-item">
+          <h3>What is actually included in the hourly rate?</h3>
+          <p>Typically gasoline or charging, insurance/damage protection as defined in the member contract, and designated parking at the home stall. You still pay membership, tax (Communauto lists taxes extra), application fees, and per-km overage. Read the live fee schedule.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Communauto or Zipcar in Toronto?</h3>
+          <p>Zipcar is simple: one hourly/daily price, 200 km/day, $9/month or $90/year. Communauto is cheaper per hour on Value plans if you will use it, but Open is expensive per hour and Value Extra wants a $500 refundable bond plus $30/month. Match the plan to hours, not the logo.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Can I drop my second car?</h3>
+          <p>That is the high-value use. Keep the car that does shift work or tools. Replace the ‘Costco and cottage weekend’ car with transit + car-share. Confirm insurance and registration cancellation dates so you do not pay for a month of a parked vehicle.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Does this work in winter?</h3>
+          <p>Stations can ice up and weekend demand spikes. Keep a transit plan that works in January. Car-share is a substitute for ownership, not for a snow day with no inventory nearby.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="cost-of-owning-a-car-canada-2026.html">Real cost of owning a car<span>The $1,373 average your car-share has to beat.</span></a></li>
+        <li><a href="save-on-transit-canada.html">Spend less on getting around<span>Transit first, then a shared car for the rest.</span></a></li>
+        <li><a href="shop-auto-insurance-canada-broker-vs-direct.html">Shop auto insurance<span>Dropping a second car is an insurance event.</span></a></li>
+        <li><a href="used-vs-new-car-canada-tco.html">Used vs new TCO<span>If you still need a household car, buy the cheaper TCO.</span></a></li>
+        <li><a href="../transportation.html">Transportation hub<span>Wave 1 transit, gas, EV, insurance.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../transportation.html">More Transportation guides</a>
+      <a class="btn btn-ghost" href="cost-of-owning-a-car-canada-2026.html">Next: real cost of owning a car</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

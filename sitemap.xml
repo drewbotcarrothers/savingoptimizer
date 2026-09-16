@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>https://savingoptimizer.com/guides/transportation.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -338,7 +338,55 @@
   </url>
   <url>
     <loc>https://savingoptimizer.com/guides/articles/save-on-transit-canada.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/ttc-fare-capping-vs-presto-pass-2026.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/go-transit-presto-monthly-vs-payg.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/pc-optimum-vs-petro-points-vs-scene-gas-canada.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/communauto-vs-zipcar-vs-owning-car-canada.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/canada-evap-ev-rebate-2026.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/shop-auto-insurance-canada-broker-vs-direct.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/used-vs-new-car-canada-tco.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/cost-of-owning-a-car-canada-2026.html</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
