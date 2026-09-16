@@ -716,10 +716,9 @@ a.card:hover {
 
 .callout p { margin: 0; }
 
-.article-cta {
-  margin-top: 2.5rem;
-  padding-top: 1.75rem;
-  border-top: 1px solid var(--border);
+.article-cta .note {
+  color: var(--mid-grey);
+  font-size: 0.9rem;
 }
 
 /* ---------- Forms ---------- */
@@ -962,18 +961,263 @@ body {
 .prose table {
   width: 100%;
   border-collapse: collapse;
-  display: block;
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.table-wrap {
+  width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  margin: 0 0 1.1rem;
+  margin: 0 0 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--white);
+}
+
+.table-wrap table {
+  min-width: 32rem;
+  border: 0;
 }
 
 .prose th,
 .prose td {
-  padding: 0.55rem 0.75rem;
+  padding: 0.6rem 0.8rem;
   border: 1px solid var(--border);
   text-align: left;
-  min-width: 6rem;
+  vertical-align: top;
+}
+
+.prose thead th {
+  background: var(--green-soft);
+  color: var(--near-black);
+  font-weight: 600;
+  font-size: 0.8125rem;
+  letter-spacing: 0.01em;
+}
+
+.prose tbody tr:nth-child(even) {
+  background: #fafafa;
+}
+
+.prose caption {
+  caption-side: bottom;
+  text-align: left;
+  color: var(--mid-grey);
+  font-size: 0.8125rem;
+  padding: 0.55rem 0.15rem 0;
+}
+
+.table-wrap table th,
+.table-wrap table td {
+  border-left: 0;
+  border-right: 0;
+}
+
+.table-wrap table tr:first-child th,
+.table-wrap table tr:first-child td {
+  border-top: 0;
+}
+
+.table-wrap table tr:last-child th,
+.table-wrap table tr:last-child td {
+  border-bottom: 0;
+}
+
+/* ---------- Article extras (takeaways, figures, sources) ---------- */
+.takeaways {
+  background: var(--green-soft);
+  border: 1px solid #cfe4d8;
+  border-radius: var(--radius);
+  padding: 1.1rem 1.2rem 1.05rem;
+  margin: 0 0 1.75rem;
+}
+
+.takeaways h2 {
+  margin: 0 0 0.55rem;
+  font-size: 1.05rem;
+  letter-spacing: -0.015em;
+}
+
+.takeaways ul {
+  margin: 0;
+  padding-left: 1.15rem;
+}
+
+.takeaways li {
+  margin-bottom: 0.35rem;
+  color: var(--near-black);
+}
+
+.takeaways li:last-child {
+  margin-bottom: 0;
+}
+
+.article-figure {
+  margin: 1.5rem 0 1.75rem;
+  padding: 0.85rem 0.85rem 0.65rem;
+  background: var(--soft-grey);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.article-figure svg,
+.article-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  background: var(--white);
+  border-radius: 8px;
+}
+
+.article-figure figcaption {
+  margin: 0.55rem 0.1rem 0.15rem;
+  font-size: 0.8125rem;
+  color: var(--mid-grey);
+  line-height: 1.45;
+}
+
+.callout.callout-warn {
+  background: #f8f5ef;
+  border-left-color: #9a7b4f;
+}
+
+.callout.callout-tip {
+  background: var(--green-soft);
+}
+
+.disclosure {
+  font-size: 0.875rem;
+  color: var(--mid-grey);
+  background: var(--soft-grey);
+  border-radius: 10px;
+  padding: 0.85rem 1rem;
+  margin: 0 0 1.5rem;
+}
+
+.sources {
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border);
+}
+
+.sources h2 {
+  font-size: 1.15rem;
+}
+
+.sources ul {
+  font-size: 0.9rem;
+}
+
+.related-guides {
+  margin-top: 2.25rem;
+}
+
+.related-guides h2 {
+  font-size: 1.2rem;
+  margin: 0 0 0.85rem;
+  letter-spacing: -0.02em;
+}
+
+.related-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.related-list a {
+  display: block;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  text-decoration: none;
+  color: var(--near-black);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.related-list a:hover {
+  border-color: #c9d4cc;
+  background: var(--green-soft);
+  color: var(--green-hover);
+}
+
+.related-list span {
+  display: block;
+  font-weight: 400;
+  color: var(--mid-grey);
+  font-size: 0.85rem;
+  margin-top: 0.15rem;
+}
+
+.prose .note {
+  font-size: 0.9rem;
+  color: var(--mid-grey);
+}
+
+.howto-steps {
+  counter-reset: howtostep;
+  list-style: none;
+  margin: 0 0 1.15rem;
+  padding: 0;
+}
+
+.howto-steps > li {
+  position: relative;
+  padding: 0.85rem 0.9rem 0.85rem 3.1rem;
+  margin-bottom: 0.65rem;
+  background: var(--soft-grey);
+  border-radius: 10px;
+}
+
+.howto-steps > li::before {
+  counter-increment: howtostep;
+  content: counter(howtostep);
+  position: absolute;
+  left: 0.75rem;
+  top: 0.85rem;
+  width: 1.7rem;
+  height: 1.7rem;
+  border-radius: 50%;
+  background: var(--green);
+  color: var(--white);
+  font-size: 0.8rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.article-wrap .faq-list {
+  margin-top: 0.5rem;
+}
+
+.article-wrap .article-faq {
+  margin-top: 2.25rem;
+}
+
+.article-wrap .article-faq > h2 {
+  font-size: 1.2rem;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.85rem;
+}
+
+.article-wrap .faq-item h3 {
+  margin: 0 0 0.45rem;
+}
+
+@media (max-width: 639.98px) {
+  .table-wrap table {
+    min-width: 28rem;
+    font-size: 0.875rem;
+  }
+
+  .article-figure {
+    padding: 0.55rem 0.55rem 0.45rem;
+  }
 }
 
 /* Breadcrumb landmark */

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Costco Canada Executive upgrade break-even</title>
+  <desc id="desc">Line showing 2 percent Executive reward versus the $65 upgrade fee, crossing at $3,250 of eligible annual spend.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Executive upgrade pays for itself at ~$3,250 eligible spend</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Gold Star $65 vs Executive $130 (plus tax). 2% reward on eligible pre-tax merchandise. Cap $1,250.</text>
+  <!-- axes -->
+  <line x1="70" y1="90" x2="70" y2="320" stroke="#E5E7EB"/>
+  <line x1="70" y1="320" x2="680" y2="320" stroke="#E5E7EB"/>
+  <text x="36" y="200" transform="rotate(-90 36 200)" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Annual 2% reward ($)</text>
+  <!-- $65 line: 65/200 * 220 = 71.5; y = 320-71.5 = 248.5 -->
+  <line x1="70" y1="248.5" x2="680" y2="248.5" stroke="#9CA3AF" stroke-dasharray="5 5"/>
+  <text x="686" y="252" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$65 fee</text>
+  <!-- spend 0 to 10000 maps to x 70-670, reward 0-200 maps to y 320-100 -->
+  <!-- line from (70,320) to (670,100) would be $10k -> $200 -->
+  <!-- break even $3250: x = 70 + 3250/10000*600 = 265 -->
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="70,320 670,100"/>
+  <circle cx="265" cy="248.5" r="7" fill="#0F7A4B"/>
+  <text x="278" y="232" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Break-even ~$3,250</text>
+  <text x="70" y="340" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="250" y="340" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$3,250</text>
+  <text x="430" y="340" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$6,500</text>
+  <text x="640" y="340" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$10,000</text>
+  <text x="360" y="358" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Eligible annual spend (excludes gas, food court, pharmacy, taxes, tobacco, many services)</text>
+  <text x="24" y="392" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Source: Costco.ca Executive reward terms and membership fees, reviewed 16 Sep 2026. Reward is not 2% of your total warehouse visit.</text>
+</svg>

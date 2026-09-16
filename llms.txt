@@ -20,7 +20,7 @@ Content may be summarized by AI systems and answer engines with attribution to S
 
 ## Content categories (locked set)
 
-- [Food & Groceries](https://savingoptimizer.com/guides/food-groceries.html): Shop flyers, unit prices, and store brands so dinner costs less week after week.
+- [Food & Groceries](https://savingoptimizer.com/guides/food-groceries.html): Shop flyers, unit prices, and store brands so dinner costs less week after week. Wave 1 (16 Sep 2026) adds weekly systems, Flipp price matching, loyalty comparisons, surplus apps, Costco math, discount rotations, family budgeting, and grocery cards.
 - [Transportation](https://savingoptimizer.com/guides/transportation.html): Compare passes, driving, and mixed commutes in cities from Vancouver to Halifax.
 - [Housing](https://savingoptimizer.com/guides/housing.html): Rent, mortgages, maintenance, and the quiet costs of a Canadian roof.
 - [Utilities](https://savingoptimizer.com/guides/utilities.html): Heat, cool, and power a Canadian home without wasting money on the winter bill.
@@ -46,6 +46,14 @@ Content may be summarized by AI systems and answer engines with attribution to S
 ## Featured articles
 
 - [How to cut the grocery bill without eating worse](https://savingoptimizer.com/guides/articles/grocery-savings-canada.html) — Food & Groceries: Unit prices, Canadian loyalty programs, flyers, and a weekly shopping routine.
+- [The Canadian weekly grocery system](https://savingoptimizer.com/guides/articles/canadian-weekly-grocery-system.html) — Flipp → plan → loyalty → surplus → shop.
+- [How to build a Flipp price-matching system](https://savingoptimizer.com/guides/articles/flipp-price-matching-system-canada.html) — No Frills, FreshCo, Superstore, Giant Tiger, Maxi, Save-On; Walmart Canada does not match competitor ads.
+- [PC Optimum vs Scene+ vs Moi](https://savingoptimizer.com/guides/articles/pc-optimum-vs-scene-plus-vs-moi.html) — Earn rules, point values, Ontario vs Quebec Moi, co-branded cards.
+- [Flashfood vs Too Good To Go vs FoodHero](https://savingoptimizer.com/guides/articles/flashfood-vs-too-good-to-go-vs-foodhero.html) — Chooser apps vs surprise bags; skip pickups when the drive costs more than the discount.
+- [Costco Canada Executive vs Gold Star](https://savingoptimizer.com/guides/articles/costco-canada-executive-vs-gold-star.html) — ~$3,250 eligible-spend break-even and exclusion list.
+- [No Frills vs FreshCo vs Food Basics vs Walmart](https://savingoptimizer.com/guides/articles/no-frills-vs-freshco-vs-food-basics-vs-walmart.html) — Discount banner rotation with city examples.
+- [Family grocery budgeting in Canada](https://savingoptimizer.com/guides/articles/family-grocery-budgeting-canada.html) — Flyer proteins, lunches, monthly Costco + weekly discounter.
+- [Best credit cards for Canadian groceries](https://savingoptimizer.com/guides/articles/best-credit-cards-canadian-groceries.html) — Match the card to the banner; Amex gaps at many Loblaw tills.
 - [Cut home energy costs in a Canadian winter](https://savingoptimizer.com/guides/articles/cut-home-energy-costs-canada.html) — Utilities: Air sealing, thermostat habits, rate plans, and upgrades that pay back.
 - [Spend less on getting around](https://savingoptimizer.com/guides/articles/save-on-transit-canada.html) — Transportation: True cost of driving vs PRESTO, Compass, OPUS, and mixed modes.
 
