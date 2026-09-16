@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian rent vs buy all-in monthly stacks</title>
+  <desc id="desc">Labelled example: ownership stack of mortgage, tax, condo fees, insurance, and maintenance versus rent, tenant insurance, and parking. Not a quote for any city.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">All-in stacks beat a viral buy now chart</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled sketch, 16 Sep 2026. Swap in your city quotes. StatsCan rent CPI +2.8% YoY (Aug 2026 Daily, 14 Sep 2026).</text>
+  <text x="140" y="92" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Own (example)</text>
+  <rect x="80" y="104" width="120" height="70" fill="#1A1A1A"/>
+  <text x="140" y="146" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Mortgage $2,450</text>
+  <rect x="80" y="174" width="120" height="28" fill="#6B7280"/>
+  <text x="140" y="193" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Tax $380</text>
+  <rect x="80" y="202" width="120" height="36" fill="#4B9B74"/>
+  <text x="140" y="225" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Condo $620</text>
+  <rect x="80" y="238" width="120" height="22" fill="#0F7A4B"/>
+  <text x="140" y="254" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Ins. $95</text>
+  <rect x="80" y="260" width="120" height="22" fill="#E7F4EE"/>
+  <text x="140" y="275" text-anchor="middle" font-size="11" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Maint. $200</text>
+  <text x="140" y="304" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$3,745 / mo</text>
+  <text x="360" y="92" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rent (example)</text>
+  <rect x="300" y="104" width="120" height="148" fill="#0F7A4B"/>
+  <text x="360" y="180" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Rent $2,650</text>
+  <rect x="300" y="252" width="120" height="14" fill="#4B9B74"/>
+  <text x="360" y="263" text-anchor="middle" font-size="10" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Tenant ins. $25</text>
+  <rect x="300" y="266" width="120" height="16" fill="#E7F4EE"/>
+  <text x="360" y="278" text-anchor="middle" font-size="10" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Parking $180</text>
+  <text x="360" y="304" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,855 / mo</text>
+  <text x="500" y="120" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Still missing from many charts</text>
+  <text x="500" y="148" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">" Land transfer tax (cash, year 1)</text>
+  <text x="500" y="172" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">" Condo special assessments</text>
+  <text x="500" y="196" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">" Stay horizon under 5 years</text>
+  <text x="500" y="220" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">" Down payment opportunity cost</text>
+  <text x="500" y="244" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">" Moving risk if you rent</text>
+  <text x="24" y="350" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A cheaper monthly rent stack can still lose if you stay 12 years and capture equity. A cheaper own stack can still lose if you sell in year two after LTT and fees.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a mortgage, tax, or brokerage quote. Replace every line with statements, tax bills, and status-certificate condo fees for your postal code.</text>
+</svg>

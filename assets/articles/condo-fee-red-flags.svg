@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Condo fee red flags: low fees versus reserve-fund adequacy</title>
+  <desc id="desc">A low monthly fee can hide an underfunded reserve and a coming special assessment. Status or estoppel certificates and reserve-fund studies are the Canadian documents to circle.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A cheap condo fee is not a bargain if the roof is next</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CMHC / CAO themes, 16 Sep 2026. Ontario status certificates; other provinces use estoppel or Form B-style packages. Not legal advice.</text>
+  <rect x="40" y="88" width="300" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="56" y="120" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Listing bait</text>
+  <text x="56" y="152" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Fees $0.38 / sq ft look low</text>
+  <text x="56" y="180" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No mention of garage project</text>
+  <text x="56" y="208" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Insurance deductible TBD</text>
+  <text x="56" y="236" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Seller arrears not disclosed</text>
+  <text x="56" y="264" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Reserve study 7 years old</text>
+  <rect x="380" y="88" width="316" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="396" y="120" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Status / estoppel circle</text>
+  <text x="396" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Reserve vs study adequate?</text>
+  <text x="396" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Specials levied or contemplated</text>
+  <text x="396" y="208" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Litigation / judgments</text>
+  <text x="396" y="236" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Unit arrears + budget</text>
+  <text x="396" y="264" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Insurance / deductible shocks</text>
+  <text x="24" y="328" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Sanity check (labelled): $780 fee on a $2,600 rent-equivalent or a $2,450 mortgage is a huge share of shelter. If fees jump $200 after a special, your cheap unit was a payment shock.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Have a lawyer review the package before you firm up. Mortgage-rate and home-insurance comparison tools are offer types only  not brokerage.</text>
+</svg>
