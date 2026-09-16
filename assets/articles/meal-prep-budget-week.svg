@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian budget meal-prep week at $50 to $75 per person</title>
+  <desc id="desc">Stacked bar of an illustrative discounter week: protein, produce, staples, dairy, and flex, totalling about $68 for one adult cooking from No Frills or Food Basics flyers.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A $50-$75 person week is a scenario, not a dare</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative Ontario discounter cart, 16 Sep 2026. Not a Statistics Canada series. Raise it in Vancouver, Calgary, or on a medical diet.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <text x="24" y="92" font-size="13" fill="#1A1A1A">Protein (flyer thighs, eggs, tofu, lentils)</text>
+    <rect x="24" y="102" width="360" height="28" rx="6" fill="#0F7A4B"/>
+    <text x="396" y="122" font-size="13" font-weight="700" fill="#0F7A4B">$22</text>
+    <text x="24" y="158" font-size="13" fill="#1A1A1A">Produce (onion, cabbage, frozen veg, banana)</text>
+    <rect x="24" y="168" width="240" height="28" rx="6" fill="#0C643D"/>
+    <text x="276" y="188" font-size="13" font-weight="700" fill="#0C643D">$14</text>
+    <text x="24" y="224" font-size="13" fill="#1A1A1A">Staples (rice, oats, pasta, tomatoes, oil you own)</text>
+    <rect x="24" y="234" width="270" height="28" rx="6" fill="#4B9B74"/>
+    <text x="306" y="254" font-size="13" font-weight="700" fill="#4B9B74">$16</text>
+    <text x="24" y="290" font-size="13" fill="#1A1A1A">Dairy / soy (plain yogurt, milk)</text>
+    <rect x="24" y="300" width="180" height="28" rx="6" fill="#6B7280"/>
+    <text x="216" y="320" font-size="13" font-weight="700" fill="#6B7280">$10</text>
+    <text x="24" y="356" font-size="13" fill="#1A1A1A">Flex (coffee you finish, or one treat)</text>
+    <rect x="24" y="366" width="108" height="28" rx="6" fill="#9CA3AF"/>
+    <text x="144" y="386" font-size="13" font-weight="700" fill="#6B7280">$6</text>
+  </g>
+  <text x="480" y="122" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700" fill="#0F7A4B">~$68</text>
+  <text x="480" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">one adult, cook-at-home</text>
+  <text x="480" y="172" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Inside the $50-$75 range</text>
+  <text x="480" y="194" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Restaurants are a separate envelope</text>
+  <text x="480" y="230" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CPI context: food from stores</text>
+  <text x="480" y="248" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">+2.8% YoY Aug 2026</text>
+  <text x="480" y="266" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">(Statistics Canada Daily,</text>
+  <text x="480" y="284" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">14 Sep 2026). Still +29%</text>
+  <text x="480" y="302" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">vs August 2021.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 16 Sep 2026. Recalculate from this week's Flipp clips, not a US Costco rotisserie default.</text>
+</svg>
