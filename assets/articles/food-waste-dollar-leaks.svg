@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Where Canadian grocery savings leak as food waste</title>
+  <desc id="desc">Four leak categories  produce, leftovers, date-label confusion, and surplus-app perishables  that can erase discounter wins.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Discounter wins die in the crisper, not at the till</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Love Food Hate Waste Canada: average household wastes about $1,300 of edible food a year; 23% of avoidable waste tied to date-label confusion.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="28" y="88" width="155" height="210" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="105" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">1. Produce</text>
+    <text x="105" y="160" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">Bought for a</text>
+    <text x="105" y="182" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">salad that</text>
+    <text x="105" y="204" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">never happened</text>
+    <text x="105" y="250" text-anchor="middle" font-size="12" fill="#6B7280">Fix: shop the</text>
+    <text x="105" y="268" text-anchor="middle" font-size="12" fill="#6B7280">fridge first</text>
+    <rect x="198" y="88" width="155" height="210" rx="12" fill="#F3F4F6"/>
+    <text x="275" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">2. Leftovers</text>
+    <text x="275" y="160" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">Unlabelled</text>
+    <text x="275" y="182" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">containers</text>
+    <text x="275" y="204" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">become science</text>
+    <text x="275" y="250" text-anchor="middle" font-size="12" fill="#6B7280">Fix: leftover</text>
+    <text x="275" y="268" text-anchor="middle" font-size="12" fill="#6B7280">night + FIFO</text>
+    <rect x="368" y="88" width="155" height="210" rx="12" fill="#F3F4F6"/>
+    <text x="445" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">3. Date labels</text>
+    <text x="445" y="160" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">Best-before</text>
+    <text x="445" y="182" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">treated as</text>
+    <text x="445" y="204" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">expiry</text>
+    <text x="445" y="250" text-anchor="middle" font-size="12" fill="#6B7280">Fix: CFIA</text>
+    <text x="445" y="268" text-anchor="middle" font-size="12" fill="#6B7280">label literacy</text>
+    <rect x="538" y="88" width="155" height="210" rx="12" fill="#F3F4F6"/>
+    <text x="615" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">4. Surplus meat</text>
+    <text x="615" y="160" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">50% off that</text>
+    <text x="615" y="182" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">never made it</text>
+    <text x="615" y="204" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">to the freezer</text>
+    <text x="615" y="250" text-anchor="middle" font-size="12" fill="#6B7280">Fix: freeze</text>
+    <text x="615" y="268" text-anchor="middle" font-size="12" fill="#6B7280">same night</text>
+  </g>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">National Zero Waste Council / Love Food Hate Waste: 63% of household food waste is avoidable (~4.5 meals/week).</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Use those figures as a ceiling on the leak, then log your own bin for 30 days. Saving Optimizer  16 Sep 2026.</text>
+</svg>

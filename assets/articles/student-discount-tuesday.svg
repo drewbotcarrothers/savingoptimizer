@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Student grocery discount stacking at Food Basics and Metro</title>
+  <desc id="desc">Worked example of a $70 student cart with 10 percent student discount and optional Moi points at Metro.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">10% student off beats most points  if the store is participating</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Official Food Basics and Metro pages (reviewed 16 Sep 2026): 10% at select stores on listed days, with ID shown before purchase.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="40" y="88" width="200" height="200" rx="12" fill="#F3F4F6"/>
+    <text x="140" y="124" text-anchor="middle" font-size="12" font-weight="700" fill="#6B7280">Shelf subtotal</text>
+    <text x="140" y="180" text-anchor="middle" font-size="28" font-weight="700" fill="#1A1A1A">$70.00</text>
+    <text x="140" y="210" text-anchor="middle" font-size="12" fill="#6B7280">eligible groceries</text>
+    <text x="140" y="232" text-anchor="middle" font-size="12" fill="#6B7280">no alcohol / gift cards</text>
+    <rect x="260" y="88" width="200" height="200" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="360" y="124" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">After 10% student</text>
+    <text x="360" y="180" text-anchor="middle" font-size="28" font-weight="700" fill="#0F7A4B">$63.00</text>
+    <text x="360" y="210" text-anchor="middle" font-size="12" fill="#1A1A1A">$7 off at the till</text>
+    <text x="360" y="232" text-anchor="middle" font-size="12" fill="#6B7280">one transaction / visit</text>
+    <rect x="480" y="88" width="200" height="200" rx="12" fill="#0F7A4B"/>
+    <text x="580" y="124" text-anchor="middle" font-size="12" font-weight="700" fill="#E7F4EE">Metro + Moi</text>
+    <text x="580" y="180" text-anchor="middle" font-size="28" font-weight="700" fill="#FFFFFF">~$62</text>
+    <text x="580" y="210" text-anchor="middle" font-size="12" fill="#E7F4EE">10% then Moi earn</text>
+    <text x="580" y="232" text-anchor="middle" font-size="12" fill="#E7F4EE">Food Basics: no stack</text>
+  </g>
+  <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Metros public FAQ says the student offer can be combined with Moi Rewards. Food Basics copy says it cannot be combined with any other offer.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A 10% off a $70 discounter cart (~$7) still beats a 1% loyalty week. A 10% off a premium Metro cart can lose to Food Basics shelf prices  run both.</text>
+</svg>

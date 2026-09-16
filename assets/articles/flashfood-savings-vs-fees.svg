@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Flashfood Canada: discount versus fee and drive</title>
+  <desc id="desc">Worked example of a $24 meat-and-dairy order at 50 percent off, minus an 8 percent service fee cap and a short extra drive.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">When a 50% tag still pays  and when it does not</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative GTA pickup on the way home. Service fee described by users as 8% capped at $2.99 (check live checkout).</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="40" y="90" width="200" height="180" rx="12" fill="#F3F4F6"/>
+    <text x="140" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#6B7280">Shelf equivalent</text>
+    <text x="140" y="178" text-anchor="middle" font-size="28" font-weight="700" fill="#1A1A1A">$24.00</text>
+    <text x="140" y="208" text-anchor="middle" font-size="12" fill="#6B7280">chicken + yogurt</text>
+    <text x="140" y="232" text-anchor="middle" font-size="12" fill="#6B7280">you would buy anyway</text>
+    <rect x="260" y="90" width="200" height="180" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="360" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">Flashfood checkout</text>
+    <text x="360" y="178" text-anchor="middle" font-size="28" font-weight="700" fill="#0F7A4B">$12.96</text>
+    <text x="360" y="208" text-anchor="middle" font-size="12" fill="#1A1A1A">$12.00 + ~$0.96 fee</text>
+    <text x="360" y="232" text-anchor="middle" font-size="12" fill="#6B7280">8% on $12, under cap</text>
+    <rect x="480" y="90" width="200" height="180" rx="12" fill="#0F7A4B"/>
+    <text x="580" y="128" text-anchor="middle" font-size="12" font-weight="700" fill="#E7F4EE">Net if on route</text>
+    <text x="580" y="178" text-anchor="middle" font-size="28" font-weight="700" fill="#FFFFFF">~$11</text>
+    <text x="580" y="208" text-anchor="middle" font-size="12" fill="#E7F4EE">saved vs shelf</text>
+    <text x="580" y="232" text-anchor="middle" font-size="12" fill="#E7F4EE">zero extra kilometres</text>
+  </g>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Skip if: the only item is $4 bakery, the zone is a 25-minute detour, or the meat will not freeze tonight.</text>
+  <text x="24" y="338" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Loblaw reported the partnership saved customers more than $58 million in 2025 (news release 2 Mar 2026)  an aggregate, not a household promise.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Taxes, bag fees, and your citys parking are extra. Freeze meat the same day.</text>
+</svg>
