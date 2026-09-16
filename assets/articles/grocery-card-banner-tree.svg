@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Match the grocery card to the Canadian banner family</title>
+  <desc id="desc">Decision tree from primary grocery banner to a suitable credit-card type.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Card follows banner - not a generic best grocery card</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Acceptance and coding matter more than the headline earn rate. Confirm terms with the issuer.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="230" y="70" width="260" height="48" rx="10" fill="#0F7A4B"/>
+    <text x="360" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">Where do you buy most food?</text>
+    <rect x="24" y="160" width="210" height="88" rx="10" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="129" y="188" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">Loblaw family</text>
+    <text x="129" y="210" text-anchor="middle" font-size="12" fill="#1A1A1A">No Frills, Superstore,</text>
+    <text x="129" y="228" text-anchor="middle" font-size="12" fill="#1A1A1A">Maxi, Shoppers</text>
+    <rect x="255" y="160" width="210" height="88" rx="10" fill="#F3F4F6"/>
+    <text x="360" y="188" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">Empire / Metro</text>
+    <text x="360" y="210" text-anchor="middle" font-size="12" fill="#1A1A1A">Sobeys, FreshCo, IGA,</text>
+    <text x="360" y="228" text-anchor="middle" font-size="12" fill="#1A1A1A">Metro, Food Basics</text>
+    <rect x="486" y="160" width="210" height="88" rx="10" fill="#F3F4F6"/>
+    <text x="591" y="188" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">Costco / Walmart</text>
+    <text x="591" y="210" text-anchor="middle" font-size="12" fill="#1A1A1A">Warehouse club MCC</text>
+    <text x="591" y="228" text-anchor="middle" font-size="12" fill="#1A1A1A">or no Amex</text>
+    <rect x="24" y="280" width="210" height="88" rx="10" fill="#FFFFFF" stroke="#0F7A4B"/>
+    <text x="129" y="308" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A">PC Financial MC</text>
+    <text x="129" y="328" text-anchor="middle" font-size="12" fill="#6B7280">No Amex at many Loblaw</text>
+    <text x="129" y="346" text-anchor="middle" font-size="12" fill="#6B7280">banners. ~3% at grocery.</text>
+    <rect x="255" y="280" width="210" height="88" rx="10" fill="#FFFFFF" stroke="#0F7A4B"/>
+    <text x="360" y="308" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A">Scene+ or Cobalt</text>
+    <text x="360" y="328" text-anchor="middle" font-size="12" fill="#6B7280">Amex usually accepted.</text>
+    <text x="360" y="346" text-anchor="middle" font-size="12" fill="#6B7280">Watch the annual fee.</text>
+    <rect x="486" y="280" width="210" height="88" rx="10" fill="#FFFFFF" stroke="#0F7A4B"/>
+    <text x="591" y="308" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A">Costco MC or Visa/MC</text>
+    <text x="591" y="328" text-anchor="middle" font-size="12" fill="#6B7280">Grocery-bonus cards often</text>
+    <text x="591" y="346" text-anchor="middle" font-size="12" fill="#6B7280">do not code Costco.</text>
+  </g>
+  <text x="24" y="400" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Non-negotiable: pay the statement in full. Interest erases flyer wins and points. Gift-card loads are often excluded.</text>
+  <text x="24" y="422" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Saving Optimizer may later earn a commission on card referrals; we do not currently claim issuer partnerships.</text>
+</svg>
