@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Costco vs No Frills cart split</title>
+  <desc id="desc">Two columns showing categories Costco usually wins on unit price versus categories No Frills flyer and PC Optimum usually win.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Split the cart. Do not pick a religion.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian Personal Finance Canada consensus: warehouse staples + discounter flyer. Illustrative, Sep 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="80" width="328" height="250" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="44" y="112" font-size="14" font-weight="700" fill="#0F7A4B">Costco usually wins</text>
+    <text x="44" y="140" font-size="13" fill="#1A1A1A">Olive oil, coffee, frozen berries</text>
+    <text x="44" y="162" font-size="13" fill="#1A1A1A">Kirkland chicken when you finish it</text>
+    <text x="44" y="184" font-size="13" fill="#1A1A1A">Toilet paper, paper towel, detergent</text>
+    <text x="44" y="206" font-size="13" fill="#1A1A1A">Nuts, oats, large yogurt tubs</text>
+    <text x="44" y="228" font-size="13" fill="#1A1A1A">Diapers / formula if those are your life</text>
+    <text x="44" y="262" font-size="12" fill="#6B7280">Monthly rhythm. Membership math is</text>
+    <text x="44" y="280" font-size="12" fill="#6B7280">separate (Gold Star vs Executive).</text>
+    <rect x="368" y="80" width="328" height="250" rx="12" fill="#F3F4F6"/>
+    <text x="388" y="112" font-size="14" font-weight="700" fill="#0F7A4B">No Frills usually wins</text>
+    <text x="388" y="140" font-size="13" fill="#1A1A1A">This week's flyer protein</text>
+    <text x="388" y="162" font-size="13" fill="#1A1A1A">Produce you will eat in 5 days</text>
+    <text x="388" y="184" font-size="13" fill="#1A1A1A">Milk, bread, small dairy</text>
+    <text x="388" y="206" font-size="13" fill="#1A1A1A">PC Optimum loaded offers</text>
+    <text x="388" y="228" font-size="13" fill="#1A1A1A">No Name staples on a short list</text>
+    <text x="388" y="262" font-size="12" fill="#6B7280">Weekly stop. Price-match when the</text>
+    <text x="388" y="280" font-size="12" fill="#6B7280">4-unit rule still helps.</text>
+  </g>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Gas and time: a second stop must beat fuel + 45 minutes. Many households: Costco once a month, No Frills most weeks.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Produce at Costco is a waste trap if you are a couple. Families that finish a 2.27 kg berry bag win; others compost money.</text>
+  <text x="24" y="406" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 16 Sep 2026</text>
+</svg>
