@@ -20,7 +20,7 @@ Content may be summarized by AI systems and answer engines with attribution to S
 
 ## Content categories (locked set)
 
-- [Food & Groceries](https://savingoptimizer.com/guides/food-groceries.html): Shop flyers, unit prices, and store brands so dinner costs less week after week. Wave 1 (16 Sep 2026) adds weekly systems, Flipp price matching, loyalty comparisons, surplus apps, Costco math, discount rotations, family budgeting, and grocery cards.
+- [Food & Groceries](https://savingoptimizer.com/guides/food-groceries.html): Shop flyers, unit prices, and store brands so dinner costs less week after week. Wave 1 (16 Sep 2026) adds weekly systems, Flipp price matching, loyalty comparisons, surplus apps, Costco math, discount rotations, family budgeting, and grocery cards. Wave 2 (16 Sep 2026) adds No Frills Won’t Be Beat, maximizing PC Optimum, a Flashfood how-to, Costco membership worth-it, a $300/month single-person budget, food-waste systems, PC Express vs Voilà vs Instacart, and student grocery discounts.
 - [Transportation](https://savingoptimizer.com/guides/transportation.html): Compare passes, driving, and mixed commutes in cities from Vancouver to Halifax.
 - [Housing](https://savingoptimizer.com/guides/housing.html): Rent, mortgages, maintenance, and the quiet costs of a Canadian roof.
 - [Utilities](https://savingoptimizer.com/guides/utilities.html): Heat, cool, and power a Canadian home without wasting money on the winter bill.
@@ -35,7 +35,7 @@ Content may be summarized by AI systems and answer engines with attribution to S
 - [Pets](https://savingoptimizer.com/guides/pets.html): Food, insurance, and care without surprise vet bills running wild.
 - [Subscriptions](https://savingoptimizer.com/guides/subscriptions.html): Streaming, apps, boxes, and memberships you still use.
 - [Entertainment](https://savingoptimizer.com/guides/entertainment.html): Movies, hobbies, and nights out with a real budget.
-- [Students](https://savingoptimizer.com/guides/students.html): Textbooks, transit, food, and student discounts.
+- [Students](https://savingoptimizer.com/guides/students.html): Textbooks, transit, food, and student discounts. The Food Basics / Metro grocery 10% playbook lives with Food & Groceries Wave 2.
 - [Weddings](https://savingoptimizer.com/guides/weddings.html): Priorities, guest counts, and costs that match the day.
 - [Events](https://savingoptimizer.com/guides/events.html): Parties, holidays, and gatherings without a budget hangover.
 - [Education](https://savingoptimizer.com/guides/education.html): Courses, certifications, RESPs, and lifelong learning.
@@ -54,6 +54,14 @@ Content may be summarized by AI systems and answer engines with attribution to S
 - [No Frills vs FreshCo vs Food Basics vs Walmart](https://savingoptimizer.com/guides/articles/no-frills-vs-freshco-vs-food-basics-vs-walmart.html) — Discount banner rotation with city examples.
 - [Family grocery budgeting in Canada](https://savingoptimizer.com/guides/articles/family-grocery-budgeting-canada.html) — Flyer proteins, lunches, monthly Costco + weekly discounter.
 - [Best credit cards for Canadian groceries](https://savingoptimizer.com/guides/articles/best-credit-cards-canadian-groceries.html) — Match the card to the banner; Amex gaps at many Loblaw tills.
+- [No Frills Won’t Be Beat](https://savingoptimizer.com/guides/articles/no-frills-wont-be-beat-price-match.html) — How to price match without loyalty-price refusals; 4-unit caps; when Superstore is a better match base.
+- [How to maximize PC Optimum](https://savingoptimizer.com/guides/articles/maximize-pc-optimum-points-canada.html) — Grocery is offers-only; Shoppers bonus redemption; Esso math; no-fee Mastercard vs Insiders.
+- [How to use Flashfood in Canada](https://savingoptimizer.com/guides/articles/flashfood-canada-guide.html) — Loblaw surplus pickup, freeze-same-day meat, fees vs the drive; $58 million partnership savings in 2025 (Loblaw PR, 2 Mar 2026).
+- [Is a Costco Canada membership worth it?](https://savingoptimizer.com/guides/articles/costco-canada-membership-worth-it.html) — Gold Star $65 vs discounter split-shop; 90-day audit; skip if no storage.
+- [$300/month grocery budget](https://savingoptimizer.com/guides/articles/300-month-grocery-budget-canada.html) — Realistic single-person discounter playbook; restaurants are a separate envelope.
+- [Cut food waste on Canadian groceries](https://savingoptimizer.com/guides/articles/cut-food-waste-canadian-groceries.html) — Fridge audit, FIFO, CFIA best-before vs expiry, surplus apps as planned diversion.
+- [PC Express vs Voilà vs Instacart](https://savingoptimizer.com/guides/articles/pc-express-vs-voila-vs-instacart.html) — Fee anatomy, passes, markups, pickup vs delivery; produce and Flashfood stay in-store.
+- [Canadian student grocery discounts](https://savingoptimizer.com/guides/articles/canadian-student-grocery-discounts.html) — Food Basics Tuesday 10% and Metro 10% at participating stores; Moi stacking; verify locally.
 - [Cut home energy costs in a Canadian winter](https://savingoptimizer.com/guides/articles/cut-home-energy-costs-canada.html) — Utilities: Air sealing, thermostat habits, rate plans, and upgrades that pay back.
 - [Spend less on getting around](https://savingoptimizer.com/guides/articles/save-on-transit-canada.html) — Transportation: True cost of driving vs PRESTO, Compass, OPUS, and mixed modes.
 
