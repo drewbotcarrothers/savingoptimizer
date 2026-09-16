@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian car ownership cash dashboard 2026</title>
+  <desc id="desc">Ratehub 2026 average monthly cash cost of owning a car in Canada, stacked by category.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ratehub 2026 cash TCO: about $1,373 / month</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">National average mix of new and used, financed. Your parking and insurance will not look like this average.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="96" font-weight="600" fill="#1A1A1A">Principal $522</text>
+    <rect x="200" y="80" width="261" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="24" y="128" font-weight="600" fill="#1A1A1A">Interest $192</text>
+    <rect x="200" y="112" width="96" height="22" rx="4" fill="#86C9A5"/>
+    <text x="24" y="160" font-weight="600" fill="#1A1A1A">Parking $200</text>
+    <rect x="200" y="144" width="100" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="24" y="192" font-weight="600" fill="#1A1A1A">Insurance $164</text>
+    <rect x="200" y="176" width="82" height="22" rx="4" fill="#4B5563"/>
+    <text x="24" y="224" font-weight="600" fill="#1A1A1A">Gas $165</text>
+    <rect x="200" y="208" width="83" height="22" rx="4" fill="#6B7280"/>
+    <text x="24" y="256" font-weight="600" fill="#1A1A1A">Maintenance $120</text>
+    <rect x="200" y="240" width="60" height="22" rx="4" fill="#9CA3AF"/>
+    <text x="24" y="288" font-weight="600" fill="#1A1A1A">Admin $10</text>
+    <rect x="200" y="272" width="8" height="22" rx="2" fill="#D1D5DB"/>
+  </g>
+  <rect x="470" y="80" width="226" height="200" rx="8" fill="#F3F4F6"/>
+  <text x="486" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Missing from many 'averages'</text>
+  <text x="486" y="134" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Depreciation if paid cash</text>
+  <text x="486" y="154" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Condo stall / permit reality</text>
+  <text x="486" y="174" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Opportunity cost of capital</text>
+  <text x="486" y="194" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Tickets, 407, winter tires</text>
+  <text x="486" y="214" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Workplace parking 'perk'</text>
+  <text x="486" y="248" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">Build YOUR dashboard.</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: Ratehub.ca "What is the total cost of owning a car?" 2026 vs 2025 table. Insurance $164/mo H $1,968/yr in that mix.</text>
+  <text x="24" y="358" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CAA operating-cost calculators often omit insurance, loan, and local parking  do not mix the two frameworks.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 16 Sep 2026</text>
+</svg>

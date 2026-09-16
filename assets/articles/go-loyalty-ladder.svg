@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">GO Transit PRESTO adult loyalty ladder</title>
+  <desc id="desc">Adult PRESTO discounts by trip count in a calendar month on GO Transit, with hybrid office-week markers.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">GO adult PRESTO ladder (same trip, calendar month)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">There is no TTC-style adult monthly pass. Loyalty PAYG is the monthly product. Same payment method all month.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="40" y="90" width="200" height="150" rx="8" fill="#9CA3AF"/>
+    <text x="140" y="130" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">Trips 1-35</text>
+    <text x="140" y="158" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">15.7% off</text>
+    <text x="140" y="186" text-anchor="middle" font-size="12" fill="#FFFFFF">PRESTO vs paper adult</text>
+    <text x="140" y="210" text-anchor="middle" font-size="12" fill="#FFFFFF">2- and 3-day office weeks</text>
+    <rect x="260" y="90" width="200" height="150" rx="8" fill="#0F7A4B"/>
+    <text x="360" y="130" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">Trips 36-40</text>
+    <text x="360" y="158" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">88.3% off</text>
+    <text x="360" y="186" text-anchor="middle" font-size="12" fill="#FFFFFF">Same-trip steep cut</text>
+    <text x="360" y="210" text-anchor="middle" font-size="12" fill="#FFFFFF">Edge of a 5-day month</text>
+    <rect x="480" y="90" width="200" height="150" rx="8" fill="#0F7A4B"/>
+    <text x="580" y="130" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">Trips 41+</text>
+    <text x="580" y="158" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">100% off</text>
+    <text x="580" y="186" text-anchor="middle" font-size="12" fill="#FFFFFF">Same-trip average</text>
+    <text x="580" y="210" text-anchor="middle" font-size="12" fill="#FFFFFF">Full 5-day commute</text>
+  </g>
+  <text x="24" y="280" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">Oakville-Union worked sketch (adult): paper $9.70 · PRESTO about $8.16</text>
+  <text x="24" y="304" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">2-day week ~18 trips stays in 15.7%. 3-day ~26 trips still 15.7%. 5-day ~44 trips reaches 41+ on a full calendar.</text>
+  <text x="24" y="326" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Mixed stations: trips 36+ use the value of trips already taken that month  a Niagara add-on is not fully free.</text>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Youth/student: 40% off trips 1-30, then a steeper ladder. Seniors 55%. GO Transit PRESTO pages, reviewed 16 Sep 2026.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Do not ride extra days just to "use a monthly." PAYG already charges only the trips you take.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 16 Sep 2026</text>
+</svg>

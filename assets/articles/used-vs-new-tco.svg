@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Used vs new compact car five-year cost shape</title>
+  <desc id="desc">Illustrative five-year cash outlay for a new compact versus a three-year-old used compact in Canada, excluding lifestyle value.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Where new vs used actually spends (5-year shape)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Sticker is not TCO. Depreciation and interest dominate new. Repair risk dominates older used.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="12">
+    <text x="24" y="100" font-weight="600" fill="#1A1A1A">New compact</text>
+    <rect x="160" y="82" width="200" height="22" rx="3" fill="#0F7A4B"/>
+    <text x="170" y="98" fill="#FFFFFF">depreciation</text>
+    <rect x="360" y="82" width="90" height="22" rx="3" fill="#86C9A5"/>
+    <text x="368" y="98" fill="#1A1A1A">interest</text>
+    <rect x="450" y="82" width="80" height="22" rx="3" fill="#9CA3AF"/>
+    <text x="456" y="98" fill="#FFFFFF">insure</text>
+    <rect x="530" y="82" width="70" height="22" rx="3" fill="#6B7280"/>
+    <text x="536" y="98" fill="#FFFFFF">fuel</text>
+    <rect x="600" y="82" width="50" height="22" rx="3" fill="#D1D5DB"/>
+    <text x="605" y="98" fill="#1A1A1A">fix</text>
+    <text x="24" y="148" font-weight="600" fill="#1A1A1A">Used, ~3 yrs</text>
+    <rect x="160" y="130" width="90" height="22" rx="3" fill="#0F7A4B"/>
+    <text x="168" y="146" fill="#FFFFFF">deprec.</text>
+    <rect x="250" y="130" width="50" height="22" rx="3" fill="#86C9A5"/>
+    <text x="256" y="146" fill="#1A1A1A">int.</text>
+    <rect x="300" y="130" width="70" height="22" rx="3" fill="#9CA3AF"/>
+    <text x="306" y="146" fill="#FFFFFF">insure</text>
+    <rect x="370" y="130" width="70" height="22" rx="3" fill="#6B7280"/>
+    <text x="376" y="146" fill="#FFFFFF">fuel</text>
+    <rect x="440" y="130" width="120" height="22" rx="3" fill="#4B5563"/>
+    <text x="450" y="146" fill="#FFFFFF">repairs / risk</text>
+    <text x="24" y="196" font-weight="600" fill="#1A1A1A">CPO used</text>
+    <rect x="160" y="178" width="100" height="22" rx="3" fill="#0F7A4B"/>
+    <text x="168" y="194" fill="#FFFFFF">deprec.</text>
+    <rect x="260" y="178" width="55" height="22" rx="3" fill="#86C9A5"/>
+    <text x="266" y="194" fill="#1A1A1A">int.</text>
+    <rect x="315" y="178" width="70" height="22" rx="3" fill="#9CA3AF"/>
+    <text x="321" y="194" fill="#FFFFFF">insure</text>
+    <rect x="385" y="178" width="70" height="22" rx="3" fill="#6B7280"/>
+    <text x="391" y="194" fill="#FFFFFF">fuel</text>
+    <rect x="455" y="178" width="90" height="22" rx="3" fill="#86C9A5"/>
+    <text x="463" y="194" fill="#1A1A1A">warranty $</text>
+  </g>
+  <rect x="24" y="230" width="672" height="100" rx="8" fill="#F3F4F6"/>
+  <text x="40" y="258" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Worked compact example is labelled in the article  not a national average quote.</text>
+  <text x="40" y="280" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Ratehub 2026 all-in cash TCO for a typical financed car: about $1,373/month (includes $200 parking).</text>
+  <text x="40" y="300" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">New can still win with EVAP, a long hold, or a reliability need you will pay a shop to skip.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Bar widths are a teaching sketch of cost mix, not a StatsCan series. Run your own quotes.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 16 Sep 2026</text>
+</svg>

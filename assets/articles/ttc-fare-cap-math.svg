@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">TTC 2026 monthly fare products compared</title>
+  <desc id="desc">Bar chart of adult PRESTO fare-capping ceiling versus Adult 12-Month pass and post-secondary monthly pass at September 2026 TTC fares.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">TTC monthly cost ceiling (Sep 2026 fares)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">47 paid trips at $3.30 adult PRESTO = $155.10. Remaining passes still beat that if you ride enough.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="108" font-weight="600" fill="#1A1A1A">PAYG, 20 paid trips</text>
+    <rect x="260" y="90" width="132" height="24" rx="4" fill="#9CA3AF"/>
+    <text x="402" y="108" fill="#6B7280">$66.00</text>
+    <text x="24" y="152" font-weight="600" fill="#1A1A1A">PAYG, 40 paid trips</text>
+    <rect x="260" y="134" width="264" height="24" rx="4" fill="#9CA3AF"/>
+    <text x="534" y="152" fill="#6B7280">$132.00</text>
+    <text x="24" y="196" font-weight="600" fill="#1A1A1A">Fare cap (47 trips+)</text>
+    <rect x="260" y="178" width="310" height="24" rx="4" fill="#0F7A4B"/>
+    <text x="580" y="196" fill="#FFFFFF">$155.10</text>
+    <text x="24" y="240" font-weight="600" fill="#1A1A1A">Adult 12-Month pass</text>
+    <rect x="260" y="222" width="286" height="24" rx="4" fill="#0F7A4B"/>
+    <text x="556" y="240" fill="#FFFFFF">$143.00 / mo</text>
+    <text x="24" y="284" font-weight="600" fill="#1A1A1A">Post-secondary monthly</text>
+    <rect x="260" y="266" width="256" height="24" rx="4" fill="#0F7A4B"/>
+    <text x="526" y="284" fill="#FFFFFF">$128.15 / mo</text>
+  </g>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Adult, Youth, Senior, and Fair Pass calendar monthlies were discontinued 31 Aug 2026. Cap resets on the 1st.</text>
+  <text x="24" y="362" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: TTC Fares and passes and 1 Sep 2026 news release. Same card or device all month.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 16 Sep 2026</text>
+</svg>

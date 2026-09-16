@@ -21,7 +21,7 @@ Content may be summarized by AI systems and answer engines with attribution to S
 ## Content categories (locked set)
 
 - [Food & Groceries](https://savingoptimizer.com/guides/food-groceries.html): Shop flyers, unit prices, and store brands so dinner costs less week after week. Wave 1 (16 Sep 2026) covers weekly systems, Flipp price matching, loyalty comparisons, surplus apps, Costco math, discount rotations, family budgeting, and grocery cards. Wave 2 (16 Sep 2026) adds No Frills Won’t Be Beat, maximizing PC Optimum, a Flashfood how-to, Costco membership worth-it, a $300/month single-person budget, food-waste systems, PC Express vs Voilà vs Instacart, and student grocery discounts. Wave 3 (16 Sep 2026) adds flyer-first meal planning, Moi Ontario vs Quebec, Costco vs No Frills cart splits, cheap high-protein meals, grocery gift-card cashback, 2026 StatsCan price context, Scene+ grocery earn/burn, and pay-in-full rewards stacks. Wave 4 (16 Sep 2026) adds FreshCo’s Lowest Price Guarantee (1¢ beat, Ontario vs Western boards), Flipp as a grocery operating system, PC Financial Mastercard worth-it math for No Frills/Superstore, and high-protein meal prep on a Canadian budget.
-- [Transportation](https://savingoptimizer.com/guides/transportation.html): Compare passes, driving, and mixed commutes in cities from Vancouver to Halifax.
+- [Transportation](https://savingoptimizer.com/guides/transportation.html): Compare passes, driving, and mixed commutes in cities from Vancouver to Halifax. Wave 1 (16 Sep 2026) covers TTC monthly fare capping vs remaining PRESTO passes, GO Transit PRESTO loyalty vs PAYG, PC Optimum vs Petro-Points vs Scene+ at the pump, Communauto vs Zipcar vs owning, Canada’s EVAP EV rebate (ex-iZEV), shopping auto insurance (broker vs direct, educational), used vs new car TCO, and a 2026 cost-of-owning framework.
 - [Housing](https://savingoptimizer.com/guides/housing.html): Rent, mortgages, maintenance, and the quiet costs of a Canadian roof.
 - [Utilities](https://savingoptimizer.com/guides/utilities.html): Heat, cool, and power a Canadian home without wasting money on the winter bill.
 - [Kids](https://savingoptimizer.com/guides/kids.html): Childcare, activities, gear, and the everyday kid budget.
@@ -77,6 +77,14 @@ Content may be summarized by AI systems and answer engines with attribution to S
 - [Meal prep on a Canadian budget](https://savingoptimizer.com/guides/articles/meal-prep-canadian-budget.html) — $50–$75/person scenarios, flyer-protein matrix, freeze portions, No Frills/Food Basics week, $5 emergency meals.
 - [Cut home energy costs in a Canadian winter](https://savingoptimizer.com/guides/articles/cut-home-energy-costs-canada.html) — Utilities: Air sealing, thermostat habits, rate plans, and upgrades that pay back.
 - [Spend less on getting around](https://savingoptimizer.com/guides/articles/save-on-transit-canada.html) — Transportation: True cost of driving vs PRESTO, Compass, OPUS, and mixed modes.
+- [TTC fare capping vs PRESTO pass 2026](https://savingoptimizer.com/guides/articles/ttc-fare-capping-vs-presto-pass-2026.html) — 47 paid trips then free (adult PRESTO $3.30, $155.10 ceiling); Adult 12-Month $143 and post-secondary $128.15 still exist.
+- [PC Optimum vs Petro-Points vs Scene+ at the pump](https://savingoptimizer.com/guides/articles/pc-optimum-vs-petro-points-vs-scene-gas-canada.html) — Esso/Mobil, Petro-Canada Platinum, Shell after Air Miles; 40-litre worksheet.
+- [Communauto vs Zipcar vs owning](https://savingoptimizer.com/guides/articles/communauto-vs-zipcar-vs-owning-car-canada.html) — All-in trip rates vs a rarely driven second car in Canadian cities.
+- [Canada EVAP EV rebate 2026](https://savingoptimizer.com/guides/articles/canada-evap-ev-rebate-2026.html) — What replaced iZEV: $5,000/$2,500, $50,000 final-value cap, Canadian-made exception, provincial stacks.
+- [Shop auto insurance: broker vs direct](https://savingoptimizer.com/guides/articles/shop-auto-insurance-canada-broker-vs-direct.html) — Comparison-shopping education (not brokerage); FSRA-style tips and identical-coverage worksheets.
+- [Used vs new car TCO](https://savingoptimizer.com/guides/articles/used-vs-new-car-canada-tco.html) — Depreciation, insurance, CPO, EVAP; worked compact examples.
+- [GO Transit PRESTO monthly vs PAYG](https://savingoptimizer.com/guides/articles/go-transit-presto-monthly-vs-payg.html) — Loyalty ladder (15.7% / 88.3% / 100%) for 2-, 3-, and 5-day office weeks; One Fare; tap-off mistakes.
+- [Cost of owning a car in Canada 2026](https://savingoptimizer.com/guides/articles/cost-of-owning-a-car-canada-2026.html) — Ratehub ~$1,373/month cash mix as context; parking, opportunity cost, per-km dashboard.
 
 ## Optional
 

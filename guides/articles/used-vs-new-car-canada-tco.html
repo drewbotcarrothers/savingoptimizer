@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Used vs new car TCO Canada — Saving Optimizer</title>
+  <meta name="description" content="Compare used and new cars in Canada on purchase price, interest, depreciation, insurance, repairs, CPO warranty, and EVAP — not US lease-hack framing. Worked compact examples.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/used-vs-new-car-canada-tco.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Used vs new car TCO Canada — Saving Optimizer">
+  <meta property="og:description" content="Compare used and new cars in Canada on purchase price, interest, depreciation, insurance, repairs, CPO warranty, and EVAP — not US lease-hack framing. Worked compact examples.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/used-vs-new-car-canada-tco.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Used vs new car TCO Canada — Saving Optimizer">
+  <meta name="twitter:description" content="Compare used and new cars in Canada on purchase price, interest, depreciation, insurance, repairs, CPO warranty, and EVAP — not US lease-hack framing. Worked compact examples.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Transportation">
+  <meta name="article:published_time" content="2026-09-16">
+  <meta name="article:modified_time" content="2026-09-16">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Used vs new car in Canada: total cost of ownership math for households",
+    "description": "Compare used and new cars in Canada on purchase price, interest, depreciation, insurance, repairs, CPO warranty, and EVAP — not US lease-hack framing. Worked compact examples.",
+    "datePublished": "2026-09-16",
+    "dateModified": "2026-09-16",
+    "inLanguage": "en-CA",
+    "author": {
+      "@type": "Organization",
+      "name": "Saving Optimizer",
+      "url": "https://savingoptimizer.com/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Saving Optimizer",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://savingoptimizer.com/assets/logo-primary.png"
+      },
+      "url": "https://savingoptimizer.com/"
+    },
+    "image": "https://savingoptimizer.com/assets/logo-primary.png",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://savingoptimizer.com/guides/articles/used-vs-new-car-canada-tco.html"
+    },
+    "url": "https://savingoptimizer.com/guides/articles/used-vs-new-car-canada-tco.html",
+    "articleSection": "Transportation",
+    "about": {
+      "@type": "Thing",
+      "name": "Used versus new car total cost of ownership Canada",
+      "description": "Practical Transportation savings advice for Canadian households."
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://savingoptimizer.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Guides",
+        "item": "https://savingoptimizer.com/guides/index.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Transportation",
+        "item": "https://savingoptimizer.com/guides/transportation.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Used vs new car in Canada: total cost of ownership math for households",
+        "item": "https://savingoptimizer.com/guides/articles/used-vs-new-car-canada-tco.html"
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is a used car always cheaper in Canada?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Often on five-year cash, because someone else ate the steepest depreciation. Not always: a cheap used car with a failed transmission, a high insurance rating, or a 9.9% loan can lose to a modest new car held ten years — or to no car."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does new-car insurance cost more?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Frequently. Replacement cost is higher, some theft rings prefer late-model SUVs, and lenders require collision. Quote both vehicles with the same drivers and deductibles. Do not use a national average."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is certified pre-owned worth it?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "CPO is a price you pay to transfer some repair risk and to get a remaining factory-style warranty. It is not magic. Compare CPO premium versus an independent PPI plus a savings buffer. See also provincial consumer protections and vehicle history (CARFAX Canada, not the US report)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should EV rebates change the used-vs-new decision?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "EVAP (from 16 Feb 2026) is for eligible new EVs — up to $5,000 BEV / $2,500 PHEV with a $50,000 final-value rule (no cap if made in Canada). It does not apply to used. A new EV with EVAP can beat a used gas car on energy cost; run TCO, not the rebate headline."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What about auto loans?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Price the payment with a loan-rate comparison, then ignore the payment and look at total interest plus depreciation. A longer term on a new car can hide a worse TCO. Offer type: rate-comparison tools — not a lender."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../transportation.html">Transportation</a></li>
+      <li aria-current="page">Used vs new car TCO</li>
+    </ol>
+    </nav>
+    <p class="kicker">Transportation · Canada</p>
+    <h1>Used vs new car in Canada: total cost of ownership math for households</h1>
+    <p class="article-meta">Depreciation, insurance, CPO, EV incentives · About 16 minutes · 16 Sep 2026</p>
+    
+    <div class="prose">
+      <p>Households compare the <em>sticker</em> on a new compact to the <em>asking price</em> on a 2019 with 140,000 km and call that research. Insurance, interest, depreciation, and the shop bill never enter the spreadsheet. This is Canadian TCO — including the insurance quote and, if you are eyeing a new EV, <a href="canada-evap-ev-rebate-2026.html">EVAP</a> — not a U.S. lease-hack thread.</p>
+      <p>Ratehub’s 2026 all-in cash mix for a typical financed car is about <strong>$1,373/month</strong>. That blend of new and used is a ceiling conversation, not your VIN. Build the lines. Then pick used, CPO, or new.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> Auto-loan rate comparison tools and insurance quote tools are offer types. Saving Optimizer may earn a commission if we later add partner links. We do not arrange credit or bind insurance. Worked dollar examples below are labelled assumptions, not quotes.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>Depreciation and interest dominate <strong>new</strong>. Repair variance dominates <strong>older used</strong>. CPO sits in the middle as paid risk transfer.</li>
+          <li>Always quote insurance on both vehicles. A “cheap” used performance car can cost more per month than a boring new Honda.</li>
+          <li>EVAP does not apply to used. It can flip a new-EV vs used-gas comparison if the car actually qualifies.</li>
+          <li>Do a PPI (pre-purchase inspection) on private sales. Ontario UVIP and CARFAX Canada are inputs, not a mechanical inspection.</li>
+          <li>If the car would sit, read <a href="communauto-vs-zipcar-vs-owning-car-canada.html">car-share vs owning</a> before you finance anything.</li>
+        </ul>
+      </div>
+
+      <h2>Purchase price, interest, and depreciation curves</h2>
+      <p>New: you pay retail (or a little under) and then own an asset that is worth a lot less the day you plate it. Used: you buy a chunk of that loss from the first owner. Five-year-old used has already done the steepest curve; fifteen-year-old used has a different curve (parts, rust, shop labour).</p>
+      <p>Interest: a new-car 4.9% special on a $32,000 loan can still cost thousands. A used 8.9% on $18,000 can cost more interest than you think because the rate is ugly. Compare <strong>total interest</strong> in the amortization, not the monthly debit. If cash is an option, the “payment” is an opportunity-cost problem — see the <a href="cost-of-owning-a-car-canada-2026.html">TCO dashboard</a>.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/used-vs-new-tco.svg" width="720" height="420" alt="Stacked teaching bars showing new cars heavy on depreciation and interest versus used cars heavier on repair risk.">
+        <figcaption>Teaching sketch of cost mix, not a Statistics Canada series. Your compact will not match these widths.</figcaption>
+      </figure>
+
+      <h2>Insurance rating differences new vs used</h2>
+      <p>Insurers price the vehicle, the drivers, and the postal code. New often means higher collision/comprehensive because the payout is larger. Some late-model crossovers also sit on theft lists. Used can be cheaper to insure — or not, if it is a sport trim, rebuilt title, or a car that parts thieves like.</p>
+      <p>Process: same broker/direct worksheet, two VINs, same deductibles (<a href="shop-auto-insurance-canada-broker-vs-direct.html">how to shop</a>). Lenders will force collision on a financed car. A $4,000 beater you own outright can drop collision — FSRA even flags collision as questionable under ~$2,000 value — which is a used-only lever.</p>
+
+      <h2>Maintenance and surprise repairs on older vehicles</h2>
+      <p>CAA-style operating costs (fuel, maintenance, licence) often look gentle because they average. Your year is not average: water pump, rusted brake lines, a $4,200 CVT. Budget a <strong>repair reserve</strong> on anything out of warranty: $80–$150/month into a separate account is a method, not a prediction. If you cannot fund the reserve, you cannot fund the car — you are waiting for a credit card emergency.</p>
+      <p>Canadian winter: undercoating debates, winter tires (mandatory discount ask in Ontario), and rust. A cheap import from a no-salt province can still be a gift. A cheap GTA car with swollen rear quarters is a leak.</p>
+
+      <h2>Warranty and CPO as risk transfer</h2>
+      <p>New: full factory warranty. That is worth something if you would have paid the shop. It is worth less if you drive 8,000 km a year in a simple appliance.</p>
+      <p>CPO: dealer-certified used, extra inspection, remaining/extended warranty, often a higher price than private sale. You are buying process and a phone number. Price the CPO premium against (a) private price + PPI + reserve and (b) new. If CPO costs almost as much as a base new car on sale, the new car’s warranty and EVAP (if EV) may win.</p>
+      <p>Private sale: Ontario UVIP (Used Vehicle Information Package) is a history snapshot, not a clean bill. CARFAX Canada / equivalent: liens, brands, odometer tales — still hire a mechanic. Out-of-province cars need extra caution on rust and registration.</p>
+
+      <h2>Fuel and possible EV incentives if considering new EV</h2>
+      <p>Fuel in Ratehub’s 2026 mix is <strong>$165/month</strong> — down from 2025 in their table. Electricity for a commute EV can undercut that if you charge at home off-peak; public DC fast charge can erase the win. New eligible EVs may take <strong>EVAP</strong> ($5,000 / $2,500 in 2026) if they clear the $50,000 final-value rule or are Canadian-made. Used EVs: no EVAP; some provinces (Manitoba) have advertised used rebates — verify.</p>
+      <p>Do not buy a new EV to “save gas” if you drive 6,000 km a year. The capital is the story. Do not skip a qualifying EVAP car if you were buying new anyway and the model fits.</p>
+
+      <h2>Worked examples: compact used vs new compact</h2>
+      <p>Assumptions are labelled. Replace every number with quotes.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Five-year cash sketch, 14,000 km/year, Ontario-ish parking light. Not a quote.</caption>
+          <thead>
+            <tr>
+              <th scope="col"></th>
+              <th scope="col">New compact (gas)</th>
+              <th scope="col">Used compact (~5 years, 90,000 km)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Purchase</th>
+              <td>$28,000 (example)</td>
+              <td>$14,000 (example)</td>
+            </tr>
+            <tr>
+              <th scope="row">Tax on purchase (illustrative 13% HST)</th>
+              <td>$3,640</td>
+              <td>$1,820 (if dealer; private may differ)</td>
+            </tr>
+            <tr>
+              <th scope="row">Interest (example 60 months)</th>
+              <td>$2,400</td>
+              <td>$1,600 (higher rate, smaller principal)</td>
+            </tr>
+            <tr>
+              <th scope="row">Depreciation over 5 years (sketch)</th>
+              <td>$14,000 residual guess $14k</td>
+              <td>$6,000 residual guess $8k</td>
+            </tr>
+            <tr>
+              <th scope="row">Insurance 5-year (if new quotes $1,900/yr vs used $1,550)</th>
+              <td>$9,500</td>
+              <td>$7,750</td>
+            </tr>
+            <tr>
+              <th scope="row">Fuel 5-year (if $150/mo both)</th>
+              <td>$9,000</td>
+              <td>$9,000</td>
+            </tr>
+            <tr>
+              <th scope="row">Maintenance / repairs</th>
+              <td>$3,000 (mostly routine)</td>
+              <td>$6,500 (routine + one medium surprise)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>The used column still often wins on cash even after the ugly repair year. The new column wins if the used surprise is a powertrain, or if you need warranty for a long highway commute with no bus, or if EVAP + home charging changes the fuel line. Run it. Do not screenshot this table into a family group chat as “the answer.”</p>
+
+      <h2>When new still wins (reliability need, long hold, incentives)</h2>
+      <ul>
+        <li>You will keep the car 10–12 years and you hate shops. New (or young CPO) spreads depreciation over a long hold.</li>
+        <li>A qualifying new EV with EVAP, cheap home charging, and insurance that does not explode.</li>
+        <li>Employer or medical need for uptime that a $14,000 car cannot promise.</li>
+        <li>0% or very cheap manufacturer money that is still cheaper than used-loan rates <em>after</em> you model residual. Cheap money on a trim you did not need is not cheap.</li>
+      </ul>
+      <p>When used wins: you have a mechanic, a PPI, a repair reserve, and you were never going to keep a new car longer than four years (the expensive years).</p>
+      <p>When neither wins: <a href="save-on-transit-canada.html">transit</a> plus <a href="communauto-vs-zipcar-vs-owning-car-canada.html">car-share</a>.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>Ratehub, total cost of owning a car, 2026 cash table ($1,373/month mix).</li>
+          <li>Transport Canada EVAP overview (new vehicles; 2026 amounts) — see EVAP article sources.</li>
+          <li>FSRA collision-on-low-value-vehicle note (how to save on auto insurance).</li>
+          <li>RIDEZ / CPO explainers for Canadian certified-pre-owned framing (2026 consumer pieces).</li>
+        </ul>
+      </div>
+
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Is a used car always cheaper in Canada?</h3>
+          <p>Often on five-year cash, because someone else ate the steepest depreciation. Not always: a cheap used car with a failed transmission, a high insurance rating, or a 9.9% loan can lose to a modest new car held ten years — or to no car.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Does new-car insurance cost more?</h3>
+          <p>Frequently. Replacement cost is higher, some theft rings prefer late-model SUVs, and lenders require collision. Quote both vehicles with the same drivers and deductibles. Do not use a national average.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Is certified pre-owned worth it?</h3>
+          <p>CPO is a price you pay to transfer some repair risk and to get a remaining factory-style warranty. It is not magic. Compare CPO premium versus an independent PPI plus a savings buffer. See also provincial consumer protections and vehicle history (CARFAX Canada, not the US report).</p>
+        </div>
+        <div class="faq-item">
+          <h3>Should EV rebates change the used-vs-new decision?</h3>
+          <p>EVAP (from 16 Feb 2026) is for eligible new EVs — up to $5,000 BEV / $2,500 PHEV with a $50,000 final-value rule (no cap if made in Canada). It does not apply to used. A new EV with EVAP can beat a used gas car on energy cost; run TCO, not the rebate headline.</p>
+        </div>
+        <div class="faq-item">
+          <h3>What about auto loans?</h3>
+          <p>Price the payment with a loan-rate comparison, then ignore the payment and look at total interest plus depreciation. A longer term on a new car can hide a worse TCO. Offer type: rate-comparison tools — not a lender.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="cost-of-owning-a-car-canada-2026.html">Car TCO framework<span>Build the dashboard, then pick new or used.</span></a></li>
+        <li><a href="canada-evap-ev-rebate-2026.html">EVAP rebate<span>Federal money is a new-EV lever only.</span></a></li>
+        <li><a href="shop-auto-insurance-canada-broker-vs-direct.html">Shop insurance<span>Quote both VINs before you fall in love.</span></a></li>
+        <li><a href="communauto-vs-zipcar-vs-owning-car-canada.html">Car-share vs owning<span>The third option if km are low.</span></a></li>
+        <li><a href="../transportation.html">Transportation hub<span>Wave 1 how-tos.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../transportation.html">More Transportation guides</a>
+      <a class="btn btn-ghost" href="canada-evap-ev-rebate-2026.html">Next: EVAP rebate 2026</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>
