@@ -38,5 +38,5 @@
   <text x="300" y="360" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Communauto Value Extra</text>
   <rect x="490" y="348" width="14" height="14" rx="3" fill="#9CA3AF"/>
   <text x="510" y="360" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ratehub avg ownership</text>
-  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Taxes extra on Communauto. A paid-off car without a $522 principal is a different worksheet  see the ownership TCO guide. Confirm live rates before you drop a stall.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Taxes extra on Communauto. A paid-off car without a $522 principal is a different worksheet - see the ownership TCO guide. Confirm live rates before you drop a stall.</text>
 </svg>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
-  <title id="title">GO Transit OakvilleUnion PRESTO cost for 2-, 3-, and 5-day office weeks</title>
+  <title id="title">GO Transit Oakville-Union PRESTO cost for 2-, 3-, and 5-day office weeks</title>
   <desc id="desc">Bar chart of labelled monthly GO cost using adult PRESTO $8.16 Oakville to Union and the 15.7% / 88.3% / 100% loyalty ladder.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">OakvilleUnion adult PRESTO: hybrid weeks vs the loyalty cliff</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">GO student-savings table: standard $9.70, PRESTO $8.16 (reviewed 16 Sep 2026). Loyalty: 15.7% off trips 135, 88.3% off 3640, free after 40. Same payment method all month.</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Oakville-Union adult PRESTO: hybrid weeks vs the loyalty cliff</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">GO student-savings table: standard $9.70, PRESTO $8.16 (reviewed 16 Sep 2026). Loyalty: 15.7% off trips 1-35, 88.3% off 36-40, free after 40. Same payment method all month.</text>
   <line x1="80" y1="90" x2="80" y2="310" stroke="#E5E7EB"/>
   <line x1="80" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
   <text x="72" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
@@ -12,20 +12,20 @@
   <text x="72" y="194" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$300</text>
   <text x="72" y="134" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$450</text>
   <!-- scale $450=220px -->
-  <!-- 2-day 18 trips * 8.16 = 146.88 ’ 72px y=238 -->
+  <!-- 2-day 18 trips * 8.16 = 146.88 ' 72px y=238 -->
   <rect x="120" y="238" width="140" height="72" rx="8" fill="#0F7A4B"/>
   <text x="190" y="228" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$147</text>
   <text x="190" y="332" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2 office days</text>
-  <text x="190" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~18 trips · 15.7% tier</text>
-  <!-- 3-day 26*8.16=212 ’ 104px y=206 -->
+  <text x="190" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~18 trips | 15.7% tier</text>
+  <!-- 3-day 26*8.16=212 ' 104px y=206 -->
   <rect x="300" y="206" width="140" height="104" rx="8" fill="#4B9B74"/>
   <text x="370" y="196" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$212</text>
   <text x="370" y="332" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3 office days</text>
-  <text x="370" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~26 trips · still 15.7%</text>
-  <!-- 5-day 35*8.16 + 5*0.95 = 285.6+4.75=290 ’ 142px y=168; paper 44*9.70=427 shown as caption -->
+  <text x="370" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~26 trips | still 15.7%</text>
+  <!-- 5-day 35*8.16 + 5*0.95 = 285.6+4.75=290 ' 142px y=168; paper 44*9.70=427 shown as caption -->
   <rect x="480" y="168" width="140" height="142" rx="8" fill="#9CA3AF"/>
   <text x="550" y="158" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~$290</text>
   <text x="550" y="332" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">5 office days</text>
-  <text x="550" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~44 trips · hits free rides</text>
-  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Paper/e-ticket at $9.70 × 44 H $427  the loyalty ladder is the 2026 monthly. Hybrid riders who keep a five-day habit overpay. Confirm your pair on GOs trip planner; fares are distance-based.</text>
+  <text x="550" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~44 trips | hits free rides</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Paper/e-ticket at $9.70 x 44 H $427 - the loyalty ladder is the 2026 -monthly.- Hybrid riders who keep a five-day habit overpay. Confirm your pair on GO-s trip planner; fares are distance-based.</text>
 </svg>
