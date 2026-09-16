@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Ratehub 2026 monthly cash cost of owning a car in Canada</title>
+  <desc id="desc">Stacked bar of monthly car ownership cash costs totalling 1373 dollars: principal, interest, gas, maintenance, admin, parking, and insurance.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">$1,373 / month cash TCO  Ratehub Canada 2026</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">National average mix of new and used. Parking $200 is a city-heavy assumption  many households pay less or more.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="12">
+    <rect x="48" y="100" width="168" height="160" rx="4" fill="#0F7A4B"/>
+    <text x="60" y="130" fill="#FFFFFF" font-weight="700">Principal</text>
+    <text x="60" y="154" fill="#FFFFFF" font-size="20" font-weight="700">$522</text>
+    <rect x="220" y="148" width="70" height="112" rx="4" fill="#0C643D"/>
+    <text x="228" y="178" fill="#FFFFFF" font-weight="700">Int.</text>
+    <text x="228" y="200" fill="#FFFFFF">$192</text>
+    <rect x="294" y="168" width="62" height="92" rx="4" fill="#9CA3AF"/>
+    <text x="302" y="198" fill="#1A1A1A" font-weight="700">Gas</text>
+    <text x="302" y="218" fill="#1A1A1A">$165</text>
+    <rect x="360" y="188" width="52" height="72" rx="4" fill="#6B7280"/>
+    <text x="366" y="214" fill="#FFFFFF" font-weight="700">Mnt</text>
+    <text x="366" y="234" fill="#FFFFFF">$120</text>
+    <rect x="416" y="140" width="78" height="120" rx="4" fill="#1A1A1A"/>
+    <text x="426" y="170" fill="#FFFFFF" font-weight="700">Park</text>
+    <text x="426" y="192" fill="#FFFFFF">$200</text>
+    <rect x="498" y="164" width="64" height="96" rx="4" fill="#0F7A4B"/>
+    <text x="506" y="194" fill="#FFFFFF" font-weight="700">Ins.</text>
+    <text x="506" y="216" fill="#FFFFFF">$164</text>
+    <rect x="566" y="248" width="40" height="12" rx="2" fill="#E5E7EB"/>
+    <text x="566" y="238" fill="#6B7280">Admin</text>
+    <text x="566" y="280" fill="#6B7280">$10</text>
+  </g>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Loan pieces vanish when the car is paid off. Insurance, parking, fuel, and a repair reserve do not.</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ratehub also notes an April 2026 fuel spike (national ~$1.749/L on 15 Apr) that would lift the gas bar toward ~$231 if it persisted.</text>
+  <text x="24" y="358" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Depreciation is omitted from this cash stack. Ratehubs VW Atlas example was ~$559/month of value lost over five years.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Insurance ~$1,973/year in the same Ratehub 2026 build (+14.4% Applied index vs prior year).</text>
+</svg>

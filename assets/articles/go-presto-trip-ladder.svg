@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">GO Transit PRESTO adult loyalty discount by trip count</title>
+  <desc id="desc">Step chart of adult GO PRESTO discounts: 15.7 percent off trips 1 to 35, 88.3 percent off trips 36 to 40, free from trip 41.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">GO adult PRESTO loyalty  same trip, same payment</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">GO Transit public PRESTO table, reviewed 16 Sep 2026. There is no classic TTC-style monthly pass.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="48" y="100" width="200" height="160" rx="10" fill="#E7F4EE"/>
+    <text x="68" y="132" font-size="14" font-weight="700" fill="#0F7A4B">Trips 135</text>
+    <text x="68" y="168" font-size="28" font-weight="700" fill="#1A1A1A">15.7% off</text>
+    <text x="68" y="200" font-size="13" fill="#6B7280">vs single adult ticket</text>
+    <text x="68" y="228" font-size="13" fill="#1A1A1A">Hybrid weeks live here</text>
+    <rect x="260" y="100" width="200" height="160" rx="10" fill="#0F7A4B"/>
+    <text x="280" y="132" font-size="14" font-weight="700" fill="#FFFFFF">Trips 3640</text>
+    <text x="280" y="168" font-size="28" font-weight="700" fill="#FFFFFF">88.3% off</text>
+    <text x="280" y="200" font-size="13" fill="#E7F4EE">steep loyalty cliff</text>
+    <text x="280" y="228" font-size="13" fill="#FFFFFF">5-day office weeks</text>
+    <rect x="472" y="100" width="200" height="160" rx="10" fill="#1A1A1A"/>
+    <text x="492" y="132" font-size="14" font-weight="700" fill="#FFFFFF">Trip 41+</text>
+    <text x="492" y="168" font-size="28" font-weight="700" fill="#FFFFFF">Free</text>
+    <text x="492" y="200" font-size="13" fill="#D1D5DB">rest of calendar month</text>
+    <text x="492" y="228" font-size="13" fill="#FFFFFF">keep tapping</text>
+  </g>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Example (labelled): OakvilleUnion adult PRESTO ~$8.16. 10 one-way trips H $81.60 after 15.7%  not a monthly.</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Youth/post-secondary: 40% off trips 130, 95% off 3140, then free (GO student page). Mixed stations change the later-trip math.</text>
+  <text x="24" y="358" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ontario One Fare: TTCGO transfer is discounted when you tap the same card or device. Missed tap-off bills the default trip.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Fares are distance-based. Always confirm your pair of stations in the GO fare calculator.</text>
+</svg>

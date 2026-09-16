@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Nine-year total cost of ownership new vs used car in Canada</title>
+  <desc id="desc">Bar chart of Ratehub 2026 nine-year ownership cost for an average, new, and used car.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Nine-year cash TCO  Ratehub Canada 2026</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">National averages, not your quote. Purchase prices from AutoTrader Q3 2025 as used by Ratehub (Apr 2026 update).</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="120" font-weight="600" fill="#1A1A1A">Used car ($36,911 sticker)</text>
+    <rect x="260" y="102" width="301" height="28" rx="4" fill="#0F7A4B"/>
+    <text x="570" y="122" fill="#6B7280">$120,420</text>
+    <text x="24" y="180" font-weight="600" fill="#1A1A1A">Average mix ($50,088)</text>
+    <rect x="260" y="162" width="349" height="28" rx="4" fill="#9CA3AF"/>
+    <text x="618" y="182" fill="#6B7280">$139,716</text>
+    <text x="24" y="240" font-weight="600" fill="#1A1A1A">New car ($63,264 sticker)</text>
+    <rect x="260" y="222" width="381" height="28" rx="4" fill="#1A1A1A"/>
+    <text x="650" y="242" fill="#6B7280">$152,292</text>
+  </g>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Gap: about $32,000 more to buy new over nine years in this national model.</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Monthly cash while financed: used ~$1,343 · average ~$1,373 · new ~$1,504 (Ratehub, includes $200 parking assumption).</text>
+  <text x="24" y="358" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Does not add opportunity cost of the down payment, or EVAP if you buy an eligible new EV.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">StatsCan: transportation is about 15% of household spending, behind shelter and food (cited in Ratehub 2026).</text>
+</svg>

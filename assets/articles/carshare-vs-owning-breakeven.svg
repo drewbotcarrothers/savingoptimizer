@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrative monthly cost: car-share hours versus keeping a second car</title>
+  <desc id="desc">Bar chart comparing Communauto and Zipcar monthly cost at light, moderate, and heavy use against a low-end second-car cash cost.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">When car-share beats a second car (illustrative GTA)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Toronto public rates reviewed JunSep 2026. Gas, insurance, and reserved parking are in the share rate.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="108" font-weight="600" fill="#1A1A1A">8 hours / month (errands)</text>
+    <rect x="260" y="90" width="70" height="24" rx="4" fill="#0F7A4B"/>
+    <text x="338" y="108" fill="#6B7280">~$40$80</text>
+    <text x="24" y="156" font-weight="600" fill="#1A1A1A">2 weekend days / month</text>
+    <rect x="260" y="138" width="160" height="24" rx="4" fill="#0F7A4B"/>
+    <text x="428" y="156" fill="#6B7280">~$80$180</text>
+    <text x="24" y="204" font-weight="600" fill="#1A1A1A">8 days / month (heavy)</text>
+    <rect x="260" y="186" width="320" height="24" rx="4" fill="#9CA3AF"/>
+    <text x="588" y="204" fill="#6B7280">~$400$650</text>
+    <text x="24" y="252" font-weight="600" fill="#1A1A1A">Paid-off 2nd car (ins.+park+maint.)</text>
+    <rect x="260" y="234" width="280" height="24" rx="4" fill="#1A1A1A"/>
+    <text x="548" y="252" fill="#6B7280">~$400$700+</text>
+    <text x="24" y="300" font-weight="600" fill="#1A1A1A">Ratehub avg ownership (all cars)</text>
+    <rect x="260" y="282" width="400" height="24" rx="4" fill="#6B7280"/>
+    <text x="668" y="300" fill="#6B7280">$1,373</text>
+  </g>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Communauto Toronto Open ~$7.65/hr (weekday station-based, Jun 15 2026 schedule). Zipcar Toronto often ~$9/hr or ~$78/day plus $9/month.</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Second-car range excludes loan payments. Ratehub.ca national average (updated Apr 2026) includes financing.</text>
+</svg>

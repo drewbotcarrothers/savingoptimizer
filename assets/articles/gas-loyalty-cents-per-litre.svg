@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrative cents per litre from Canadian gas loyalty stacks</title>
+  <desc id="desc">Horizontal bars comparing typical 2026 cents-per-litre value for PC Optimum at Esso, Petro-Points, and Scene+ at Shell, with and without co-branded cards.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Typical cents per litre  base vs stacked (2026)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative public earn rates reviewed 16 Sep 2026. Offers and instant discounts change weekly.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="100" font-weight="600" fill="#1A1A1A">PC Optimum at Esso (10 pts/L)</text>
+    <rect x="280" y="84" width="50" height="22" rx="4" fill="#9CA3AF"/>
+    <text x="338" y="100" fill="#6B7280">~1¢/L</text>
+    <text x="24" y="142" font-weight="600" fill="#1A1A1A">PC Mastercard at Esso (30 pts/L)</text>
+    <rect x="280" y="126" width="150" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="438" y="142" fill="#6B7280">~3¢/L</text>
+    <text x="24" y="184" font-weight="600" fill="#1A1A1A">Petro-Points base (10 pts/L)</text>
+    <rect x="280" y="168" width="50" height="22" rx="4" fill="#9CA3AF"/>
+    <text x="338" y="184" fill="#6B7280">~1¢/L</text>
+    <text x="24" y="226" font-weight="600" fill="#1A1A1A">Petro + linked RBC (pts + 3¢)</text>
+    <rect x="280" y="210" width="210" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="498" y="226" fill="#6B7280">~4¢/L+</text>
+    <text x="24" y="268" font-weight="600" fill="#1A1A1A">Shell Scene+ (1 pt/L)</text>
+    <rect x="280" y="252" width="50" height="22" rx="4" fill="#9CA3AF"/>
+    <text x="338" y="268" fill="#6B7280">~1¢/L</text>
+    <text x="24" y="310" font-weight="600" fill="#1A1A1A">Shell Go+ + Scene+ Scotia card</text>
+    <rect x="280" y="294" width="300" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="588" y="310" fill="#6B7280">up to ~7¢/L*</text>
+  </g>
+  <text x="24" y="354" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">*Shell V-Power + eligible linked Scene+ Scotia/Tangerine cards, per Shell Go+ public FAQ. Regular grades are often 3¢/L instant.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Point values: PC 10,000 = $10 (0.1¢); Petro-Points often 1,000 = $1; Scene+ 1,000 = $10. Confirm in each app.</text>
+  <text x="24" y="398" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A 4¢/L stack on a 40 L fill is $1.60. Do not drive across town for it if the pump is already cheaper.</text>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">TTC adult monthly cost: PAYG, fare cap, and 12-Month Pass</title>
+  <desc id="desc">Bar chart of adult TTC cost at 20, 40, and 50 paid trips compared with the Adult 12-Month Pass at $143.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Adult TTC cost in a calendar month (Sep 2026)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">PRESTO adult fare $3.30. Cap = 47 paid trips ($155.10). 12-Month Pass = $143/month.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="108" font-weight="600" fill="#1A1A1A">20 paid trips (PAYG)</text>
+    <rect x="250" y="90" width="132" height="24" rx="4" fill="#0F7A4B"/>
+    <text x="390" y="108" fill="#6B7280">$66.00</text>
+    <text x="24" y="156" font-weight="600" fill="#1A1A1A">40 paid trips (PAYG)</text>
+    <rect x="250" y="138" width="264" height="24" rx="4" fill="#0F7A4B"/>
+    <text x="522" y="156" fill="#6B7280">$132.00</text>
+    <text x="24" y="204" font-weight="600" fill="#1A1A1A">47+ trips (fare cap)</text>
+    <rect x="250" y="186" width="310" height="24" rx="4" fill="#9CA3AF"/>
+    <text x="568" y="204" fill="#6B7280">$155.10</text>
+    <text x="24" y="252" font-weight="600" fill="#1A1A1A">Adult 12-Month Pass</text>
+    <rect x="250" y="234" width="286" height="24" rx="4" fill="#1A1A1A"/>
+    <text x="544" y="252" fill="#6B7280">$143.00</text>
+    <text x="24" y="300" font-weight="600" fill="#1A1A1A">Post-secondary monthly</text>
+    <rect x="250" y="282" width="256" height="24" rx="4" fill="#0F7A4B"/>
+    <text x="514" y="300" fill="#6B7280">$128.15</text>
+  </g>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: TTC fares and monthly fare-capping pages, reviewed 16 Sep 2026. Youth, senior, and Fair Pass caps are lower.</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A two-hour transfer is one paid trip. GO Transit trips do not count toward the TTC cap.</text>
+</svg>

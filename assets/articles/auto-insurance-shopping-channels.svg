@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Auto insurance shopping channels in Canada</title>
+  <desc id="desc">Three columns comparing brokers, direct writers, and quote aggregators for Canadian auto insurance shoppers.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Three channels  compare like-for-like coverage</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Educational map, not a ranking. FSRA (Ontario) tells consumers to get at least three quotes.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="80" width="216" height="250" rx="10" fill="#E7F4EE"/>
+    <text x="40" y="110" font-size="15" font-weight="700" fill="#0F7A4B">Broker</text>
+    <text x="40" y="138" font-size="13" fill="#1A1A1A">Sells for several insurers</text>
+    <text x="40" y="162" font-size="13" fill="#1A1A1A">You may ask which markets</text>
+    <text x="40" y="186" font-size="13" fill="#1A1A1A">they represent (Ontario).</text>
+    <text x="40" y="218" font-size="13" fill="#1A1A1A">Useful for bundling,</text>
+    <text x="40" y="242" font-size="13" fill="#1A1A1A">odd vehicles, claims help.</text>
+    <text x="40" y="274" font-size="13" fill="#6B7280">Regulated (e.g. RIBO in ON)</text>
+    <rect x="252" y="80" width="216" height="250" rx="10" fill="#F3F4F6"/>
+    <text x="268" y="110" font-size="15" font-weight="700" fill="#1A1A1A">Direct writer</text>
+    <text x="268" y="138" font-size="13" fill="#1A1A1A">One company, one quote</text>
+    <text x="268" y="162" font-size="13" fill="#1A1A1A">Sometimes exclusive</text>
+    <text x="268" y="186" font-size="13" fill="#1A1A1A">online discounts.</text>
+    <text x="268" y="218" font-size="13" fill="#1A1A1A">Fast if your profile is</text>
+    <text x="268" y="242" font-size="13" fill="#1A1A1A">simple and you compare.</text>
+    <text x="268" y="274" font-size="13" fill="#6B7280">Still get two more quotes</text>
+    <rect x="480" y="80" width="216" height="250" rx="10" fill="#F3F4F6"/>
+    <text x="496" y="110" font-size="15" font-weight="700" fill="#1A1A1A">Aggregator</text>
+    <text x="496" y="138" font-size="13" fill="#1A1A1A">Lead form / comparison</text>
+    <text x="496" y="162" font-size="13" fill="#1A1A1A">site. Not every insurer</text>
+    <text x="496" y="186" font-size="13" fill="#1A1A1A">is on the panel.</text>
+    <text x="496" y="218" font-size="13" fill="#1A1A1A">Treat as a starting list,</text>
+    <text x="496" y="242" font-size="13" fill="#1A1A1A">then verify coverages.</text>
+    <text x="496" y="274" font-size="13" fill="#6B7280">Not a broker licence</text>
+  </g>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer is not an insurance broker or agent. Compare identical deductibles, liability limits, and accident benefits.</text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">FSRA: do not switch mid-term to chase a teaser  cancellation penalties can erase the save.</text>
+</svg>
