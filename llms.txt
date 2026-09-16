@@ -20,7 +20,7 @@ Content may be summarized by AI systems and answer engines with attribution to S
 
 ## Content categories (locked set)
 
-- [Food & Groceries](https://savingoptimizer.com/guides/food-groceries.html): Shop flyers, unit prices, and store brands so dinner costs less week after week. Wave 1 (16 Sep 2026) adds weekly systems, Flipp price matching, loyalty comparisons, surplus apps, Costco math, discount rotations, family budgeting, and grocery cards.
+- [Food & Groceries](https://savingoptimizer.com/guides/food-groceries.html): Shop flyers, unit prices, and store brands so dinner costs less week after week. Wave 1 (16 Sep 2026) covers weekly systems, Flipp price matching, loyalty comparisons, surplus apps, Costco math, discount rotations, family budgeting, and grocery cards. Wave 3 (16 Sep 2026) adds flyer-first meal planning, Moi Ontario vs Quebec, Costco vs No Frills cart splits, cheap high-protein meals, grocery gift-card cashback, 2026 StatsCan price context, Scene+ grocery earn/burn, and pay-in-full rewards stacks.
 - [Transportation](https://savingoptimizer.com/guides/transportation.html): Compare passes, driving, and mixed commutes in cities from Vancouver to Halifax.
 - [Housing](https://savingoptimizer.com/guides/housing.html): Rent, mortgages, maintenance, and the quiet costs of a Canadian roof.
 - [Utilities](https://savingoptimizer.com/guides/utilities.html): Heat, cool, and power a Canadian home without wasting money on the winter bill.
@@ -54,6 +54,14 @@ Content may be summarized by AI systems and answer engines with attribution to S
 - [No Frills vs FreshCo vs Food Basics vs Walmart](https://savingoptimizer.com/guides/articles/no-frills-vs-freshco-vs-food-basics-vs-walmart.html) — Discount banner rotation with city examples.
 - [Family grocery budgeting in Canada](https://savingoptimizer.com/guides/articles/family-grocery-budgeting-canada.html) — Flyer proteins, lunches, monthly Costco + weekly discounter.
 - [Best credit cards for Canadian groceries](https://savingoptimizer.com/guides/articles/best-credit-cards-canadian-groceries.html) — Match the card to the banner; Amex gaps at many Loblaw tills.
+- [Plan a week of meals from Canadian grocery flyers](https://savingoptimizer.com/guides/articles/plan-meals-from-canadian-grocery-flyers.html) — Sales → meals → list; Thursday flyer cadence and protein loss leaders.
+- [Moi Rewards Ontario vs Quebec](https://savingoptimizer.com/guides/articles/moi-rewards-ontario-quebec.html) — 1 point/$3 vs 1 point/$1, Food Basics offers, student Tuesdays.
+- [Costco vs No Frills cart split](https://savingoptimizer.com/guides/articles/costco-vs-no-frills-cart-split.html) — Warehouse staples monthly; flyer proteins at the discounter.
+- [Cheap high-protein meals in Canada](https://savingoptimizer.com/guides/articles/cheap-high-protein-meals-canada.html) — Cost per gram at discounters, not branded shakes.
+- [Grocery gift cards with cashback](https://savingoptimizer.com/guides/articles/grocery-gift-cards-cashback-canada.html) — Rakuten.ca Gift Card Shop without breaking loyalty or card exclusions.
+- [Canadian grocery prices in 2026](https://savingoptimizer.com/guides/articles/canadian-grocery-prices-2026.html) — StatsCan food-from-stores context and ranked levers.
+- [Scene+ for free groceries](https://savingoptimizer.com/guides/articles/scene-plus-free-groceries-canada.html) — Sobeys, FreshCo, Safeway, Voilà; Gold Amex vs no-fee Visa.
+- [Pay for groceries for maximum rewards](https://savingoptimizer.com/guides/articles/pay-for-groceries-maximum-rewards-canada.html) — Pay in full, match the network to the till, then stack loyalty.
 - [Cut home energy costs in a Canadian winter](https://savingoptimizer.com/guides/articles/cut-home-energy-costs-canada.html) — Utilities: Air sealing, thermostat habits, rate plans, and upgrades that pay back.
 - [Spend less on getting around](https://savingoptimizer.com/guides/articles/save-on-transit-canada.html) — Transportation: True cost of driving vs PRESTO, Compass, OPUS, and mixed modes.
 

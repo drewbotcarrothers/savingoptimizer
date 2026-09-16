@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Cheap high-protein groceries in Canada</title>
+  <desc id="desc">Horizontal bars ranking illustrative cost per gram of protein for lentils, eggs, chicken thighs, Greek yogurt, sale chicken breast, and whey.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Shop the protein gram, not the brand</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative discounter prices, Sep 2026. Recalculate with this week's unit price. Not a StatsCan series.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="98" font-weight="600" fill="#1A1A1A">Dry lentils</text>
+    <rect x="200" y="82" width="48" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="258" y="98" fill="#6B7280">~1.5 cents / g</text>
+    <text x="24" y="140" font-weight="600" fill="#1A1A1A">Eggs (large dozen)</text>
+    <rect x="200" y="124" width="80" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="290" y="140" fill="#6B7280">~2.5 cents / g</text>
+    <text x="24" y="182" font-weight="600" fill="#1A1A1A">Chicken thighs (sale)</text>
+    <rect x="200" y="166" width="110" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="320" y="182" fill="#6B7280">~3.5 cents / g</text>
+    <text x="24" y="224" font-weight="600" fill="#1A1A1A">Plain Greek yogurt tub</text>
+    <rect x="200" y="208" width="128" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="338" y="224" fill="#6B7280">~4 cents / g</text>
+    <text x="24" y="266" font-weight="600" fill="#1A1A1A">Chicken breast (sale)</text>
+    <rect x="200" y="250" width="160" height="22" rx="4" fill="#9CA3AF"/>
+    <text x="370" y="266" fill="#6B7280">~5 cents / g</text>
+    <text x="24" y="308" font-weight="600" fill="#1A1A1A">Ready-to-drink protein</text>
+    <rect x="200" y="292" width="360" height="22" rx="4" fill="#6B7280"/>
+    <text x="570" y="308" fill="#6B7280">often 10+ cents / g</text>
+  </g>
+  <text x="24" y="350" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Method: package price / (grams of protein on the label). A $3.49 dozen at ~6 g protein per egg is a different product than a $12 branded shake.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sept 2026 discounter snapshots often showed large eggs around $3.49-$3.99/dozen and sale chicken breast near $8.80-$9.90/kg - still check your till.</text>
+  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 16 Sep 2026</text>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Moi Rewards base earn Ontario vs Quebec</title>
+  <desc id="desc">Horizontal bars comparing typical Moi grocery returns in Quebec and New Brunswick versus Ontario Metro, Food Basics, and the moi RBC Visa.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Moi base earn is a different product in Ontario</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">125 points = $1 (~0.8 cents). Confirm in-app. Public program table reviewed 16 Sep 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="100" font-weight="600" fill="#1A1A1A">Metro QC / NB (1 pt / $1)</text>
+    <rect x="280" y="84" width="160" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="450" y="100" fill="#6B7280">~0.8%</text>
+    <text x="24" y="142" font-weight="600" fill="#1A1A1A">Metro Ontario (1 pt / $3)</text>
+    <rect x="280" y="126" width="54" height="22" rx="4" fill="#6B7280"/>
+    <text x="344" y="142" fill="#6B7280">~0.27%</text>
+    <text x="24" y="184" font-weight="600" fill="#1A1A1A">Food Basics / Super C</text>
+    <rect x="280" y="168" width="18" height="22" rx="4" fill="#9CA3AF"/>
+    <text x="308" y="184" fill="#6B7280">offers only</text>
+    <text x="24" y="226" font-weight="600" fill="#1A1A1A">Jean Coutu (1 pt / $1)</text>
+    <rect x="280" y="210" width="160" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="450" y="226" fill="#6B7280">~0.8%</text>
+    <text x="24" y="268" font-weight="600" fill="#1A1A1A">moi RBC Visa + QC Metro</text>
+    <rect x="280" y="252" width="320" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="610" y="268" fill="#6B7280">~1.6%</text>
+    <text x="24" y="310" font-weight="600" fill="#1A1A1A">10% student Tuesday</text>
+    <rect x="280" y="294" width="400" height="22" rx="4" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="690" y="310" text-anchor="end" fill="#0F7A4B">10%</text>
+  </g>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A Food Basics student Tuesday (participating Ontario stores) swamps Ontario Metro base earn. Shelf price still beats points.</text>
+  <text x="24" y="374" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Card 2x at Metro is advertised for participating Quebec Metro / Brunet / Premiere Moisson and Jean Coutu. Ontario Metro is thinner.</text>
+</svg>

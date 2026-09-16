@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Pay for Canadian groceries with maximum rewards</title>
+  <desc id="desc">Three banner stacks for Loblaw, Empire, and Metro households showing pay-in-full first, then loyalty plus the matching card network.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Pay in full. Then match the plastic to the till.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Interest on a rewards card is larger than any 1-6% grocery earn. Acceptance beats headline rates.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="80" width="216" height="250" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="40" y="110" font-size="13" font-weight="700" fill="#0F7A4B">Loblaw household</text>
+    <text x="40" y="138" font-size="13" fill="#1A1A1A">1. PC Optimum offers</text>
+    <text x="40" y="160" font-size="13" fill="#1A1A1A">2. PC Mastercard (MC)</text>
+    <text x="40" y="182" font-size="13" fill="#1A1A1A">3. Amex often declined</text>
+    <text x="40" y="214" font-size="12" fill="#6B7280">World Elite ~30 pts / $1</text>
+    <text x="40" y="232" font-size="12" fill="#6B7280">at grocery (~3%)</text>
+    <text x="40" y="262" font-size="12" fill="#6B7280">Gift-card prefund only</text>
+    <text x="40" y="280" font-size="12" fill="#6B7280">if the card still earns</text>
+    <rect x="252" y="80" width="216" height="250" rx="12" fill="#F3F4F6"/>
+    <text x="268" y="110" font-size="13" font-weight="700" fill="#0F7A4B">Empire household</text>
+    <text x="268" y="138" font-size="13" fill="#1A1A1A">1. Scene+ offers</text>
+    <text x="268" y="160" font-size="13" fill="#1A1A1A">2. Gold Amex or Visa</text>
+    <text x="268" y="182" font-size="13" fill="#1A1A1A">3. Cobalt if you want MR</text>
+    <text x="268" y="214" font-size="12" fill="#6B7280">Gold: up to 6 pts / $1</text>
+    <text x="268" y="232" font-size="12" fill="#6B7280">Visa: often 2 pts / $1</text>
+    <text x="268" y="262" font-size="12" fill="#6B7280">Need a Visa/MC for</text>
+    <text x="268" y="280" font-size="12" fill="#6B7280">Loblaw or Walmart days</text>
+    <rect x="480" y="80" width="216" height="250" rx="12" fill="#F3F4F6"/>
+    <text x="496" y="110" font-size="13" font-weight="700" fill="#0F7A4B">Metro household</text>
+    <text x="496" y="138" font-size="13" fill="#1A1A1A">1. Moi (QC richer)</text>
+    <text x="496" y="160" font-size="13" fill="#1A1A1A">2. moi RBC Visa</text>
+    <text x="496" y="182" font-size="13" fill="#1A1A1A">3. Food Basics shelves</text>
+    <text x="496" y="214" font-size="12" fill="#6B7280">ON base earn is thin</text>
+    <text x="496" y="232" font-size="12" fill="#6B7280">Student 10% &gt; points</text>
+    <text x="496" y="262" font-size="12" fill="#6B7280">Debit if the card</text>
+    <text x="496" y="280" font-size="12" fill="#6B7280">makes you overspend</text>
+  </g>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Costco warehouse: Mastercard only. CIBC Costco card ~1% in-store - not a grocery MCC. Walmart: no Amex.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Flexible points (Cobalt MR) only win where Amex is taken and you will actually transfer or book travel. Grocery $ at the till is simpler.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 16 Sep 2026. Not credit advice. Confirm issuer terms before you apply.</text>
+</svg>
