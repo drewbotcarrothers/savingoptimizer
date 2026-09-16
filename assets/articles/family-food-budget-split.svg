@@ -1,10 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
   <title id="title">Where a Canadian family food dollar goes</title>
   <desc id="desc">Stacked view of Statistics Canada 2023 store food spending categories plus restaurant leak.</desc>
   <rect width="720" height="400" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Average household food spending, 2023 (StatsCan SHS)</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Stores $8,659 + restaurants $3,351 = $12,046. Released 21 May 2025. Current dollars, not inflation-adjusted.</text>
-  <!-- stacked bar total 12046. width 600. -->
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Average household food spending, 2023 (StatsCan SHS)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Stores $8,659 + restaurants $3,351 = $12,046. Released 21 May 2025. Current dollars.</text>
   <g font-family="Inter, system-ui, sans-serif">
     <text x="24" y="100" font-size="13" font-weight="600" fill="#1A1A1A">Yearly food dollar</text>
     <rect x="24" y="114" width="432" height="36" fill="#0F7A4B"/>
@@ -17,10 +17,10 @@
     <rect x="215" y="196" width="83" height="28" fill="#6B7280"/>
     <rect x="298" y="196" width="150" height="28" fill="#9CA3AF"/>
     <text x="24" y="250" font-size="12" fill="#1A1A1A">Meat $1,544</text>
-    <text x="150" y="250" font-size="12" fill="#1A1A1A">Dairy &amp; eggs $1,203</text>
-    <text x="24" y="272" font-size="12" fill="#1A1A1A">Chicken alone $346 (+24% vs 2021) · Beef $391 · Pork $140</text>
-    <text x="24" y="302" font-size="13" fill="#1A1A1A">Dalhousie Food Price Report 2026 (4 Dec 2025): a model family of four may spend up to $17,571.79 on food in 2026.</text>
-    <text x="24" y="324" font-size="12" fill="#6B7280">That figure is a forecast for a specific age mix, not your household. Use it as a ceiling, then set a weekly target from take-home pay.</text>
-    <text x="24" y="360" font-size="12" fill="#6B7280">Sources: Statistics Canada Daily, Survey of Household Spending 2023 (21 May 2025); StatsCan Plus grocery-bill note (24 Jul 2025); CFPR 2026.</text>
+    <text x="150" y="250" font-size="12" fill="#1A1A1A">Dairy and eggs $1,203</text>
+    <text x="24" y="272" font-size="12" fill="#1A1A1A">Chicken $346 (+24% vs 2021). Beef $391. Pork $140.</text>
+    <text x="24" y="302" font-size="13" fill="#1A1A1A">Dalhousie Food Price Report 2026 (4 Dec 2025): a model family of four may spend up to $17,571.79.</text>
+    <text x="24" y="324" font-size="12" fill="#6B7280">That figure is a forecast for a specific age mix, not your household. Use it as a ceiling, then set a weekly target.</text>
+    <text x="24" y="360" font-size="12" fill="#6B7280">Sources: Statistics Canada Daily, SHS 2023 (21 May 2025); StatsCan Plus (24 Jul 2025); CFPR 2026.</text>
   </g>
 </svg>

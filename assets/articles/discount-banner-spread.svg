@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
   <title id="title">Same staples, different banners</title>
   <desc id="desc">Illustrative relative cost of a 12-item staple basket at discount banners versus a full-service banner.</desc>
@@ -18,7 +19,7 @@
     <rect x="280" y="234" width="336" height="26" rx="6" fill="#1A1A1A"/>
     <text x="628" y="252" font-size="13" font-weight="700" fill="#1A1A1A">120</text>
   </g>
-  <text x="24" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A 20% premium on a $160 staple week is $32  more than most loyalty offers pay.</text>
+  <text x="24" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A 20% premium on a $160 staple week is $32 - more than most loyalty offers pay.</text>
   <text x="24" y="332" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Community price-book pattern (PFC / RFD), not official Statistics Canada banner indexes. Produce and meat quality still vary by store.</text>
   <text x="24" y="368" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Cherry-picking sale proteins can flip a week. The rotation is for boring staples you buy every time.</text>
 </svg>

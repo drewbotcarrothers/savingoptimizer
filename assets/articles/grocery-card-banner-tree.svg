@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
   <title id="title">Match the grocery card to the Canadian banner family</title>
   <desc id="desc">Decision tree from primary grocery banner to a suitable credit-card type.</desc>
   <rect width="720" height="440" fill="#FFFFFF"/>
-  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Card follows banner  not a generic best grocery card</text>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Card follows banner - not a generic best grocery card</text>
   <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Acceptance and coding matter more than the headline earn rate. Confirm terms with the issuer.</text>
   <g font-family="Inter, system-ui, sans-serif">
     <rect x="230" y="70" width="260" height="48" rx="10" fill="#0F7A4B"/>
