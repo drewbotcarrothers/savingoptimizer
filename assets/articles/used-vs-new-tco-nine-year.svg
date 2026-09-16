@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ratehub nine-year total cost of ownership: used vs average vs new</title>
+  <desc id="desc">Bar chart of Ratehub April 2026 nine-year cash costs: used $120,420, average $139,716, new $152,292.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Nine-year cash cost (Ratehub, updated Apr 2026)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">National averages, not your postal code. Used $120,420 · blended $139,716 · new $152,292. Monthly: $1,343 / $1,373 / $1,504.</text>
+  <line x1="80" y1="90" x2="80" y2="310" stroke="#E5E7EB"/>
+  <line x1="80" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
+  <text x="72" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="72" y="254" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$80k</text>
+  <text x="72" y="194" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$120k</text>
+  <text x="72" y="134" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$160k</text>
+  <!-- scale $160k = 220px -->
+  <!-- used 120420/160000*220=166; y=144 -->
+  <rect x="120" y="144" width="140" height="166" rx="8" fill="#0F7A4B"/>
+  <text x="190" y="134" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$120,420</text>
+  <text x="190" y="332" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Used</text>
+  <text x="190" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,343 / month</text>
+  <!-- avg 139716/160000*220=192; y=118 -->
+  <rect x="300" y="118" width="140" height="192" rx="8" fill="#4B9B74"/>
+  <text x="370" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$139,716</text>
+  <text x="370" y="332" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Blended average</text>
+  <text x="370" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,373 / month</text>
+  <!-- new 152292/160000*220=209; y=101 -->
+  <rect x="480" y="101" width="140" height="209" rx="8" fill="#9CA3AF"/>
+  <text x="550" y="91" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$152,292</text>
+  <text x="550" y="332" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">New</text>
+  <text x="550" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,504 / month</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Gap is ~$32k over nine years at the average  before your insurance postal code, parking, or a surprise transmission. New can still win with EVAP, a long hold, or a job that cannot absorb repair downtime.</text>
+</svg>
