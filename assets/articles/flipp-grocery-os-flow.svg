@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Flipp as a Canadian grocery operating system</title>
+  <desc id="desc">Five-step weekly loop: set location and favourite stores, search staples, clip full ads, build a list, then shop and price match.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Stop scrolling. Run Flipp as a weekly operating system</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian Thursday/Friday flyer drop. Clip proofs cashiers will accept. Then cook.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="80" width="124" height="150" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="40" y="108" font-size="12" font-weight="700" fill="#0F7A4B">1. Locate</text>
+    <text x="40" y="134" font-size="13" font-weight="600" fill="#1A1A1A">City + two</text>
+    <text x="40" y="154" font-size="13" font-weight="600" fill="#1A1A1A">favourites</text>
+    <text x="40" y="180" font-size="12" fill="#6B7280">Discounter +</text>
+    <text x="40" y="198" font-size="12" fill="#6B7280">one matcher</text>
+    <rect x="164" y="80" width="124" height="150" rx="12" fill="#F3F4F6"/>
+    <text x="180" y="108" font-size="12" font-weight="700" fill="#0F7A4B">2. Search</text>
+    <text x="180" y="134" font-size="13" font-weight="600" fill="#1A1A1A">Item first</text>
+    <text x="180" y="154" font-size="13" font-weight="600" fill="#1A1A1A">not every page</text>
+    <text x="180" y="180" font-size="12" fill="#6B7280">Chicken, milk,</text>
+    <text x="180" y="198" font-size="12" fill="#6B7280">your coffee</text>
+    <rect x="304" y="80" width="124" height="150" rx="12" fill="#F3F4F6"/>
+    <text x="320" y="108" font-size="12" font-weight="700" fill="#0F7A4B">3. Clip</text>
+    <text x="320" y="134" font-size="13" font-weight="600" fill="#1A1A1A">Full ad shot</text>
+    <text x="320" y="154" font-size="13" font-weight="600" fill="#1A1A1A">logo + dates</text>
+    <text x="320" y="180" font-size="12" fill="#6B7280">Identical SKU</text>
+    <text x="320" y="198" font-size="12" fill="#6B7280">under 4 units</text>
+    <rect x="444" y="80" width="124" height="150" rx="12" fill="#F3F4F6"/>
+    <text x="460" y="108" font-size="12" font-weight="700" fill="#0F7A4B">4. List</text>
+    <text x="460" y="134" font-size="13" font-weight="600" fill="#1A1A1A">Meals from</text>
+    <text x="460" y="154" font-size="13" font-weight="600" fill="#1A1A1A">clipped protein</text>
+    <text x="460" y="180" font-size="12" fill="#6B7280">Pantry bridges</text>
+    <text x="460" y="198" font-size="12" fill="#6B7280">not a new spice</text>
+    <rect x="584" y="80" width="112" height="150" rx="12" fill="#0F7A4B"/>
+    <text x="600" y="108" font-size="12" font-weight="700" fill="#FFFFFF">5. Shop</text>
+    <text x="600" y="134" font-size="13" font-weight="600" fill="#FFFFFF">Match, then</text>
+    <text x="600" y="154" font-size="13" font-weight="600" fill="#FFFFFF">scan loyalty</text>
+    <text x="600" y="180" font-size="12" fill="#E7F4EE">PC / Scene+ /</text>
+    <text x="600" y="198" font-size="12" fill="#E7F4EE">Moi overlay</text>
+  </g>
+  <rect x="24" y="250" width="672" height="100" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="280" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Time budget that actually sticks</text>
+  <text x="40" y="304" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Sunday 12 minutes: search 5 staples, clip 4 identicals, write 5 dinners. Not 45 minutes of circular tourism.</text>
+  <text x="40" y="326" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Reebee can substitute if it shows your banners more cleanly. One flyer app is the rule.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Pair with the weekly grocery system. Flipp is the clipper; the kitchen is still the plan. Saving Optimizer - 16 Sep 2026.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Not a search-volume claim. Teaching workflow for Canadian banners that still match flyers.</text>
+</svg>
