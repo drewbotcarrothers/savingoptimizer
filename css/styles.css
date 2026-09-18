@@ -900,13 +900,6 @@ textarea:focus {
 
 .footer-wordmark svg { display: block; flex-shrink: 0; }
 
-.hero-logo {
-  height: 52px;
-  width: auto;
-  max-width: min(320px, 86vw);
-  margin: 0 0 1.35rem;
-}
-
 /* ---------- Responsive harden ---------- */
 html {
   overflow-x: clip;
@@ -932,12 +925,7 @@ body {
   }
 
   .hero {
-    padding: 2rem 0 2.5rem;
-  }
-
-  .hero-logo {
-    height: 44px;
-    max-width: min(260px, 82vw);
+    padding: 2.25rem 0 2.75rem;
   }
 
   .wrap {
