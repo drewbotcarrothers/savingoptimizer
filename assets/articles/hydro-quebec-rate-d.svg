@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Hydro-Québec Rate D structure from 1 April 2026</title>
+  <desc id="desc">Rate D: 46.154 cents per day system access, 7.065 cents per kWh for the first 40 kWh per day, and 11.142 cents thereafter. Electric heat pushes most winter kWh into the second tier. Rate Flex D cuts winter off-peak prices and charges 46.463 cents during peak events.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Hydro-Québec Rate D (effective 1 Apr 2026)</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Daily access plus two energy tiers. Electric-heat winters live in the second tier. Not a thermostat-trick list. Verified 20 Sep 2026.</text>
+  <rect x="24" y="78" width="330" height="196" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Rate D math</text>
+  <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Access: 46.154¢ per day</text>
+  <text x="40" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">First 40 kWh/day: 7.065¢</text>
+  <text x="40" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Remaining kWh: 11.142¢</text>
+  <text x="40" y="224" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">30-day first block H 1,200 kWh.</text>
+  <text x="40" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">A heated plex blows past that in January.</text>
+  <rect x="366" y="78" width="330" height="196" rx="12" fill="#F3F4F6"/>
+  <text x="382" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rate Flex D (winter)</text>
+  <text x="382" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Same 46.154¢ access</text>
+  <text x="382" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Off-peak first 40: 4.886¢</text>
+  <text x="382" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Off-peak rest: 9.103¢</text>
+  <text x="382" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Peak events: 46.463¢</text>
+  <text x="382" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Summer prices match Rate D.</text>
+  <text x="24" y="304" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Levers that move kWh: air sealing, attic, setbacks the house can recover from, zoning unused rooms, LEDs, and a line-voltage or smart thermostat that actually holds a schedule.</text>
+  <text x="24" y="340" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Equalized payments hide the winter spike. Read true usage before you call the bill high. Winter Credit Option can only reduce a Rate D bill during events.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: Hydro-Québec Electricity Rates, 2026 edition (1 Apr 2026). Confirm Flex D eligibility in your customer space before you switch.</text>
+</svg>

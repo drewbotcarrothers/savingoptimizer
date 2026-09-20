@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Alberta electricity: shop the energy line, not the whole bill</title>
+  <desc id="desc">The UCA Cost Comparison Tool compares energy rate, admin fees, term, and exit fees. Delivery stays with your distributor. Rate of Last Resort energy is about 12.0112.06 ¢/kWh through 31 December 2026 depending on the default retailer. Cooling-off is 10 calendar days; a switch can take 1090 days.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Alberta: you shop energy, not delivery</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">UCA Cost Comparison Tool workflow. RoLR energy ~12.0112.06 ¢/kWh to 31 Dec 2026. Verified 20 Sep 2026.</text>
+  <rect x="24" y="78" width="330" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">What the UCA tool shows</text>
+  <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Energy rate (¢/kWh or ¢/GJ)</text>
+  <text x="40" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Admin / monthly fees</text>
+  <text x="40" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Contract length and exit fees</text>
+  <text x="40" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fixed vs floating vs bundle</text>
+  <text x="40" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Enter your usage. Shortlist three. Call.</text>
+  <rect x="366" y="78" width="330" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="382" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">What you cannot shop</text>
+  <text x="382" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Distribution / delivery</text>
+  <text x="382" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Transmission and riders</text>
+  <text x="382" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Your wires company stays put</text>
+  <text x="382" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RoLR has no exit fee to leave</text>
+  <text x="382" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">A cheap ¢ ad can lose on $8/mo fees.</text>
+  <text x="24" y="312" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Default electricity: Rate of Last Resort (ex-RRO) through 31 Dec 2026  EPCOR 12.01, ENMAX 12.06, Direct Energy Regulated Services 12.02 ¢/kWh (UCA tables; zone-specific).</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cooling-off: 10 calendar days on a competitive contract (phone contracts can have a longer window). Switch timing: 1090 calendar days. Keep paying the old retailer until the flip.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: ucahelps.alberta.ca Cost Comparison Tool, default rates, and how-to-switch pages. Education only  not a retailer endorsement.</text>
+</svg>
