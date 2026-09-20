@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">After-tax cost of a taxable workplace parking benefit versus a transit pass</title>
+  <desc id="desc">Illustrative after-tax cost of a $250 fair-market-value parking stall at two Canadian combined tax rates versus a TTC Adult 12-Month pass.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Free stall is not always free after tax</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative only. CRA values parking at FMV, not employer cost. Not tax advice. 20 Sep 2026.</text>
+  <line x1="56" y1="80" x2="56" y2="290" stroke="#E5E7EB"/>
+  <line x1="56" y1="290" x2="680" y2="290" stroke="#E5E7EB"/>
+  <text x="48" y="294" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="48" y="224" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$100</text>
+  <text x="48" y="154" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$200</text>
+  <text x="48" y="94" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$300</text>
+  <rect x="100" y="118" width="90" height="172" fill="#9CA3AF"/>
+  <rect x="260" y="196" width="90" height="94" fill="#6B7280"/>
+  <rect x="420" y="176" width="90" height="114" fill="#4B9B74"/>
+  <rect x="560" y="206" width="90" height="84" fill="#0F7A4B"/>
+  <text x="145" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FMV stall</text>
+  <text x="145" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$250 cash</text>
+  <text x="305" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tax @ ~30%</text>
+  <text x="305" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$75 extra</text>
+  <text x="465" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tax @ ~43%</text>
+  <text x="465" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$108 extra</text>
+  <text x="605" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TTC 12-Mo</text>
+  <text x="605" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$143</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">If payroll reports a $250 FMV stall, a 30% combined rate is ~$75/month of extra tax; ~43% is ~$108. The "free" stall then costs more than a $143 TTC Adult 12-Month.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Scramble parking, disability parking, and regular business use of the vehicle can change the result. Ask payroll - do not self-file a T4 theory.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRA parking page and T4130 (high-level). TTC Adult 12-Month from companion fare guide. Education only.</text>
+</svg>

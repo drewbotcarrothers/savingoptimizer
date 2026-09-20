@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cargo bike versus a second Canadian family car</title>
+  <desc id="desc">Monthly cost comparison of a financed second compact versus an amortized cargo e-bike plus a few car-share days.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Second car vs cargo bike - monthly sketch</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled. Ratehub parking $200 and insurance $164 are placeholders. Not a shop quote. 20 Sep 2026.</text>
+  <line x1="56" y1="80" x2="56" y2="290" stroke="#E5E7EB"/>
+  <line x1="56" y1="290" x2="680" y2="290" stroke="#E5E7EB"/>
+  <text x="48" y="294" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="48" y="224" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$300</text>
+  <text x="48" y="154" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$600</text>
+  <text x="48" y="94" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$900</text>
+  <rect x="100" y="118" width="70" height="172" fill="#9CA3AF"/>
+  <rect x="100" y="188" width="70" height="102" fill="#6B7280"/>
+  <rect x="100" y="230" width="70" height="60" fill="#4B9B74"/>
+  <rect x="280" y="214" width="70" height="76" fill="#0F7A4B"/>
+  <rect x="460" y="196" width="70" height="94" fill="#4B9B74"/>
+  <text x="135" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Second compact</text>
+  <text x="135" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$700-$900</text>
+  <text x="315" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cargo e-bike</text>
+  <text x="315" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$160-$220</text>
+  <text x="495" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bike + 3 share days</text>
+  <text x="495" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$250-$320</text>
+  <rect x="600" y="118" width="12" height="12" fill="#9CA3AF"/>
+  <text x="618" y="128" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Loan + fuel</text>
+  <rect x="600" y="140" width="12" height="12" fill="#6B7280"/>
+  <text x="618" y="150" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Insurance</text>
+  <rect x="600" y="162" width="12" height="12" fill="#4B9B74"/>
+  <text x="618" y="172" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Parking</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Second-car stack uses Ratehub-style lines (loan leftover + $164 insurance + $200 parking + fuel). A $7,500 cargo bike over 48 months is ~$156 plus $15-$40 running.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Three Communauto-style days still beat a second VIN if school and groceries fit the box. IKEA, -20 C, and 25 km highways are the share days.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ratehub 29 Apr 2026 TCO placeholders. Confirm insurance and stall quotes. Education, not a dealer pitch.</text>
+</svg>
