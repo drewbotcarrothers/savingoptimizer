@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Four-year winter tire cost: one all-weather set versus two dedicated sets</title>
+  <desc id="desc">Bar chart of labelled four-year ownership costs for all-weather tires, dedicated winters without extra rims, dedicated winters with steel rims, and the same two-set path minus an Ontario insurance discount.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Four-year rubber math (labelled compact, not a quote)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">TRAC-style two-set vs one-set idea. Ontario 5% on a $1,968 premium is ~$98/year  an offset, not a free set.</text>
+  <line x1="80" y1="90" x2="80" y2="310" stroke="#E5E7EB"/>
+  <line x1="80" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
+  <text x="72" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="72" y="254" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$800</text>
+  <text x="72" y="194" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,600</text>
+  <text x="72" y="134" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$2,400</text>
+  <!-- scale $2400=220px -->
+  <!-- all-weather $1,400 = 128; y=182 -->
+  <rect x="105" y="182" width="115" height="128" rx="8" fill="#9CA3AF"/>
+  <text x="162" y="172" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,400</text>
+  <text x="162" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">All-weather</text>
+  <text x="162" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">1 set, 4 years</text>
+  <!-- two-set no rims $1,960 = 180; y=130 -->
+  <rect x="250" y="130" width="115" height="180" rx="8" fill="#4B9B74"/>
+  <text x="307" y="120" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$1,960</text>
+  <text x="307" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Winters, no rims</text>
+  <text x="307" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">mount twice/year</text>
+  <!-- two-set with rims $1,720 = 158; y=152 -->
+  <rect x="395" y="152" width="115" height="158" rx="8" fill="#0F7A4B"/>
+  <text x="452" y="142" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$1,720</text>
+  <text x="452" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Winters + steels</text>
+  <text x="452" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">cheaper changeovers</text>
+  <!-- with ON discount $1,328 = 122; y=188 -->
+  <rect x="540" y="188" width="115" height="122" rx="8" fill="#0F7A4B"/>
+  <text x="597" y="178" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$1,328</text>
+  <text x="597" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ ON 5% offset</text>
+  <text x="597" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">steels  $392 ins.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Safety is the first reason to buy winters. The dollars: extra rims often beat paying a shop to tear tires off twice a year. Run TRACs calculator with your quotes.</text>
+</svg>

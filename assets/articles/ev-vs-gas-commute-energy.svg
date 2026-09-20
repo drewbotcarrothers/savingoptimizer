@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Annual energy cost: home-charged EV vs gasoline compact at 15,000 km</title>
+  <desc id="desc">Bar chart of labelled 2026 energy-cost examples: Ontario off-peak EV, mixed home charging, public DC fast charging, and a gasoline compact at $1.75 per litre.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">15,000 km energy bill: home EV vs gasoline (labelled)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Worked examples only. OEB TOU off-peak 9.8¢/kWh (Nov 2025Oct 2026). Delivery still applies. Gas at $1.75/L.</text>
+  <line x1="80" y1="90" x2="80" y2="310" stroke="#E5E7EB"/>
+  <line x1="80" y1="310" x2="690" y2="310" stroke="#E5E7EB"/>
+  <text x="72" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="72" y="254" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$800</text>
+  <text x="72" y="194" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,600</text>
+  <text x="72" y="134" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$2,400</text>
+  <!-- scale $2400 = 220px -->
+  <!-- $294 off-peak commodity 294/2400*220=27; y=283 -->
+  <rect x="100" y="283" width="110" height="27" rx="8" fill="#0F7A4B"/>
+  <text x="155" y="273" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$294</text>
+  <text x="155" y="332" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">EV off-peak</text>
+  <text x="155" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">9.8¢ commodity</text>
+  <!-- $540 all-in 540/2400*220=50; y=260 -->
+  <rect x="250" y="260" width="110" height="50" rx="8" fill="#4B9B74"/>
+  <text x="305" y="250" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$540</text>
+  <text x="305" y="332" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">EV all-in</text>
+  <text x="305" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~18¢/kWh sketch</text>
+  <!-- $1,500 public DC 1500/2400*220=138; y=172 -->
+  <rect x="400" y="172" width="110" height="138" rx="8" fill="#9CA3AF"/>
+  <text x="455" y="162" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,500</text>
+  <text x="455" y="332" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Public DCFC</text>
+  <text x="455" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">50¢/kWh example</text>
+  <!-- $2,100 gas 2100/2400*220=193; y=117 -->
+  <rect x="550" y="117" width="110" height="193" rx="8" fill="#6B7280"/>
+  <text x="605" y="107" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,100</text>
+  <text x="605" y="332" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Gas compact</text>
+  <text x="605" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">8 L/100 km</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">3,000 kWh at 20 kWh/100 km. Public charging and winter heat can close the gap. Confirm your hydro line and pump receipts.</text>
+</svg>
