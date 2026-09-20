@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Raising a Canadian home insurance deductible vs emergency-fund test</title>
+  <desc id="desc">A higher deductible only saves if you can write the cheque the same month as the claim. Water endorsements often carry a separate deductible.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Raise the deductible only if cash is already there</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Premium save is real when the emergency fund clears the new deductible plus a water deductible.</text>
+  <rect x="48" y="200" width="70" height="80" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="83" y="246" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$500</text>
+  <text x="83" y="308" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,820/yr</text>
+  <rect x="168" y="168" width="70" height="112" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="203" y="230" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$1,000</text>
+  <text x="203" y="308" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,680/yr</text>
+  <rect x="288" y="136" width="70" height="144" fill="#0F7A4B"/>
+  <text x="323" y="210" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$2,500</text>
+  <text x="323" y="308" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,490/yr</text>
+  <rect x="408" y="112" width="70" height="168" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="443" y="196" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$5,000</text>
+  <text x="443" y="308" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,360/yr</text>
+  <text x="24" y="88" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled premium sketch (same rebuild, same water limits). $500 ’ $2,500 saves ~$330/year if you never claim  and costs $2,000 extra if you do.</text>
+  <text x="520" y="150" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Emergency-fund test</text>
+  <text x="520" y="176" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Can you pay the deductible</text>
+  <text x="520" y="196" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">the same month as a</text>
+  <text x="520" y="216" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">furnace + a car repair?</text>
+  <text x="520" y="248" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">If no, keep the lower one.</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Water / sewer endorsements often have their own deductible. Write both numbers. Break-even at $330/year is about 6 claim-free years vs a $2,000 step-up.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Illustrative premiums, not a quote. IBC water notes used 20 Sep 2026. Education only.</text>
+</svg>

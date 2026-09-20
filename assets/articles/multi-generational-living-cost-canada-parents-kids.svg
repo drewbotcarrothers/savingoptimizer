@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Multi-generational living cost math for Canadian families</title>
+  <desc id="desc">Combining households can cut two rents into one mortgage, but secondary-suite legality, renovation, insurance, and an exit plan belong on the same worksheet.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Two rents vs one roof  count the reno and the exit</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Shelter save is real. Unpermitted basement suites and well figure out groceries are how the save disappears.</text>
+  <rect x="40" y="88" width="300" height="140" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="190" y="122" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Two separate households</text>
+  <text x="190" y="152" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rent A $1,800 + Rent B $2,200</text>
+  <text x="190" y="178" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">= $4,000/mo shelter</text>
+  <text x="190" y="204" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Two insurance policies, two hydro</text>
+  <rect x="380" y="88" width="300" height="140" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="530" y="122" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Shared house (labelled)</text>
+  <text x="530" y="152" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Mortgage + tax + ins. $3,100</text>
+  <text x="530" y="178" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ suite legalization $1840k</text>
+  <text x="530" y="204" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Payback vs $900/mo gap</text>
+  <text x="24" y="260" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Before anyone moves a dresser</text>
+  <text x="24" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Zoning / additional residential unit rules · egress and smoke · insurer told in writing · who is on title and the mortgage · written expense split · 12-month exit review</text>
+  <text x="24" y="320" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Childcare trade ($1,200$2,000/mo in many cities) can dwarf the rent gap  and is not a reason to skip a legal suite.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Labelled sketch, not a municipal approval. CMHC buyer pages used 20 Sep 2026. Education only.</text>
+</svg>

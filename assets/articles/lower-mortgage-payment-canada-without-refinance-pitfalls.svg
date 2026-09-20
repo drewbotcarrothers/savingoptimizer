@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Lowering a Canadian mortgage payment can raise lifetime interest</title>
+  <desc id="desc">Extending amortization cuts the monthly bill and usually increases total interest. Blend-and-extend, porting, and insured-loan changes have their own costs.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A lower payment is not automatically a save</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Term, rate, and amortization are three levers. Stretching years is the one that quietly adds interest.</text>
+  <rect x="48" y="140" width="90" height="140" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="93" y="210" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">20 yr</text>
+  <text x="93" y="308" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$2,526/mo</text>
+  <rect x="168" y="168" width="90" height="112" fill="#0F7A4B"/>
+  <text x="213" y="226" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">25 yr</text>
+  <text x="213" y="308" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$2,214/mo</text>
+  <rect x="288" y="196" width="90" height="84" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="333" y="240" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">30 yr</text>
+  <text x="333" y="308" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$2,026/mo</text>
+  <text x="24" y="88" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled $400,000 at 4.50% (Canadian semi-annual). 25 ’ 30 years cuts ~$188/month and adds years of interest.</text>
+  <text x="420" y="150" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask before you sign</text>
+  <text x="420" y="176" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">" Blend-and-extend vs wait</text>
+  <text x="420" y="198" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">" Porting on a move</text>
+  <text x="420" y="220" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">" CMHC / insured changes</text>
+  <text x="420" y="242" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">" Emergency fund vs cut</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If the $188 only exists because you re-amortized and you still have no $4,000 reserve, you bought cash-flow with lifetime cost.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Illustrative only. OSFI / CMHC rules vary by insured vs uninsured. 20 Sep 2026. Not brokerage advice.</text>
+</svg>
