@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian leftover night in a weekly flyer plan</title>
+  <desc id="desc">Flow from Thursday flyers through a designated use-it-up night back into next week's Flipp list.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Rigid 7-dinner plans fail. One flexible night does not.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Love Food Hate Waste Canada planning, paired with a Canadian Thursday flyer cadence.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="84" width="150" height="72" rx="10" fill="#E7F4EE" stroke="#cfe4d8"/>
+    <text x="99" y="116" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B">Thu: Flipp</text>
+    <text x="99" y="136" text-anchor="middle" font-size="12" fill="#1A1A1A">5 dinners + 1 flex</text>
+    <polygon points="182,120 202,120 202,112 222,128 202,144 202,136 182,136" fill="#0F7A4B"/>
+    <rect x="230" y="84" width="150" height="72" rx="10" fill="#E7F4EE" stroke="#cfe4d8"/>
+    <text x="305" y="116" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B">Shop once</text>
+    <text x="305" y="136" text-anchor="middle" font-size="12" fill="#1A1A1A">label + FIFO</text>
+    <polygon points="388,120 408,120 408,112 428,128 408,144 408,136 388,136" fill="#0F7A4B"/>
+    <rect x="436" y="84" width="150" height="72" rx="10" fill="#0F7A4B"/>
+    <text x="511" y="116" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">Use-it-up night</text>
+    <text x="511" y="136" text-anchor="middle" font-size="12" fill="#FFFFFF">no new protein</text>
+    <polygon points="594,120 614,120 614,112 634,128 614,144 614,136 594,136" fill="#0F7A4B"/>
+    <rect x="546" y="180" width="150" height="72" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+    <text x="621" y="212" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A">Next Flipp</text>
+    <text x="621" y="232" text-anchor="middle" font-size="12" fill="#6B7280">buy less of the leak</text>
+  </g>
+  <text x="24" y="196" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Templates: grain bowls, soup, fried rice, frittata, quesadillas. Same fridge, different sauce.</text>
+  <text x="24" y="228" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CFIA: best-before is quality on unopened food, not a poison date. Expiry is the short safety list.</text>
+  <text x="24" y="268" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">National sketch: Love Food Hate Waste Canada ~$1,300 edible waste / household / year.</text>
+  <text x="24" y="312" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Painter's tape on the container beats a leftover app you will not open. Freezer list on the door.</text>
+  <text x="24" y="344" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">If Thursday is soccer, the flex night moves - the rule does not. No new protein. That is the system.</text>
+  <text x="24" y="376" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Connect the log to next week's flyer so you stop rebuying spinach you already composted.</text>
+</svg>

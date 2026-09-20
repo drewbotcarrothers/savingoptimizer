@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian private-label ladder</title>
+  <desc id="desc">Value, mid-tier, and warehouse store brands by grocery empire in Canada.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Canadian store-brand ladder - not U.S. Good &amp; Gather</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Taste at home. Unit price on the shelf. Empire does not equal flavour.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="96" font-weight="700" fill="#6B7280">Value</text>
+    <rect x="110" y="78" width="140" height="28" rx="6" fill="#9CA3AF"/>
+    <text x="180" y="97" text-anchor="middle" font-weight="600" fill="#FFFFFF">No Name</text>
+    <rect x="262" y="78" width="140" height="28" rx="6" fill="#9CA3AF"/>
+    <text x="332" y="97" text-anchor="middle" font-weight="600" fill="#FFFFFF">Great Value</text>
+    <rect x="414" y="78" width="140" height="28" rx="6" fill="#9CA3AF"/>
+    <text x="484" y="97" text-anchor="middle" font-weight="600" fill="#FFFFFF">Selection</text>
+    <rect x="566" y="78" width="130" height="28" rx="6" fill="#9CA3AF"/>
+    <text x="631" y="97" text-anchor="middle" font-weight="600" fill="#FFFFFF">Irresistibles</text>
+    <text x="24" y="148" font-weight="700" fill="#0F7A4B">Mid</text>
+    <rect x="110" y="130" width="180" height="28" rx="6" fill="#4B9B74"/>
+    <text x="200" y="149" text-anchor="middle" font-weight="600" fill="#FFFFFF">President's Choice</text>
+    <rect x="302" y="130" width="160" height="28" rx="6" fill="#4B9B74"/>
+    <text x="382" y="149" text-anchor="middle" font-weight="600" fill="#FFFFFF">Compliments</text>
+    <rect x="474" y="130" width="160" height="28" rx="6" fill="#4B9B74"/>
+    <text x="554" y="149" text-anchor="middle" font-weight="600" fill="#FFFFFF">Western Family</text>
+    <text x="24" y="200" font-weight="700" fill="#0F7A4B">Club</text>
+    <rect x="110" y="182" width="160" height="28" rx="6" fill="#0F7A4B"/>
+    <text x="190" y="201" text-anchor="middle" font-weight="600" fill="#FFFFFF">Kirkland Signature</text>
+    <text x="286" y="201" fill="#6B7280">Costco - finish the format or skip</text>
+    <text x="24" y="252" fill="#1A1A1A">Loblaw: No Name + PC (+ PC Black Label as a treat, not a staple system).</text>
+    <text x="24" y="274" fill="#1A1A1A">Empire / Sobeys: Compliments. Metro: Selection + Irresistibles. Walmart: Great Value.</text>
+    <text x="24" y="296" fill="#1A1A1A">Pattison / Save-On: Western Family. Super C / Food Basics lean Selection.</text>
+  </g>
+  <text x="24" y="340" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">National brands still win some condiments and kid-lock-in SKUs. Swap those last. Track the annual gap on 10 pantry lines.</text>
+  <text x="24" y="372" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Same plant, different logo is common in Canada. Your tongue is the lab - not a U.S. Reddit thread.</text>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Quebec grocery banners: shelf first, then Moi</title>
+  <desc id="desc">Illustrative staple-basket index for Maxi and Super C versus Metro, with Moi earn as a thin overlay.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Quebec staples: discounter shelf vs Metro lighting</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Relative index. Maxi / Super C average = 100. Moi earn is not in the bars.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <text x="24" y="108" font-size="13" font-weight="600" fill="#1A1A1A">Maxi (PC Optimum + Imbattable)</text>
+    <rect x="300" y="90" width="260" height="26" rx="6" fill="#0F7A4B"/>
+    <text x="572" y="108" font-size="13" font-weight="700" fill="#0F7A4B">100</text>
+    <text x="24" y="156" font-size="13" font-weight="600" fill="#1A1A1A">Super C (Moi offers / redeem)</text>
+    <rect x="300" y="138" width="255" height="26" rx="6" fill="#4B9B74"/>
+    <text x="567" y="156" font-size="13" font-weight="700" fill="#1A1A1A">99-102</text>
+    <text x="24" y="204" font-size="13" font-weight="600" fill="#1A1A1A">Walmart Supercentre</text>
+    <rect x="300" y="186" width="270" height="26" rx="6" fill="#0F7A4B" opacity="0.7"/>
+    <text x="582" y="204" font-size="13" font-weight="700" fill="#1A1A1A">102</text>
+    <text x="24" y="252" font-size="13" font-weight="600" fill="#1A1A1A">Metro (1 Moi pt / $1 in QC)</text>
+    <rect x="300" y="234" width="312" height="26" rx="6" fill="#1A1A1A"/>
+    <text x="624" y="252" font-size="13" font-weight="700" fill="#1A1A1A">118-122</text>
+  </g>
+  <text x="24" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Quebec Metro base earn is about 0.8%. A 20% shelf premium is still a 20% fee.</text>
+  <text x="24" y="332" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Community / comparison-site pattern, Sep 2026 - not a Statistics Canada banner index. Confirm your 12-item list.</text>
+  <text x="24" y="368" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Maxi Imbattable is the cherry-pick without a second parking lot - if the flyer proof is identical.</text>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Superstore vs No Frills trip types</title>
+  <desc id="desc">When a one-stop Superstore trip wins versus a leaner No Frills fulfilment store.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same empire, two jobs: bulk-plus vs lean discounter</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Both: PC Optimum. Both: many locations match flyers (4-unit typical). Flashfood is store-level.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="80" width="328" height="200" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+    <text x="44" y="112" font-size="16" font-weight="700" fill="#0F7A4B">No Frills as weekly base</text>
+    <text x="44" y="140" font-size="13" fill="#1A1A1A">Shorter aisles, No Name depth</text>
+    <text x="44" y="162" font-size="13" fill="#1A1A1A">Won't Be Beat as the default match</text>
+    <text x="44" y="184" font-size="13" fill="#1A1A1A">Fewer non-food traps</text>
+    <text x="44" y="206" font-size="13" fill="#1A1A1A">Flashfood if that store lists</text>
+    <text x="44" y="236" font-size="12" fill="#6B7280">Wins: staple week, students, small carts</text>
+    <rect x="368" y="80" width="328" height="200" rx="10" fill="#E7F4EE" stroke="#cfe4d8"/>
+    <text x="388" y="112" font-size="16" font-weight="700" fill="#0F7A4B">Superstore as one-stop</text>
+    <text x="388" y="140" font-size="13" fill="#1A1A1A">PC line + pharmacy + household</text>
+    <text x="388" y="162" font-size="13" fill="#1A1A1A">Ad match on the local board</text>
+    <text x="388" y="184" font-size="13" fill="#1A1A1A">Often more Flashfood volume</text>
+    <text x="388" y="206" font-size="13" fill="#1A1A1A">Clothing / housewares tax risk</text>
+    <text x="388" y="236" font-size="12" fill="#6B7280">Wins: combined errand, family pack sizes</text>
+  </g>
+  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Illustrative Superstore staple index often sits above No Frills - see the discount-rotation chart.</text>
+  <text x="24" y="350" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Atlantic Superstore is not a clone of Real Canadian Superstore ad-match. Ask the till on the East Coast.</text>
+  <text x="24" y="378" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Hybrid: Superstore monthly household run + No Frills flyer week. Same PC card, two trip types.</text>
+</svg>

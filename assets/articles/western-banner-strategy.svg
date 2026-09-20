@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Western Canada grocery default map</title>
+  <desc id="desc">Default fulfilment banners for Vancouver, Calgary, Edmonton, and Winnipeg versus Ontario framing.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">West first: banners that actually exist near you</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Starting defaults, not a cheapest-city ranking. Photograph local price-match boards.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <rect x="24" y="80" width="330" height="88" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+    <text x="40" y="106" font-weight="700" fill="#0F7A4B">Metro Vancouver</text>
+    <text x="40" y="128" fill="#1A1A1A">Superstore / No Frills + Save-On flyer</text>
+    <text x="40" y="148" fill="#6B7280">Ethnic grocers for produce; Costco monthly</text>
+    <rect x="366" y="80" width="330" height="88" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+    <text x="382" y="106" font-weight="700" fill="#0F7A4B">Calgary / Edmonton</text>
+    <text x="382" y="128" fill="#1A1A1A">Superstore + Walmart + Save-On matches</text>
+    <text x="382" y="148" fill="#6B7280">FreshCo / No Frills where the box exists</text>
+    <rect x="24" y="184" width="330" height="88" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+    <text x="40" y="210" font-weight="700" fill="#0F7A4B">Winnipeg / Prairies</text>
+    <text x="40" y="232" fill="#1A1A1A">Superstore, FreshCo, Walmart, Save-On</text>
+    <text x="40" y="252" fill="#6B7280">Food Basics is not your Ontario twin</text>
+    <rect x="366" y="184" width="330" height="88" rx="10" fill="#E7F4EE" stroke="#cfe4d8"/>
+    <text x="382" y="210" font-weight="700" fill="#0F7A4B">Loyalty overlay</text>
+    <text x="382" y="232" fill="#1A1A1A">PC Optimum, Scene+, More Rewards</text>
+    <text x="382" y="252" fill="#6B7280">Cheaper shelves still beat richer points</text>
+  </g>
+  <text x="24" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FreshCo Western boards typically list Save-On, not Food Basics (public legal copy, reviewed Sep 2026).</text>
+  <text x="24" y="340" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">First-Tuesday / senior % off at Save-On is store-level folklore until you read this week's poster. Verify locally.</text>
+  <text x="24" y="372" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ontario No Frills / Food Basics / FreshCo triangle does not travel intact to the Fraser Valley.</text>
+</svg>
