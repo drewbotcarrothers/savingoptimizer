@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario 407 ETR versus time value and GO Transit</title>
+  <desc id="desc">Worked weekday commute comparing a 407 peak trip, the same trip valued at $30 per hour of time saved, and a GO PRESTO fare.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">When a 407 trip is worth the bill</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled weekday sketch. Use 407etr.com/tollcalculator for your ramps. Rates from 1 Jan 2026. Reviewed 20 Sep 2026.</text>
+  <line x1="56" y1="80" x2="56" y2="290" stroke="#E5E7EB"/>
+  <line x1="56" y1="290" x2="680" y2="290" stroke="#E5E7EB"/>
+  <text x="48" y="294" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="48" y="224" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$15</text>
+  <text x="48" y="154" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$30</text>
+  <text x="48" y="94" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$45</text>
+  <rect x="90" y="176" width="100" height="114" fill="#6B7280"/>
+  <rect x="250" y="196" width="100" height="94" fill="#0F7A4B"/>
+  <rect x="410" y="140" width="100" height="150" fill="#9CA3AF"/>
+  <rect x="560" y="218" width="100" height="72" fill="#4B9B74"/>
+  <text x="140" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">407 peak + $1</text>
+  <text x="140" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$18$28</text>
+  <text x="300" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">40 min @ $30/h</text>
+  <text x="300" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$20 time</text>
+  <text x="460" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Video extra</text>
+  <text x="460" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">+$5.30 + $5/mo</text>
+  <text x="610" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">GO one-way</text>
+  <text x="610" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">distance fare</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Steer (for 407 ETR) cites 2060 minutes saved on a typical rush-hour trip. At $30/hour, 40 minutes is $20 of time  often less than a long peak 407 bill.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Annual transponder $31.50 + tax (Jan 2026) beats three video round trips. A $150/month toll cap forces the days that are actually late-for-work days.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">407 ETR 21 Nov 2025 rate release; transponder and camera fees from 407etr.com. GO is the real alternative on many corridors.</text>
+</svg>

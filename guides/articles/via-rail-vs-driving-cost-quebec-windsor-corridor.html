@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Via Rail vs driving the Québec–Windsor corridor — Saving Optimizer</title>
+  <meta name="description" content="Transportation cost math for Via Rail versus driving Toronto–Ottawa, Montréal–Toronto, and other Québec–Windsor corridor trips: fuel, parking, wear, Escape vs flexible fares, families vs solo, GO/UP last-mile, and expense policies.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/via-rail-vs-driving-cost-quebec-windsor-corridor.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Via Rail vs driving the Québec–Windsor corridor — Saving Optimizer">
+  <meta property="og:description" content="Transportation cost math for Via Rail versus driving Toronto–Ottawa, Montréal–Toronto, and other Québec–Windsor corridor trips: fuel, parking, wear, Escape vs flexible fares, families vs solo, GO/UP last-mile, and expense policies.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/via-rail-vs-driving-cost-quebec-windsor-corridor.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Via Rail vs driving the Québec–Windsor corridor — Saving Optimizer">
+  <meta name="twitter:description" content="Transportation cost math for Via Rail versus driving Toronto–Ottawa, Montréal–Toronto, and other Québec–Windsor corridor trips: fuel, parking, wear, Escape vs flexible fares, families vs solo, GO/UP last-mile, and expense policies.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Transportation">
+  <meta name="article:published_time" content="2026-09-20">
+  <meta name="article:modified_time" content="2026-09-20">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Via Rail vs driving the Québec–Windsor corridor: commuter and errand cost math",
+  "description": "Transportation cost math for Via Rail versus driving Toronto–Ottawa, Montréal–Toronto, and other Québec–Windsor corridor trips: fuel, parking, wear, Escape vs flexible fares, families vs solo, GO/UP last-mile, and expense policies.",
+  "datePublished": "2026-09-20",
+  "dateModified": "2026-09-20",
+  "inLanguage": "en-CA",
+  "author": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "url": "https://savingoptimizer.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://savingoptimizer.com/assets/logo-primary.png"
+    },
+    "url": "https://savingoptimizer.com/"
+  },
+  "image": "https://savingoptimizer.com/assets/logo-primary.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://savingoptimizer.com/guides/articles/via-rail-vs-driving-cost-quebec-windsor-corridor.html"
+  },
+  "url": "https://savingoptimizer.com/guides/articles/via-rail-vs-driving-cost-quebec-windsor-corridor.html",
+  "articleSection": "Transportation",
+  "about": {
+    "@type": "Thing",
+    "name": "Canadian transportation savings",
+    "description": "Practical Transportation savings advice for Canadian households."
+  }
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://savingoptimizer.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://savingoptimizer.com/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Transportation",
+      "item": "https://savingoptimizer.com/guides/transportation.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Via Rail vs driving the Québec–Windsor corridor: commuter and errand cost math",
+      "item": "https://savingoptimizer.com/guides/articles/via-rail-vs-driving-cost-quebec-windsor-corridor.html"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Via cheaper than driving Toronto to Ottawa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For one adult on an advance Economy fare, often yes once you add parking and wear — not if you only count $58 of gas. For four adults, the car usually wins money. Check live fares."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is an Escape fare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Via’s cheapest online bucket: limited seats, non-refundable, non-exchangeable. Fine for a date you will not move. Bad for a meeting that slides."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I take 407 to beat the train?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarely on money. Time the 401 first. A peak 407 through-trip is a separate bill. The train’s product is downtown arrival, not a faster highway."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a car in Ottawa or Montréal after Via?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often no if the day is downtown. Use OC Transpo or STM. A client in the suburbs can flip the math back to driving."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is this a travel guide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Vacation itineraries sit in Travel. This is Transportation cost math for corridor errands and workdays."
+      }
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../transportation.html">Transportation</a></li>
+      <li aria-current="page">Via Rail vs driving the Québec–Windsor corridor: commuter and errand cost math</li>
+    </ol>
+    </nav>
+    <p class="kicker">Transportation · Canada</p>
+    <h1>Via Rail vs driving the Québec–Windsor corridor: commuter and errand cost math</h1>
+    <p class="article-meta">Toronto–Ottawa, Montréal–Toronto · About 17 minutes · 20 Sep 2026</p>
+    
+    <div class="prose">
+
+      <p>Corridor travellers default to the 401 because “gas is $60” and ignore downtown parking, wear, and a day that starts with a slush parking-lot search. Via Rail’s Québec–Windsor trains are a transportation product: Union to Ottawa, Central Station to Toronto, Kingston, Québec, Windsor. Advance Economy can beat a solo drive. Four last-minute Economy seats usually lose to one Civic. This is cost math for meetings and family errands — not a vacation itinerary (that lives in Travel).</p>
+      <p>All-in driving: <a href="cost-of-owning-a-car-canada-2026.html">car TCO</a> and <a href="highway-tolls-canada-407-vs-time-cost.html">407 vs time</a>. Mode chooser: <a href="flight-vs-train-vs-drive-short-haul-canada.html">flight vs train vs drive</a>. GO last-mile: <a href="go-transit-presto-monthly-vs-payg.html">PRESTO ladder</a>.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> Via Rail fare deals and gas-rewards cards for the drive option are offer types. Saving Optimizer may earn a commission if we later add partner links. We do not currently claim Via or issuer partnerships. Fare bands are not a ticket.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>Driving ~450 km Toronto–Ottawa: fuel at 8 L/100 km and $1.60/L is about <strong>$58</strong> one way; add downtown parking and a <strong>10–15¢/km</strong> wear line. “Just gas” is the lie.</li>
+          <li>Via Economy on that route often advertised in 2026 write-ups around <strong>$45–$150</strong> one way (demand-based). Escape is cheap and rigid. Flexible fares are a meeting product.</li>
+          <li>Solo plus downtown-to-downtown: train usually wins money <em>and</em> nerves if you book ahead. Family of four: the car usually wins money unless someone was going to rent a vehicle anyway.</li>
+          <li>Last-mile is TTC, OC Transpo, STM, UP Express, or a short rideshare — not a downtown garage “because we have a car.”</li>
+          <li>Employer travel policies often prefer rail receipts over mileage plus parking. Ask before you default to the 401.</li>
+        </ul>
+      </div>
+
+      <h2>All-in driving: fuel, parking, wear, tolls, stress time</h2>
+      <p>Worked one-way sketch (labelled) for Toronto–Ottawa, ~450 km:</p>
+      <ul>
+        <li>Fuel: 8 L/100 km × 4.5 × $1.60/L ≈ <strong>$58</strong>. Use your trip computer and yesterday’s litre.</li>
+        <li>Wear / “not just gas”: 10–15¢/km for tires, service, and depreciation on a corridor day ≈ <strong>$45–$70</strong>. This is <em>not</em> the CRA mileage allowance; that is a reimbursement rule, not your cost.</li>
+        <li>Parking: $15–$40 downtown if you do not have a free stall. Green P and hotel lots vary.</li>
+        <li>407: optional. A peak through-trip can add tens of dollars — <a href="highway-tolls-canada-407-vs-time-cost.html">calculator first</a>.</li>
+      </ul>
+      <p>Solo all-in often lands <strong>$90–$140</strong> one way before you value four to five hours of driving. Two people split that; four people crush it. Stress and weather are why people still buy the train after they “did the gas math.”</p>
+
+      <h2>Via fares: advance purchase vs flexible</h2>
+      <p>Via prices the seat, not the kilometre. Escape (online, limited) is non-refundable and non-exchangeable. Economy is cheaper than Economy Plus; change fees apply (Via’s fare-conditions page: Economy exchanges often 25% or a $20 minimum plus fare difference — confirm live). Business is a workplace with a meal, not a family errand class.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Indicative 2026 one-way Economy bands from public corridor write-ups — not a booking. Confirm viarail.ca for your date.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Route (approx.)</th>
+              <th scope="col">Economy band</th>
+              <th scope="col">Drive time (honest)</th>
+              <th scope="col">Train time</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Toronto–Ottawa (~450 km)</th>
+              <td>$45–$150</td>
+              <td>4.5–6 h</td>
+              <td>~4–4.5 h</td>
+            </tr>
+            <tr>
+              <th scope="row">Toronto–Montréal (~540 km)</th>
+              <td>$50–$180</td>
+              <td>5–6.5 h</td>
+              <td>~4.5–5.5 h</td>
+            </tr>
+            <tr>
+              <th scope="row">Montréal–Québec (~250 km)</th>
+              <td>$40–$120</td>
+              <td>2.5–3.5 h</td>
+              <td>~3–3.5 h</td>
+            </tr>
+            <tr>
+              <th scope="row">Toronto–Kingston (~260 km)</th>
+              <td>often the cheapest seats</td>
+              <td>~2.5–3.5 h</td>
+              <td>~2–2.5 h</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Book mid-week, two to three weeks out, when you can. Same-week flexible is how a $55 problem becomes a $180 problem.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/via-rail-vs-driving-corridor.svg" width="720" height="420" alt="Bar chart of Via versus driving for a solo traveller and a family of four on Toronto–Ottawa.">
+        <figcaption>Advance Economy often beats a solo drive once parking and wear are included. Four seats rarely beat one car. Confirm live fares. Not a ticket.</figcaption>
+      </figure>
+
+      <h2>When the train wins for solo travellers vs families</h2>
+      <p><strong>Solo / duo:</strong> downtown meeting, no suitcase mountain, booked ahead — train. You work on the seat; you arrive at Union or Central, not a distant lot.</p>
+      <p><strong>Family of three or four:</strong> the car usually wins cash unless you were renting anyway, someone cannot drive, or parking at the destination is a horror. Kids plus Escape-fare rigidity is a bad mix — buy a fare you can change or drive.</p>
+
+      <h2>GO, UP, and local transit last-mile costs</h2>
+      <p>Union Station is a feature. Pair Via with TTC, GO, or a short walk. Ottawa: OC Transpo from the station. Montréal: Métro from Central. Pearson is a different trip — UP Express is an airport product, not a corridor product. Do not add a downtown rental car “to feel safe” and then claim the train was expensive. If the last mile is a $60 rideshare each way, you priced the wrong station pair — or you should have driven.</p>
+
+      <h2>Employer travel policy and expense claims</h2>
+      <p>Many Canadian employers prefer a Via receipt to mileage + parking + 407. Some still pay cents per kilometre that exceed your true fuel cost (that is their policy, not your household TCO). If you keep the difference, you have an incentive to drive; if you care about the department budget, book the $70 Economy. Ask before you leave. Taxable benefits on personal-looking trips are a payroll question, not this page.</p>
+
+      <h2>Sample Toronto–Ottawa and Montréal–Toronto day trips</h2>
+      <ul>
+        <li><strong>Toronto–Ottawa day meeting:</strong> 06:xx train, 17:xx return. Two advance Economies $90–$220 versus one car $180–$280 plus a day of attention. Train unless the meeting is in Kanata with no bus and a $12 lot.</li>
+        <li><strong>Montréal–Toronto overnight family:</strong> four Economies can be $400+; the car is one fuel tank and a hotel parking line. Drive, or book Escape months ahead if the dates are stone.</li>
+      </ul>
+
+      <h2>Keep Travel for vacation itineraries — this stays cost math</h2>
+      <p>Multi-city holidays, sleeper trains, and “10 days in the Maritimes” belong in Travel. This page is the Tuesday corridor: who pays, which mode, what the last mile costs. If you are choosing a vacation, use the Travel hub. If you are choosing how to get to a 10 a.m. in Ottawa, stay here.</p>
+      <div class="callout">
+        <p><strong>Booking rule:</strong> screenshot the all-in (fare + transit at both ends) next to fuel + parking + wear for the same dates. The cheaper screenshot wins. Nostalgia for the 401 does not get a column.</p>
+      </div>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>Via Rail fare-conditions and lowest-fare pages — Escape vs Economy vs Business rules. Confirm live. Reviewed 20 Sep 2026.</li>
+          <li>Public 2026 corridor Economy bands (Toronto–Ottawa, Toronto–Montréal, Montréal–Québec) — demand ranges, not tickets.</li>
+          <li>Ratehub 2026 TCO context for wear/parking; companion 407 and GO guides.</li>
+          <li>Driving distances are approximate corridor figures used for labelled sketches.</li>
+        </ul>
+      </div>
+
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Is Via cheaper than driving Toronto to Ottawa?</h3>
+          <p>For one adult on an advance Economy fare, often yes once you add parking and wear — not if you only count $58 of gas. For four adults, the car usually wins money. Check live fares.</p>
+        </div>
+        <div class="faq-item">
+          <h3>What is an Escape fare?</h3>
+          <p>Via’s cheapest online bucket: limited seats, non-refundable, non-exchangeable. Fine for a date you will not move. Bad for a meeting that slides.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Should I take 407 to beat the train?</h3>
+          <p>Rarely on money. Time the 401 first. A peak 407 through-trip is a separate bill. The train’s product is downtown arrival, not a faster highway.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Do I need a car in Ottawa or Montréal after Via?</h3>
+          <p>Often no if the day is downtown. Use OC Transpo or STM. A client in the suburbs can flip the math back to driving.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Is this a travel guide?</h3>
+          <p>No. Vacation itineraries sit in Travel. This is Transportation cost math for corridor errands and workdays.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="flight-vs-train-vs-drive-short-haul-canada.html">Flight vs train vs drive<span>Add airfare and airport access.</span></a></li>
+        <li><a href="highway-tolls-canada-407-vs-time-cost.html">407 vs time<span>The optional GTA surcharge.</span></a></li>
+        <li><a href="go-transit-presto-monthly-vs-payg.html">GO PRESTO<span>Last-mile and shorter corridor hops.</span></a></li>
+        <li><a href="cost-of-owning-a-car-canada-2026.html">Real cost of a car<span>Wear is not $0.</span></a></li>
+        <li><a href="../transportation.html">Transportation hub<span>Corridor, transit, and TCO.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../transportation.html">More Transportation guides</a>
+      <a class="btn btn-ghost" href="flight-vs-train-vs-drive-short-haul-canada.html">Next: flight vs train vs drive</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>More Canadian tools</h2>
+        <ul>
+          <li><a href="https://canadiancreditcardfinder.com/">Canadian Credit Card Finder</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

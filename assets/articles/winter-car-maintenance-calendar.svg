@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian October to April winter car maintenance calendar</title>
+  <desc id="desc">Planned winter maintenance spend versus a single emergency tow and battery replacement after a cold snap.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">OctoberApril: plan the $200, skip the $600 surprise</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled Canadian shop bands. Tow assumes no useful roadside. Reviewed 20 Sep 2026.</text>
+  <line x1="56" y1="80" x2="56" y2="290" stroke="#E5E7EB"/>
+  <line x1="56" y1="290" x2="680" y2="290" stroke="#E5E7EB"/>
+  <text x="48" y="294" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="48" y="224" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$150</text>
+  <text x="48" y="154" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$300</text>
+  <text x="48" y="94" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$450</text>
+  <rect x="80" y="248" width="36" height="42" fill="#0F7A4B"/>
+  <rect x="130" y="236" width="36" height="54" fill="#0F7A4B"/>
+  <rect x="180" y="258" width="36" height="32" fill="#4B9B74"/>
+  <rect x="230" y="268" width="36" height="22" fill="#4B9B74"/>
+  <rect x="280" y="268" width="36" height="22" fill="#4B9B74"/>
+  <rect x="330" y="252" width="36" height="38" fill="#4B9B74"/>
+  <rect x="380" y="270" width="36" height="20" fill="#4B9B74"/>
+  <rect x="500" y="118" width="70" height="172" fill="#9CA3AF"/>
+  <text x="98" y="310" text-anchor="middle" font-size="10" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Oct</text>
+  <text x="148" y="310" text-anchor="middle" font-size="10" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Nov</text>
+  <text x="198" y="310" text-anchor="middle" font-size="10" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Dec</text>
+  <text x="248" y="310" text-anchor="middle" font-size="10" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Jan</text>
+  <text x="298" y="310" text-anchor="middle" font-size="10" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Feb</text>
+  <text x="348" y="310" text-anchor="middle" font-size="10" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Mar</text>
+  <text x="398" y="310" text-anchor="middle" font-size="10" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Apr</text>
+  <text x="535" y="310" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Dead-battery</text>
+  <text x="535" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">tow + battery</text>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Oct: battery test + winter-washer + wipers (~$80$140). Nov: rust spray window if not done (CAA-Québec: AugOct ideal). Mid-winter: underbody washes after brine.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A planned ~$180$260 season plus CAA Basic/Plus (club prices vary) is cheaper than one 25 °C no-start plus a shop battery on a Sunday.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Companion: winter-tire budget, Ontario discount, CAA tiers. Safety items (tires, brakes, lights) are not the line to cut.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Shop bands labelled 20 Sep 2026. Confirm live prices. Education, not a repair order.</text>
+</svg>
