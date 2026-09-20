@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">B.C. sublet and assignment: leave early without wasting rent</title>
+  <desc id="desc">RTB: written landlord consent required. On a fixed term with six or more months left, consent cannot be unreasonably withheld. Landlords must not charge a fee for considering or consenting. 2026 rent-increase limit 2.3%.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">B.C.: written consent, no fee, then compare to proper notice</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">RTA s. 34 · RTB sublet/assignment page. 2026 increase limit 2.3%. Used 20 Sep 2026.</text>
+  <rect x="24" y="84" width="220" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="134" y="116" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Sublet</text>
+  <text x="40" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">You plan to return</text>
+  <text x="40" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">You stay responsible</text>
+  <text x="40" y="200" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Written consent first</text>
+  <text x="40" y="224" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Deposit stays yours</text>
+  <text x="40" y="248" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Handoff in writing</text>
+  <rect x="256" y="84" width="220" height="200" rx="12" fill="#0F7A4B"/>
+  <text x="366" y="116" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Assignment</text>
+  <text x="272" y="152" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Someone takes the lease</text>
+  <text x="272" y="176" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Same rent, same terms</text>
+  <text x="272" y="200" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">6+ months left: no</text>
+  <text x="272" y="224" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">unreasonable withhold</text>
+  <text x="272" y="248" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Landlord: $0 consent fee</text>
+  <rect x="488" y="84" width="208" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="592" y="116" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Or just end it</text>
+  <text x="504" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Proper notice can beat</text>
+  <text x="504" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">a messy informal sublet</text>
+  <text x="504" y="200" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fixed term ` always stuck</text>
+  <text x="504" y="224" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">RTB-7 timing if staying</text>
+  <text x="504" y="248" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">15-day deposit clock</text>
+  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Informal Kijiji take over my lease without written consent can become a One Month Notice problem  and you still owe the rent.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">gov.bc.ca residential tenancies. RTA s. 34(3): no charge for considering, investigating, or consenting. Not legal advice.</text>
+</svg>

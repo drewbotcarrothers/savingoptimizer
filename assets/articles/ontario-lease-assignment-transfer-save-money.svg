@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario lease assignment vs paying rent on an empty unit</title>
+  <desc id="desc">Labelled $2,200 Ontario rent. Four months of empty-unit rent is $8,800. Assignment can release you from the lease if the landlord consents. Seven-day response window; N9 path if they refuse or stay silent.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario: assignment can beat four months of double rent</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">RTA ss. 9597 high-level. Labelled $2,200 rent. 20 Sep 2026. Not legal advice.</text>
+  <rect x="36" y="88" width="208" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="140" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pay the empty unit</text>
+  <text x="140" y="168" text-anchor="middle" font-size="26" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$8,800</text>
+  <text x="140" y="198" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4 × $2,200 left on term</text>
+  <text x="52" y="232" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Plus new citys rent</text>
+  <text x="52" y="254" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">LMR stays parked</text>
+  <rect x="256" y="88" width="208" height="200" rx="12" fill="#0F7A4B"/>
+  <text x="360" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Assign (if consented)</text>
+  <text x="360" y="168" text-anchor="middle" font-size="26" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="360" y="198" text-anchor="middle" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Ongoing rent after transfer</text>
+  <text x="272" y="232" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">You leave the lease</text>
+  <text x="272" y="254" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Out-of-pocket costs only</text>
+  <rect x="476" y="88" width="208" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="580" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Clock</text>
+  <text x="492" y="168" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask in writing</text>
+  <text x="492" y="192" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">7 days to respond</text>
+  <text x="492" y="216" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Refuse / silence  N9</text>
+  <text x="492" y="240" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Usually ~30 days out</text>
+  <text x="492" y="264" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Sublet keeps you on hook</text>
+  <text x="24" y="328" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A below-guideline sitting rent is valuable. That is why some landlords stall assignment. Do not sell the transfer as key money.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">RTA: landlord shall not arbitrarily or unreasonably refuse a named assignee; may charge reasonable out-of-pocket expenses only. Confirm on Tribunals Ontario.</text>
+</svg>
