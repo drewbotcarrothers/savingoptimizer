@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">First-time buyer GST/HST new housing rebate vs regular rebate</title>
+  <desc id="desc">The regular federal new-housing rebate maxes at $6,300 and phases out by $450,000. The FTHB GST/HST rebate can rebate 100% of the 5% federal tax up to $50,000 on homes at or under $1 million.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Two federal rebates. One of them still dies at $450k.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">FTHB GST/HST: agreements on or after 20 Mar 2025 and before 2031. Royal Assent 12 Mar 2026. CRA accepting applications.</text>
+  <rect x="40" y="88" width="300" height="140" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="190" y="122" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Regular new-housing rebate</text>
+  <text x="190" y="152" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">36% of GST · max $6,300</text>
+  <text x="190" y="178" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Full to $350k · $0 at $450k+</text>
+  <text x="190" y="204" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not first-time only</text>
+  <rect x="380" y="88" width="300" height="140" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="530" y="122" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">FTHB GST/HST rebate</text>
+  <text x="530" y="152" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Up to $50,000 of 5% GST</text>
+  <text x="530" y="178" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">100% to $1.0M · phase to $1.5M</text>
+  <text x="530" y="204" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">First-time + new / subst. reno</text>
+  <text x="24" y="260" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled $750,000 Ontario new condo (first-time)</text>
+  <text x="24" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">5% federal HST = $37,500. Regular rebate would be $0 (over $450k). FTHB can rebate that $37,500 if you qualify  plus Ontario 8% paths (ENHR / ON FTHB) on a separate worksheet.</text>
+  <text x="24" y="320" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Resale pays no GST/HST on the house. Do not invent a rebate to make a new build win.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRA FTHB GST/HST pages and RC4028 used 20 Sep 2026. Not a CRA filing position.</text>
+</svg>

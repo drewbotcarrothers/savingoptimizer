@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Condo corporation vs unit-owner insurance gap in Canada</title>
+  <desc id="desc">The corporation policy covers the building and common elements. A large water deductible can be assessed to owners. Unit insurance needs improvements, contents, liability, and loss-assessment cover.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The corp policy is not your kitchen</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CMHC condo FAQs: corporation vs unit roles. Water deductibles of $25k$100k are the claim that lands on owners.</text>
+  <rect x="36" y="84" width="210" height="150" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="141" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Corp / strata policy</text>
+  <text x="141" y="146" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Building + common</text>
+  <text x="141" y="168" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Corp liability</text>
+  <text x="141" y="194" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Read status / Form B</text>
+  <rect x="256" y="84" width="210" height="150" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="361" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">What can hit you</text>
+  <text x="361" y="146" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Corp water deductible</text>
+  <text x="361" y="168" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Special / loss assessment</text>
+  <text x="361" y="194" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Improvements you paid for</text>
+  <rect x="476" y="84" width="208" height="150" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="580" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Your unit policy</text>
+  <text x="580" y="146" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Betterments + contents</text>
+  <text x="580" y="168" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Liability + ALE</text>
+  <text x="580" y="194" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Loss-assessment limit</text>
+  <text x="24" y="272" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled water-assessment sketch</text>
+  <text x="24" y="300" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Corp water deductible $50,000 ÷ 80 units H $625 each  if the by-law lets them assess. A $28/month unit policy without loss assessment does not pay that.</text>
+  <text x="24" y="332" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask for the corp deductible schedule before you treat the building is insured as a complete answer.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CMHC condominium FAQs used 20 Sep 2026. Not a policy and not a special-assessment quote.</text>
+</svg>

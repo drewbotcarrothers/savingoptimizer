@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">FTHBI is closed  2026 first-time buyer replacement stack</title>
+  <desc id="desc">CMHC First-Time Home Buyer Incentive applications ended 21 March 2024. 2026 buyers should use FHSA, HBP, LTT rebates, and GST/HST new-housing relief instead of shared equity.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">FTHBI is closed. Do not underwrite a shared-equity cheque.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CMHC: new submissions ended 21 Mar 2024, midnight EST. No new approvals after 31 Mar 2024.</text>
+  <rect x="36" y="84" width="160" height="130" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="116" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FTHBI</text>
+  <text x="116" y="146" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Closed</text>
+  <text x="116" y="172" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">5% / 10% shared</text>
+  <text x="116" y="192" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">equity  historic</text>
+  <rect x="208" y="84" width="160" height="130" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="288" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">FHSA</text>
+  <text x="288" y="146" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$8,000 / year</text>
+  <text x="288" y="172" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$40,000 lifetime</text>
+  <rect x="380" y="84" width="160" height="130" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="460" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">HBP</text>
+  <text x="460" y="146" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$60,000 RRSP</text>
+  <text x="460" y="172" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2026 ’ repay 2031</text>
+  <rect x="552" y="84" width="132" height="130" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="618" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Tax relief</text>
+  <text x="618" y="146" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">LTT refunds</text>
+  <text x="618" y="172" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">GST/HST FTHB</text>
+  <text x="24" y="250" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2026 decision tree</text>
+  <text x="24" y="278" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. Ignore any blog still selling a new Incentive. 2. Open/fund FHSA if eligible. 3. Map HBP room. 4. Verify provincial LTT and GST/HST pages the week you offer.</text>
+  <text x="24" y="310" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Shared equity confused many households: you repaid a slice of future value, not a friendly grant. That product is not coming back on a 2026 worksheet.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CMHC FTHBI page and CRA FHSA/HBP pages used 20 Sep 2026. Not tax or brokerage advice.</text>
+</svg>
