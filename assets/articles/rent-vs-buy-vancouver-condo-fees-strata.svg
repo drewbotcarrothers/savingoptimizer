@@ -4,7 +4,7 @@
   <desc id="desc">Labelled Metro Vancouver sketch. Strata fees can rival a rate change. B.C. property transfer tax on $750,000 is $13,000 before a first-time $8,000 reduction in the $500,000 to $835,000 band. Form B and depreciation reports belong on the break-even model.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Vancouver: put strata on the stack before the rate</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled sketch, 20 Sep 2026. PTT: 1% to $200k + 2% to $2M. FTHB: $8,000 reduction $500k$835k (gov.bc.ca, Apr 1 2024 amounts). Not your quote.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled sketch, 20 Sep 2026. PTT: 1% to $200k + 2% to $2M. FTHB: $8,000 reduction $500k–$835k (gov.bc.ca, Apr 1 2024 amounts). Not your quote.</text>
   <text x="150" y="92" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Own (example)</text>
   <rect x="80" y="104" width="140" height="64" fill="#1A1A1A"/>
   <text x="150" y="142" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Mortgage $2,680</text>
@@ -28,7 +28,7 @@
   <text x="500" y="216" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Contemplated vs rumour</text>
   <text x="500" y="244" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$750k PTT = $13,000</text>
   <text x="500" y="268" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">FTHB sketch: $5,000 net</text>
-  <text x="24" y="330" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A cheap $380 fee with a thin contingency is often a future levy. A $620 fee with a funded report can still lose to rent if you leave in year three.</text>
+  <text x="24" y="330" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A "cheap" $380 fee with a thin contingency is often a future levy. A $620 fee with a funded report can still lose to rent if you leave in year three.</text>
   <text x="24" y="360" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Townhome strata + yard insurance is a different stack than a downtown tower. Do not paste a Calgary freehold worksheet onto Broadway.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational only. Confirm PTT and FTHB on gov.bc.ca. CMHC condo FAQs: read the disclosure package before you waive.</text>
 </svg>

@@ -3,7 +3,7 @@
   <title id="title">FHSA annual and lifetime room calendar for a Canadian first-home save</title>
   <desc id="desc">CRA FHSA: $8,000 participation room in the year you open, $40,000 lifetime contributions, unused room carry-forward generally capped so a later year can reach $16,000. FTHBI closed 21 Mar 2024.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">FHSA room starts the year you open  not the year you meant to</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">FHSA room starts the year you open — not the year you meant to</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CRA: $8,000 first-year room � $40,000 lifetime contributions (canada.ca, verified 16 Sep 2026). Carry-forward can make one year $16,000.</text>
   <rect x="40" y="200" width="70" height="80" fill="#0F7A4B"/>
   <text x="75" y="190" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$8k</text>
@@ -22,11 +22,11 @@
   <text x="435" y="300" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Y5 = $40k</text>
   <text x="500" y="120" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Late-open trap</text>
   <text x="500" y="148" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Open in 2026: $8,000</text>
-  <text x="500" y="172" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">this year  no retro room</text>
-  <text x="500" y="196" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">for 20232025 eligibility.</text>
+  <text x="500" y="172" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">this year — no retro room</text>
+  <text x="500" y="196" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">for 2023–2025 eligibility.</text>
   <text x="500" y="228" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Unused Y1 $3,000 �</text>
   <text x="500" y="252" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Y2 can be up to $11,000</text>
   <text x="500" y="276" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">(carry-forward cap applies).</text>
-  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FTHBI shared-equity applications ended 21 Mar 2024 (CMHC). HBP still lets eligible buyers withdraw up to $60,000 from an RRSP  a different tool, with repayment rules.</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FTHBI shared-equity applications ended 21 Mar 2024 (CMHC). HBP still lets eligible buyers withdraw up to $60,000 from an RRSP — a different tool, with repayment rules.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not tax advice. Confirm room in CRA My Account. Qualifying withdrawals can be tax-free; RRSP-to-FHSA transfers are not deductible. Account offers are affiliate types only.</text>
 </svg>

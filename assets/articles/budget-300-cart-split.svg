@@ -3,7 +3,7 @@
   <title id="title">Sample $300 monthly grocery cart for one person in Canada</title>
   <desc id="desc">Weekly dollars allocated across protein, produce, staples, dairy, and a small flex line totalling $75 a week.</desc>
   <rect width="720" height="400" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A $300 month is $75 a week  assign the dollars first</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A $300 month is $75 a week — assign the dollars first</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative single-person discounter cart. Not a nutritious-food-basket or Statistics Canada average.</text>
   <g font-family="Inter, system-ui, sans-serif">
     <rect x="40" y="90" width="120" height="200" rx="10" fill="#0F7A4B"/>

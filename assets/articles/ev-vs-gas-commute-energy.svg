@@ -4,7 +4,7 @@
   <desc id="desc">Bar chart of labelled 2026 energy-cost examples: Ontario off-peak EV, mixed home charging, public DC fast charging, and a gasoline compact at $1.75 per litre.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">15,000 km energy bill: home EV vs gasoline (labelled)</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Worked examples only. OEB TOU off-peak 9.8¢/kWh (Nov 2025Oct 2026). Delivery still applies. Gas at $1.75/L.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Worked examples only. OEB TOU off-peak 9.8¢/kWh (Nov 2025â€“Oct 2026). Delivery still applies. Gas at $1.75/L.</text>
   <line x1="80" y1="90" x2="80" y2="310" stroke="#E5E7EB"/>
   <line x1="80" y1="310" x2="690" y2="310" stroke="#E5E7EB"/>
   <text x="72" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>

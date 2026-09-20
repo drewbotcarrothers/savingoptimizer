@@ -3,7 +3,7 @@
   <title id="title">Canadian condo versus freehold all-in monthly shelter cost</title>
   <desc id="desc">Labelled comparison. Condo stack includes mortgage, property tax, condo fee, unit insurance, and a special-assessment reserve. Freehold stack includes mortgage, property tax, home insurance, and a DIY maintenance reserve around one percent of value per year. Fees never amortise. Roofs do not invoice themselves.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Condo vs freehold: the fee is not extra rent</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Condo vs freehold: the fee is not "extra rent"</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled Canadian sketch, 20 Sep 2026. CMHC: read the condo disclosure. Freehold 1% / year is a placeholder, not a quote. Not brokerage advice.</text>
   <text x="170" y="92" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Condo apt (example)</text>
   <rect x="90" y="104" width="160" height="56" fill="#1A1A1A"/>

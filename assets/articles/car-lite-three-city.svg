@@ -3,8 +3,8 @@
   <title id="title">Car-lite monthly stacks in Toronto Vancouver and Montreal</title>
   <desc id="desc">Grouped bars comparing Ratehub ownership average to a transit plus car-share substitute in three Canadian cities.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Car-lite vs Ratehub ownership  three city sketches</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Transit products 20 Sep 2026. Ownership $1,373 is Ratehubs 29 Apr 2026 blended average  replace parking and insurance with yours.</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Car-lite vs Ratehub ownership — three city sketches</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Transit products 20 Sep 2026. Ownership $1,373 is Ratehub's 29 Apr 2026 blended average — replace parking and insurance with yours.</text>
   <line x1="56" y1="84" x2="56" y2="300" stroke="#E5E7EB"/>
   <line x1="56" y1="300" x2="696" y2="300" stroke="#E5E7EB"/>
   <text x="48" y="304" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>

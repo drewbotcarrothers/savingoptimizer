@@ -3,7 +3,7 @@
   <title id="title">Canadian mortgage renewal shopping calendar</title>
   <desc id="desc">Start 120 days out, get the current lender offer in writing, shop a straight switch if uninsured, compare rate cashback fees and prepayments. OSFI MQR exemption for qualifying uninsured straight switches since 21 Nov 2024.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Shop the renewal 120 days out  not the letter week</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Shop the renewal 120 days out â€” not the letter week</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Shelter-cost framing, 16 Sep 2026. OSFI: uninsured straight switches exempt from prescribed MQR as of 21 Nov 2024 (verify your facts).</text>
   <rect x="24" y="84" width="160" height="150" rx="10" fill="#E7F4EE"/>
   <text x="104" y="118" text-anchor="middle" font-size="18" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">120d</text>
@@ -30,7 +30,7 @@
   <text x="618" y="192" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">fees, prepay,</text>
   <text x="618" y="212" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">portability</text>
   <text x="24" y="272" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled payment sketch (not a quote)</text>
-  <text x="24" y="300" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$420,000 remaining · 22 years left · 5.2% vs 4.4% (illustrative). Payment drop is hundreds per month if the switch is a true straight switch  no extra cash, no extra amort.</text>
+  <text x="24" y="300" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$420,000 remaining · 22 years left · 5.2% vs 4.4% (illustrative). Payment drop is hundreds per month if the switch is a true straight switch â€” no extra cash, no extra amort.</text>
   <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Insured mortgages and cash-out refinances are a different underwriting story. This is not brokerage or credit advice.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">OSFI guidance 21 Nov 2024; MQR backgrounder. Lenders still apply B-20 judgment. Confirm with your institution before you assume a stress-test skip.</text>
 </svg>

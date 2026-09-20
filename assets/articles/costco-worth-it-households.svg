@@ -4,7 +4,7 @@
   <desc id="desc">Estimated annual unit-price savings versus the $65 Gold Star fee for a single, a couple, and a family of four using a split-shop with a discounter.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Gold Star fee vs realistic unit-price wins (illustrative)</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Gold Star $65 + tax (Costco.ca, reviewed 16 Sep 2026). Bars assume a split shop with No Frills / FreshCo  not a 100% Costco cart.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Gold Star $65 + tax (Costco.ca, reviewed 16 Sep 2026). Bars assume a split shop with No Frills / FreshCo — not a 100% Costco cart.</text>
   <line x1="90" y1="80" x2="90" y2="310" stroke="#E5E7EB"/>
   <line x1="90" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
   <text x="82" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
@@ -29,5 +29,5 @@
   <text x="555" y="85" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$420</text>
   <text x="555" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Family of four</text>
   <text x="555" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">meat, paper, snacks</text>
-  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Teaching estimates, not a promise. Waste, travel time, and Executive 2% are separate questions  see the Executive vs Gold Star guide for the $3,250 eligible-spend math.</text>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Teaching estimates, not a promise. Waste, travel time, and Executive 2% are separate questions — see the Executive vs Gold Star guide for the $3,250 eligible-spend math.</text>
 </svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Ontario RPP commodity prices: TOU vs ULO vs Tiered</title>
-  <desc id="desc">OEB Regulated Price Plan commodity prices effective 1 November 2025: TOU 9.8 / 15.7 / 20.3 ¢/kWh, ULO overnight 3.9 ¢ and weekday 49 p.m. 39.1 ¢, Tiered 12.0 then 14.2 ¢/kWh. Delivery and the Ontario Electricity Rebate are separate.</desc>
+  <desc id="desc">OEB Regulated Price Plan commodity prices effective 1 November 2025: TOU 9.8 / 15.7 / 20.3 ¢/kWh, ULO overnight 3.9 ¢ and weekday 4â€“9 p.m. 39.1 ¢, Tiered 12.0 then 14.2 ¢/kWh. Delivery and the Ontario Electricity Rebate are separate.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario RPP commodity only (OEB, 1 Nov 2025)</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Not your all-in bill. Delivery, regulatory charges, and the 23.5% Ontario Electricity Rebate sit on other lines. Verified 20 Sep 2026.</text>
@@ -19,7 +19,7 @@
   <text x="268" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Overnight 3.9¢</text>
   <text x="268" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Weekend off-peak 9.8¢</text>
   <text x="268" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Mid-peak 15.7¢</text>
-  <text x="268" y="208" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Weekday 49 p.m. 39.1¢</text>
+  <text x="268" y="208" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Weekday 4â€“9 p.m. 39.1¢</text>
   <text x="268" y="244" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Hours stay put year-round.</text>
   <text x="268" y="268" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Overnight win vs dinner-hour pain.</text>
   <text x="268" y="304" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fits: EV / night shift loads.</text>

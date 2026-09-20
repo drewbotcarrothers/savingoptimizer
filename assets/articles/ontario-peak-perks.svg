@@ -10,15 +10,15 @@
   <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$75 virtual Mastercard</text>
   <text x="40" y="158" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">within 60 days of acceptance</text>
   <text x="40" y="190" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$20 each year you stay</text>
-  <text x="40" y="208" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">after the JunSep season</text>
+  <text x="40" y="208" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">after the Jun–Sep season</text>
   <text x="40" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">New thermostat ` second $75.</text>
   <text x="40" y="264" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Unenrol: info@peakperks.ca</text>
   <rect x="252" y="78" width="216" height="214" rx="12" fill="#F3F4F6"/>
   <text x="268" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A DR event</text>
   <text x="268" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Possible 1�C pre-cool</text>
   <text x="268" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Then up to +2�C for d3 hours</text>
-  <text x="268" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Weekdays, roughly noon9 p.m.</text>
-  <text x="268" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Window: 1 Jun  30 Sep</text>
+  <text x="268" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Weekdays, roughly noon–9 p.m.</text>
+  <text x="268" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Window: 1 Jun – 30 Sep</text>
   <text x="268" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Override on the stat or the app.</text>
   <text x="268" y="266" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Chronic overrides miss the point.</text>
   <rect x="480" y="78" width="216" height="214" rx="12" fill="#E7F4EE"/>
@@ -28,8 +28,8 @@
   <text x="496" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Eligible Wi-Fi thermostat</text>
   <text x="496" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Not in another DR program</text>
   <text x="496" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Hydro One: Peak Perks or</text>
-  <text x="496" y="266" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">myEnergy Rewards  not both.</text>
+  <text x="496" y="266" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">myEnergy Rewards — not both.</text>
   <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Comfort without defeating the program: pre-cool yourself on a warned afternoon, close south blinds, delay the oven, and override only if someone is heat-vulnerable.</text>
   <text x="24" y="358" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A $75 card does not pay for a $250 thermostat by itself. Pair it with TOU / ULO plan choice if the device also shifts loads.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: saveonenergy.ca Peak Perks and Hydro One myEnergy Rewards FAQ. Credits and model lists change  re-check before you buy a thermostat.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: saveonenergy.ca Peak Perks and Hydro One myEnergy Rewards FAQ. Credits and model lists change — re-check before you buy a thermostat.</text>
 </svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
   <title id="title">Where Canadian grocery savings leak as food waste</title>
-  <desc id="desc">Four leak categories  produce, leftovers, date-label confusion, and surplus-app perishables  that can erase discounter wins.</desc>
+  <desc id="desc">Four leak categories — produce, leftovers, date-label confusion, and surplus-app perishables — that can erase discounter wins.</desc>
   <rect width="720" height="400" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Discounter wins die in the crisper, not at the till</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Love Food Hate Waste Canada: average household wastes about $1,300 of edible food a year; 23% of avoidable waste tied to date-label confusion.</text>
@@ -36,5 +36,5 @@
     <text x="615" y="268" text-anchor="middle" font-size="12" fill="#6B7280">same night</text>
   </g>
   <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">National Zero Waste Council / Love Food Hate Waste: 63% of household food waste is avoidable (~4.5 meals/week).</text>
-  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Use those figures as a ceiling on the leak, then log your own bin for 30 days. Saving Optimizer  16 Sep 2026.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Use those figures as a ceiling on the leak, then log your own bin for 30 days. Saving Optimizer — 16 Sep 2026.</text>
 </svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">NRCan recommended attic R-values by Canadian climate zone</title>
-  <desc id="desc">Keeping the Heat In recommended minimum roof or ceiling insulation: Zone 4 R-45, Zone 5 R-55, Zone 6 R-60, Zones 7a8 R-80. Air-seal attic bypasses before adding batts or blown-in. Savings are ranges, not miracles.</desc>
+  <desc id="desc">Keeping the Heat In recommended minimum roof or ceiling insulation: Zone 4 R-45, Zone 5 R-55, Zone 6 R-60, Zones 7a–8 R-80. Air-seal attic bypasses before adding batts or blown-in. Savings are ranges, not miracles.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Attic first: air seal, then hit the zone R-value</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">NRCan Keeping the Heat In Table 2-1 recommended minimums (roof/ceiling). Local code can differ. 20 Sep 2026.</text>
@@ -13,24 +13,24 @@
   <text x="118" y="238" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">South coast / mild</text>
   <rect x="208" y="88" width="140" height="170" rx="12" fill="#E7F4EE"/>
   <text x="278" y="120" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Zone 5</text>
-  <text x="278" y="144" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">3,0003,999 HDD</text>
+  <text x="278" y="144" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">3,000–3,999 HDD</text>
   <text x="278" y="188" text-anchor="middle" font-size="28" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">R-55</text>
   <text x="278" y="216" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RSI 9.7</text>
   <text x="278" y="238" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Lower Mainland-ish</text>
   <rect x="368" y="88" width="140" height="170" rx="12" fill="#E7F4EE"/>
   <text x="438" y="120" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Zone 6</text>
-  <text x="438" y="144" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4,0004,999 HDD</text>
+  <text x="438" y="144" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4,000–4,999 HDD</text>
   <text x="438" y="188" text-anchor="middle" font-size="28" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">R-60</text>
   <text x="438" y="216" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RSI 10.6</text>
   <text x="438" y="238" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Much of southern ON</text>
   <rect x="528" y="88" width="148" height="170" rx="12" fill="#F3F4F6"/>
-  <text x="602" y="120" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Zones 78</text>
+  <text x="602" y="120" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Zones 7–8</text>
   <text x="602" y="144" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">5,000+ HDD</text>
   <text x="602" y="188" text-anchor="middle" font-size="28" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">R-80</text>
   <text x="602" y="216" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RSI 14.1</text>
   <text x="602" y="238" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Prairies / North / QC north</text>
   <text x="24" y="292" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bypass list before bags of cellulose: attic hatch, plumbing and wiring penetrations, pot lights, dropped soffits, chimney chase, top plates, bathroom fans.</text>
-  <text x="24" y="328" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ice dams are a ventilation + leak symptom, not a reason to bury the soffit vents. Keep combustion appliances safe  this is not a DIY furnace job.</text>
-  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bill savings are ranges: a naked attic can move the winter bill; topping R-40 to R-60 is quieter. Greener Homes is closed  check the live provincial / utility list.</text>
+  <text x="24" y="328" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ice dams are a ventilation + leak symptom, not a reason to bury the soffit vents. Keep combustion appliances safe — this is not a DIY furnace job.</text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bill savings are ranges: a naked attic can move the winter bill; topping R-40 to R-60 is quieter. Greener Homes is closed — check the live provincial / utility list.</text>
   <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: NRCan Keeping the Heat In, Table 2-1. Exceed code where practical. Education only.</text>
 </svg>
