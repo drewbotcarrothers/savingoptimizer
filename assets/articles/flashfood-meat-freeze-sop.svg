@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Same-day Flashfood meat freeze workflow</title>
+  <desc id="desc">Five-step same-day process from app evaluation through labelled freezer portions using Health Canada fridge windows.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Flashfood meat: same-day freeze SOP</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Health Canada: fridge 4 C or lower; freezer -18 C. Ground meat 1-2 days in the fridge.</text>
+  <rect x="24" y="84" width="124" height="180" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="86" y="130" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. App</text>
+  <text x="86" y="156" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Weight, date,</text>
+  <text x="86" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">cut, freezer</text>
+  <text x="86" y="192" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">space check</text>
+  <rect x="164" y="84" width="124" height="180" rx="12" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="226" y="130" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Kit</text>
+  <text x="226" y="156" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cooler bag,</text>
+  <text x="226" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ice pack,</text>
+  <text x="226" y="192" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">window on route</text>
+  <rect x="304" y="84" width="124" height="180" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="366" y="130" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3. Pickup</text>
+  <text x="366" y="156" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Smell, seal,</text>
+  <text x="366" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">previously frozen</text>
+  <text x="366" y="192" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">in-app help if off</text>
+  <rect x="444" y="84" width="124" height="180" rx="12" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="506" y="130" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Portion</text>
+  <text x="506" y="156" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Meal bags,</text>
+  <text x="506" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">label cut + date</text>
+  <text x="506" y="192" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">cook tonight leftover</text>
+  <rect x="584" y="84" width="112" height="180" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="640" y="130" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">5. Menu</text>
+  <text x="640" y="156" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Put portions</text>
+  <text x="640" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">on next week</text>
+  <text x="640" y="192" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">or it is waste</text>
+  <rect x="24" y="284" width="672" height="84" rx="12" fill="#F3F4F6"/>
+  <text x="44" y="318" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fridge windows (Health Canada storage chart)</text>
+  <text x="44" y="344" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ground 1-2 days; poultry pieces 2-3; beef/pork 2-4. Freeze same day if the tray is near its date.</text>
+</svg>

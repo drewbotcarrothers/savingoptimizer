@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Grocery loyalty after Air Miles became Blue Rewards</title>
+  <desc id="desc">Decision map sending grocery shoppers to PC Optimum, Scene+, or Moi instead of treating Blue Rewards as a grocery coalition.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Grocery habits after 1 Jun 2026</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Miles converted automatically to Blue Points. Grocery partners had already left.</text>
+  <rect x="28" y="84" width="664" height="56" rx="10" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="360" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Where do you actually buy food?</text>
+  <rect x="28" y="168" width="200" height="130" rx="12" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="128" y="206" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Loblaw banners</text>
+  <text x="128" y="230" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No Frills, Superstore,</text>
+  <text x="128" y="248" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Maxi, Shoppers</text>
+  <text x="128" y="276" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">PC Optimum</text>
+  <rect x="260" y="168" width="200" height="130" rx="12" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="360" y="206" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Empire banners</text>
+  <text x="360" y="230" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Sobeys, FreshCo,</text>
+  <text x="360" y="248" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Safeway, IGA</text>
+  <text x="360" y="276" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Scene+</text>
+  <rect x="492" y="168" width="200" height="130" rx="12" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="592" y="206" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Metro family</text>
+  <text x="592" y="230" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Metro, Food Basics,</text>
+  <text x="592" y="248" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Super C</text>
+  <text x="592" y="276" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Moi Rewards</text>
+  <text x="24" y="330" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Blue Rewards is a BMO bank program, not a replacement grocery coalition.</text>
+  <text x="24" y="354" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Use a BMO Blue Rewards card only if grocery MCC earn beats your current card after caps.</text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Shell left for Scene+ (May 2026). Do not keep an Air Miles-era grocery or gas stack on autopilot.</text>
+</svg>
