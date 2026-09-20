@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Declutter versus upgrading a Canadian lease by one bedroom</title>
+  <desc id="desc">Keeping a one-bedroom at TRREB Q2 2026 $2,273 plus $180 of vertical storage beats stepping to a StatCan Toronto two-bedroom ask of $2,650. The $377 monthly gap is $4,524 a year - enough to fund shelves, a dresser sale, and a storage exit.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Declutter the lease upgrade you do not need</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">TRREB Q2 2026 1-bed $2,273 vs StatCan QRS Q2 2026 Toronto asking 2-bed $2,650. Vertical storage sketch $180 one-time.</text>
+  <rect x="64" y="120" width="140" height="160" fill="#0F7A4B"/>
+  <text x="134" y="108" text-anchor="middle" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$2,273</text>
+  <text x="134" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Keep 1-bed</text>
+  <rect x="230" y="248" width="140" height="32" fill="#4B9B74"/>
+  <text x="300" y="236" text-anchor="middle" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$180</text>
+  <text x="300" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Shelves (once)</text>
+  <rect x="396" y="94" width="140" height="186" fill="#1A1A1A"/>
+  <text x="466" y="82" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,650</text>
+  <text x="466" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask 2-bed</text>
+  <rect x="562" y="168" width="120" height="112" fill="#6B7280"/>
+  <text x="622" y="156" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$4,524</text>
+  <text x="622" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Yearly gap</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,650 - $2,273 = $377/month. Twelve months is $4,524 before last-month rent, movers ($450-$900 studio/1-bed band), and a new hydro account.</text>
+  <text x="24" y="372" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If the extra room is for boxes, sell or donate first. Kids- and hobby gear get a labelled cubic-metre budget, not a second bedroom by default.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Mixing TRREB condo 1-beds with StatCan all-apartment 2-beds is labelled on purpose. Use your two quotes. Housing math, not a lifestyle lecture.</text>
+</svg>

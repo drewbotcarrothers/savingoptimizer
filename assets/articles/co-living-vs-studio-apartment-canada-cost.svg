@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Co-living versus studio all-in rent in Toronto and Vancouver</title>
+  <desc id="desc">Toronto TRREB Q2 2026 condo bachelor average $1,849 plus labelled utilities and furniture. Co-living marketing bands $1,450 to $1,850 all-in. Vancouver studio listing bands sit higher. Compare furnished all-in, not bare rent.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Co-living vs studio: compare all-in, not the poster</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">TRREB Q2 2026 GTA condo bachelor $1,849 / 1-bed $2,273. StatCan QRS Q2 2026 asking 2-bed Vancouver $3,030. Labelled add-ons.</text>
+  <rect x="50" y="108" width="88" height="168" fill="#6B7280"/>
+  <text x="94" y="96" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,849</text>
+  <text x="94" y="296" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TO bachelor</text>
+  <rect x="154" y="88" width="88" height="188" fill="#1A1A1A"/>
+  <text x="198" y="76" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,069</text>
+  <text x="198" y="296" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ hydro/ins.</text>
+  <rect x="258" y="128" width="88" height="148" fill="#0F7A4B"/>
+  <text x="302" y="116" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$1,650</text>
+  <text x="302" y="296" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TO co-living</text>
+  <rect x="382" y="68" width="88" height="208" fill="#4B9B74"/>
+  <text x="426" y="56" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$2,250</text>
+  <text x="426" y="296" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Van studio*</text>
+  <rect x="486" y="48" width="88" height="228" fill="#1A1A1A"/>
+  <text x="530" y="36" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,470</text>
+  <text x="530" y="296" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ add-ons</text>
+  <rect x="590" y="118" width="88" height="158" fill="#0F7A4B"/>
+  <text x="634" y="106" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$1,750</text>
+  <text x="634" y="296" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Van co-living</text>
+  <text x="24" y="338" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Toronto bachelor is a TRREB MLS condo average, not StatCan QRS. Add-ons: hydro $80, internet $45, tenant insurance $25, furniture reserve $70.</text>
+  <text x="24" y="362" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">*Vancouver studio is a labelled listing band ($2,100-$2,400), not an official CMA average. Co-living bars are 2026 operator marketing midpoints, furnished.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Tour the house rules. A cheaper all-in still loses if you cannot host a guest or exit in 60 days. Not a lease-legal opinion.</text>
+</svg>

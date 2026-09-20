@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">2026 British Columbia Home Owner Grant amounts and threshold</title>
+  <desc id="desc">2026 full-grant threshold is $2,075,000. Regular grant up to $570 in Metro Vancouver, Capital, and Fraser Valley regional districts, or $770 elsewhere. Additional grant for seniors, veterans, and people with a disability totals up to $845 or $1,045. Phase-out is $5 per $1,000 over the threshold.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">B.C. Home Owner Grant: 2026 threshold is $2.075M</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">gov.bc.ca Home Owner Grant (used 20 Sep 2026). News release 2025FIN0049. Down from $2.175 million in 2025.</text>
+  <rect x="50" y="168" width="140" height="112" fill="#0F7A4B"/>
+  <text x="120" y="156" text-anchor="middle" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$570</text>
+  <text x="120" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Regular metro</text>
+  <rect x="210" y="148" width="140" height="132" fill="#4B9B74"/>
+  <text x="280" y="136" text-anchor="middle" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$770</text>
+  <text x="280" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Regular rural</text>
+  <rect x="370" y="140" width="140" height="140" fill="#1A1A1A"/>
+  <text x="440" y="128" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$845</text>
+  <text x="440" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Additional metro</text>
+  <rect x="530" y="120" width="140" height="160" fill="#6B7280"/>
+  <text x="600" y="108" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,045</text>
+  <text x="600" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Additional rural</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Full grant at or below $2,075,000 assessed or partitioned value. Then -$5 per $1,000. Regular metro phases out at $2,189,000; additional metro at $2,244,000.</text>
+  <text x="24" y="372" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rural/northern phase-out $2,229,000 regular and $2,284,000 additional. Apply every year - often by 31 Dec of the tax year. Audit window up to 7 years.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Principal residence, Canadian citizen or PR, live in B.C. Confirm live amounts on gov.bc.ca. Not tax or legal advice.</text>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Empty-nest downsizing: stay, buy a condo, or rent after sale</title>
+  <desc id="desc">Labelled suburban GTA or Metro Vancouver empty-nest sketch. Staying in a $1.2 million house costs about $2,150 a month all-in. A $650,000 condo lands near $1,820. Renting a two-bedroom at Toronto Q2 2026 asking $2,650 plus utilities is about $2,780. Sale costs and land transfer tax sit outside the monthly bars.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Downsizing saves only if the all-in stack falls</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled GTA / Metro Vancouver empty-nest sketch, 20 Sep 2026. StatCan QRS Q2 2026 asking 2-bed Toronto $2,650. Not a listing or appraisal.</text>
+  <rect x="56" y="100" width="110" height="196" fill="#1A1A1A"/>
+  <text x="111" y="88" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,150</text>
+  <text x="111" y="316" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Stay house</text>
+  <rect x="196" y="130" width="110" height="166" fill="#0F7A4B"/>
+  <text x="251" y="118" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$1,820</text>
+  <text x="251" y="316" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Buy condo</text>
+  <rect x="336" y="118" width="110" height="178" fill="#4B9B74"/>
+  <text x="391" y="106" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$1,950</text>
+  <text x="391" y="316" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Buy bungalow</text>
+  <rect x="476" y="42" width="110" height="254" fill="#6B7280"/>
+  <text x="531" y="30" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$2,780</text>
+  <text x="531" y="316" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rent 2-bed</text>
+  <text x="24" y="354" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Stay bar: tax + 1%/yr maintenance + insurance + utilities on a labelled $1.2M paid-off house. Condo bar adds a $650 fee.</text>
+  <text x="24" y="378" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Sale commission, legal, and land transfer tax on the next purchase are cash, not a monthly bar. Rent uses Toronto asking 2-bed.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Principal-residence exemption is high-level CRA context, not a clearance certificate. Not tax, legal, or brokerage advice.</text>
+</svg>
