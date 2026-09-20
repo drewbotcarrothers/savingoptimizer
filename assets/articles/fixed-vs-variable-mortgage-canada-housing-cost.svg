@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Fixed versus variable Canadian mortgage: payment stability versus rate risk</title>
+  <desc id="desc">A labelled $450,000 25-year sketch. You shop the contract payment. OSFI MQR still qualifies most new uninsured files at the greater of contract plus 2 percent or 5.25 percent. This is not a rate call.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Choose the payment you can live with, not a headline rate</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">OSFI MQR (verified 20 Sep 2026): greater of contract + 2% or 5.25% on new uninsured originations.</text>
+  <rect x="48" y="140" width="110" height="140" fill="#0F7A4B"/>
+  <text x="103" y="128" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$2,491</text>
+  <text x="103" y="300" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4.50% P+I</text>
+  <rect x="188" y="88" width="110" height="192" fill="#4B9B74"/>
+  <text x="243" y="76" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$3,014</text>
+  <text x="243" y="300" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Qualify 6.50%</text>
+  <text x="340" y="120" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Stability trade-off (high level)</text>
+  <text x="340" y="148" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fixed: payment locked for the term</text>
+  <text x="340" y="172" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Break cost often IRD or 3 months</text>
+  <text x="340" y="196" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Variable: payment or amort can move</text>
+  <text x="340" y="220" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Break cost often 3 months interest</text>
+  <text x="340" y="252" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Both still face the same MQR floor</text>
+  <text x="340" y="276" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">on a purchase origination</text>
+  <text x="24" y="354" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled $450,000 / 25-year Canadian semi-annual compounding, reused from the stress-test worksheet. Not a quote.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational only. Not brokerage advice. Confirm product type (adjustable vs fixed-payment variable) in writing.</text>
+</svg>

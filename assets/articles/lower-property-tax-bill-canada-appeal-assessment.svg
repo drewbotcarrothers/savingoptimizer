@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian property assessment versus tax rate and a labelled 10 percent assessment cut</title>
+  <desc id="desc">Tax bill equals assessed value times the municipal and education tax rates. A labelled $800,000 current-value assessment at 0.60 percent is $4,800 a year. A 10 percent assessment win saves about $480, not a rewritten tax rate. Ontario 2026 values are still January 1, 2016 CVA unless the property changed.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">You appeal the assessed value, not City Hall’s tax rate</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario 2026 CVA still uses 1 Jan 2016 values (MPAC). B.C. 2026 roll: value as of 1 Jul 2025 (BC Assessment).</text>
+  <rect x="48" y="100" width="140" height="168" fill="#0F7A4B"/>
+  <text x="118" y="88" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$4,800</text>
+  <text x="118" y="288" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$800k × 0.60%</text>
+  <rect x="208" y="216" width="140" height="52" fill="#4B9B74"/>
+  <text x="278" y="204" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$480</text>
+  <text x="278" y="288" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">10% value win</text>
+  <text x="380" y="120" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Process snapshot (verify deadlines)</text>
+  <text x="380" y="148" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ON: MPAC RfR first (often 31 Mar)</text>
+  <text x="380" y="172" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">then ARB within 90 days of the letter</text>
+  <text x="380" y="196" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">BC: PARP (31 Jan / 2 Feb 2026)</text>
+  <text x="380" y="220" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">then PAAB by 30 Apr</text>
+  <text x="380" y="252" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Evidence: sold comps, not a vibe</text>
+  <text x="380" y="276" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Consultant only if the gap is large</text>
+  <text x="24" y="338" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled 0.60% combined rate is a sketch, not Toronto or Vancouver’s live mill rate. A win can also raise value — ARB can go up.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational only. Not legal or tax advice. Pay the bill on the due date even while you review.</text>
+</svg>
