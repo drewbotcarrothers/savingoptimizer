@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Submetered condo hydro budgeting for Canadian tenants</title>
+  <desc id="desc">Submetering means the units electricity is measured separately from bulk building power. Ask who holds the account, whether heat is electric, and last winters bills before you sign. 20 September 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Submetered ` heat included</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Condo rental education. Last-winter bills beat a listing slogan. 20 Sep 2026.</text>
+  <rect x="40" y="80" width="200" height="200" fill="#F3F4F6"/>
+  <text x="140" y="114" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bulk / included</text>
+  <text x="140" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fee or rent covers</text>
+  <text x="140" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">common + often suite</text>
+  <text x="140" y="198" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Predictable</text>
+  <text x="140" y="230" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask what is in</text>
+  <rect x="260" y="80" width="200" height="200" fill="#E7F4EE"/>
+  <text x="360" y="114" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Unit submeter</text>
+  <text x="360" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Third-party bill</text>
+  <text x="360" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tenant often named</text>
+  <text x="360" y="198" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Electric heat = winter</text>
+  <text x="360" y="230" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Demand Jan/Feb</text>
+  <rect x="480" y="80" width="200" height="200" fill="#F3F4F6"/>
+  <text x="580" y="114" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Sketch winter</text>
+  <text x="580" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Lights / AC suite</text>
+  <text x="580" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$30$80 typical</text>
+  <text x="580" y="198" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Baseboard heat</text>
+  <text x="580" y="230" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$150$400 Jan</text>
+  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Who is the account holder  tenant, landlord, or provider  decides deposits, disconnects, and the move-out final read.</text>
+  <text x="24" y="346" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Anomalous spike: photo the meter, compare degree-days, ask the provider and landlord in writing. High-level only.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a utility quote. CMHC condo FAQs and provincial tenancy pages. No natural affiliate product.</text>
+</svg>

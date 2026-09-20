@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Renter energy saves that usually stay inside Canadian lease rules</title>
+  <desc id="desc">Allowed tactics: removable draft stoppers, curtains, LED bulbs, power strips, laundry timing. Ask first: thermostats, window film that damages frames, drilling. Landlord repair: broken seals and drafty windows. 20 September 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Lease-safe energy  you do not own the boiler</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Renter tactics. Not an OEB plan lecture. Not permission to alter the unit. 20 Sep 2026.</text>
+  <rect x="36" y="80" width="210" height="210" fill="#E7F4EE"/>
+  <text x="141" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Usually allowed</text>
+  <text x="141" y="146" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Door snakes / film</text>
+  <text x="141" y="170" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Heavy curtains</text>
+  <text x="141" y="194" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">LED + power strips</text>
+  <text x="141" y="218" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Off-peak laundry</text>
+  <text x="141" y="250" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Reversible</text>
+  <rect x="255" y="80" width="210" height="210" fill="#F3F4F6"/>
+  <text x="360" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask first</text>
+  <text x="360" y="146" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Smart thermostat</text>
+  <text x="360" y="170" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Caulk / weatherstrip</text>
+  <text x="360" y="194" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Portable AC / heater</text>
+  <text x="360" y="218" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Drilling / brackets</text>
+  <text x="360" y="250" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Written yes</text>
+  <rect x="474" y="80" width="210" height="210" fill="#F3F4F6"/>
+  <text x="579" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Their job</text>
+  <text x="579" y="146" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Broken window seals</text>
+  <text x="579" y="170" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Dead furnace / baseboard</text>
+  <text x="579" y="194" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Missing weatherstrip</text>
+  <text x="579" y="218" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Photo + written request</text>
+  <text x="579" y="250" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Repair, not DIY</text>
+  <text x="24" y="326" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Heat-included buildings: cranking the thermostat is a neighbour tax, not a coupon. Hydro-extra: timing and LEDs actually hit your bill.</text>
+  <text x="24" y="354" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Abatement is a tribunal path, not a Facebook threat. High-level only  LTB / RTB / TAL.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Gadgets are an offer type if we later add links. We do not claim thermostat or utility partnerships.</text>
+</svg>
