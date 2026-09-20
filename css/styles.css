@@ -1335,13 +1335,13 @@ nav.crumbs a:hover { color: var(--green); }
 }
 
 
-/* Slim footer: brand + explore only */
+/* Slim footer: brand + explore + related tools */
 .footer-grid-simple {
   grid-template-columns: 1fr;
   gap: 2rem;
 }
 @media (min-width: 640px) {
   .footer-grid-simple {
-    grid-template-columns: 1.4fr 1fr;
+    grid-template-columns: 1.4fr 1fr 1fr;
   }
 }
