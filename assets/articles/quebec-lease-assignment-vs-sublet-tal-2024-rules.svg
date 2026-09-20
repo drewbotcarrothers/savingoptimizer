@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Québec lease assignment vs sublet after the 21 February 2024 TAL changes</title>
+  <desc id="desc">From 21 February 2024, a lessor may refuse assignment for a reason other than a serious one and the lease then ends on the assignment date. Fifteen-day reply window. Sublet still leaves the original lessee on the hook.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Québec 2024: refusal without a serious reason can end the lease</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Notices from 21 Feb 2024. TAL-828A. 15-day reply or deemed consent. Used 20 Sep 2026.</text>
+  <rect x="24" y="84" width="220" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="134" y="116" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Assignment</text>
+  <text x="40" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">You leave the lease</text>
+  <text x="40" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Name, address, date</text>
+  <text x="40" y="200" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">15 days to reply</text>
+  <text x="40" y="224" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Serious refuse: stay put</text>
+  <text x="40" y="248" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Other refuse: lease ends</text>
+  <rect x="256" y="84" width="220" height="200" rx="12" fill="#0F7A4B"/>
+  <text x="366" y="116" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Sublet</text>
+  <text x="272" y="152" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">You stay on the hook</text>
+  <text x="272" y="176" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Cannot charge more rent</text>
+  <text x="272" y="200" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">No consideration flip</text>
+  <text x="272" y="224" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Useful if you return</text>
+  <text x="272" y="248" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Bad as a silent exit</text>
+  <rect x="488" y="84" width="208" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="592" y="116" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Money read</text>
+  <text x="504" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Below-market rent:</text>
+  <text x="504" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">lessor may prefer to</text>
+  <text x="504" y="200" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">end the lease and re-ask</text>
+  <text x="504" y="224" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">That can still save you</text>
+  <text x="504" y="248" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">months of empty rent</text>
+  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2019 blogs assumed a lessor needed a serious reason to block assignment. After 21 Feb 2024 they can refuse for another reason  and you still get out on the date you named.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Use TAL notice forms. Silence for 15 days is deemed consent. Not legal advice. Confirm on tal.gouv.qc.ca.</text>
+</svg>

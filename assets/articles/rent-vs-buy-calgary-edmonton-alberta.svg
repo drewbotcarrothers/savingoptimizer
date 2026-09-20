@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Calgary and Edmonton rent vs buy: no land transfer tax, still a stay test</title>
+  <desc id="desc">Alberta has no provincial land transfer tax. Q2 2026 asking two-bedroom rents: Calgary $1,890, Edmonton $1,570. A cheaper sticker price still needs rates, tax, insurance, and a five-year stay test.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Prairie prices look cheap. The stay test still decides.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Alberta: no provincial land transfer tax. StatCan QRS Q2 2026 (Daily, 9 Sep 2026). Labelled, not a quote.</text>
+  <rect x="36" y="88" width="200" height="188" rx="12" fill="#E7F4EE"/>
+  <text x="136" y="122" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Calgary 2-bed ask</text>
+  <text x="136" y="164" text-anchor="middle" font-size="26" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,890</text>
+  <text x="136" y="192" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Paid $1,930 (Q2 2026)</text>
+  <text x="52" y="228" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask fell 6.4% YoY</text>
+  <text x="52" y="250" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ask can sit under paid</text>
+  <rect x="252" y="88" width="200" height="188" rx="12" fill="#0F7A4B"/>
+  <text x="352" y="122" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Edmonton 2-bed</text>
+  <text x="352" y="164" text-anchor="middle" font-size="26" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$1,570</text>
+  <text x="352" y="192" text-anchor="middle" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Ask = paid in Q2 2026</text>
+  <text x="268" y="228" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Cheaper sticker, still</text>
+  <text x="268" y="250" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">tax + insurance + rates</text>
+  <rect x="468" y="88" width="216" height="188" rx="12" fill="#F3F4F6"/>
+  <text x="576" y="122" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">What charts skip</text>
+  <text x="484" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No LTT  good. Not free.</text>
+  <text x="484" y="182" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Land Titles + legal still cash</text>
+  <text x="484" y="206" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">June tax bill if not escrowed</text>
+  <text x="484" y="230" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hail / insurance quotes</text>
+  <text x="484" y="254" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Two-year job = stay risk</text>
+  <text x="24" y="314" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If owning is $250/month cheaper and year-one cash is $8,000 (legal, inspection, move, titles), break-even is 32 months  before sell costs.</text>
+  <text x="24" y="340" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A 0.50% rate shock on a large balance can erase that $250 gap. Income volatility is a renter advantage, not a vibe.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a mortgage, tax, or brokerage quote. Replace every line with statements, municipal tax estimators, and insurer quotes for the address.</text>
+</svg>

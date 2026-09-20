@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">When a Canadian landlord asks for a guarantor  and cheaper alternatives</title>
+  <desc id="desc">Guarantors are common for newcomers, students, and thin credit. Alternatives that stay inside provincial deposit rules: stronger income proof, a roommate on the lease, or a lawful last-month where the statute allows it. Illegal fees are not a substitute.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A guarantor is a request, not a Canadian statute</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">High-level, 20 Sep 2026. Deposit caps still apply. Paying an application fee instead is usually the worse trade.</text>
+  <rect x="24" y="84" width="220" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="134" y="116" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Who gets asked</text>
+  <text x="40" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Newcomers, students</text>
+  <text x="40" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Self-employed / contract</text>
+  <text x="40" y="200" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Thin or foreign credit</text>
+  <text x="40" y="224" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Income under ~3× rent</text>
+  <text x="40" y="248" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">First Canadian lease</text>
+  <rect x="256" y="84" width="220" height="200" rx="12" fill="#0F7A4B"/>
+  <text x="366" y="116" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Try first</text>
+  <text x="272" y="152" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Same-day income PDF</text>
+  <text x="272" y="176" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Foreign bank letters</text>
+  <text x="272" y="200" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Roommate on the lease</text>
+  <text x="272" y="224" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">ON: lawful last-month</text>
+  <text x="272" y="248" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Not extra QC deposits</text>
+  <rect x="488" y="84" width="208" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="592" y="116" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Refuse</text>
+  <text x="504" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Key / holding fees</text>
+  <text x="504" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Credit-check markups</text>
+  <text x="504" y="200" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Prepaid months in QC</text>
+  <text x="504" y="224" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">BC over half-month</text>
+  <text x="504" y="248" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">SIN just in case</text>
+  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A guarantor typically promises the rent if you do not pay. That is a real risk for a parent or friend  treat it as a contract, not a formality.</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Compete with documents. Ontario 2026 LMR interest 2.1%. B.C. deposit d half a month. Québec: C.c.Q. 1904  no exacted deposit.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not legal advice. Confirm deposit and fee rules with LTB, RTB, or TAL. Human-rights rules still apply to who is asked and why.</text>
+</svg>

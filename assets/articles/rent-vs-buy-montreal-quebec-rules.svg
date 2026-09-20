@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Montréal rent vs buy: welcome tax as year-one cash</title>
+  <desc id="desc">Labelled $450,000 Montréal condo sketch. 2026 mutation (welcome) tax about $4,861 using Ville de Montréal 1 January 2026 brackets. Not a notary quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Montréal: welcome tax is cash, not a monthly line</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled $450,000 condo. Ville de Montréal brackets from 1 Jan 2026. Used 20 Sep 2026. Not a quote.</text>
+  <rect x="36" y="84" width="210" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="141" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">0.5% to $62,900</text>
+  <text x="141" y="150" text-anchor="middle" font-size="22" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$315</text>
+  <text x="141" y="178" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">First bracket</text>
+  <text x="52" y="214" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Then 1% to $315,000</text>
+  <text x="52" y="236" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Then 1.5% to $450,000</text>
+  <rect x="258" y="84" width="210" height="200" rx="12" fill="#0F7A4B"/>
+  <text x="363" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Welcome tax</text>
+  <text x="363" y="160" text-anchor="middle" font-size="26" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$4,861</text>
+  <text x="363" y="190" text-anchor="middle" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">On the $450,000 sketch</text>
+  <text x="274" y="226" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Due after the city invoices</text>
+  <text x="274" y="248" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Usually 30 days to pay</text>
+  <rect x="480" y="84" width="210" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="585" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If own is $200/mo cheaper</text>
+  <text x="585" y="160" text-anchor="middle" font-size="26" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">24 mo</text>
+  <text x="585" y="190" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">To earn back tax alone</text>
+  <text x="496" y="226" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Before notary + sell costs</text>
+  <text x="496" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Before condo specials</text>
+  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TAL lease culture (no exacted deposit; assignment rules changed 21 Feb 2024) is a renter advantage national charts skip.</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Q2 2026 asking 2-bed Montréal $1,820; paid sitting $1,360 (StatCan Daily, 9 Sep 2026). Asking is the hunt.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational sketch. Confirm brackets on montreal.ca. A notaire should run your actual base (price vs comparative-factor assessment).</text>
+</svg>
