@@ -4,7 +4,7 @@
   <desc id="desc">A landlord-ready Canadian rental package is a one-page cover, proof of income, a credit report you control, and references. Watermark PDFs. Do not send a SIN, open banking logins, or application fees. Ontario, B.C., and Québec generally treat application fees as a refuse.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Application package: complete, not oversharing</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian privacy and tenancy norms  not a U.S. tenant-screening script. Verified 20 Sep 2026.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian privacy and tenancy norms  -  not a U.S. tenant-screening script. Verified 20 Sep 2026.</text>
   <rect x="24" y="80" width="220" height="230" rx="12" fill="#E7F4EE"/>
   <text x="40" y="112" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ready the same day</text>
   <text x="40" y="144" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1-page cover + occupancy date</text>

@@ -18,7 +18,7 @@
   <text x="360" y="196" text-anchor="middle" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">First + $1,100 security</text>
   <text x="272" y="232" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Cap: half a month</text>
   <text x="272" y="254" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Pet: another half max</text>
-  <text x="272" y="276" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Not first and last</text>
+  <text x="272" y="276" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Not "first and last"</text>
   <rect x="476" y="100" width="208" height="220" rx="12" fill="#F3F4F6"/>
   <text x="580" y="132" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Québec</text>
   <text x="580" y="168" text-anchor="middle" font-size="22" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,200</text>
@@ -26,6 +26,6 @@
   <text x="492" y="232" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No exacted deposit</text>
   <text x="492" y="254" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No last-month demand</text>
   <text x="492" y="276" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No postdated cheques</text>
-  <text x="24" y="354" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">National budget first and last overfunds a Vancouver suite and under-warns an Ontario renter. Key money and application fees are a refuse in all three.</text>
+  <text x="24" y="354" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">National "budget first and last" overfunds a Vancouver suite and under-warns an Ontario renter. Key money and application fees are a refuse in all three.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational only. Confirm on Tribunals Ontario, gov.bc.ca RTB, and TAL / Civil Code of Québec. Disputes need the board or a licensed advisor.</text>
 </svg>
