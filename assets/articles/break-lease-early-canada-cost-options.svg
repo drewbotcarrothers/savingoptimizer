@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian early-lease-exit cost ladder from cheapest to costliest</title>
+  <desc id="desc">Ranked 2026 education sketch: mutual written termination, assignment, sublet, then paying remaining months. Provincial rules change who can refuse and whether the original tenant stays liable. 20 September 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Early-exit cost ladder  cheapest first</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled 2026 education. Verify LTB / RTB / TAL. Not legal advice. 20 Sep 2026.</text>
+  <rect x="40" y="80" width="150" height="200" fill="#E7F4EE"/>
+  <text x="115" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Mutual end</text>
+  <text x="115" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Written terms</text>
+  <text x="115" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Often $0 extra</text>
+  <text x="115" y="198" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">If they want</text>
+  <text x="115" y="222" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">the unit back</text>
+  <text x="115" y="256" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Usually cheapest</text>
+  <rect x="202" y="80" width="150" height="200" fill="#E7F4EE"/>
+  <text x="277" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Assignment</text>
+  <text x="277" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">New tenant</text>
+  <text x="277" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">takes the lease</text>
+  <text x="277" y="198" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">ON: 7-day clock</text>
+  <text x="277" y="222" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">QC: often released</text>
+  <text x="277" y="256" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Exit path</text>
+  <rect x="364" y="80" width="150" height="200" fill="#F3F4F6"/>
+  <text x="439" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Sublet</text>
+  <text x="439" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">You stay liable</text>
+  <text x="439" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">They pay you</text>
+  <text x="439" y="198" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Plan to return</text>
+  <text x="439" y="222" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">or mid-term gap</text>
+  <text x="439" y="256" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cash now, risk later</text>
+  <rect x="526" y="80" width="154" height="200" fill="#F3F4F6"/>
+  <text x="603" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Pay out</text>
+  <text x="603" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Remaining months</text>
+  <text x="603" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ ads / vacancy</text>
+  <text x="603" y="198" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Mitigation still</text>
+  <text x="603" y="222" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">applies  verify</text>
+  <text x="603" y="256" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Usually costliest</text>
+  <text x="24" y="320" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ontario assignment refusal can open a 30-day notice path. B.C. consent rules differ on fixed terms. Quebec assignment often releases you.</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Illegal key money and application fees for a replacement are not a shortcut. Advertise, screen, write the paper.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Tribunals Ontario LTB, gov.bc.ca tenancy, TAL Quebec. Your lease and statute win over this ladder.</text>
+</svg>

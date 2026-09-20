@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">What condo fees included usually means for Canadian tenants</title>
+  <desc id="desc">Condo fees included typically means the landlord pays common-element fees. Parking, lockers, amenity guest fees, submetered hydro, moving deposits, and tenant insurance are often extra. Special assessments usually stay with the owner. 20 September 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Fees included is not everything included</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Tenant viewing checklist. Write it on the lease. 20 Sep 2026.</text>
+  <rect x="36" y="80" width="210" height="200" fill="#E7F4EE"/>
+  <text x="141" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Usually in</text>
+  <text x="141" y="148" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Common-element fee</text>
+  <text x="141" y="172" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Caretaker / amenities</text>
+  <text x="141" y="196" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Building insurance</text>
+  <text x="141" y="220" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not your contents</text>
+  <text x="141" y="252" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Confirm in writing</text>
+  <rect x="255" y="80" width="210" height="200" fill="#F3F4F6"/>
+  <text x="360" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Often extra</text>
+  <text x="360" y="148" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Parking / locker</text>
+  <text x="360" y="172" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Submeter hydro</text>
+  <text x="360" y="196" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Guest suite / party rm</text>
+  <text x="360" y="220" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Move-in elevator $</text>
+  <text x="360" y="252" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask on the viewing</text>
+  <rect x="474" y="80" width="210" height="200" fill="#F3F4F6"/>
+  <text x="579" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Owners invoice</text>
+  <text x="579" y="148" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Special assessment</text>
+  <text x="579" y="172" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fee increases</text>
+  <text x="579" y="196" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Not a tenant levy</text>
+  <text x="579" y="220" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Rent still follows</text>
+  <text x="579" y="252" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">guideline / RTB / TAL</text>
+  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Lease $1M/$2M tenant insurance is a real line  compare policies, do not go bare because the tower has cameras.</text>
+  <text x="24" y="346" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A $150 parking stall plus $80 locker plus $60 hydro can erase a fees included sticker win.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Tenant-insurance comparison is an offer type. Not legal advice. LTB / RTB / TAL for rent rules.</text>
+</svg>

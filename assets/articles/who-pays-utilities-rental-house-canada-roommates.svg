@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian shared-house utility split system</title>
+  <desc id="desc">Put account names on the lease or a written roommate agreement. Equal split vs usage apps. Winter spike and equal-billing planning. Mid-contract exit and landlord reimbursement clauses. 20 September 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Whose name is on hydro  write it down</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Shared-house worksheet. Not a tribunal filing. 20 Sep 2026.</text>
+  <rect x="40" y="80" width="640" height="70" fill="#E7F4EE"/>
+  <text x="360" y="110" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Lease or roommate agreement: who holds each account</text>
+  <text x="360" y="134" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hydro  /  gas  /  water  /  internet  /  equal billing yes/no  /  e-transfer date</text>
+  <rect x="40" y="164" width="200" height="130" fill="#F3F4F6"/>
+  <text x="140" y="196" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Equal split</text>
+  <text x="140" y="224" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fast, low drama</text>
+  <text x="140" y="248" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">WFA vs office days</text>
+  <text x="140" y="272" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">still share heat</text>
+  <rect x="260" y="164" width="200" height="130" fill="#F3F4F6"/>
+  <text x="360" y="196" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Usage apps</text>
+  <text x="360" y="224" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Photos of bills</text>
+  <text x="360" y="248" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Fairer if one gamer</text>
+  <text x="360" y="272" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Needs a house admin</text>
+  <rect x="480" y="164" width="200" height="130" fill="#E7F4EE"/>
+  <text x="580" y="196" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Winter plan</text>
+  <text x="580" y="224" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Equal billing option</text>
+  <text x="580" y="248" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Jan float in the pot</text>
+  <text x="580" y="272" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">True-up is not a scam</text>
+  <text x="24" y="328" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Mid-contract exit: who stays on the account, last-bill split, and whether the departing roommate is still a named tenant.</text>
+  <text x="24" y="356" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Landlord well reimburse hydro clauses need a scan of the bill and a date  handshake credits die in February.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No natural affiliate product. Education only  not roommate legal advice. See LTB / RTB / TAL for tenancy status.</text>
+</svg>
