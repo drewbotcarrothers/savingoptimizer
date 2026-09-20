@@ -3,7 +3,7 @@
   <title id="title">Certified pre-owned versus inspected private sale all-in</title>
   <desc id="desc">Grouped bars of a labelled Ontario compact: CPO asking price, dealer used, and private sale plus tax, safety, PPI, and UVIP.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same compact, three tickets  sticker is not the bill</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same compact, three tickets â€” sticker is not the bill</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled Ontario sketch, 20 Sep 2026. RST on private sales uses price or UVIP value (greater). Confirm ServiceOntario. Not a quote.</text>
   <line x1="56" y1="88" x2="56" y2="300" stroke="#E5E7EB"/>
   <line x1="56" y1="300" x2="696" y2="300" stroke="#E5E7EB"/>
@@ -21,7 +21,7 @@
   <text x="360" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$19,700 + HST</text>
   <rect x="480" y="168" width="140" height="132" rx="6" fill="#9CA3AF"/>
   <text x="550" y="160" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$19,740</text>
-  <text x="550" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PPId private</text>
+  <text x="550" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PPI'd private</text>
   <text x="550" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$17,200 + RST + PPI</text>
   <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CPO is the warranty and inspection you are buying. Private is cheaper cash if the PPI is clean and you can fund the first repair. Scale: $1,000 H 7 px.</text>
   <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">B.C. PST, Québec QST, and Alberta (no PST) change the private column. Transfer fees are provincial.</text>

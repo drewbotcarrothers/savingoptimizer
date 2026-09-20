@@ -25,11 +25,11 @@
   <text x="496" y="110" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Heat pump</text>
   <text x="496" y="142" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Moves heat; does not burn it</text>
   <text x="496" y="166" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">COP 2.5 ’ 0.40 kWh / useful kWh</text>
-  <text x="496" y="190" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">COP 1.5 at 20°C is common</text>
+  <text x="496" y="190" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">COP 1.5 at âˆ’20°C is common</text>
   <text x="496" y="226" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Québec kWh can flip the</text>
   <text x="496" y="244" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">comparison vs Ontario gas.</text>
   <text x="496" y="270" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">¢ useful = ¢/kWh ÷ COP</text>
-  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">OEB Enbridge Gas supply (1 Jul 2026): EGD zone 9.0498 ¢/m³; Union South 17.3871 ¢/m³. That is commodity only  not the winter bill.</text>
+  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">OEB Enbridge Gas supply (1 Jul 2026): EGD zone 9.0498 ¢/m³; Union South 17.3871 ¢/m³. That is commodity only â€” not the winter bill.</text>
   <text x="24" y="358" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Do not compare a gas commodity line to an Ontario TOU on-peak line. Pull 12 months of both bills, convert to useful kWh, then add retrofit capital.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational worksheet. Greener Homes Grant and Loan are closed to new applicants; provincial and utility stacks still change. Not a contractor quote.</text>
 </svg>

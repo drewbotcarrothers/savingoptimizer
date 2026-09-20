@@ -3,7 +3,7 @@
   <title id="title">E-bike cumulative cost versus Canadian transit passes</title>
   <desc id="desc">Lines comparing a $2,800 e-bike plus gear and winter downtime against TTC capping, Compass 2-zone, and Opus All Modes A monthly products.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Months to beat a Canadian transit product  with winter off</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Months to beat a Canadian transit product — with winter off</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">E-bike $2,400 + $400 gear + $15/mo running. 2 winter months/year still on transit. Fares reviewed 20 Sep 2026. Not a shop quote.</text>
   <line x1="56" y1="88" x2="56" y2="310" stroke="#E5E7EB"/>
   <line x1="56" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
@@ -28,6 +28,6 @@
   <text x="446" y="358" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TTC cap ~$155</text>
   <rect x="580" y="348" width="12" height="12" fill="#9CA3AF"/>
   <text x="596" y="358" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Opus A $110</text>
-  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Break-even vs Compass 2-zone ~2024 months if you still buy two winter months of transit. Vs Opus A, closer to 30 months. Theft or a $600 battery resets the clock.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Break-even vs Compass 2-zone ~20–24 months if you still buy two winter months of transit. Vs Opus A, closer to 30 months. Theft or a $600 battery resets the clock.</text>
   <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A used acoustic bike at $250 can beat both if the commute is short and flat. EVAP does not cover e-bikes. B.C. PST exemption is tax relief, not a rebate.</text>
 </svg>

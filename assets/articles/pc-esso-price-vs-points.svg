@@ -24,13 +24,13 @@
   <text x="402" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PC MC +3¢</text>
   <text x="402" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Esso 3¢ dearer</text>
   <rect x="484" y="276" width="100" height="24" rx="6" fill="#9CA3AF"/>
-  <text x="534" y="268" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">net 3¢</text>
+  <text x="534" y="268" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">net âˆ’3¢</text>
   <text x="534" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PC MC +3¢</text>
   <text x="534" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Esso 6¢ dearer</text>
   <rect x="616" y="182" width="64" height="118" rx="6" fill="#0F7A4B"/>
   <text x="648" y="174" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">up to 7¢</text>
   <text x="648" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Insiders WE</text>
   <text x="648" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">confirm live</text>
-  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A 6¢/L cheaper independent still beats a 3¢ PC Mastercard stack on 40 L ($2.40 vs $1.20). Extra kilometres to earn points are gasoline you paid for.</text>
-  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Esso Extra is gone. Earn is PC Optimum at participating Esso and Mobil. Issuer tiles change  confirm pcoptimum.ca and the pump brand FAQ.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A 6¢/L cheaper independent still beats a 3¢ PC Mastercard stack on 40 L ($2.40 vs $1.20). Extra kilometres to "earn" points are gasoline you paid for.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Esso Extra is gone. Earn is PC Optimum at participating Esso and Mobil. Issuer tiles change â€” confirm pcoptimum.ca and the pump brand FAQ.</text>
 </svg>

@@ -4,7 +4,7 @@
   <desc id="desc">Bar chart of labelled four-year ownership costs for all-weather tires, dedicated winters without extra rims, dedicated winters with steel rims, and the same two-set path minus an Ontario insurance discount.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Four-year rubber math (labelled compact, not a quote)</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">TRAC-style two-set vs one-set idea. Ontario 5% on a $1,968 premium is ~$98/year  an offset, not a free set.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">TRAC-style two-set vs one-set idea. Ontario 5% on a $1,968 premium is ~$98/year — an offset, not a free set.</text>
   <line x1="80" y1="90" x2="80" y2="310" stroke="#E5E7EB"/>
   <line x1="80" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
   <text x="72" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
@@ -31,6 +31,6 @@
   <rect x="540" y="188" width="115" height="122" rx="8" fill="#0F7A4B"/>
   <text x="597" y="178" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$1,328</text>
   <text x="597" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ ON 5% offset</text>
-  <text x="597" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">steels  $392 ins.</text>
-  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Safety is the first reason to buy winters. The dollars: extra rims often beat paying a shop to tear tires off twice a year. Run TRACs calculator with your quotes.</text>
+  <text x="597" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">steels − $392 ins.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Safety is the first reason to buy winters. The dollars: extra rims often beat paying a shop to tear tires off twice a year. Run TRAC's calculator with your quotes.</text>
 </svg>

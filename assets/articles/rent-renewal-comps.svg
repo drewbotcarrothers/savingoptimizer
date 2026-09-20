@@ -3,7 +3,7 @@
   <title id="title">Canadian rent renewal: guideline vs asked vs comps</title>
   <desc id="desc">Ontario 2026 guideline 2.1% versus a labelled 8% ask, with comparable listings as the negotiation package. BC 2026 limit 2.3%. Not legal advice.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Do not negotiate a feeling  negotiate comps</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Do not negotiate a feeling — negotiate comps</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario 2026 guideline 2.1% (ontario.ca). BC 2026 limit 2.3% (gov.bc.ca). Qu�bec TAL timing differs. 16 Sep 2026.</text>
   <rect x="60" y="200" width="80" height="120" fill="#E7F4EE"/>
   <text x="100" y="190" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$2,200</text>
@@ -22,8 +22,8 @@
   <text x="540" y="172" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Asked 8%: $176 more</text>
   <text x="540" y="196" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Gap: $130 / month</text>
   <text x="540" y="220" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">= $1,560 / year</text>
-  <text x="540" y="256" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Exempt (post15 Nov 2018)</text>
-  <text x="540" y="280" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">units have no % cap  comps</text>
+  <text x="540" y="256" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Exempt (post–15 Nov 2018)</text>
+  <text x="540" y="280" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">units have no % cap — comps</text>
   <text x="540" y="304" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">and moving costs do the work.</text>
   <text x="24" y="380" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Start months before notice windows. A polite email with three live listings beats a rant. If moving is cheaper than the ask, say so with quotes.</text>
   <text x="24" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not legal advice. Confirm whether your unit is guideline-exempt and which provincial notice form applies.</text>
