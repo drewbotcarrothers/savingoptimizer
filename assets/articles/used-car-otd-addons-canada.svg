@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">How add-ons erase a used-car price cut</title>
+  <desc id="desc">Stacked bars showing a negotiated vehicle price, documentation fees, typical add-ons, and HST versus the advertised windshield price.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Negotiate out-the-door, not the windshield.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled Ontario dealer-used sketch, 20 Sep 2026. HST 13%. Not a quote from any lot.</text>
+  <text x="80" y="100" text-anchor="middle" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Advertised</text>
+  <rect x="50" y="120" width="60" height="200" rx="8" fill="#9CA3AF"/>
+  <text x="80" y="340" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$18,900</text>
+  <text x="230" y="100" text-anchor="middle" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">After $1,000 cut</text>
+  <rect x="200" y="131" width="60" height="189" rx="8" fill="#4B9B74"/>
+  <text x="230" y="340" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$17,900</text>
+  <text x="430" y="100" text-anchor="middle" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">+ fees and add-ons</text>
+  <rect x="360" y="168" width="140" height="40" fill="#0F7A4B"/>
+  <rect x="360" y="208" width="140" height="28" fill="#4B9B74"/>
+  <rect x="360" y="236" width="140" height="52" fill="#9CA3AF"/>
+  <rect x="360" y="288" width="140" height="32" fill="#6B7280"/>
+  <text x="430" y="194" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Vehicle $17,900</text>
+  <text x="430" y="226" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Admin $499</text>
+  <text x="430" y="266" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Add-ons $1,287</text>
+  <text x="430" y="308" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Then HST</text>
+  <text x="430" y="340" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Worse OTD</text>
+  <text x="600" y="200" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Decline etch,</text>
+  <text x="600" y="220" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">nitrogen, and</text>
+  <text x="600" y="240" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">pre-checked</text>
+  <text x="600" y="260" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">warranties.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Ask for a buyer’s order with every line before you talk monthly payments.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Private RST uses price or UVIP/fair value — a different trap. Confirm ServiceOntario.</text>
+</svg>

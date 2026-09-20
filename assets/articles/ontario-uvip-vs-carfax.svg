@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">What UVIP, CARFAX Canada, and a PPI each cover</title>
+  <desc id="desc">Three columns showing Ontario UVIP coverage, CARFAX Canada coverage, and independent PPI coverage for a private-sale used car.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">UVIP is not CARFAX. Neither is a PPI.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario.ca UVIP updated 17 Aug 2026. CARFAX Canada is a commercial report. PPI is a shop you chose.</text>
+  <rect x="24" y="80" width="216" height="250" rx="10" fill="#F3F4F6"/>
+  <rect x="252" y="80" width="216" height="250" rx="10" fill="#F3F4F6"/>
+  <rect x="480" y="80" width="216" height="250" rx="10" fill="#E7F4EE"/>
+  <text x="132" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ontario UVIP · $20</text>
+  <text x="360" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CARFAX Canada</text>
+  <text x="588" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Independent PPI</text>
+  <text x="36" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Registration history</text>
+  <text x="36" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Branding (salvage…)</text>
+  <text x="36" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Recorded odometers</text>
+  <text x="36" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tax / fair value</text>
+  <text x="36" y="236" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PPSA-style liens</text>
+  <text x="36" y="268" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not accident shops</text>
+  <text x="36" y="292" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not a hoist</text>
+  <text x="264" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Reported accidents</text>
+  <text x="264" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Service visits</text>
+  <text x="264" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Some U.S. history</text>
+  <text x="264" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Lien only if paid</text>
+  <text x="264" y="236" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Recall hints</text>
+  <text x="264" y="268" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not Ontario RST value</text>
+  <text x="264" y="292" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not rust you can see</text>
+  <text x="492" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Underbody + frame</text>
+  <text x="492" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Compression / scan</text>
+  <text x="492" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Brakes, tires, leaks</text>
+  <text x="492" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">EV pack health</text>
+  <text x="492" y="236" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Buy / cut / walk</text>
+  <text x="492" y="268" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not a legal title</text>
+  <text x="492" y="292" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$150–$300 typical</text>
+  <text x="24" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Private Ontario sale: seller must provide the UVIP. Buyer still orders history and a shop.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only — confirm ontario.ca and the shop menu the week you buy.</text>
+</svg>

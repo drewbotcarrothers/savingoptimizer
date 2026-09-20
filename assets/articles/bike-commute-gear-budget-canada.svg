@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Year-one bike commute gear budgets</title>
+  <desc id="desc">Stacked bars for lean, weather-ready, and winter-plus-cargo Canadian bike commute kits excluding the bicycle itself.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Year-one kit — not a catalogue.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">2026 Canadian shop bands if you already own a working bike. E-bike frames and batteries are a different article.</text>
+  <line x1="80" y1="340" x2="680" y2="340" stroke="#E5E7EB"/>
+  <text x="180" y="368" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Lean</text>
+  <rect x="145" y="250" width="70" height="90" rx="8" fill="#0F7A4B"/>
+  <text x="180" y="240" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$250–$450</text>
+  <text x="360" y="368" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Weather-ready</text>
+  <rect x="325" y="198" width="70" height="142" rx="8" fill="#4B9B74"/>
+  <text x="360" y="188" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$400–$800</text>
+  <text x="540" y="368" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Winter + cargo</text>
+  <rect x="505" y="130" width="70" height="210" rx="8" fill="#0F7A4B"/>
+  <text x="540" y="120" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$700–$1,200</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Lean = helmet, lights, U-lock, vest. Weather adds fenders, rack, rain pants, gloves, tube kit. Winter adds tires and panniers.</text>
+</svg>

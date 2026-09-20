@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Monthly energy cost: home EV vs public DC vs gasoline</title>
+  <desc id="desc">Bar chart of labelled monthly energy costs for 100% home charging, mixed, public-DC-heavy, and a gasoline compact on 1,250 km.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Public-heavy charging can erase the EV’s energy win.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Sketch: 1,250 km/month (15,000 km/year) · EV 20 kWh/100 km = 250 kWh · gas 8 L/100 km @ $1.50/L.</text>
+  <line x1="70" y1="340" x2="690" y2="340" stroke="#E5E7EB"/>
+  <text x="140" y="368" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Home 18¢</text>
+  <rect x="110" y="292" width="60" height="48" rx="6" fill="#0F7A4B"/>
+  <text x="140" y="282" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$45</text>
+  <text x="280" y="368" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">90% home / 10% DC</text>
+  <rect x="250" y="284" width="60" height="56" rx="6" fill="#4B9B74"/>
+  <text x="280" y="274" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$53</text>
+  <text x="430" y="368" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">90% DC @ 50¢</text>
+  <rect x="400" y="206" width="60" height="134" rx="6" fill="#9CA3AF"/>
+  <text x="430" y="196" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$117</text>
+  <text x="580" y="368" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Gas compact</text>
+  <rect x="550" y="178" width="60" height="162" rx="6" fill="#6B7280"/>
+  <text x="580" y="168" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$150</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">OEB off-peak 9.8¢ is commodity only (1 Nov 2025–31 Oct 2026). Ratehub 2026 gas placeholder is $165/month — your litres win or lose this chart.</text>
+</svg>
