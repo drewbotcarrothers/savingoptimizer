@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Comparing a heat-included lease to a cheaper plus-hydro Canadian listing</title>
+  <desc id="desc">Labelled winter sketch: a $2,400 heat-included unit versus a $2,150 plus-hydro electric-baseboard unit. If winter hydro runs $280 a month, the cheaper sticker is $30 more all-in. Forced-air gas and Hydro-Québec files look different. Submetered houses can hide a split-bill.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Sticker rent lies when the heat is electric</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled winter month - not a utility quote. Housing lease comparison, not an OEB / Hydro-Quebec plan chooser. 20 Sep 2026.</text>
+  <rect x="48" y="120" width="280" height="180" rx="12" fill="#E7F4EE"/>
+  <text x="64" y="152" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Heat included</text>
+  <text x="64" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rent $2,400</text>
+  <text x="64" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hydro / lights (ask) $40</text>
+  <text x="64" y="236" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Winter all-in $2,440</text>
+  <text x="64" y="272" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ask: heat, water, gas, internet?</text>
+  <rect x="360" y="120" width="320" height="180" rx="12" fill="#F3F4F6"/>
+  <text x="376" y="152" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">"$250 cheaper" + hydro</text>
+  <text x="376" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rent $2,150</text>
+  <text x="376" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Electric baseboard $280</text>
+  <text x="376" y="236" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Winter all-in $2,430</text>
+  <text x="376" y="272" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Gap vanishes on a cold month.</text>
+  <text x="24" y="340" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Forced-air gas often wins the winter; Hydro-Québec kWh is usually cheaper than Ontario; a Winnipeg or Calgary file is another climate. Get last-winter bills or a cap in writing.</text>
+  <text x="24" y="364" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Red flags: house hydro split "however we feel," no meter, heat-included that is actually space heaters, landlord raising "utility share" off-lease.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational worksheet. Plan choice and time-of-use live under Utilities. BC/ON included-rent rules still cap how "heat" can be repriced as rent.</text>
+</svg>

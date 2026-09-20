@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">B.C. security and pet deposit caps versus an Ontario-style first-and-last stack</title>
+  <desc id="desc">On $1,800 B.C. rent the security deposit cannot exceed $900. A pet damage deposit can add another $900. Ontario-style first-and-last would park $3,600. After move-out and a written forwarding address the landlord has 15 days to return deposits with interest, get written consent to deductions, or apply to the RTB.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">B.C. deposits: half a month  -  not first and last</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">RTB deposits page (updated 4 Mar 2026; verified 20 Sep 2026). $1,800 rent sketch. 2026 deposit interest rate: 0%.</text>
+  <rect x="40" y="200" width="90" height="100" fill="#4B9B74"/>
+  <text x="85" y="188" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$900</text>
+  <text x="85" y="320" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Security</text>
+  <text x="85" y="338" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">½ month max</text>
+  <rect x="150" y="200" width="90" height="100" fill="#0F7A4B"/>
+  <text x="195" y="188" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$900</text>
+  <text x="195" y="320" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pet (if any)</text>
+  <text x="195" y="338" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">½ month, not /pet</text>
+  <rect x="280" y="120" width="90" height="180" fill="#9CA3AF"/>
+  <text x="325" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$3,600</text>
+  <text x="325" y="320" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ON-style</text>
+  <text x="325" y="338" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">first + last</text>
+  <text x="400" y="120" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Refund clock</text>
+  <text x="400" y="148" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. Written forwarding address</text>
+  <text x="400" y="172" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. 15 days: return, agree, or file</text>
+  <text x="400" y="196" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Direct request after 20 days</text>
+  <text x="400" y="220" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Missed 15 days can mean double.</text>
+  <text x="400" y="252" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Inspections: Form RTB-27</text>
+  <text x="400" y="276" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Skip the report, risk the refund.</text>
+  <text x="24" y="378" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Overpaid $150 on a $750 cap? RTB says you can withhold $150 from next rent in writing  -  or file. No monthly pet "fee."</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational only. Confirm on gov.bc.ca RTB. Disputes go to the Residential Tenancy Branch or a licensed advisor.</text>
+</svg>
