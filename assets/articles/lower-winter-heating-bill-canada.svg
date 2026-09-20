@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian winter heating levers by fuel and province</title>
+  <desc id="desc">Cross-Canada winter bill map: diagnose the heat source, then use the provincial lever. Enbridge Ontario gas, FortisBC, Hydro-Quebec electric heat, Alberta retail gas. Equal billing is cashflow. Envelope first. Heat pump is a capital conversation.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Winter heat: fuel first, then the provincial lever</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Equal billing smooths cash. It does not cut GJ or kWh. Verified 20 Sep 2026.</text>
+  <rect x="24" y="78" width="162" height="210" rx="12" fill="#E7F4EE"/>
+  <text x="36" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ontario gas</text>
+  <text x="36" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Enbridge supply +</text>
+  <text x="36" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">delivery + carbon</text>
+  <text x="36" y="176" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Filter, setback,</text>
+  <text x="36" y="194" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">EMPP for cashflow.</text>
+  <text x="36" y="226" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">OEB QRAM 1 Jul 2026</text>
+  <text x="36" y="244" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">is not the whole bill.</text>
+  <rect x="198" y="78" width="162" height="210" rx="12" fill="#F3F4F6"/>
+  <text x="210" y="106" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">B.C. gas / hydro</text>
+  <text x="210" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FortisBC or BC Hydro</text>
+  <text x="210" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Step 2 / EPP</text>
+  <text x="210" y="176" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Interior electric heat</text>
+  <text x="210" y="194" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">is a different winter.</text>
+  <text x="210" y="226" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Flat rate if you live</text>
+  <text x="210" y="244" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">on Step 2 all winter.</text>
+  <rect x="372" y="78" width="162" height="210" rx="12" fill="#E7F4EE"/>
+  <text x="384" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Quebec electric</text>
+  <text x="384" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rate D 2nd tier</text>
+  <text x="384" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">11.142 cents (1 Apr 2026)</text>
+  <text x="384" y="176" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Zone rooms. Line-voltage</text>
+  <text x="384" y="194" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">stats. Attic hatch.</text>
+  <text x="384" y="226" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Flex D only if you</text>
+  <text x="384" y="244" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">can shed peak events.</text>
+  <rect x="546" y="78" width="150" height="210" rx="12" fill="#F3F4F6"/>
+  <text x="558" y="106" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Alberta</text>
+  <text x="558" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Shop energy ¢</text>
+  <text x="558" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">via UCA tool</text>
+  <text x="558" y="176" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Gas DRT moves monthly.</text>
+  <text x="558" y="194" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Delivery stays put.</text>
+  <text x="558" y="226" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RoLR power to</text>
+  <text x="558" y="244" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">31 Dec 2026.</text>
+  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Order of operations: diagnose the heat source, seal the envelope, then talk thermostats or a heat pump. Gadgets after air.</text>
+  <text x="24" y="356" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Greener Homes Grant/Loan and OHPA intakes are closed. Price live provincial stacks only.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: OEB gas/electricity rates, Hydro-Quebec Rate D 1 Apr 2026, UCA default rates, Enbridge EMPP, FortisBC EPP. Education only.</text>
+</svg>

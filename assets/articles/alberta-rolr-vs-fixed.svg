@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Alberta Rate of Last Resort versus fixed and floating contracts</title>
+  <desc id="desc">Decision matrix: stay on Rate of Last Resort energy of about 12 cents per kWh through 31 December 2026 with no exit fee; sign a fixed contract only if the all-in energy plus admin beats RoLR after exit risk; floating can undercut and then spike. Shop energy only. Delivery stays with the distributor.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Alberta RoLR vs fixed vs floating (through 2026)</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">UCA default tables used 20 Sep 2026. Energy only. Delivery stays with the wires company.</text>
+  <rect x="24" y="78" width="224" height="236" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Stay on RoLR</text>
+  <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~12.01-12.06 cents/kWh</text>
+  <text x="40" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">AUC-approved to 31 Dec 2026</text>
+  <text x="40" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Leave any time, no exit fee</text>
+  <text x="40" y="220" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Fits: risk-averse, unknown</text>
+  <text x="40" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">winter use, moving soon.</text>
+  <text x="40" y="274" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A headline is not a deadline.</text>
+  <rect x="260" y="78" width="220" height="236" rx="12" fill="#F3F4F6"/>
+  <text x="276" y="106" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fixed contract</text>
+  <text x="276" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Locked cents + admin fee</text>
+  <text x="276" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Term 1-5 years typical</text>
+  <text x="276" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Exit fee if you leave early</text>
+  <text x="276" y="220" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Wins only if annual energy</text>
+  <text x="276" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">+ fees beat RoLR after exit risk.</text>
+  <text x="276" y="274" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">10-day cooling-off.</text>
+  <rect x="492" y="78" width="204" height="236" rx="12" fill="#E7F4EE"/>
+  <text x="508" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Floating / variable</text>
+  <text x="508" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cents move with market</text>
+  <text x="508" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Can beat 12 cents... then not</text>
+  <text x="508" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Harder January cashflow</text>
+  <text x="508" y="220" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Fits: can watch the UCA</text>
+  <text x="508" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">tool and switch again.</text>
+  <text x="508" y="274" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Not a set-and-forget.</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One January bill is a bad sample. Model 12 months of kWh. Compare electricity and gas as two lines even on a dual-fuel logo.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: ucahelps.alberta.ca default rates and Cost Comparison Tool. Education only - not a retailer recommendation.</text>
+</svg>

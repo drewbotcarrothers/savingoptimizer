@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cut electric baseboard heat costs in Canada without a full retrofit</title>
+  <desc id="desc">Baseboards convert nearly all kWh to heat and still cost a fortune because COP is about 1. Rank levers: zone unused rooms, line-voltage thermostats, curtains and air sealing, then a ductless heat pump conversation. Quebec Rate D second tier and Ontario ULO 4 to 9 p.m. both punish recovery blasts.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Baseboards: COP ~1. Rank the cheap levers first</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Resistance heat is efficient at the heater and expensive at the meter. Verified 20 Sep 2026.</text>
+  <rect x="24" y="78" width="336" height="232" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Do this winter (no contractor)</text>
+  <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. Close and set back unused rooms</text>
+  <text x="40" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Line-voltage stats, not Nest-on-240 V</text>
+  <text x="40" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Door snakes, curtains, outlet gaskets</text>
+  <text x="40" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Modest 1-3 C recoverable setbacks</text>
+  <text x="40" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Deep setbacks in a leaky plex can cost</text>
+  <text x="40" y="266" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">more in recovery kWh than they save.</text>
+  <rect x="372" y="78" width="324" height="232" rx="12" fill="#F3F4F6"/>
+  <text x="388" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rate interactions</text>
+  <text x="388" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Quebec Rate D: 11.142 cents</text>
+  <text x="388" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">after 40 kWh/day (1 Apr 2026)</text>
+  <text x="388" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ontario ULO 4-9 p.m. 39.1 cents</text>
+  <text x="388" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">punishes after-work recovery</text>
+  <text x="388" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Tiered winter 1,000 kWh helps a little.</text>
+  <text x="388" y="266" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">A mini-split is a capital conversation.</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Sketch: 2,000 kWh of January baseboard on Rate D second tier is about $223 energy after the first block - envelope and zoning move that number, bulbs do not.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: Hydro-Quebec Energy Wise and Rate D 1 Apr 2026; OEB RPP 1 Nov 2025. Education only - not an install quote.</text>
+</svg>

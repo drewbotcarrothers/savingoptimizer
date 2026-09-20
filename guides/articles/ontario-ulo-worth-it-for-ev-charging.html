@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Is Ontario’s Ultra-Low Overnight plan worth it if you charge an EV at home? — Saving Optimizer</title>
+  <meta name="description" content="Ontario ULO math for home EV charging: 3.9 ¢ overnight vs 39.1 ¢ weekday 4–9 p.m., Level 1 vs Level 2 windows, household load that cannot shift, condo vs detached examples, when Tiered still wins, and when to re-check after 1 November rate resets. Education only.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/ontario-ulo-worth-it-for-ev-charging.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Is Ontario’s Ultra-Low Overnight plan worth it if you charge an EV at home? — Saving Optimizer">
+  <meta property="og:description" content="Ontario ULO math for home EV charging: 3.9 ¢ overnight vs 39.1 ¢ weekday 4–9 p.m., Level 1 vs Level 2 windows, household load that cannot shift, condo vs detached examples, when Tiered still wins, and when to re-check after 1 November rate resets. Education only.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/ontario-ulo-worth-it-for-ev-charging.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Is Ontario’s Ultra-Low Overnight plan worth it if you charge an EV at home? — Saving Optimizer">
+  <meta name="twitter:description" content="Ontario ULO math for home EV charging: 3.9 ¢ overnight vs 39.1 ¢ weekday 4–9 p.m., Level 1 vs Level 2 windows, household load that cannot shift, condo vs detached examples, when Tiered still wins, and when to re-check after 1 November rate resets. Education only.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Utilities">
+  <meta name="article:published_time" content="2026-09-20">
+  <meta name="article:modified_time" content="2026-09-20">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Is Ontario’s Ultra-Low Overnight plan worth it if you charge an EV at home?",
+  "description": "Ontario ULO math for home EV charging: 3.9 ¢ overnight vs 39.1 ¢ weekday 4–9 p.m., Level 1 vs Level 2 windows, household load that cannot shift, condo vs detached examples, when Tiered still wins, and when to re-check after 1 November rate resets. Education only.",
+  "datePublished": "2026-09-20",
+  "dateModified": "2026-09-20",
+  "inLanguage": "en-CA",
+  "author": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "url": "https://savingoptimizer.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://savingoptimizer.com/assets/logo-primary.png"
+    },
+    "url": "https://savingoptimizer.com/"
+  },
+  "image": "https://savingoptimizer.com/assets/logo-primary.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://savingoptimizer.com/guides/articles/ontario-ulo-worth-it-for-ev-charging.html"
+  },
+  "url": "https://savingoptimizer.com/guides/articles/ontario-ulo-worth-it-for-ev-charging.html",
+  "articleSection": "Utilities",
+  "about": {
+    "@type": "Thing",
+    "name": "Canadian household savings",
+    "description": "Practical Utilities savings advice for Canadian households."
+  }
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://savingoptimizer.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://savingoptimizer.com/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Utilities",
+      "item": "https://savingoptimizer.com/guides/utilities.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Is Ontario’s Ultra-Low Overnight plan worth it if you charge an EV at home?",
+      "item": "https://savingoptimizer.com/guides/articles/ontario-ulo-worth-it-for-ev-charging.html"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+                {
+                        "@type": "Question",
+                        "name": "Is ULO automatically cheaper if I own an EV?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "No. It is cheaper only if most of the car’s kWh land between 11 p.m. and 7 a.m. and you are not also living hard in the weekday 4–9 p.m. 39.1 ¢ block. Run the OEB calculator with interval data."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Will a Level 1 charger finish inside the overnight window?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "A typical 1.4 kW Level 1 puts about 11 kWh in eight hours — enough for many short commutes, not for a depleted long-range battery. A 7 kW Level 2 can do a daily commute in one or two hours if you start it at 11 p.m."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Does ULO change my delivery charges?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "No. Customer Choice only edits the Electricity commodity. Delivery, regulatory charges, and the 23.5% OER still apply on eligible RPP bills."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Can I put only the EV on ULO and keep the house on TOU?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Not on a single residential meter. The plan is for the account. A separately metered EV circuit is a rare LDC product — ask, do not assume."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "How often should I re-check after I switch?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "When RPP prices reset each 1 November, when you change cars or a charger, and after the first full winter and summer on the new plan. You can switch back; a new election still waits for a billing-period start."
+                        }
+                }
+        ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../utilities.html">Utilities</a></li>
+      <li aria-current="page">Is Ontario’s Ultra-Low Overnight plan worth it if you charge an EV at home?</li>
+    </ol>
+    </nav>
+    <p class="kicker">Utilities · Canada</p>
+    <h1>Is Ontario’s Ultra-Low Overnight plan worth it if you charge an EV at home?</h1>
+    <p class="article-meta">Bill-plan first, then the charger timer · About 16 minutes · 20 Sep 2026</p>
+    
+    <div class="prose">
+      <p>Ontario EV owners see <strong>3.9 ¢</strong> overnight and file for Ultra-Low Overnight before they look at dinner. ULO’s weekday <strong>4–9 p.m. block is 39.1 ¢</strong> (OEB RPP, 1 Nov 2025–31 Oct 2026). The oven, the heat-pump recovery, and a Level 2 charger that starts when you plug in at 6:10 p.m. all sit in the most expensive five hours on the Ontario clock.</p>
+      <p>This is bill-plan math for home charging — light overlap with Transportation is fine; the decision is still the hydro plan. Pair it with the <a href="ontario-oeb-bill-calculator-how-to.html">OEB calculator workflow</a> and, if you need a 240 V circuit, <a href="home-level-2-ev-charger-cost-canada.html">Level 2 install cost</a>. It is not a U.S. time-of-use primer and not a charger-brand pitch.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> Energy monitors and smart thermostats are offer types that can help you shift or see usage. Saving Optimizer may earn a commission if we later add partner links. We do not currently claim thermostat-brand, charger-brand, or utility partnerships. This is education, not a rate quote.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>ULO overnight commodity is <strong>3.9 ¢</strong> every day 11 p.m.–7 a.m. TOU off-peak is <strong>9.8 ¢</strong> (evenings 7 p.m.–7 a.m., plus weekends). The EV win is real <em>if the plug is on a timer</em>.</li>
+          <li>ULO weekday 4–9 p.m. is <strong>39.1 ¢</strong> vs TOU winter on-peak <strong>20.3 ¢</strong>. Cooking, screens, AC, and heat-pump or baseboard recovery after work can erase the charging win.</li>
+          <li>Level 1 (~1.4 kW) can put about <strong>11 kWh</strong> in the eight-hour window. Level 2 (~7 kW) can cover a typical daily commute in one or two hours — and can also dump 30 kWh into the 39.1 ¢ block if it starts at 6 p.m.</li>
+          <li>The plan is for the <strong>whole account</strong>, not “just the car.” A condo that cooks at 6 p.m. is a different file than a detached house that pre-heats at 3 p.m. and charges at 1 a.m.</li>
+          <li>Tiered (12.0 ¢ then 14.2 ¢) still wins for low-EV, daytime-heavy homes that cannot move load. Re-check at each 1 November price reset.</li>
+        </ul>
+      </div>
+      <h2>ULO rate bands vs TOU: overnight win and weekday evening spike</h2>
+      <p>ULO has four prices and <strong>does not flip hours with the season</strong>. TOU has three prices and flips 1 May / 1 November. Commodity only, 1 Nov 2025–31 Oct 2026:</p>
+      <div class="table-wrap">
+        <table>
+          <caption>OEB RPP commodity. Delivery and the 23.5% OER are not in these ¢.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Clock</th>
+              <th scope="col">Cheap window</th>
+              <th scope="col">Pain window</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">ULO</th>
+              <td>11 p.m.–7 a.m. every day at 3.9 ¢; weekends 7 a.m.–11 p.m. at 9.8 ¢</td>
+              <td>Weekdays 4–9 p.m. at 39.1 ¢</td>
+            </tr>
+            <tr>
+              <th scope="row">TOU</th>
+              <td>Weekdays 7 p.m.–7 a.m. plus weekends/holidays, 9.8 ¢</td>
+              <td>Winter weekdays 7–11 a.m. and 5–7 p.m. at 20.3 ¢; summer afternoons 11 a.m.–5 p.m. at 20.3 ¢</td>
+            </tr>
+            <tr>
+              <th scope="row">Tiered</th>
+              <td>12.0 ¢ up to 600 kWh (summer) or 1,000 kWh (winter)</td>
+              <td>14.2 ¢ after the threshold — the clock does not matter</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Labelled sketch, not your bill: 250 kWh of overnight EV at 3.9 ¢ instead of 9.8 ¢ is about <strong>$14.75 / month</strong> on commodity. Two hundred weekday dinner-hour kWh at 39.1 ¢ instead of 20.3 ¢ is about <strong>$37.60</strong> the other way. Delivery does not move. OER still applies to both RPP options.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/ontario-ulo-ev-charging.svg" width="720" height="420" alt="Two-panel comparison of ULO overnight EV savings versus the weekday 4 to 9 p.m. 39.1 cent block.">
+        <figcaption>Overnight win vs dinner-hour risk. Timer the charger. Verified 20 Sep 2026.</figcaption>
+      </figure>
+
+      <h2>Model EV kWh: Level 1 vs Level 2 overnight charging windows</h2>
+      <p>Ontario’s charging page (used 20 Sep 2026): Level 1 is a regular 120 V outlet, about <strong>5–8 km of range per hour</strong>. Level 2 is 240 V, about <strong>35 km per hour</strong> on a typical home circuit. Alectra’s EV explainer puts Level 1 around <strong>1.4 kW</strong> on a 12 A circuit and Level 2 commonly <strong>3.8–7.7 kW</strong> depending on breaker and the car’s onboard charger.</p>
+      <ul>
+        <li><strong>Level 1, eight-hour ULO window:</strong> 1.4 kW × 8 h ≈ <strong>11 kWh</strong>. Enough for many 40–60 km commutes, not for a 70 kWh battery you flattened on a highway trip.</li>
+        <li><strong>Level 2 at ~7 kW:</strong> a 15–20 kWh daily commute is <strong>two to three hours</strong>. Start it at 11 p.m. and you are done long before 7 a.m. Start it at 6 p.m. and you have bought 7 kWh at 39.1 ¢ before the cheap window opens.</li>
+        <li><strong>PHEV:</strong> a small pack often finishes on Level 1 overnight regardless of plan. ULO still reprices the house.</li>
+      </ul>
+      <p>Schedule in the car or the charger. “I plug in when I get home” is a TOU-off-peak habit (after 7 p.m.) and a ULO-on-peak disaster (before 9 p.m.). See charger capital in the Transportation guide; this page is the plan.</p>
+
+      <h2>Household load that cannot shift (cooking, AC, heat pumps daytime)</h2>
+      <p>The plan is one meter. These loads do not care that you bought an EV:</p>
+      <ul>
+        <li><strong>Dinner.</strong> Range, oven, dishwasher if you run it at 7 p.m. Weekday 4–9 p.m. is ULO’s 39.1 ¢ cliff.</li>
+        <li><strong>Air conditioning.</strong> A late-afternoon recovery after a Peak Perks event or a workday setback sits in the same cliff. Peak Perks is a <em>summer credit</em>, not a plan — see <a href="ontario-peak-perks-smart-thermostat.html">Peak Perks</a>.</li>
+        <li><strong>Heat pumps and baseboards.</strong> Coming home to 17°C and slamming 22°C at 5:30 p.m. is a recovery blast on the worst ULO hours. Pre-heat before 4 p.m. or hold a flatter setpoint. More on baseboards in <a href="cut-electric-baseboard-heat-costs-canada.html">the baseboard playbook</a>.</li>
+        <li><strong>Medical equipment, home office, kids.</strong> If it cannot move, price it. Tiered exists for this household.</li>
+      </ul>
+      <p>A smart thermostat that pre-heats or pre-cools before 4 p.m. is a behaviour tool on ULO, not magic. An energy monitor that shows the 4–9 p.m. stack is how you catch a charger that started early.</p>
+
+      <h2>Worked example: condo vs detached with one EV</h2>
+      <p>Two labelled sketches. Not quotes. Delivery omitted; OER omitted; your LDC will change the dollars.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Commodity-only sketches using 1 Nov 2025 RPP prices. Run the OEB calculator with your LDC.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Household</th>
+              <th scope="col">What the hours look like</th>
+              <th scope="col">Plan that usually wins</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Condo + Level 1 + takeout</th>
+              <td>~180 kWh EV overnight; cooking is a microwave; no heat pump</td>
+              <td>ULO — the 3.9 ¢ car is most of the flexible load</td>
+            </tr>
+            <tr>
+              <th scope="row">Detached + Level 2 + 6 p.m. dinner + heat pump</th>
+              <td>Car can charge overnight; house recovers 4–7 p.m. all winter</td>
+              <td>Often TOU or Tiered until you pre-heat and timer the charger</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Bulk-metered condos and USMP bills cannot elect a plan at the suite. Ask the board who the principal consumer is before you buy a charger to “get on ULO.”</p>
+
+      <h2>When Tiered still beats ULO for low-EV or daytime-heavy homes</h2>
+      <p>Tiered ignores the clock. <strong>12.0 ¢</strong> then <strong>14.2 ¢</strong> after 600 kWh (summer) or 1,000 kWh (winter). It beats ULO when:</p>
+      <ul>
+        <li>The EV is a PHEV that adds 40 kWh a month, and weekday dinner is non-negotiable.</li>
+        <li>You work from home with daytime computing and a kettle, and you cannot pre-cool or pre-heat.</li>
+        <li>You already sit under the Tiered threshold most months and have no overnight process load.</li>
+      </ul>
+      <p>It loses when the car is a 250–400 kWh/month Level 2 habit <em>and</em> you can keep 4–9 p.m. boring. Do not average 12.0 and 14.2 and call it a model. Use the calculator.</p>
+
+      <h2>Switching logistics and how often to re-check after rate resets</h2>
+      <p>File the LDC election (see the calculator article). OEB rule: complete form at least <strong>10 business days</strong> before the next billing period for a same-period start. You are not locked in. You can switch back.</p>
+      <p>Re-run the file when:</p>
+      <ol>
+        <li>RPP prices reset each <strong>1 November</strong> (hours on ULO stay put; ¢ do not).</li>
+        <li>TOU hours and Tiered thresholds flip <strong>1 May and 1 November</strong> — your comparison baseline moves even if you stay on ULO.</li>
+        <li>You change cars, commute, or add a Level 2 circuit.</li>
+        <li>You finish one full winter and one full summer on the new plan and can replace guesses with intervals.</li>
+      </ol>
+      <p>If the honest annual gap is smaller than one public DC fast-charge habit, stay on TOU, timer the car for 7 p.m., and spend the attention on the attic.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>Ontario Energy Board, Electricity rates — ULO / TOU / Tiered ¢ effective 1 Nov 2025 (used 20 Sep 2026).</li>
+          <li>OEB, Electric vehicles — ULO framed for overnight charging; panel/service notes.</li>
+          <li>ontario.ca, Charging electric vehicles — Level 1 vs Level 2 range-per-hour (used 20 Sep 2026).</li>
+          <li>Alectra, Learn about chargers / EV calculator — Level 1 ~1.4 kW; Level 2 common kW steps; plan applies to the whole home.</li>
+          <li>OEB, Choosing your electricity price plan — election timing; USMP limits.</li>
+          <li>OEB bill calculator — compare with your LDC and interval data.</li>
+        </ul>
+      </div>
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Is ULO automatically cheaper if I own an EV?</h3>
+          <p>No. It is cheaper only if most of the car’s kWh land between 11 p.m. and 7 a.m. and you are not also living hard in the weekday 4–9 p.m. 39.1 ¢ block. Run the OEB calculator with interval data.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Will a Level 1 charger finish inside the overnight window?</h3>
+          <p>A typical 1.4 kW Level 1 puts about 11 kWh in eight hours — enough for many short commutes, not for a depleted long-range battery. A 7 kW Level 2 can do a daily commute in one or two hours if you start it at 11 p.m.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Does ULO change my delivery charges?</h3>
+          <p>No. Customer Choice only edits the Electricity commodity. Delivery, regulatory charges, and the 23.5% OER still apply on eligible RPP bills.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Can I put only the EV on ULO and keep the house on TOU?</h3>
+          <p>Not on a single residential meter. The plan is for the account. A separately metered EV circuit is a rare LDC product — ask, do not assume.</p>
+        </div>
+        <div class="faq-item">
+          <h3>How often should I re-check after I switch?</h3>
+          <p>When RPP prices reset each 1 November, when you change cars or a charger, and after the first full winter and summer on the new plan. You can switch back; a new election still waits for a billing-period start.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="ontario-oeb-bill-calculator-how-to.html">OEB bill calculator how-to<span>Model your hours before you elect.</span></a></li>
+        <li><a href="ontario-tou-vs-tiered-vs-ulo.html">TOU vs Tiered vs ULO<span>The three RPP clocks in one place.</span></a></li>
+        <li><a href="home-level-2-ev-charger-cost-canada.html">Level 2 charger cost<span>ULO only works if the car charges overnight.</span></a></li>
+        <li><a href="ev-vs-gas-commuting-costs-canada.html">EV vs gas commuting<span>Winter kWh belong in TCO.</span></a></li>
+        <li><a href="../utilities.html">Utilities hub<span>Plans, heat, and provincial bills.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../utilities.html">More Utilities guides</a>
+      <a class="btn btn-ghost" href="ontario-oeb-bill-calculator-how-to.html">Next: OEB bill calculator</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>More Canadian tools</h2>
+        <ul>
+          <li><a href="https://canadiancreditcardfinder.com/">Canadian Credit Card Finder</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

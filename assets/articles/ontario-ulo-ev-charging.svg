@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario Ultra-Low Overnight vs TOU for home EV charging</title>
+  <desc id="desc">ULO overnight commodity is 3.9 cents per kWh from 11 p.m. to 7 a.m., versus TOU off-peak 9.8 cents. ULO weekday 4 to 9 p.m. is 39.1 cents. A Level 1 charger at 1.4 kW can put about 11 kWh in the eight-hour window; a 7 kW Level 2 can fill a typical daily commute in one or two hours.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">ULO for an EV: overnight win, dinner-hour risk</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">OEB RPP commodity 1 Nov 2025-31 Oct 2026. Delivery and 23.5% OER sit on other lines. Verified 20 Sep 2026.</text>
+  <rect x="24" y="78" width="336" height="232" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Overnight (every day 11 p.m.-7 a.m.)</text>
+  <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ULO commodity 3.9 cents/kWh</text>
+  <text x="40" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TOU off-peak 9.8 cents/kWh</text>
+  <text x="40" y="196" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Level 1 ~1.4 kW: ~11 kWh / night</text>
+  <text x="40" y="220" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Level 2 ~7 kW: daily commute in 1-2 h</text>
+  <text x="40" y="256" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Timer the charger so it starts at 11 p.m.,</text>
+  <text x="40" y="274" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">not when you plug in at 6 p.m.</text>
+  <rect x="372" y="78" width="324" height="232" rx="12" fill="#F3F4F6"/>
+  <text x="388" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Weekday 4-9 p.m. pain</text>
+  <text x="388" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ULO on-peak 39.1 cents/kWh</text>
+  <text x="388" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TOU winter on-peak 20.3 cents</text>
+  <text x="388" y="196" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cooking, AC, heat-pump recovery</text>
+  <text x="388" y="220" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">and screens sit in this block.</text>
+  <text x="388" y="256" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">If dinner load cannot move,</text>
+  <text x="388" y="274" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">the car win can disappear.</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Sketch: 250 kWh/month of overnight EV at 3.9 vs 9.8 cents is about $14.75 commodity. A 200 kWh dinner-hour hit at 39.1 vs 20.3 cents is about $37.60 the other way.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: OEB electricity rates and EV pages; ontario.ca charging types. Run the OEB calculator with your hours. Education only.</text>
+</svg>
