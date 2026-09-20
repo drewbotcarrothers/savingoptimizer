@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian home energy upgrade order by typical payback</title>
+  <desc id="desc">Air sealing and attic first, then thermostats and habits, then lighting and appliances, then heating equipment, then windows, then solar unless a live rebate or net-metering rule is unusually strong.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Upgrade order: cheap leaks before expensive toys</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian climate stack. Not a U.S. solar-first brochure. Sketch for 20 Sep 2026.</text>
+  <rect x="24" y="80" width="672" height="44" rx="8" fill="#0F7A4B"/>
+  <text x="40" y="108" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">1. Air seal + attic  -  highest leak, lowest regret</text>
+  <rect x="24" y="132" width="600" height="44" rx="8" fill="#1F8F5A"/>
+  <text x="40" y="160" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">2. Thermostat + habits  -  existing plant, better hours</text>
+  <rect x="24" y="184" width="528" height="44" rx="8" fill="#4B9B74"/>
+  <text x="40" y="212" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">3. LEDs + thirsty appliances  -  quick wins, small bills</text>
+  <rect x="24" y="236" width="456" height="44" rx="8" fill="#6B7280"/>
+  <text x="40" y="264" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">4. Heat plant  -  repair, furnace, or heat pump</text>
+  <rect x="24" y="288" width="384" height="44" rx="8" fill="#9CA3AF"/>
+  <text x="40" y="316" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">5. Windows  -  film / inserts before full replacement</text>
+  <rect x="24" y="340" width="312" height="44" rx="8" fill="#D1D5DB"/>
+  <text x="40" y="368" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">6. Solar  -  last unless the live stack is strong</text>
+  <text x="24" y="406" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Gas-heat Ontario vs electric-heat Quebec change the heating fork, not the leak-first rule. Education only.</text>
+</svg>

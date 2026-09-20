@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario winter utility disconnection ban coverage</title>
+  <desc id="desc">Licensed electricity and natural gas distributors cannot disconnect residential customers for non-payment from 15 Nov to 30 Apr. Bills and late fees still accrue. Unit sub-meter providers may still disconnect. LEAP is emergency arrears help, not forgiveness.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The winter ban is a pause, not forgiveness</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">OEB rules. Next window: 15 Nov 2026 to 30 Apr 2027. Used 20 Sep 2026 (between seasons).</text>
+  <rect x="24" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Covered</text>
+  <text x="40" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Licensed electricity LDC</text>
+  <text x="40" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Natural gas distributor</text>
+  <text x="40" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Non-payment disconnects</text>
+  <text x="40" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Occupied homes already</text>
+  <text x="40" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">off must be back by 1 Dec.</text>
+  <text x="40" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Load-control devices also paused.</text>
+  <rect x="252" y="78" width="216" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Not covered</text>
+  <text x="268" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Unit sub-meter providers</text>
+  <text x="268" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">May still disconnect</text>
+  <text x="268" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Safety / theft issues</text>
+  <text x="268" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Bills keep accruing.</text>
+  <text x="268" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Late-payment interest too.</text>
+  <text x="268" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Spring notices can start in Apr.</text>
+  <rect x="480" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Get help here</text>
+  <text x="496" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Utility payment plan</text>
+  <text x="496" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">LEAP: up to $650 / $780</text>
+  <text x="496" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">via an intake agency</text>
+  <text x="496" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">OESP = monthly hydro credit.</text>
+  <text x="496" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">21-day hold if LEAP is filed.</text>
+  <text x="496" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No e-transfer "debt relief".</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Outside the ban: written notice + a 48-hour phone attempt. The notice must mention LEAP and arrears options.</text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Call the number on the bill. oeb.ca/billhelp. Do not pay a Facebook stranger to "stop disconnection today".</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not legal advice or a payment arrangement. Re-check the OEB winter-ban page each November.</text>
+</svg>
