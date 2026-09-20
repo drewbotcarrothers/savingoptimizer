@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Flashfood Canada fee break-even after the 2026 service fee</title>
+  <desc id="desc">Three carts after an 8 percent service fee capped at $2.99: a $6 bakery order, a $12 mixed cart, and a $28 meat order combined with a planned store trip.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Fees do not kill Flashfood. Tiny carts do.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Community receipts: 8% from 6 Jan 2026, cap about $2.99. Help Center now says a variable fee with a $2.99 max. Trust checkout.</text>
+  <rect x="40" y="86" width="200" height="180" rx="12" fill="#F3F4F6"/>
+  <text x="140" y="118" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#6B7280">$6 bakery</text>
+  <text x="140" y="164" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="26" font-weight="700" fill="#1A1A1A">Skip</text>
+  <text x="140" y="198" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">~$0.48 fee + tax</text>
+  <text x="140" y="220" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">plus any extra drive</text>
+  <rect x="260" y="86" width="200" height="180" rx="12" fill="#F3F4F6"/>
+  <text x="360" y="118" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#6B7280">$12 mixed</text>
+  <text x="360" y="164" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="26" font-weight="700" fill="#1A1A1A">Maybe</text>
+  <text x="360" y="198" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">~$0.96 fee</text>
+  <text x="360" y="220" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">only if already going</text>
+  <rect x="480" y="86" width="200" height="180" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="580" y="118" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">$28 meat on route</text>
+  <text x="580" y="164" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="26" font-weight="700" fill="#0F7A4B">Yes</text>
+  <text x="580" y="198" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">fee hits $2.24, under cap</text>
+  <text x="580" y="220" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">freeze same night</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Loblaw said the partnership saved customers more than $58 million in 2025 (release 2 Mar 2026) - an aggregate, not your haul.</text>
+  <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A 25-minute detour at 73 cents/km CRA 2026 math wipes a small cart. Combine with the No Frills or Superstore run.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026</text>
+</svg>
