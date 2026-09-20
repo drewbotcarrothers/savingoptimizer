@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EV vs gas commuting costs in Canada: a realistic TCO — Saving Optimizer</title>
+  <meta name="description" content="Canadian EV vs gasoline commuting TCO: EVAP-adjusted purchase, home electricity vs litres, winter range, charger amortisation, and when a used gas compact still wins. Education only.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/ev-vs-gas-commuting-costs-canada.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="EV vs gas commuting costs in Canada: a realistic TCO — Saving Optimizer">
+  <meta property="og:description" content="Canadian EV vs gasoline commuting TCO: EVAP-adjusted purchase, home electricity vs litres, winter range, charger amortisation, and when a used gas compact still wins. Education only.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/ev-vs-gas-commuting-costs-canada.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="EV vs gas commuting costs in Canada: a realistic TCO — Saving Optimizer">
+  <meta name="twitter:description" content="Canadian EV vs gasoline commuting TCO: EVAP-adjusted purchase, home electricity vs litres, winter range, charger amortisation, and when a used gas compact still wins. Education only.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Transportation">
+  <meta name="article:published_time" content="2026-09-20">
+  <meta name="article:modified_time" content="2026-09-20">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "EV vs gas commuting costs in Canada: a realistic total-cost framework",
+    "description": "Canadian EV vs gasoline commuting TCO: EVAP-adjusted purchase, home electricity vs litres, winter range, charger amortisation, and when a used gas compact still wins. Education only.",
+    "datePublished": "2026-09-20",
+    "dateModified": "2026-09-20",
+    "inLanguage": "en-CA",
+    "author": {
+      "@type": "Organization",
+      "name": "Saving Optimizer",
+      "url": "https://savingoptimizer.com/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Saving Optimizer",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://savingoptimizer.com/assets/logo-primary.png"
+      },
+      "url": "https://savingoptimizer.com/"
+    },
+    "image": "https://savingoptimizer.com/assets/logo-primary.png",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://savingoptimizer.com/guides/articles/ev-vs-gas-commuting-costs-canada.html"
+    },
+    "url": "https://savingoptimizer.com/guides/articles/ev-vs-gas-commuting-costs-canada.html",
+    "articleSection": "Transportation",
+    "about": {
+      "@type": "Thing",
+      "name": "Canadian transportation savings",
+      "description": "Practical Transportation savings advice for Canadian households."
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://savingoptimizer.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Guides",
+        "item": "https://savingoptimizer.com/guides/index.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Transportation",
+        "item": "https://savingoptimizer.com/guides/transportation.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "EV vs gas commuting costs in Canada: a realistic total-cost framework",
+        "item": "https://savingoptimizer.com/guides/articles/ev-vs-gas-commuting-costs-canada.html"
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is an EV always cheaper to commute in Canada?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Home off-peak charging usually beats gasoline on energy. Purchase price, insurance, winter efficiency, and public DC fast charging can erase that. Run kilometres and quotes, not a California brochure."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much does EVAP change the math in 2026?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Up to $5,000 off an eligible new BEV (or $2,500 PHEV) at participating dealers, with a $50,000 final-transaction rule and a Canadian-made exception. Used EVs do not get EVAP. Provincial stacks exist in some provinces and not others."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I include the home charger in TCO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes if you need one. A simple Level 2 install is often $1,000–$3,000 before rebates; a panel upgrade can add thousands. Amortize it over the years you will keep the car. Condos without a stall should price public charging instead."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much range do I lose in a Canadian winter?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cabin heat and cold batteries commonly cost 20–40% of rated range on mixed commutes. Highway plus −20°C can be worse. Energy cost rises with that kWh; the commute still usually pencils if you charge at home overnight."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When does a used gas car still win?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Low annual kilometres, no home charging, an EV insurance quote that jumps, or a paid-off efficient compact already in the driveway. If the EV only works with a provincial rebate that might be closed, it does not work."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../transportation.html">Transportation</a></li>
+      <li aria-current="page">EV vs gas commuting costs in Canada: a realistic total-cost framework</li>
+    </ol>
+    </nav>
+    <p class="kicker">Transportation · Canada</p>
+    <h1>EV vs gas commuting costs in Canada: a realistic total-cost framework</h1>
+    <p class="article-meta">Winter, EVAP, and the charger — not California math · About 18 minutes · 20 Sep 2026</p>
+    
+    <div class="prose">
+
+      <p>EV vs gas arguments in Canadian comment sections usually skip three things that actually move the bill: <strong>incentives that expire or never existed in your province</strong>, <strong>winter kWh</strong>, and the <strong>capital cost of a Level 2 charger</strong>. A U.S. desert commute at 16 kWh/100 km is not a January 401 run with cabin heat on. Ratehub’s 2026 ownership average is still <strong>$1,373 a month</strong> blended — useful as a dashboard, useless as “the EV saves that.”</p>
+      <p>This is a commuting TCO framework for households that will keep a car. Pair it with <a href="canada-evap-ev-rebate-2026.html">how EVAP works</a>, the <a href="stack-provincial-ev-rebates-evap-2026.html">provincial stack map</a>, <a href="home-level-2-ev-charger-cost-canada.html">Level 2 install costs</a>, and <a href="used-vs-new-car-canada-tco.html">used vs new</a>. If the car would sit, price <a href="communauto-vs-zipcar-vs-owning-car-canada.html">car-share</a> first.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> EV shopping tools, home charger deals, and insurance quote tools are offer types. Saving Optimizer may earn a commission if we later add partner links. We do not currently claim dealer, charger, or insurer partnerships. Figures below are labelled examples plus public program numbers — not a quote, a loan offer, or insurance advice.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>Subtract <strong>EVAP</strong> (up to $5,000 BEV / $2,500 PHEV in 2026) and any live provincial rebate <em>before</em> you compare payments. Used EVs get no federal incentive.</li>
+          <li>Home overnight charging usually beats gasoline on energy. Public DC fast charging often does not. Ontario TOU off-peak is <strong>9.8¢/kWh</strong> commodity (OEB, 1 Nov 2025–31 Oct 2026); delivery still sits on the bill.</li>
+          <li>Budget <strong>20–40%</strong> more kWh in winter for mixed commuting. Range anxiety is an energy-cost problem as much as a map problem.</li>
+          <li>Amortize the charger. A $2,000 net install over eight years is $250/year — real money, not “free electrons.”</li>
+          <li>A paid-off efficient used gas compact can still win at low kilometres or in a condo without a plug. Do the kilometres honestly.</li>
+        </ul>
+      </div>
+
+      <h2>Purchase net of EVAP/provincial incentives</h2>
+      <p>Transport Canada’s Electric Vehicle Affordability Program (EVAP) launched <strong>16 February 2026</strong>: up to <strong>$5,000</strong> for an eligible new BEV/FCEV and <strong>$2,500</strong> for a PHEV, at participating dealers, for most vehicles with a final transaction value of <strong>$50,000 or less</strong> (no that cap on EVs made in Canada). Remaining funds were <strong>$2.131B of $2.275B as of 1 June 2026</strong>. Amounts decline in later calendar years. Details and the $50,000 rule live in <a href="canada-evap-ev-rebate-2026.html">the EVAP how-to</a>.</p>
+      <p>Provincial passenger rebates are a second line, not a given. Québec’s Roulez vert is about <strong>$2,000</strong> for a new BEV in 2026 and is scheduled to <strong>end 31 December 2026</strong>. Manitoba’s MPI program still lists <strong>$4,000</strong> new / <strong>$2,500</strong> used after a Budget 2026 extension — confirm remaining funds. PEI has remained comparatively generous in 2026 public round-ups. Ontario, Alberta, Saskatchewan, and B.C. passenger purchases are typically <strong>federal-only</strong>. Map it in <a href="stack-provincial-ev-rebates-evap-2026.html">the stacking guide</a> the week you put a deposit down.</p>
+      <p>Worked net (labelled, not a quote): $48,000 eligible BEV − $5,000 EVAP = <strong>$43,000</strong> before tax. Same car in Québec with Roulez vert: $41,000 before tax. Same car used at $28,000: <strong>no EVAP</strong>. Compare those nets to a $14,000 used Civic, not to the EV’s MSRP poster.</p>
+
+      <h2>Fuel vs home electricity for common commute distances</h2>
+      <p>Energy is the line people argue about because it is visible. Use three commute distances and your actual receipts.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Labelled annual energy cost at 20 kWh/100 km (EV) and 8 L/100 km (gas compact). Gas at $1.75/L (Ratehub noted mid-April 2026 national averages near $1.749/L). Electricity rows are sketches — your hydro line includes delivery.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Annual km</th>
+              <th scope="col">Gas (8 L/100 km)</th>
+              <th scope="col">EV off-peak 9.8¢</th>
+              <th scope="col">EV all-in ~18¢</th>
+              <th scope="col">Public DCFC 50¢</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">8,000 km</th>
+              <td>$1,120</td>
+              <td>$157</td>
+              <td>$288</td>
+              <td>$800</td>
+            </tr>
+            <tr>
+              <th scope="row">15,000 km</th>
+              <td>$2,100</td>
+              <td>$294</td>
+              <td>$540</td>
+              <td>$1,500</td>
+            </tr>
+            <tr>
+              <th scope="row">25,000 km</th>
+              <td>$3,500</td>
+              <td>$490</td>
+              <td>$900</td>
+              <td>$2,500</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <figure class="article-figure">
+        <img src="../../assets/articles/ev-vs-gas-commute-energy.svg" width="720" height="420" alt="Bar chart comparing labelled 15,000 km energy costs for an off-peak home-charged EV, all-in home charging, public DC fast charging, and a gasoline compact.">
+        <figcaption>15,000 km energy examples. Home charging is the EV’s advantage. Public DC at 50¢/kWh starts to look like gasoline. Confirm ¢/kWh on your bill, not this chart.</figcaption>
+      </figure>
+      <p>A 40 km round-trip commute, 22 weekdays, is about <strong>880 km/month</strong> or 10,500 km/year of commuting before weekends. Add errands. The 15,000 km column is the common Canadian commuting-plus-life sketch; Ratehub’s ownership model used 1,200 km/month in our <a href="cost-of-owning-a-car-canada-2026.html">dashboard article</a>.</p>
+      <p>Québec and Manitoba residential energy is often cheaper per kWh than Ontario all-in. B.C. stepped residential rates punish a household that already sits in step 2. Do not import a Toronto TOU number to Calgary. Read last winter’s hydro bill.</p>
+
+      <h2>Insurance and maintenance differences at a high level</h2>
+      <p>Ratehub’s 2026 insurance placeholder is <strong>$164/month</strong>. EVs can rate higher (repair costs, theft, parts) or, occasionally, lower. That is an underwriting fact, not a slogan. Quote <strong>both VINs</strong> on the same coverage sheet — see <a href="shop-auto-insurance-canada-broker-vs-direct.html">broker vs direct shopping</a>. A $40/month EV surcharge is $480/year, which can eat a large slice of the energy save at 8,000 km.</p>
+      <p>Maintenance: EVs skip oil changes and have less brake wear with regen. They still need tires (often heavier, often winter-sensitive), cabin filters, washer fluid, and eventual high-voltage service after the warranty. Ratehub’s maintenance reserve is <strong>$120/month</strong> on the blended average — high for a new EV under warranty, low for a salted 12-year gas car. Put a named envelope on the dashboard either way. Winter tires are a separate stack: <a href="winter-tires-budget-canada.html">one-set vs two-set math</a>.</p>
+
+      <h2>Winter range and cabin-heat reality checks</h2>
+      <p>Cold batteries and cabin heat are why Canadian EV math is not California EV math. A compact that shows 18 kWh/100 km in September can show 25–30 kWh/100 km in January on mixed roads. That is not a defect. It is thermodynamics plus a heat pump (or not).</p>
+      <ul>
+        <li>Precondition while plugged in at home so cabin heat does not come only from the pack on the 401.</li>
+        <li>Highway at −20°C is the hard case. If your commute is 90 km each way with no charger at work, a short-range EV is a lifestyle constraint, not a cents-per-km debate.</li>
+        <li>Winter energy still usually beats $1.75/L gasoline <em>if you charge at home</em>. The range problem is “will I make it,” not “will electrons be cheaper than litres.”</li>
+      </ul>
+      <div class="callout">
+        <p><strong>Do not use summer NRCan ratings for a January budget.</strong> Multiply your real kWh/100 km from the first cold month, or add 30% to the brochure number as a planning haircut until you have data.</p>
+      </div>
+
+      <h2>Home charger amortisation</h2>
+      <p>A Level 2 charger is part of EV TCO if you need one. Public 2026 installer ranges for a simple 240 V circuit are often <strong>$1,000–$3,000</strong> all-in; a panel upgrade can add <strong>$2,000–$4,000</strong>. Québec still lists about <strong>$600</strong> of home-charging assistance (scheduled to end 31 Dec 2026 with Roulez vert). BC Hydro lists up to <strong>$350</strong> (plus up to <strong>$200</strong> for an eligible load-management device). Ontario has no province-wide charger rebate. Walk through quotes in <a href="home-level-2-ev-charger-cost-canada.html">the charger cost guide</a>.</p>
+      <p>Worked amortisation (labelled): $2,000 net install ÷ 8 years = <strong>$250/year</strong> or $21/month. At 15,000 km, that is 1.7¢/km on top of electricity. Skip this line and the EV looks magically cheap. Condos and rentals that cannot install should price public charging or a used gas car instead of pretending the stall will appear.</p>
+
+      <h2>Worked examples: 15,000 km urban vs mixed highway</h2>
+      <div class="table-wrap">
+        <table>
+          <caption>Five-year cash sketches, labelled. New eligible BEV at $43,000 after EVAP vs $14,000 used gas compact. Insurance $164 vs $190 is an example split, not a quote. Charger $2,000 in year one on the EV. Energy from the 15,000 km table (EV all-in $540; gas $2,100). Maintenance $600 EV vs $1,200 gas per year as a planning split.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Line (5-year)</th>
+              <th scope="col">New BEV after EVAP</th>
+              <th scope="col">Used gas compact</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Purchase (cash, no interest)</th>
+              <td>$43,000</td>
+              <td>$14,000</td>
+            </tr>
+            <tr>
+              <th scope="row">Charger</th>
+              <td>$2,000</td>
+              <td>$0</td>
+            </tr>
+            <tr>
+              <th scope="row">Energy</th>
+              <td>$2,700</td>
+              <td>$10,500</td>
+            </tr>
+            <tr>
+              <th scope="row">Insurance example</th>
+              <td>$11,400</td>
+              <td>$9,840</td>
+            </tr>
+            <tr>
+              <th scope="row">Maintenance + tires reserve</th>
+              <td>$3,000</td>
+              <td>$6,000</td>
+            </tr>
+            <tr>
+              <th scope="row"><strong>Cash out (no resale)</strong></th>
+              <td><strong>$62,100</strong></td>
+              <td><strong>$40,340</strong></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Resale closes part of that gap if the EV still has value in year five and the Civic is scrap-adjacent. Interest reverses it if you finance $43,000 at 7% and the Civic is paid cash. Highway-heavy 25,000 km years favour the EV on energy ($900 vs $3,500 in the table) enough that the five-year energy delta is $13,000 — closer to “the EV can win” if you keep it and charge at home.</p>
+      <p>Urban 8,000 km with public charging at 50¢: EV energy $800 vs gas $1,120 — a $320 gap that will not pay for a $2,000 charger, let alone a $29,000 purchase spread. That household should look at <a href="save-on-transit-canada.html">transit</a> and car-share, not a new EV to “save on gas.”</p>
+
+      <h2>When an efficient used gas car still wins</h2>
+      <ul>
+        <li>You already own a paid-off 6–7 L/100 km car. The EV’s energy save has to beat depreciation, insurance delta, and charger — it often does not at under 10,000 km/year.</li>
+        <li>No home charging and expensive public DC. The EV becomes a gasoline-priced appliance with a bigger payment.</li>
+        <li>The only way the deal works is a provincial stack that is paused, exhausted, or closing next month. See the <a href="stack-provincial-ev-rebates-evap-2026.html">verify-this-week checklist</a>.</li>
+        <li>Insurance on the EV VIN is a jump you cannot absorb. Quote before you fall in love.</li>
+        <li>You need a truck or a long winter highway that no eligible $50,000 BEV can do. EVAP is not a reason to buy the wrong tool.</li>
+      </ul>
+      <p>California marketing math assumes cheap power, mild winters, and a federal tax credit that is not EVAP. Canadian commuting TCO is EVAP (maybe), a hydro line, January kWh, and a stall you either have or do not. Write those four numbers. Then decide.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>Transport Canada EVAP home — 16 Feb 2026 start, $5,000 / $2,500, $50,000 rule, $2.131B remaining as of 1 Jun 2026. Reviewed 20 Sep 2026.</li>
+          <li>Ontario Energy Board electricity rates — TOU off-peak 9.8¢/kWh, mid-peak 15.7¢, on-peak 20.3¢ (1 Nov 2025–31 Oct 2026). Delivery and regulatory charges extra.</li>
+          <li>Ratehub, “What is the total cost of owning a car?”, updated 29 Apr 2026 — $1,373 blended monthly; fuel-spike note near $1.749/L.</li>
+          <li>ThinkEV / provincial program pages — 2026 passenger stacks (QC, MB, PEI vs ON/AB/BC). Confirm official sites the week you buy.</li>
+        </ul>
+      </div>
+
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Is an EV always cheaper to commute in Canada?</h3>
+          <p>No. Home off-peak charging usually beats gasoline on energy. Purchase price, insurance, winter efficiency, and public DC fast charging can erase that. Run kilometres and quotes, not a California brochure.</p>
+        </div>
+        <div class="faq-item">
+          <h3>How much does EVAP change the math in 2026?</h3>
+          <p>Up to $5,000 off an eligible new BEV (or $2,500 PHEV) at participating dealers, with a $50,000 final-transaction rule and a Canadian-made exception. Used EVs do not get EVAP. Provincial stacks exist in some provinces and not others.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Should I include the home charger in TCO?</h3>
+          <p>Yes if you need one. A simple Level 2 install is often $1,000–$3,000 before rebates; a panel upgrade can add thousands. Amortize it over the years you will keep the car. Condos without a stall should price public charging instead.</p>
+        </div>
+        <div class="faq-item">
+          <h3>How much range do I lose in a Canadian winter?</h3>
+          <p>Cabin heat and cold batteries commonly cost 20–40% of rated range on mixed commutes. Highway plus −20°C can be worse. Energy cost rises with that kWh; the commute still usually pencils if you charge at home overnight.</p>
+        </div>
+        <div class="faq-item">
+          <h3>When does a used gas car still win?</h3>
+          <p>Low annual kilometres, no home charging, an EV insurance quote that jumps, or a paid-off efficient compact already in the driveway. If the EV only works with a provincial rebate that might be closed, it does not work.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="canada-evap-ev-rebate-2026.html">Canada EVAP rebate 2026<span>What replaced iZEV — amounts, cap, declining years.</span></a></li>
+        <li><a href="stack-provincial-ev-rebates-evap-2026.html">Stack provincial rebates with EVAP<span>QC / MB / PEI vs Ontario and Alberta gaps.</span></a></li>
+        <li><a href="home-level-2-ev-charger-cost-canada.html">Home Level 2 charger cost<span>Hardware, panel, rebates, payback vs public DC.</span></a></li>
+        <li><a href="used-vs-new-car-canada-tco.html">Used vs new TCO<span>Nine-year Ratehub math and when new still wins.</span></a></li>
+        <li><a href="../transportation.html">Transportation hub<span>Transit, gas, insurance, and TCO.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../transportation.html">More Transportation guides</a>
+      <a class="btn btn-ghost" href="home-level-2-ev-charger-cost-canada.html">Next: Level 2 charger cost</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

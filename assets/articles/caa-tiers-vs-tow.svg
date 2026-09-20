@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">CAA South Central Ontario membership tiers versus one long winter tow</title>
+  <desc id="desc">Bar chart of CAA SCO 2026 annual prices for Everyday, Basic, Plus, and Premier against a labelled $250 example of one 80 kilometre winter tow billed at contractor rates.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">CAA SCO tiers vs one billed winter tow (labelled)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">caasco.com membership compare, reviewed 20 Sep 2026. Other CAA clubs price differently. Tow example is not a CAA invoice.</text>
+  <line x1="80" y1="90" x2="80" y2="310" stroke="#E5E7EB"/>
+  <line x1="80" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
+  <text x="72" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="72" y="254" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$80</text>
+  <text x="72" y="194" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$160</text>
+  <text x="72" y="134" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$240</text>
+  <!-- scale $280=220px so $30=24, $80=63, $124=97, $154=121, $250=196 -->
+  <rect x="100" y="286" width="90" height="24" rx="8" fill="#9CA3AF"/>
+  <text x="145" y="276" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$30</text>
+  <text x="145" y="332" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Everyday</text>
+  <text x="145" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">bike, not car</text>
+  <rect x="210" y="247" width="90" height="63" rx="8" fill="#4B9B74"/>
+  <text x="255" y="237" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$80</text>
+  <text x="255" y="332" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Basic</text>
+  <text x="255" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4 tows / 10 km</text>
+  <rect x="320" y="213" width="90" height="97" rx="8" fill="#0F7A4B"/>
+  <text x="365" y="203" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$124</text>
+  <text x="365" y="332" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Plus</text>
+  <text x="365" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4 tows / 200 km</text>
+  <rect x="430" y="189" width="90" height="121" rx="8" fill="#0F7A4B"/>
+  <text x="475" y="179" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$154</text>
+  <text x="475" y="332" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Premier</text>
+  <text x="475" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">5 calls / 320 km</text>
+  <rect x="540" y="114" width="90" height="196" rx="8" fill="#6B7280"/>
+  <text x="585" y="104" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$250</text>
+  <text x="585" y="332" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One 80 km tow</text>
+  <text x="585" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">example, not a quote</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Basics 10 km radius is the winter trap. Plus is the default for highway commuters. Confirm your club  CAA North &amp; East Ontario lists higher Classic/Plus/Premier prices.</text>
+</svg>

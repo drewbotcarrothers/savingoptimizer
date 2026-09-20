@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">2026 stacked EV purchase incentives by province for an eligible BEV</title>
+  <desc id="desc">Stacked bar chart of federal EVAP $5,000 plus remaining provincial passenger rebates in Quebec, Manitoba, PEI versus federal-only Ontario, Alberta, and British Columbia.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Eligible new BEV: EVAP plus what is left provincially</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Orientation only. Confirm the provincial page the week you buy. Envelopes close. Reviewed 20 Sep 2026.</text>
+  <line x1="70" y1="90" x2="70" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="300" x2="690" y2="300" stroke="#E5E7EB"/>
+  <text x="62" y="304" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="62" y="234" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$5k</text>
+  <text x="62" y="164" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$9k</text>
+  <!-- scale $9000 = 210px -->
+  <!-- QC 5000+2000 = 7000 = 163; federal 117 from y=300 -->
+  <rect x="90" y="183" width="70" height="117" rx="0" fill="#0F7A4B"/>
+  <rect x="90" y="137" width="70" height="46" rx="0" fill="#4B9B74"/>
+  <text x="125" y="127" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$7,000</text>
+  <text x="125" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">QC</text>
+  <!-- MB 5000+4000 = 9000 -->
+  <rect x="190" y="183" width="70" height="117" fill="#0F7A4B"/>
+  <rect x="190" y="90" width="70" height="93" fill="#4B9B74"/>
+  <text x="225" y="80" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$9,000</text>
+  <text x="225" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">MB</text>
+  <!-- PEI 5000+4000 -->
+  <rect x="290" y="183" width="70" height="117" fill="#0F7A4B"/>
+  <rect x="290" y="90" width="70" height="93" fill="#4B9B74"/>
+  <text x="325" y="80" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$9,000</text>
+  <text x="325" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PEI</text>
+  <!-- ON federal only -->
+  <rect x="390" y="183" width="70" height="117" rx="4" fill="#0F7A4B"/>
+  <text x="425" y="173" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$5,000</text>
+  <text x="425" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ON</text>
+  <!-- AB -->
+  <rect x="490" y="183" width="70" height="117" rx="4" fill="#0F7A4B"/>
+  <text x="525" y="173" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$5,000</text>
+  <text x="525" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">AB</text>
+  <!-- BC -->
+  <rect x="590" y="183" width="70" height="117" rx="4" fill="#0F7A4B"/>
+  <text x="625" y="173" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$5,000</text>
+  <text x="625" y="318" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">BC</text>
+  <rect x="90" y="348" width="14" height="14" rx="3" fill="#0F7A4B"/>
+  <text x="110" y="360" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Federal EVAP 2026 (up to $5,000 BEV)</text>
+  <rect x="390" y="348" width="14" height="14" rx="3" fill="#4B9B74"/>
+  <text x="410" y="360" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Provincial passenger rebate (if still open)</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Québec Roulez vert ends 31 Dec 2026. Manitoba Budget 2026 extended MPI rebates  no new public sunset. Ontario/Alberta/BC passenger: federal only.</text>
+</svg>

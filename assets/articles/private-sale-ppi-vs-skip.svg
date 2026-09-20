@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Due-diligence stack for a Canadian private-sale used car</title>
+  <desc id="desc">Horizontal bars showing typical 2026 costs for an Ontario UVIP, CARFAX Canada history plus lien, and an independent pre-purchase inspection versus one missed repair.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Paperwork is cheap. A skipped PPI is not.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario UVIP $20 (O. Reg. 601/93). CARFAX Canada public prices Sep 2026. PPI shop quotes vary.</text>
+  <line x1="240" y1="88" x2="240" y2="310" stroke="#E5E7EB"/>
+  <text x="24" y="128" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ontario UVIP</text>
+  <rect x="240" y="108" width="8" height="28" rx="4" fill="#4B9B74"/>
+  <text x="258" y="128" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$20</text>
+  <text x="24" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CARFAX + lien</text>
+  <rect x="240" y="156" width="31" height="28" rx="6" fill="#4B9B74"/>
+  <text x="281" y="176" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$77.95</text>
+  <text x="24" y="224" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Independent PPI</text>
+  <rect x="240" y="204" width="80" height="28" rx="6" fill="#0F7A4B"/>
+  <text x="330" y="224" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$150$300</text>
+  <text x="24" y="272" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One missed repair</text>
+  <rect x="240" y="252" width="280" height="28" rx="6" fill="#9CA3AF"/>
+  <text x="530" y="272" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,500+ (example)</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Full diligence stack H $250$400 before you wire a dollar.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">UVIP is Ontario registration and lien snapshot  not a mechanical inspection and not a U.S. Carfax clone. Walk if the seller blocks a PPI.</text>
+</svg>

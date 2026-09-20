@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario winter-tire insurance discount versus a winter tire set</title>
+  <desc id="desc">Bar chart comparing a 2 percent and 5 percent discount on a $1,968 annual premium against a $900 winter set amortized over four years.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The discount is real. It does not buy the tires.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario must offer a winter-tire discount (FSRA). Amount is the insurers. 25% is the range cited since the 2016 mandate.</text>
+  <line x1="90" y1="90" x2="90" y2="310" stroke="#E5E7EB"/>
+  <line x1="90" y1="310" x2="670" y2="310" stroke="#E5E7EB"/>
+  <text x="82" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="82" y="254" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$80</text>
+  <text x="82" y="194" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$160</text>
+  <text x="82" y="134" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$240</text>
+  <!-- scale $240=220px -->
+  <!-- 2% of 1968 = $39.36 = 36; y=274 -->
+  <rect x="130" y="274" width="130" height="36" rx="8" fill="#9CA3AF"/>
+  <text x="195" y="264" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$39</text>
+  <text x="195" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2% / year</text>
+  <text x="195" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">on $1,968 premium</text>
+  <!-- 5% = $98.40 = 90; y=220 -->
+  <rect x="300" y="220" width="130" height="90" rx="8" fill="#4B9B74"/>
+  <text x="365" y="210" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$98</text>
+  <text x="365" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">5% / year</text>
+  <text x="365" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">ask, then confirm</text>
+  <!-- $900/4 = $225 = 206; y=104 -->
+  <rect x="470" y="104" width="130" height="206" rx="8" fill="#0F7A4B"/>
+  <text x="535" y="94" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$225</text>
+  <text x="535" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tires / year</text>
+  <text x="535" y="348" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$900 set ÷ 4 yrs</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Buy winters for stopping distance. Claim the discount so you are not leaving $40$100/year on the table. Not a quote; Ratehub 2026 insurance placeholder × 12 H $1,968.</text>
+</svg>
