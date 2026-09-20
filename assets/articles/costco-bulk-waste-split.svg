@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Costco bulk unit-price win erased by waste</title>
+  <desc id="desc">Bar chart of a $24 Costco berry box versus $14 of berries actually eaten after spoilage, losing to a $7 discounter clamshell you finish.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Bulk savings after the compost bin</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative 1.8 kg berry box vs a 340 g clamshell a couple actually finishes.</text>
+  <text x="86" y="92" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Paid / eaten ($)</text>
+  <line x1="86" y1="110" x2="86" y2="310" stroke="#E5E7EB"/>
+  <line x1="86" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
+  <line x1="86" y1="260" x2="680" y2="260" stroke="#F3F4F6"/>
+  <line x1="86" y1="210" x2="680" y2="210" stroke="#F3F4F6"/>
+  <line x1="86" y1="160" x2="680" y2="160" stroke="#F3F4F6"/>
+  <line x1="86" y1="110" x2="680" y2="110" stroke="#F3F4F6"/>
+  <text x="78" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0</text>
+  <text x="78" y="264" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">8</text>
+  <text x="78" y="214" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">16</text>
+  <text x="78" y="164" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">24</text>
+  <text x="78" y="114" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">32</text>
+  <rect x="140" y="160" width="110" height="150" rx="8" fill="#6B7280"/>
+  <text x="195" y="150" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$24</text>
+  <text x="195" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Costco paid</text>
+  <text x="195" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">cheap $/kg</text>
+  <rect x="310" y="223" width="110" height="87" rx="8" fill="#6B7280"/>
+  <text x="365" y="213" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$14</text>
+  <text x="365" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Eaten</text>
+  <text x="365" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$10 moulded</text>
+  <rect x="480" y="266" width="110" height="44" rx="8" fill="#0F7A4B"/>
+  <text x="535" y="256" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$7</text>
+  <text x="535" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Discounter pack</text>
+  <text x="535" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">all eaten</text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">True cost of the Costco box is $24 divided by food eaten. Freeze or split on day one.</text>
+</svg>

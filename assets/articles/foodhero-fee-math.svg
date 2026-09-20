@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">FoodHero order fee versus discount on small and larger hauls</title>
+  <desc id="desc">Two worked FoodHero checkouts showing a $1.79 fee wiping a tiny order and remaining small on a $22 meat-and-produce order.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">FoodHero fee vs discount (illustrative)</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Community reports often cite about $1.79 per order. Trust the live checkout.</text>
+  <rect x="40" y="88" width="300" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="190" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tiny bakery order</text>
+  <text x="58" y="152" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Listed retail</text>
+  <text x="310" y="152" text-anchor="end" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$8.00</text>
+  <text x="58" y="178" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">App price (~50% off)</text>
+  <text x="310" y="178" text-anchor="end" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$4.00</text>
+  <text x="58" y="204" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Service fee</text>
+  <text x="310" y="204" text-anchor="end" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1.79</text>
+  <text x="58" y="230" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">You pay</text>
+  <text x="310" y="230" text-anchor="end" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$5.79</text>
+  <text x="58" y="268" font-size="14" font-weight="700" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Net vs shelf</text>
+  <text x="310" y="268" text-anchor="end" font-size="16" font-weight="700" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$2.21</text>
+  <text x="190" y="298" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Skip unless already in the store</text>
+  <rect x="380" y="88" width="300" height="230" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="530" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Protein + produce haul</text>
+  <text x="398" y="152" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Listed retail</text>
+  <text x="650" y="152" text-anchor="end" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$44.00</text>
+  <text x="398" y="178" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">App price (~50% off)</text>
+  <text x="650" y="178" text-anchor="end" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$22.00</text>
+  <text x="398" y="204" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Service fee</text>
+  <text x="650" y="204" text-anchor="end" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1.79</text>
+  <text x="398" y="230" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">You pay</text>
+  <text x="650" y="230" text-anchor="end" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$23.79</text>
+  <text x="398" y="268" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Net vs shelf</text>
+  <text x="650" y="268" text-anchor="end" font-size="16" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$20.21</text>
+  <text x="530" y="298" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Freeze meat the same night</text>
+  <text x="24" y="350" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Compare the haul to this week's FreshCo flyer, not to Sobeys full-service shelves.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">If flyer chicken is cheaper after the fee, the flyer wins. Surplus is a substitution.</text>
+</svg>

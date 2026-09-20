@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Costco gas cents per litre versus Gold Star fee and travel time</title>
+  <desc id="desc">Three household fuel scenarios showing annual pump savings versus the $65 Gold Star fee, with a reminder that Executive 2% excludes gas.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Does Costco gas cover Gold Star?</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Teaching range 8c/L cheaper than nearby majors. Verify locally. Fee $65 + tax.</text>
+  <text x="86" y="92" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Annual pump save ($)</text>
+  <line x1="86" y1="110" x2="86" y2="320" stroke="#E5E7EB"/>
+  <line x1="86" y1="320" x2="680" y2="320" stroke="#E5E7EB"/>
+  <line x1="86" y1="268" x2="680" y2="268" stroke="#F3F4F6"/>
+  <line x1="86" y1="216" x2="680" y2="216" stroke="#F3F4F6"/>
+  <line x1="86" y1="164" x2="680" y2="164" stroke="#F3F4F6"/>
+  <line x1="86" y1="112" x2="680" y2="112" stroke="#F3F4F6"/>
+  <text x="78" y="324" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0</text>
+  <text x="78" y="272" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">60</text>
+  <text x="78" y="220" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">120</text>
+  <text x="78" y="168" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">180</text>
+  <text x="78" y="116" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">240</text>
+  <line x1="86" y1="264" x2="680" y2="264" stroke="#6B7280" stroke-dasharray="6 4"/>
+  <text x="670" y="256" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$65 fee</text>
+  <rect x="140" y="278" width="110" height="42" rx="8" fill="#6B7280"/>
+  <text x="195" y="268" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$48</text>
+  <text x="195" y="342" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">600 L / year</text>
+  <text x="195" y="358" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">short commute</text>
+  <rect x="305" y="216" width="110" height="104" rx="8" fill="#0F7A4B"/>
+  <text x="360" y="206" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$120</text>
+  <text x="360" y="342" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1,500 L / year</text>
+  <text x="360" y="358" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">one driver</text>
+  <rect x="470" y="112" width="110" height="208" rx="8" fill="#0F7A4B"/>
+  <text x="525" y="102" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$240</text>
+  <text x="525" y="342" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3,000 L / year</text>
+  <text x="525" y="358" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">two vehicles</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Subtract queue time and extra kilometres. Gas does not earn Executive 2%. CIBC 3% at Costco gas is a separate January shop card.</text>
+</svg>

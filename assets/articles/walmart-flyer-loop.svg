@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Use Walmart flyers as match ammunition, not as a match destination</title>
+  <desc id="desc">Four-step flow: clip a Walmart flyer in Flipp, shop a matching banner, match at the till, skip Walmart as the match store.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Walmart in a 2026 Flipp loop</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ad Match ended 15 Oct 2020. Other banners may still match a Walmart flyer.</text>
+  <rect x="28" y="90" width="150" height="150" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="103" y="155" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Clip</text>
+  <text x="103" y="178" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Walmart flyer</text>
+  <text x="103" y="196" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">full ad + dates</text>
+  <rect x="222" y="90" width="150" height="150" rx="12" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="297" y="155" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Shop</text>
+  <text x="297" y="178" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No Frills / FreshCo</text>
+  <text x="297" y="196" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">or Superstore</text>
+  <rect x="416" y="90" width="150" height="150" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="491" y="155" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3. Match</text>
+  <text x="491" y="178" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">identical item</text>
+  <text x="491" y="196" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">often 4-unit cap</text>
+  <rect x="590" y="90" width="106" height="150" rx="12" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="643" y="155" text-anchor="middle" font-size="14" font-weight="700" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Skip</text>
+  <text x="643" y="178" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Walmart</text>
+  <text x="643" y="196" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">as matcher</text>
+  <rect x="28" y="268" width="664" height="96" rx="12" fill="#F3F4F6"/>
+  <text x="48" y="302" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Stay at Walmart only when the whole basket wins</text>
+  <text x="48" y="326" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">One-stop + rollbacks can still beat a match hunt. Do not argue competitor ads at a Walmart till.</text>
+  <text x="48" y="348" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">In-store may still match Walmart.ca on identical items sold by Walmart. Ask, then move on if no.</text>
+</svg>

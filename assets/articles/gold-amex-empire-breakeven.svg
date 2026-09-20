@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Scotiabank Gold Amex fee versus extra Scene+ grocery earn</title>
+  <desc id="desc">Line showing extra 4 percentage points versus a 2 percent Scene+ Visa crossing the $120 annual fee at about $3,000 of eligible Empire grocery.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Gold Amex vs no-fee Scene+ Visa</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">6x vs 2x at Empire tills, 1c/pt grocery. Fee $120 (Scotiabank, reviewed Sep 2026).</text>
+  <text x="86" y="92" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Extra grocery value vs Visa ($)</text>
+  <line x1="86" y1="110" x2="86" y2="320" stroke="#E5E7EB"/>
+  <line x1="86" y1="320" x2="680" y2="320" stroke="#E5E7EB"/>
+  <line x1="86" y1="268" x2="680" y2="268" stroke="#F3F4F6"/>
+  <line x1="86" y1="216" x2="680" y2="216" stroke="#F3F4F6"/>
+  <line x1="86" y1="164" x2="680" y2="164" stroke="#F3F4F6"/>
+  <line x1="86" y1="112" x2="680" y2="112" stroke="#F3F4F6"/>
+  <text x="78" y="324" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0</text>
+  <text x="78" y="272" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">60</text>
+  <text x="78" y="220" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">120</text>
+  <text x="78" y="168" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">180</text>
+  <text x="78" y="116" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">240</text>
+  <line x1="86" y1="216" x2="680" y2="216" stroke="#6B7280" stroke-dasharray="6 4"/>
+  <text x="670" y="208" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif" text-anchor="end">$120 fee</text>
+  <polyline points="86,320 383,216 680,112" fill="none" stroke="#0F7A4B" stroke-width="3"/>
+  <circle cx="383" cy="216" r="6" fill="#0F7A4B"/>
+  <text x="383" y="200" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$3,000</text>
+  <text x="180" y="348" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="383" y="348" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$3,000 Empire grocery</text>
+  <text x="620" y="348" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$6,000</text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ignores dining 5x, welcome bonuses, waived-fee packages, and Amex refusals at Loblaw. Pay in full.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">If you shop No Frills most weeks, this line is a dining/travel card, not a grocery product.</text>
+</svg>
