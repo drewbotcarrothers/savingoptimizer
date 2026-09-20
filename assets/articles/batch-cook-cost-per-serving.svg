@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Batch cooking versus takeout per serving</title>
+  <desc id="desc">Illustrative cost per serving for frozen leftover meals versus a typical Canadian takeout night.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ready frozen dinner vs the Thursday takeout default</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Per serving, labelled estimates. Flyer protein + pantry. Not a restaurant index.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <text x="24" y="108" font-size="13" font-weight="600" fill="#1A1A1A">Dal + rice (frozen)</text>
+    <rect x="280" y="90" width="90" height="26" rx="6" fill="#0F7A4B"/>
+    <text x="382" y="108" font-size="13" font-weight="700" fill="#0F7A4B">$1.80-2.50</text>
+    <text x="24" y="156" font-size="13" font-weight="600" fill="#1A1A1A">Thighs + grain (flyer)</text>
+    <rect x="280" y="138" width="120" height="26" rx="6" fill="#0F7A4B"/>
+    <text x="412" y="156" font-size="13" font-weight="700" fill="#0F7A4B">$2.50-4.00</text>
+    <text x="24" y="204" font-size="13" font-weight="600" fill="#1A1A1A">Chili / soup bricks</text>
+    <rect x="280" y="186" width="100" height="26" rx="6" fill="#4B9B74"/>
+    <text x="392" y="204" font-size="13" font-weight="700" fill="#1A1A1A">$2.00-3.50</text>
+    <text x="24" y="252" font-size="13" font-weight="600" fill="#1A1A1A">Meal-kit night (list price)</text>
+    <rect x="280" y="234" width="200" height="26" rx="6" fill="#6B7280"/>
+    <text x="492" y="252" font-size="13" font-weight="700" fill="#1A1A1A">$10-14+</text>
+    <text x="24" y="300" font-size="13" font-weight="600" fill="#1A1A1A">Skip / Uber Eats typical</text>
+    <rect x="280" y="282" width="280" height="26" rx="6" fill="#1A1A1A"/>
+    <text x="572" y="300" font-size="13" font-weight="700" fill="#1A1A1A">$18-28 after fees</text>
+  </g>
+  <text x="24" y="348" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">The freezer only beats takeout if the container is labelled, cooled safely, and tied to a flyer protein you already bought.</text>
+  <text x="24" y="376" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Mystery foil is compost. Love Food Hate Waste planning + a Thursday leftover night close the loop.</text>
+</svg>

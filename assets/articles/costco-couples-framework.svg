@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Costco for two: fee vs waste-adjusted wins</title>
+  <desc id="desc">Illustrative annual unit-price savings for a Canadian couple versus the $65 Gold Star fee, with and without produce waste.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Couple Costco math: finish the pack, or the fee wins</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Gold Star $65 + tax (Costco.ca membership terms, reviewed 20 Sep 2026). Teaching estimates, not a survey.</text>
+  <line x1="90" y1="80" x2="90" y2="310" stroke="#E5E7EB"/>
+  <line x1="90" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
+  <text x="82" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="82" y="254" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$80</text>
+  <text x="82" y="194" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$160</text>
+  <text x="82" y="134" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$240</text>
+  <line x1="90" y1="263" x2="680" y2="263" stroke="#9CA3AF" stroke-dasharray="5 5"/>
+  <text x="686" y="267" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$65 fee</text>
+  <rect x="130" y="236" width="120" height="74" rx="8" fill="#9CA3AF"/>
+  <text x="190" y="226" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~$40</text>
+  <text x="190" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">All Costco cart</text>
+  <text x="190" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">produce waste</text>
+  <rect x="300" y="172" width="120" height="138" rx="8" fill="#4B9B74"/>
+  <text x="360" y="162" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$180</text>
+  <text x="360" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Split shop</text>
+  <text x="360" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">freezer used</text>
+  <rect x="470" y="118" width="120" height="192" rx="8" fill="#0F7A4B"/>
+  <text x="530" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$260</text>
+  <text x="530" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Split + gas</text>
+  <text x="530" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">on the route</text>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Waste and kilometres are the real couple-tax. Executive 2% is a year-two question - see the Gold Star vs Executive guide.</text>
+</svg>

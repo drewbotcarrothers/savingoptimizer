@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Vegetarian protein cost per gram in Canada</title>
+  <desc id="desc">Illustrative cost per gram of protein for pulses, tofu, eggs, dairy, and fake meat at Canadian discounters.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Plant-forward protein: pulses first, fake meat last</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative cents per gram, discounter / ethnic grocer, 20 Sep 2026. Recalculate the label.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <text x="24" y="100" font-size="13" font-weight="600" fill="#1A1A1A">Dry lentils / beans</text>
+    <rect x="220" y="82" width="70" height="26" rx="6" fill="#0F7A4B"/>
+    <text x="302" y="100" font-size="13" font-weight="700" fill="#0F7A4B">~1.5-3c</text>
+    <text x="24" y="144" font-size="13" font-weight="600" fill="#1A1A1A">Tofu (ethnic grocer)</text>
+    <rect x="220" y="126" width="110" height="26" rx="6" fill="#0F7A4B"/>
+    <text x="342" y="144" font-size="13" font-weight="700" fill="#0F7A4B">~3-5c</text>
+    <text x="24" y="188" font-size="13" font-weight="600" fill="#1A1A1A">Eggs / large yogurt</text>
+    <rect x="220" y="170" width="150" height="26" rx="6" fill="#4B9B74"/>
+    <text x="382" y="188" font-size="13" font-weight="700" fill="#1A1A1A">~4-7c</text>
+    <text x="24" y="232" font-size="13" font-weight="600" fill="#1A1A1A">Canned beans (store brand)</text>
+    <rect x="220" y="214" width="130" height="26" rx="6" fill="#4B9B74"/>
+    <text x="362" y="232" font-size="13" font-weight="700" fill="#1A1A1A">~3-6c</text>
+    <text x="24" y="276" font-size="13" font-weight="600" fill="#1A1A1A">Retail fake-meat burgers</text>
+    <rect x="220" y="258" width="320" height="26" rx="6" fill="#1A1A1A"/>
+    <text x="552" y="276" font-size="13" font-weight="700" fill="#1A1A1A">~12-25c+</text>
+  </g>
+  <text x="24" y="324" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Canada's Food Guide budget tips still start with beans, lentils, tofu, eggs, and frozen veg - not a freezer aisle of brands.</text>
+  <text x="24" y="356" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not medical advice. Cost per gram uses the nutrition table, not the front of the box. Frozen veg beats January berries.</text>
+  <text x="24" y="380" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Loyalty still applies: PC / Scene+ / Moi on the cheap banner, not a premium "plant-based" endcap.</text>
+</svg>

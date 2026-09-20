@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Food Basics vs No Frills Ontario decision</title>
+  <desc id="desc">How a 10% student Tuesday and distance change the cheaper Ontario discounter.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario discounter choice: shelf, then 10%, then loyalty</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Worked $80 eligible staple cart. Student 10% only at participating Food Basics (foodbasics.ca, reviewed 20 Sep 2026).</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <text x="24" y="108" font-size="13" font-weight="600" fill="#1A1A1A">No Frills shelf (no student %)</text>
+    <rect x="340" y="90" width="240" height="26" rx="6" fill="#4B9B74"/>
+    <text x="592" y="108" font-size="13" font-weight="700" fill="#1A1A1A">$80.00</text>
+    <text x="24" y="156" font-size="13" font-weight="600" fill="#1A1A1A">Food Basics shelf (same list)</text>
+    <rect x="340" y="138" width="246" height="26" rx="6" fill="#6B7280"/>
+    <text x="598" y="156" font-size="13" font-weight="700" fill="#1A1A1A">$82.00</text>
+    <text x="24" y="204" font-size="13" font-weight="600" fill="#1A1A1A">Food Basics + Tuesday 10%</text>
+    <rect x="340" y="186" width="216" height="26" rx="6" fill="#0F7A4B"/>
+    <text x="568" y="204" font-size="13" font-weight="700" fill="#0F7A4B">$73.80</text>
+    <text x="24" y="252" font-size="13" font-weight="600" fill="#1A1A1A">No Frills + 4-unit matches</text>
+    <rect x="340" y="234" width="210" height="26" rx="6" fill="#0F7A4B"/>
+    <text x="562" y="252" font-size="13" font-weight="700" fill="#0F7A4B">$72-76</text>
+  </g>
+  <text x="24" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If your Food Basics is not on the student list, the 10% bar does not exist. Do not argue from a 2024 reel.</text>
+  <text x="24" y="340" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">PC Optimum offers vs Moi at Food Basics (usually offers/redeem, not Metro's Ontario 1 pt / $3). Distance still wins most weeks.</text>
+  <text x="24" y="372" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Produce quality is store-level. Walk away from a tired case even if the banner won last Tuesday.</text>
+</svg>
