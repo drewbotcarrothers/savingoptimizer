@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Car-lite monthly stacks in Toronto Vancouver and Montreal</title>
+  <desc id="desc">Grouped bars comparing Ratehub ownership average to a transit plus car-share substitute in three Canadian cities.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Car-lite vs Ratehub ownership  three city sketches</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Transit products 20 Sep 2026. Ownership $1,373 is Ratehubs 29 Apr 2026 blended average  replace parking and insurance with yours.</text>
+  <line x1="56" y1="84" x2="56" y2="300" stroke="#E5E7EB"/>
+  <line x1="56" y1="300" x2="696" y2="300" stroke="#E5E7EB"/>
+  <text x="48" y="304" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="48" y="248" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$450</text>
+  <text x="48" y="192" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$900</text>
+  <text x="48" y="136" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,350</text>
+  <rect x="80" y="128" width="52" height="172" rx="5" fill="#9CA3AF"/>
+  <rect x="140" y="268" width="52" height="32" rx="5" fill="#0F7A4B"/>
+  <text x="136" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Toronto</text>
+  <text x="136" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">own / lite</text>
+  <rect x="260" y="128" width="52" height="172" rx="5" fill="#9CA3AF"/>
+  <rect x="320" y="264" width="52" height="36" rx="5" fill="#0F7A4B"/>
+  <text x="316" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Vancouver</text>
+  <text x="316" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">own / lite</text>
+  <rect x="440" y="128" width="52" height="172" rx="5" fill="#9CA3AF"/>
+  <rect x="500" y="272" width="52" height="28" rx="5" fill="#0F7A4B"/>
+  <text x="496" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Montréal</text>
+  <text x="496" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">own / lite</text>
+  <rect x="620" y="218" width="52" height="82" rx="5" fill="#4B9B74"/>
+  <text x="646" y="210" text-anchor="middle" font-size="11" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$659</text>
+  <text x="646" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Paid-off</text>
+  <text x="646" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">no loan lines</text>
+  <text x="80" y="120" font-size="11" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,373</text>
+  <text x="140" y="260" font-size="11" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$265</text>
+  <text x="260" y="120" font-size="11" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,373</text>
+  <text x="320" y="256" font-size="11" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$300</text>
+  <text x="440" y="120" font-size="11" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,373</text>
+  <text x="500" y="264" font-size="11" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$230</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Lite stacks: TTC cap or $143 12-Month + 2 Zipcar days; Compass 2-zone $156.70 + Evo/Modo sketch; Opus All Modes A $110 (1 Jul 2026) + Communauto Value Extra 4 days.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Kids, winter, and a $400 stall change the green bar. Scale: $1,373 = 172 px.</text>
+</svg>
