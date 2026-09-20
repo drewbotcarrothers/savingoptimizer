@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Heat pump rebate patterns by Canadian region in 2026</title>
+  <desc id="desc">After Greener Homes closure, live money is provincial or utility. Patterns differ: income-tested CleanBC, Ontario HRSP per-ton caps, Hydro-Quebec LogisVert, Atlantic wind-downs, Prairie gaps. Re-verify every number before you sign.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Heat-pump money is a map, not a national cheque</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Pattern sketch verified 20 Sep 2026. Amounts move. Treat this as a directory, not a bid.</text>
+  <rect x="24" y="78" width="160" height="210" rx="12" fill="#E7F4EE"/>
+  <text x="36" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">B.C.</text>
+  <text x="36" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CleanBC Better Homes</text>
+  <text x="36" y="152" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Income-tested ESP</text>
+  <text x="36" y="172" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pre-register first</text>
+  <text x="36" y="204" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Heat-pump caps can</text>
+  <text x="36" y="220" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">look large. One</text>
+  <text x="36" y="236" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">primary system only.</text>
+  <rect x="196" y="78" width="160" height="210" rx="12" fill="#E7F4EE"/>
+  <text x="208" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ontario</text>
+  <text x="208" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">HRSP per-ton caps</text>
+  <text x="208" y="152" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fuel baseline matters</text>
+  <text x="208" y="172" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">EAP free-install path</text>
+  <text x="208" y="204" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Gas homes often see</text>
+  <text x="208" y="220" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">a smaller ccASHP cap</text>
+  <text x="208" y="236" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">than oil / electric.</text>
+  <rect x="368" y="78" width="160" height="210" rx="12" fill="#E7F4EE"/>
+  <text x="380" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Quebec</text>
+  <text x="380" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">LogisVert / HQ offer</text>
+  <text x="380" y="152" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Up to $6,700 listed</text>
+  <text x="380" y="172" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Chauffez vert oil path</text>
+  <text x="380" y="204" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Cannot stack two HQ</text>
+  <text x="380" y="220" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">or QC programs on</text>
+  <text x="380" y="236" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">the same pump.</text>
+  <rect x="540" y="78" width="156" height="210" rx="12" fill="#F3F4F6"/>
+  <text x="552" y="106" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Atlantic / Prairies</text>
+  <text x="552" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PEI POS ended Apr 2026</text>
+  <text x="552" y="152" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">NB advance closed Jun</text>
+  <text x="552" y="172" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">AB: no provincial HP $</text>
+  <text x="552" y="204" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">NS HEA / income paths</text>
+  <text x="552" y="220" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">still need a live check.</text>
+  <text x="552" y="236" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">OHPA files: 31 Jan 2027.</text>
+  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Federal Greener Homes Grant/Loan: closed. OHPA intake: closed 31 Jul 2026. Quote hygiene: eligible model, cold-climate sheet, registered contractor.</text>
+  <text x="24" y="342" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Red flag: rebate already assumed in the price with no program ID. Ask for the live form, not a 2024 screenshot.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational map. Not a rebate approval. Re-check NRCan, Save on Energy, Better Homes BC, Hydro-Quebec, and your utility the week you sign.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Amounts in this chart are pattern labels, not guaranteed payouts.</text>
+</svg>
