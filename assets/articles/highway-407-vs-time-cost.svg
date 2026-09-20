@@ -16,14 +16,14 @@
   <rect x="410" y="140" width="100" height="150" fill="#9CA3AF"/>
   <rect x="560" y="218" width="100" height="72" fill="#4B9B74"/>
   <text x="140" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">407 peak + $1</text>
-  <text x="140" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$18$28</text>
+  <text x="140" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$18-$28</text>
   <text x="300" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">40 min @ $30/h</text>
   <text x="300" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$20 time</text>
   <text x="460" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Video extra</text>
   <text x="460" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">+$5.30 + $5/mo</text>
   <text x="610" y="310" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">GO one-way</text>
   <text x="610" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">distance fare</text>
-  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Steer (for 407 ETR) cites 2060 minutes saved on a typical rush-hour trip. At $30/hour, 40 minutes is $20 of time  often less than a long peak 407 bill.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Steer (for 407 ETR) cites 20-60 minutes saved on a typical rush-hour trip. At $30/hour, 40 minutes is $20 of time - often less than a long peak 407 bill.</text>
   <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Annual transponder $31.50 + tax (Jan 2026) beats three video round trips. A $150/month toll cap forces the days that are actually late-for-work days.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">407 ETR 21 Nov 2025 rate release; transponder and camera fees from 407etr.com. GO is the real alternative on many corridors.</text>
 </svg>

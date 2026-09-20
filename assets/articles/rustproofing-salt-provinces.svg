@@ -4,7 +4,7 @@
   <desc id="desc">Cumulative cost of annual oil spray versus a one-time dealer undercoat versus a structural rust repair later.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Salt-province rust math over 8 years</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CAA-Québec cost bands (updated 31 Jul 2026). Repair bar is a labelled late-stage sketch, not a body-shop quote.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CAA-Quebec cost bands (updated 31 Jul 2026). Repair bar is a labelled late-stage sketch, not a body-shop quote.</text>
   <line x1="56" y1="80" x2="56" y2="290" stroke="#E5E7EB"/>
   <line x1="56" y1="290" x2="680" y2="290" stroke="#E5E7EB"/>
   <text x="48" y="294" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
@@ -24,6 +24,6 @@
   <text x="250" y="310" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Yr 3</text>
   <text x="430" y="310" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Yr 5</text>
   <text x="610" y="310" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Yr 8</text>
-  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CAA-Québec: liquid oil $100$175/year; permanent $400$700. Eight oil years H $800$1,400. A rocker or frame repair later is the expensive bar.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CAA-Quebec: liquid oil $100-$175/year; permanent $400-$700. Eight oil years about $800-$1,400. A rocker or frame repair later is the expensive bar.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Washes after brine and a dry garage habit still beat a $1,200 dealer package on a dirty underbody. Education, not a shop endorsement.</text>
 </svg>

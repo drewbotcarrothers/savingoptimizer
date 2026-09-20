@@ -3,7 +3,7 @@
   <title id="title">Canadian October to April winter car maintenance calendar</title>
   <desc id="desc">Planned winter maintenance spend versus a single emergency tow and battery replacement after a cold snap.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">OctoberApril: plan the $200, skip the $600 surprise</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">October-April: plan the $200, skip the $600 surprise</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled Canadian shop bands. Tow assumes no useful roadside. Reviewed 20 Sep 2026.</text>
   <line x1="56" y1="80" x2="56" y2="290" stroke="#E5E7EB"/>
   <line x1="56" y1="290" x2="680" y2="290" stroke="#E5E7EB"/>
@@ -28,8 +28,8 @@
   <text x="398" y="310" text-anchor="middle" font-size="10" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Apr</text>
   <text x="535" y="310" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Dead-battery</text>
   <text x="535" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">tow + battery</text>
-  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Oct: battery test + winter-washer + wipers (~$80$140). Nov: rust spray window if not done (CAA-Québec: AugOct ideal). Mid-winter: underbody washes after brine.</text>
-  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A planned ~$180$260 season plus CAA Basic/Plus (club prices vary) is cheaper than one 25 °C no-start plus a shop battery on a Sunday.</text>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Oct: battery test + winter-washer + wipers (~$80-$140). Nov: rust spray window if not done (CAA-Quebec: Aug-Oct ideal). Mid-winter: underbody washes after brine.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A planned ~$180-$260 season plus CAA Basic/Plus (club prices vary) is cheaper than one -25 C no-start plus a shop battery on a Sunday.</text>
   <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Companion: winter-tire budget, Ontario discount, CAA tiers. Safety items (tires, brakes, lights) are not the line to cut.</text>
   <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Shop bands labelled 20 Sep 2026. Confirm live prices. Education, not a repair order.</text>
 </svg>

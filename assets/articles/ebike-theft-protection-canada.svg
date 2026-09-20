@@ -3,7 +3,7 @@
   <title id="title">Cost of protecting a Canadian e-bike versus replacing it</title>
   <desc id="desc">Bars comparing a two-lock kit, a scheduled home-insurance rider, and specialty bike coverage against replacing a $2,800 commuter e-bike after theft.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Protect a $2,800 e-bike  or buy it twice</text>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Protect a $2,800 e-bike - or buy it twice</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled 2026 Canadian bands. Locks and riders are not quotes. Reviewed 20 Sep 2026.</text>
   <line x1="56" y1="88" x2="56" y2="300" stroke="#E5E7EB"/>
   <line x1="56" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
@@ -16,14 +16,14 @@
   <rect x="370" y="258" width="88" height="42" fill="#6B7280"/>
   <rect x="510" y="92" width="88" height="208" fill="#9CA3AF"/>
   <text x="134" y="320" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Two-lock kit</text>
-  <text x="134" y="336" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$180$350</text>
+  <text x="134" y="336" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$180-$350</text>
   <text x="274" y="320" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Home rider</text>
-  <text x="274" y="336" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$50$200/yr</text>
+  <text x="274" y="336" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$50-$200/yr</text>
   <text x="414" y="320" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Specialty policy</text>
-  <text x="414" y="336" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$160$250/yr</text>
+  <text x="414" y="336" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$160-$250/yr</text>
   <text x="554" y="320" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Replace bike</text>
   <text x="554" y="336" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$2,800+</text>
-  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A $1,000 bicycle sub-limit minus a $500$1,000 deductible can pay almost nothing. Schedule the bike or buy a specialty product that names it.</text>
-  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Cable-only parking is a donation. Register the serial (529 Garage / Bike Index) before you need a claim. Education only  not a broker quote.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A $1,000 bicycle sub-limit minus a $500-$1,000 deductible can pay almost nothing. Schedule the bike or buy a specialty product that names it.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Cable-only parking is a donation. Register the serial (529 Garage / Bike Index) before you need a claim. Education only - not a broker quote.</text>
   <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: Canadian home-policy special-limit practice; specialty offer-type bands from 2026 Canadian bike-insurance write-ups.</text>
 </svg>
