@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">B.C. 2026 rent increase limit of 2.3 percent on example rents</title>
+  <desc id="desc">B.C. RTB 2026 residential rent increase limit is 2.3 percent, with three full months notice on Form RTB-7, once every 12 months. On $2,200 rent the maximum increase is $50.60. Landlords cannot round up. Utilities and agreed fees cannot quietly rise with rent. 2027 limit is 2.2 percent.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">B.C. 2026 limit: 2.3%  and the form has to be RTB-7</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">gov.bc.ca rent increases, last updated 27 Aug 2026 (verified 20 Sep 2026). Do not round up. 2027 limit already posted: 2.2%.</text>
+  <rect x="48" y="180" width="70" height="100" fill="#4B9B74"/>
+  <text x="83" y="168" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">+$41.40</text>
+  <text x="83" y="300" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,800</text>
+  <rect x="138" y="168" width="70" height="112" fill="#0F7A4B"/>
+  <text x="173" y="156" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">+$50.60</text>
+  <text x="173" y="300" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,200</text>
+  <rect x="228" y="156" width="70" height="124" fill="#0F7A4B"/>
+  <text x="263" y="144" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">+$59.80</text>
+  <text x="263" y="300" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,600</text>
+  <rect x="318" y="140" width="70" height="140" fill="#0F7A4B"/>
+  <text x="353" y="128" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">+$73.60</text>
+  <text x="353" y="300" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$3,200</text>
+  <text x="420" y="120" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Notice math</text>
+  <text x="420" y="148" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Three full months on RTB-7</text>
+  <text x="420" y="172" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Month of receipt does not count.</text>
+  <text x="420" y="196" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Once every 12 months</text>
+  <text x="420" y="220" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Unused last-year % does not stack.</text>
+  <text x="420" y="252" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Voluntary above-limit: refuse</text>
+  <text x="420" y="276" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Must be written if you ever say yes.</text>
+  <text x="24" y="354" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,200 x 2.3% = $50.60. A notice for $51 is over. Parking/storage in the tenancy agreement cannot outrun the same annual limit. Separate fee side-letters are a read-twice item.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational only. Improper notice can slide the effective date. Overpayments can be deducted from future rent in writing - confirm current RTB process.</text>
+</svg>

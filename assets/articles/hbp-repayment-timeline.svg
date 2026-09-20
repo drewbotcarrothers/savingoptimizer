@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Home Buyers' Plan repayment timeline for a 2026 first withdrawal</title>
+  <desc id="desc">CRA HBP limit is $60,000 per eligible person. Temporary repayment relief for a first withdrawal between 1 Jan 2026 and 31 Dec 2028 starts the 15-year repayment in the fifth year. A 2026 withdrawal has a first repayment year of 2031. A $60,000 balance divided by 15 is $4,000 a year if you wait for the minimum.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">HBP: $60,000 out - repayment does not start the next January</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CRA: $60,000 limit; 2026-2028 first-withdrawal relief (2026 withdrawal to first repayment year 2031). Verified 20 Sep 2026.</text>
+  <rect x="28" y="88" width="128" height="88" rx="10" fill="#E7F4EE"/>
+  <text x="92" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2026</text>
+  <text x="92" y="148" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">First withdrawal</text>
+  <text x="164" y="134" font-size="18" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">&gt;</text>
+  <rect x="188" y="88" width="128" height="88" rx="10" fill="#F3F4F6"/>
+  <text x="252" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2027-30</text>
+  <text x="252" y="148" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Grace years</text>
+  <text x="324" y="134" font-size="18" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">&gt;</text>
+  <rect x="348" y="88" width="128" height="88" rx="10" fill="#0F7A4B"/>
+  <text x="412" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">2031</text>
+  <text x="412" y="148" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">First repayment</text>
+  <text x="484" y="134" font-size="18" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">&gt;</text>
+  <rect x="508" y="88" width="184" height="88" rx="10" fill="#4B9B74"/>
+  <text x="600" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">15 years</text>
+  <text x="600" y="148" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$4,000 / yr if $60k</text>
+  <rect x="28" y="200" width="328" height="112" rx="10" fill="#E7F4EE"/>
+  <text x="44" y="230" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Couple stack (labelled)</text>
+  <text x="44" y="256" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2 x $60,000 HBP if both eligible</text>
+  <text x="44" y="278" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ 2 x FHSA room (separate wrapper)</text>
+  <text x="44" y="300" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Only if the RRSP/FHSA cash exists.</text>
+  <rect x="372" y="200" width="320" height="112" rx="10" fill="#F3F4F6"/>
+  <text x="388" y="230" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Miss a year?</text>
+  <text x="388" y="256" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">The unpaid slice is income</text>
+  <text x="388" y="278" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">that year  not a free gift.</text>
+  <text x="388" y="300" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Repayments themselves are not deductible.</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CRA pages used 20 Sep 2026. You can still repay earlier. Designating a repayment is a tax-return step  not just sending money to an RRSP.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not tax advice. Confirm eligibility, 90-day RRSP holding, and occupancy rules in CRA My Account and with a licensed advisor.</text>
+</svg>

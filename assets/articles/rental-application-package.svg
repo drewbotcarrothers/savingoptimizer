@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian rental application package: share this, watermark that, refuse the rest</title>
+  <desc id="desc">A landlord-ready Canadian rental package is a one-page cover, proof of income, a credit report you control, and references. Watermark PDFs. Do not send a SIN, open banking logins, or application fees. Ontario, B.C., and Québec generally treat application fees as a refuse.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Application package: complete, not oversharing</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian privacy and tenancy norms  not a U.S. tenant-screening script. Verified 20 Sep 2026.</text>
+  <rect x="24" y="80" width="220" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="112" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ready the same day</text>
+  <text x="40" y="144" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1-page cover + occupancy date</text>
+  <text x="40" y="172" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pay stubs / job letter</text>
+  <text x="40" y="200" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Credit report you pulled</text>
+  <text x="40" y="228" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2 references (ask first)</text>
+  <text x="40" y="256" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tenant-insurance quote</text>
+  <text x="40" y="284" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ID shown at viewing</text>
+  <rect x="256" y="80" width="220" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="272" y="112" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Watermark / redact</text>
+  <text x="272" y="144" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Bank account numbers</text>
+  <text x="272" y="172" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Full SIN on every page</text>
+  <text x="272" y="200" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Open PDF: For 12 Oak St</text>
+  <text x="272" y="228" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">only - 20 Sep 2026</text>
+  <text x="272" y="256" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Guarantor letter if needed</text>
+  <text x="272" y="284" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Pets / parking extras</text>
+  <rect x="488" y="80" width="208" height="230" rx="12" fill="#1A1A1A"/>
+  <text x="504" y="112" font-size="15" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Refuse</text>
+  <text x="504" y="144" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Application / credit fees</text>
+  <text x="504" y="172" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">E-transfer before viewing</text>
+  <text x="504" y="200" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Banking app logins</text>
+  <text x="504" y="228" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Blank signed forms</text>
+  <text x="504" y="256" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Photos of every room</text>
+  <text x="504" y="284" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">you ever lived in</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Timing: same-day PDF after a real viewing beats a "I'll send it Friday" in Toronto and Vancouver. Montreal July 1 still rewards a complete French/English pair.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Credit-monitoring tools and tenant-insurance quotes are offer types only. We do not claim bureau or insurer partnerships. Not legal advice.</text>
+</svg>

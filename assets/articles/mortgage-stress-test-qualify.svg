@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Contract-rate payment vs mortgage stress-test qualifying payment</title>
+  <desc id="desc">Labelled sketch: a $450,000 25-year Canadian mortgage at 4.50% is about $2,491 a month. OSFI MQR of the greater of contract plus 2% or 5.25% qualifies the same loan at 6.50%, about $3,014 a month. Lenders underwrite the higher payment.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Stress test: the payment you shop vs the payment you qualify at</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">OSFI MQR for uninsured originations: greater of contract + 2% or 5.25% (verified 20 Sep 2026). Labelled $450k / 25-year sketch  not a quote.</text>
+  <rect x="80" y="168" width="200" height="132" fill="#4B9B74"/>
+  <text x="180" y="156" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$2,491</text>
+  <text x="180" y="322" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Contract 4.50%</text>
+  <text x="180" y="342" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Listing payment</text>
+  <rect x="340" y="110" width="200" height="190" fill="#0F7A4B"/>
+  <text x="440" y="98" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$3,014</text>
+  <text x="440" y="322" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Qualify at 6.50%</text>
+  <text x="440" y="342" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4.50% + 2% buffer</text>
+  <text x="560" y="140" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Gap: ~$523 / mo</text>
+  <text x="560" y="164" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Same loan. Different</text>
+  <text x="560" y="184" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">underwriting payment.</text>
+  <text x="560" y="216" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Floor still 5.25%</text>
+  <text x="560" y="236" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">if contract is under 3.25%.</text>
+  <text x="24" y="378" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Canadian semi-annual compounding, 25-year amort, $450,000 principal. Replace every number with a licensed mortgage professionals worksheet.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational only  not brokerage advice. Straight-switch MQR relief (21 Nov 2024) is a renewal rule, not a purchase rule.</text>
+</svg>

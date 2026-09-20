@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Hidden first-year Canadian homeownership cash beyond the down payment</title>
+  <desc id="desc">Labelled first-year stack: closing costs, immediate repairs, property-tax instalments, utility deposits, insurance, moving overlap, and a maintenance reserve. Ontario first-time land-transfer refund is up to $4,000. These lines often move a rent-versus-buy break-even by years.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Year one is not down payment + mortgage</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled cash-to-survive sketch, 20 Sep 2026. Ontario first-time LTT refund max $4,000 (ontario.ca, updated 10 Feb 2026). Not a quote.</text>
+  <rect x="36" y="200" width="72" height="100" fill="#0F7A4B"/>
+  <text x="72" y="188" text-anchor="middle" font-size="11" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Close</text>
+  <text x="72" y="320" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">LTT/legal</text>
+  <rect x="120" y="176" width="72" height="124" fill="#0F7A4B"/>
+  <text x="156" y="164" text-anchor="middle" font-size="11" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Fix</text>
+  <text x="156" y="320" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Repairs</text>
+  <rect x="204" y="188" width="72" height="112" fill="#4B9B74"/>
+  <text x="240" y="176" text-anchor="middle" font-size="11" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Tax</text>
+  <text x="240" y="320" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Property tax</text>
+  <rect x="288" y="220" width="72" height="80" fill="#4B9B74"/>
+  <text x="324" y="208" text-anchor="middle" font-size="11" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Setup</text>
+  <text x="324" y="320" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Utilities</text>
+  <rect x="372" y="208" width="72" height="92" fill="#4B9B74"/>
+  <text x="408" y="196" text-anchor="middle" font-size="11" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Insure</text>
+  <text x="408" y="320" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Deductible</text>
+  <rect x="456" y="188" width="72" height="112" fill="#0F7A4B"/>
+  <text x="492" y="176" text-anchor="middle" font-size="11" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Move</text>
+  <text x="492" y="320" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Overlap</text>
+  <rect x="540" y="164" width="72" height="136" fill="#0F7A4B"/>
+  <text x="576" y="152" text-anchor="middle" font-size="11" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Keep</text>
+  <text x="576" y="320" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Reserve</text>
+  <rect x="624" y="140" width="72" height="160" fill="#1A1A1A"/>
+  <text x="660" y="128" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Condo</text>
+  <text x="660" y="320" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Special</text>
+  <text x="24" y="360" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Worked stay test: $18,000 extra year-one cash / $400 cheaper than rent = 45 months before you have only earned back the cash  before sell costs.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Home-insurance comparison and furniture-outlet deals are offer types only. Not mortgage, tax, or brokerage advice. Tie back to the rent-vs-buy stacks.</text>
+</svg>
