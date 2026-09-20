@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+ <title id="title">Taxable transit pass vs cash vs salary vs parking - labelled hybrid sketch</title>
+ <desc id="desc">Horizontal bars comparing after-use value of a taxable transit pass you would ride, a cash allowance spent on PAYG, extra salary with no commute product, and a taxable downtown parking stall.</desc>
+ <rect width="720" height="420" fill="#FFFFFF"/>
+ <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What still displaces cash after tax - education sketch</text>
+ <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled 3-day hybrid commuter. Not a T4. CRA T4130 is the starting point. 20 Sep 2026.</text>
+ <rect x="250" y="86" width="320" height="40" rx="6" fill="#0F7A4B"/>
+ <text x="24" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Taxable pass you ride</text>
+ <text x="580" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Displaces fares</text>
+ <rect x="250" y="142" width="260" height="40" rx="6" fill="#4B9B74"/>
+ <text x="24" y="168" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Cash allowance -> PAYG</text>
+ <text x="520" y="168" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Flexible leftover</text>
+ <rect x="250" y="198" width="150" height="40" rx="6" fill="#9CA3AF"/>
+ <text x="24" y="224" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Salary, no transit perk</text>
+ <text x="410" y="224" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">You still buy rides</text>
+ <rect x="250" y="254" width="90" height="40" rx="6" fill="#6B7280"/>
+ <text x="24" y="280" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Taxable $250 stall</text>
+ <text x="350" y="280" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">T4 + car still exist</text>
+ <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">TTC adult PRESTO $3.30 / 47-trip cap $155.10 (1 Sep 2026). A 3-day week often never hits the cap.</text>
+ <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Parking benefit: CRA parking topic beside T4130. Québec: verify Relevé 1. Not tax advice.</text>
+ <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Green = still useful after tax if you would buy the rides. Grey = cash or a stall that does not replace a fare.</text>
+</svg>

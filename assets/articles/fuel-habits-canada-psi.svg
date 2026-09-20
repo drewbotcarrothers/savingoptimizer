@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+ <title id="title">Canadian fuel habits versus hypermiling extremes</title>
+ <desc id="desc">Horizontal bars for cold tire pressure, smoother lights, highway 110 versus 120, winter idle cuts, and removing a roof rack on a labelled 1,200 kilometre month.</desc>
+ <rect width="720" height="420" fill="#FFFFFF"/>
+ <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Habits you will keep in February</text>
+ <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled sketches at $1.50/L and 1,200 km. Gasoline +22.8% YoY in August 2026 (StatsCan Daily, 14 Sep 2026). Not a dyno.</text>
+ <rect x="240" y="78" width="100" height="36" rx="6" fill="#0F7A4B"/>
+ <text x="24" y="102" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Cold tire (tyre) PSI</text>
+ <text x="350" y="102" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">~$4-8/mo</text>
+ <rect x="240" y="126" width="150" height="36" rx="6" fill="#4B9B74"/>
+ <text x="24" y="150" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Smoother lights</text>
+ <text x="400" y="150" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">~$6-12/mo</text>
+ <rect x="240" y="174" width="170" height="36" rx="6" fill="#4B9B74"/>
+ <text x="24" y="198" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Highway 110 vs 120</text>
+ <text x="420" y="198" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">~$8-15/mo</text>
+ <rect x="240" y="222" width="80" height="36" rx="6" fill="#9CA3AF"/>
+ <text x="24" y="246" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Cut long winter idle</text>
+ <text x="330" y="246" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">~$3-6/mo</text>
+ <rect x="240" y="270" width="120" height="36" rx="6" fill="#0F7A4B"/>
+ <text x="24" y="294" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Rack off in April</text>
+ <text x="370" y="294" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">~$5-10/mo hwy</text>
+ <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Door-sticker PSI is the free Canadian win. A 15-minute driveway idle is not safety - scraping the glass is.</text>
+ <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Measure four weeks on the trip computer. Then stack one loyalty program on remaining litres.</text>
+ <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Hypermiling at 70 km/h in the left lane is not on this chart. Ratehub 2026 gas placeholder $165/month (29 Apr 2026).</text>
+</svg>
