@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian mortgage tax escrow versus paying the municipality yourself</title>
+  <desc id="desc">A labelled $6,000 annual property tax is $500 a month in escrow plus a cushion. After a 10 percent reassessment the monthly tax portion can jump by about $50, and a shortage catch-up can add several hundred dollars in one statement. Self-pay needs the same $500 parked before the instalment date.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Escrow is a calendar, not a fixed mortgage payment</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled $6,000 annual tax. Ontario 2026 assessments still use 1 Jan 2016 CVA (MPAC). B.C. 2026 roll is 1 Jul 2025 value.</text>
+  <rect x="60" y="160" width="140" height="120" fill="#0F7A4B"/>
+  <text x="130" y="148" text-anchor="middle" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$500</text>
+  <text x="130" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Monthly tax</text>
+  <rect x="220" y="148" width="140" height="132" fill="#4B9B74"/>
+  <text x="290" y="136" text-anchor="middle" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$550</text>
+  <text x="290" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">After +10%</text>
+  <rect x="380" y="176" width="140" height="104" fill="#1A1A1A"/>
+  <text x="450" y="164" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$400</text>
+  <text x="450" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Shortage hit</text>
+  <rect x="540" y="120" width="140" height="160" fill="#6B7280"/>
+  <text x="610" y="108" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,500</text>
+  <text x="610" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Self-pay instalment</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A 10% value or rate jump on $6,000 is $600/year ($50/month). If the account is short mid-year, the lender can spread a catch-up - here a labelled $400 - across remaining payments.</text>
+  <text x="24" y="372" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Self-pay: four $1,500 city instalments still need $500/month parked. Missing a due date is penalties, not a mortgage conversation.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">First-year owners: the statement of adjustments is not the annual bill. Confirm with the lender and the municipality. Not brokerage advice.</text>
+</svg>
