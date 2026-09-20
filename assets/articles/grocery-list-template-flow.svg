@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Reusable Canadian grocery list tied to flyers and loyalty</title>
+  <desc id="desc">Four-block flow: staples section, weekly flex from Flipp, loaded loyalty checkboxes, then aisle order for the primary store.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A list that expects Thursday, not a US coupon pad</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Flipp clips plus PC Optimum, Scene+, or Moi offers you actually loaded.</text>
+  <rect x="28" y="80" width="150" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="103" y="118" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">1. Staples</text>
+  <text x="103" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Milk, oats, oil,</text>
+  <text x="103" y="168" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">eggs, onions -</text>
+  <text x="103" y="188" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">buy every week</text>
+  <rect x="198" y="80" width="150" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="273" y="118" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">2. Flex</text>
+  <text x="273" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">This week's</text>
+  <text x="273" y="168" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">flyer protein</text>
+  <text x="273" y="188" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">and produce</text>
+  <rect x="368" y="80" width="150" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="443" y="118" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">3. Offers</text>
+  <text x="443" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Loaded PC /</text>
+  <text x="443" y="168" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Scene+ / Moi</text>
+  <text x="443" y="188" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">checkboxes</text>
+  <rect x="538" y="80" width="154" height="150" rx="12" fill="#0F7A4B"/>
+  <text x="615" y="118" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">4. Aisle map</text>
+  <text x="615" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">Produce, meat,</text>
+  <text x="615" y="168" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">dairy, then</text>
+  <text x="615" y="188" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">centre last</text>
+  <text x="24" y="268" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Health Canada and Love Food Hate Waste both start with a plan. The Canadian version adds flyer flex and loyalty activation.</text>
+  <text x="24" y="296" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Shared family lists need an owner for meat and produce or you buy two yogurts and no chicken.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Paper wins at the till. A notes app wins if everyone can edit it before Thursday.</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026</text>
+</svg>

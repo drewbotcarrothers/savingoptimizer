@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian sale-chicken stock-up thresholds</title>
+  <desc id="desc">Illustrative discounter stock-up lines for whole chicken, bone-in thighs, boneless thighs, and chicken breast in September 2026. Recalculate with this week's flyer.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Write a stock-up price before you buy the family pack</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative discounter lines, Sep 2026. Not a Statistics Canada series. Check Flipp this Thursday.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="98" font-weight="600" fill="#1A1A1A">Whole bird</text>
+    <rect x="220" y="82" width="90" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="320" y="98" fill="#6B7280">stock-up at or below ~$5.50/kg</text>
+    <text x="24" y="140" font-weight="600" fill="#1A1A1A">Bone-in thighs</text>
+    <rect x="220" y="124" width="110" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="340" y="140" fill="#6B7280">stock-up at or below ~$6.60/kg</text>
+    <text x="24" y="182" font-weight="600" fill="#1A1A1A">Boneless thighs</text>
+    <rect x="220" y="166" width="150" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="380" y="182" fill="#6B7280">stock-up at or below ~$8.80/kg</text>
+    <text x="24" y="224" font-weight="600" fill="#1A1A1A">Breast (sale only)</text>
+    <rect x="220" y="208" width="170" height="22" rx="4" fill="#9CA3AF"/>
+    <text x="400" y="224" fill="#6B7280">stock-up at or below ~$9.90/kg</text>
+    <text x="24" y="266" font-weight="600" fill="#1A1A1A">Regular shelf breast</text>
+    <rect x="220" y="250" width="280" height="22" rx="4" fill="#6B7280"/>
+    <text x="510" y="266" fill="#6B7280">often $14-$16/kg - wait</text>
+  </g>
+  <text x="24" y="318" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A No Frills Ontario flyer (17-23 Sep 2026) listed 1.5 kg breast at $14 (~$9.33/kg) - a stock-up week, not a personality.</text>
+  <text x="24" y="342" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Buy only what you will portion and freeze tonight. A $9.33/kg pack that becomes takeout on Friday is not cheap.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026</text>
+</svg>

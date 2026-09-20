@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">When frozen produce beats fresh in Canada</title>
+  <desc id="desc">Seasonal sketch comparing out-of-season fresh berries and peppers to freezer bags from a discounter or Costco, plus waste from unused fresh greens.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Fresh is a season. Frozen is a backup system.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Health Canada treats frozen veg as a budget vegetable. Waste is the real premium.</text>
+  <rect x="40" y="86" width="300" height="188" rx="12" fill="#F3F4F6"/>
+  <text x="56" y="118" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">January fresh story</text>
+  <text x="56" y="152" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Clamshell greens that slime</text>
+  <text x="56" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Imported berries at a premium</text>
+  <text x="56" y="200" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Peppers you do not finish</text>
+  <text x="56" y="236" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="700" fill="#1A1A1A">Paid twice</text>
+  <rect x="380" y="86" width="300" height="188" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="396" y="118" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Freezer default</text>
+  <text x="396" y="152" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Discounter mixed veg ~$2-$4</text>
+  <text x="396" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Costco berry bags if you finish them</text>
+  <text x="396" y="200" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Peas, corn, broccoli, spinach</text>
+  <text x="396" y="236" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="700" fill="#0F7A4B">Eaten</text>
+  <text x="24" y="308" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Fresh fruit was still +4.7% YoY in August 2026 (StatsCan Daily, 14 Sep 2026). Out-of-season colour is a luxury line.</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Keep cabbage, carrots, onions, and apples as the cheap fresh core. Frozen covers the rest of the week.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026</text>
+</svg>

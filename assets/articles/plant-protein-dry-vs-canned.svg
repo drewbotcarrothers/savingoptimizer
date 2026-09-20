@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Dry versus canned plant proteins in Canada</title>
+  <desc id="desc">Illustrative cost per cooked serving for dry lentils, dry beans, canned beans, tofu from an ethnic grocer, and banner tofu. September 2026 discounter sketches.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Dry pulses win the math - if you will cook them</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative cooked-serving sketches, Sep 2026. Recalculate with this week's unit price.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="98" font-weight="600" fill="#1A1A1A">Dry lentils (store brand)</text>
+    <rect x="260" y="82" width="50" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="320" y="98" fill="#6B7280">often $0.25-$0.40 / cooked cup</text>
+    <text x="24" y="140" font-weight="600" fill="#1A1A1A">Dry beans (bulk bag)</text>
+    <rect x="260" y="124" width="60" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="330" y="140" fill="#6B7280">often $0.30-$0.50 / cooked cup</text>
+    <text x="24" y="182" font-weight="600" fill="#1A1A1A">Canned beans (no-name)</text>
+    <rect x="260" y="166" width="110" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="380" y="182" fill="#6B7280">often $0.80-$1.20 / can</text>
+    <text x="24" y="224" font-weight="600" fill="#1A1A1A">Tofu (ethnic grocer)</text>
+    <rect x="260" y="208" width="130" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="400" y="224" fill="#6B7280">city snapshots $1.50-$2.50 / block</text>
+    <text x="24" y="266" font-weight="600" fill="#1A1A1A">Tofu (full-service banner)</text>
+    <rect x="260" y="250" width="200" height="22" rx="4" fill="#6B7280"/>
+    <text x="470" y="266" fill="#6B7280">often $3.50-$4.50 / same block</text>
+  </g>
+  <text x="24" y="318" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Canned wins when dry beans stay in the cupboard. A $2 bag you never soak is more expensive than the $1.19 can you eat.</text>
+  <text x="24" y="342" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Health Canada budget shopping still points at legumes, eggs, and store brands - flavour is the habit that keeps them on the plate.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026</text>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">When a full-service Canadian grocery banner still makes sense</title>
+  <desc id="desc">Permission framework: default to discounters for staples, keep premium banners for pharmacy, a genuine flyer win, quality produce you will finish, and loaded loyalty thresholds.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Default discount. Visit premium with a job.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Loblaws, Sobeys, and Metro are not banned. Habit shopping there for oats is the leak.</text>
+  <rect x="40" y="84" width="300" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="56" y="116" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Keep the stop when</text>
+  <text x="56" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Pharmacy + a real flyer protein</text>
+  <text x="56" y="174" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Produce you will finish this week</text>
+  <text x="56" y="200" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Loaded offer beats the extra shelf</text>
+  <text x="56" y="226" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">PC Express / Voila vs a $40 taxi</text>
+  <text x="56" y="252" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Specialty item no discounter has</text>
+  <rect x="380" y="84" width="300" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="396" y="116" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Skip the stop when</text>
+  <text x="396" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">It is closer, so the whole cart goes</text>
+  <text x="396" y="174" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Points on a 15% shelf gap</text>
+  <text x="396" y="200" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A discounter opened 8 minutes away</text>
+  <text x="396" y="226" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Delivery pass leftover guilt</text>
+  <text x="396" y="252" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">You are hungry and browsing</text>
+  <text x="24" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">City basket posts and PFC threads often show 10-20% staple gaps versus No Frills, FreshCo, Food Basics, Maxi, or Super C.</text>
+  <text x="24" y="350" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Keep one premium stop for edge cases. Do not keep it as the default pantry.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026</text>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian grocery impulse trigger zones</title>
+  <desc id="desc">Map of common impulse spend zones in a Canadian supermarket: end caps, bakery, checkout, drink fridge, and the chip aisle, with a pickup firewall.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Strategy dies in the chip aisle, not on Flipp</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Walk the store with a list. Pickup is a firewall when browsing is the leak.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="40" y="84" width="200" height="70" rx="10" fill="#F3F4F6"/>
+    <text x="140" y="126" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">End caps</text>
+    <rect x="260" y="84" width="200" height="70" rx="10" fill="#F3F4F6"/>
+    <text x="360" y="126" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">Bakery smell</text>
+    <rect x="480" y="84" width="200" height="70" rx="10" fill="#F3F4F6"/>
+    <text x="580" y="126" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">Checkout extras</text>
+    <rect x="40" y="172" width="200" height="70" rx="10" fill="#F3F4F6"/>
+    <text x="140" y="214" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">Chip / pop aisle</text>
+    <rect x="260" y="172" width="200" height="70" rx="10" fill="#F3F4F6"/>
+    <text x="360" y="214" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A">Drink fridge</text>
+    <rect x="480" y="172" width="200" height="70" rx="10" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="580" y="206" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B">Pickup / Flashfood</text>
+    <text x="580" y="226" text-anchor="middle" font-size="11" fill="#1A1A1A">on purpose, not browsing</text>
+  </g>
+  <text x="24" y="280" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">PFC convenience-shopping threads are about this map, not about missing a 20x PC offer.</text>
+  <text x="24" y="308" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Shop after eating. Time-box 35 minutes. One flex item on the list is cheaper than a hungry browse.</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A 7-day wait on non-staples beats most end-cap stories. Flashfood is a planned pickup, not a second wander.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026</text>
+</svg>
