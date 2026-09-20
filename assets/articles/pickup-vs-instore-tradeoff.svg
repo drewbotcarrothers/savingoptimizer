@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Grocery pickup versus in-store in Canada</title>
+  <desc id="desc">Trade-off cards for impulse control, substitutions, produce, and Flashfood on the same trip.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Pickup saves impulse. Aisles save produce and surplus.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Hybrid: click staples, walk meat and fruit, hit the Flashfood zone if the store lists it.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="80" width="328" height="230" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="188" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B">Pickup / list wins</text>
+    <text x="44" y="148" font-size="14" fill="#1A1A1A">Fewer end-cap snacks</text>
+    <text x="44" y="176" font-size="14" fill="#1A1A1A">Time back for parents and carers</text>
+    <text x="44" y="204" font-size="14" fill="#1A1A1A">Oats, cans, paper, milk you know</text>
+    <text x="44" y="232" font-size="14" fill="#1A1A1A">Loyalty offers still load in-app</text>
+    <text x="44" y="268" font-size="13" fill="#6B7280">Watch the $1-$3 pickup fee vs a pass</text>
+    <rect x="368" y="80" width="328" height="230" rx="12" fill="#F3F4F6"/>
+    <text x="532" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B">In-store still wins</text>
+    <text x="388" y="148" font-size="14" fill="#1A1A1A">Produce you are picky about</text>
+    <text x="388" y="176" font-size="14" fill="#1A1A1A">Price-match with a Flipp proof</text>
+    <text x="388" y="204" font-size="14" fill="#1A1A1A">Flashfood zone pickup</text>
+    <text x="388" y="232" font-size="14" fill="#1A1A1A">Fewer surprise substitutions</text>
+    <text x="388" y="268" font-size="13" fill="#6B7280">Impulse is the tax if you wander</text>
+  </g>
+  <text x="24" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A swapped avocado plus a bakery add-on can erase the $8 you did not spend on chips.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026. PC Express, Voila, and Instacart fees live in the delivery comparison.</text>
+</svg>

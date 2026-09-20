@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian meat-sale freezer system</title>
+  <desc id="desc">Five-step loop: confirm a real loss leader, portion, seal, inventory, then thaw for a named dinner.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Sale meat only pays if it leaves the freezer</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative GTA week. A $3.99/kg thigh tray that freezer-burns is a 100% loss plus the trip.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="84" width="124" height="196" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="86" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">1. Clip</text>
+    <text x="86" y="160" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">Real loss</text>
+    <text x="86" y="180" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">leader vs</text>
+    <text x="86" y="200" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">was/now sticker</text>
+    <text x="86" y="240" text-anchor="middle" font-size="12" fill="#6B7280">Flipp + unit</text>
+    <text x="86" y="256" text-anchor="middle" font-size="12" fill="#6B7280">price / 100 g</text>
+    <rect x="160" y="84" width="124" height="196" rx="12" fill="#F3F4F6"/>
+    <text x="222" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">2. Portion</text>
+    <text x="222" y="160" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">Meal-size</text>
+    <text x="222" y="180" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">bags the</text>
+    <text x="222" y="200" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">same night</text>
+    <text x="222" y="240" text-anchor="middle" font-size="12" fill="#6B7280">Health Canada:</text>
+    <text x="222" y="256" text-anchor="middle" font-size="12" fill="#6B7280">freeze promptly</text>
+    <rect x="296" y="84" width="124" height="196" rx="12" fill="#F3F4F6"/>
+    <text x="358" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">3. Seal</text>
+    <text x="358" y="160" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">Vacuum if</text>
+    <text x="358" y="180" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">you own one;</text>
+    <text x="358" y="200" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">else wrap tight</text>
+    <text x="358" y="240" text-anchor="middle" font-size="12" fill="#6B7280">Air is the</text>
+    <text x="358" y="256" text-anchor="middle" font-size="12" fill="#6B7280">burn, not time</text>
+    <rect x="432" y="84" width="124" height="196" rx="12" fill="#F3F4F6"/>
+    <text x="494" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">4. List</text>
+    <text x="494" y="160" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">Door list or</text>
+    <text x="494" y="180" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">app: cut,</text>
+    <text x="494" y="200" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">date, dinners</text>
+    <text x="494" y="240" text-anchor="middle" font-size="12" fill="#6B7280">Mystery meat</text>
+    <text x="494" y="256" text-anchor="middle" font-size="12" fill="#6B7280">is compost</text>
+    <rect x="568" y="84" width="128" height="196" rx="12" fill="#F3F4F6"/>
+    <text x="632" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">5. Thaw</text>
+    <text x="632" y="160" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">Fridge thaw</text>
+    <text x="632" y="180" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">the night</text>
+    <text x="632" y="200" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">before cook</text>
+    <text x="632" y="240" text-anchor="middle" font-size="12" fill="#6B7280">No counter</text>
+    <text x="632" y="256" text-anchor="middle" font-size="12" fill="#6B7280">defrost</text>
+  </g>
+  <text x="24" y="322" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Health Canada: freezer at -18 C or colder. Ground meat quality window is often 2-3 months; whole chicken up to a year.</text>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Flashfood trays follow the same loop: pickup on the route, portion, freeze the same night.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026. Quality windows, not safety cliffs. When in doubt, skip the tray.</text>
+</svg>
