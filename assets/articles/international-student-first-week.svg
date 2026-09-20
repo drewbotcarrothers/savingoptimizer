@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">First-week grocery kit for international students in Canada</title>
+  <desc id="desc">Budget blocks for a first-week staple kit under $80 at a discounter instead of a campus convenience store.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Week one: discounter kit, not airport pricing</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative first-week cart under $80. Campus convenience and downtown mini-marts are a tuition surcharge.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="84" width="210" height="220" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="129" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">Cook tonight</text>
+    <text x="129" y="156" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">Eggs, rice or</text>
+    <text x="129" y="178" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">noodles, frozen</text>
+    <text x="129" y="200" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">veg, a sauce</text>
+    <text x="129" y="238" text-anchor="middle" font-size="13" fill="#6B7280">about $20-$25</text>
+    <text x="129" y="262" text-anchor="middle" font-size="12" fill="#6B7280">One cuisine you</text>
+    <text x="129" y="280" text-anchor="middle" font-size="12" fill="#6B7280">already know</text>
+    <rect x="250" y="84" width="210" height="220" rx="12" fill="#F3F4F6"/>
+    <text x="355" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">No-cook backup</text>
+    <text x="355" y="156" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">Oats, peanut</text>
+    <text x="355" y="178" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">butter, yogurt,</text>
+    <text x="355" y="200" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">bread, fruit</text>
+    <text x="355" y="238" text-anchor="middle" font-size="13" fill="#6B7280">about $20-$25</text>
+    <text x="355" y="262" text-anchor="middle" font-size="12" fill="#6B7280">Beats a $14</text>
+    <text x="355" y="280" text-anchor="middle" font-size="12" fill="#6B7280">campus sandwich</text>
+    <rect x="476" y="84" width="220" height="220" rx="12" fill="#F3F4F6"/>
+    <text x="586" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">Setup, not snacks</text>
+    <text x="586" y="156" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">Oil, salt, a pot</text>
+    <text x="586" y="178" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">if residence is</text>
+    <text x="586" y="200" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A">empty, bags</text>
+    <text x="586" y="238" text-anchor="middle" font-size="13" fill="#6B7280">about $15-$25</text>
+    <text x="586" y="262" text-anchor="middle" font-size="12" fill="#6B7280">Then get student</text>
+    <text x="586" y="280" text-anchor="middle" font-size="12" fill="#6B7280">ID for Tuesday</text>
+  </g>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Find Food Basics, No Frills, FreshCo, Maxi, Super C, or an ethnic grocer on transit. Install Flipp the same day.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026. GST/HST is generally not charged on basic groceries; snacks and prepared foods often are.</text>
+</svg>

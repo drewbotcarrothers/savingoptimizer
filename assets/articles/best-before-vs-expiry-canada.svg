@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Best-before versus expiry dates in Canada</title>
+  <desc id="desc">Side-by-side of CFIA best-before quality dates versus the short expiry-date list.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Read the words on the package, not the panic</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian Food Inspection Agency consumer date-label pages. Love Food Hate Waste: date confusion is a large slice of avoidable waste.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="80" width="328" height="240" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="188" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B">Best before / meilleur avant</text>
+    <text x="44" y="148" font-size="14" font-weight="600" fill="#1A1A1A">Quality date on most short-life foods</text>
+    <text x="44" y="176" font-size="13" fill="#1A1A1A">Required when durable life is 90 days or less</text>
+    <text x="44" y="198" font-size="13" fill="#1A1A1A">(milk, bread, many fresh meats).</text>
+    <text x="44" y="226" font-size="13" fill="#1A1A1A">Unopened + stored right: often still edible.</text>
+    <text x="44" y="248" font-size="13" fill="#1A1A1A">Opened food is a different clock.</text>
+    <text x="44" y="280" font-size="13" fill="#6B7280">Not a poison date. Use senses + storage.</text>
+    <rect x="368" y="80" width="328" height="240" rx="12" fill="#F3F4F6"/>
+    <text x="532" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B">Expiry / Exp.</text>
+    <text x="388" y="148" font-size="14" font-weight="600" fill="#1A1A1A">Safety and nutrition cliff</text>
+    <text x="388" y="176" font-size="13" fill="#1A1A1A">Only a short CFIA list: infant formula,</text>
+    <text x="388" y="198" font-size="13" fill="#1A1A1A">meal replacements, some supplements,</text>
+    <text x="388" y="220" font-size="13" fill="#1A1A1A">formulated liquid diets, human-milk fortifiers.</text>
+    <text x="388" y="248" font-size="13" fill="#1A1A1A">Do not buy, sell, or eat after the date.</text>
+    <text x="388" y="280" font-size="13" fill="#6B7280">If unsure, read the printed words.</text>
+  </g>
+  <text x="24" y="350" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Packaged-on + durable-life poster is the store-packed cousin. Raw meat slime or smell is a discard, not a date debate.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026. Not medical advice. CFIA pages win over a TikTok.</text>
+</svg>

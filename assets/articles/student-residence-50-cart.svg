@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Sample $50 Canadian residence grocery week</title>
+  <desc id="desc">Pie-style blocks splitting a $50 student cart among protein, carbs, produce, and emergency staples.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A $50 residence week is repetition, not variety</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative discounter cart, Sep 2026. City prices move. Delivery apps are a separate envelope.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="84" width="160" height="200" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="104" y="120" text-anchor="middle" font-size="22" font-weight="700" fill="#0F7A4B">$18</text>
+    <text x="104" y="150" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">Protein</text>
+    <text x="104" y="178" text-anchor="middle" font-size="12" fill="#6B7280">Eggs, yogurt,</text>
+    <text x="104" y="196" text-anchor="middle" font-size="12" fill="#6B7280">lentils, tuna,</text>
+    <text x="104" y="214" text-anchor="middle" font-size="12" fill="#6B7280">sale chicken</text>
+    <rect x="196" y="84" width="160" height="200" rx="12" fill="#F3F4F6"/>
+    <text x="276" y="120" text-anchor="middle" font-size="22" font-weight="700" fill="#0F7A4B">$12</text>
+    <text x="276" y="150" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">Carbs</text>
+    <text x="276" y="178" text-anchor="middle" font-size="12" fill="#6B7280">Oats, rice,</text>
+    <text x="276" y="196" text-anchor="middle" font-size="12" fill="#6B7280">store-brand</text>
+    <text x="276" y="214" text-anchor="middle" font-size="12" fill="#6B7280">pasta, bread</text>
+    <rect x="368" y="84" width="160" height="200" rx="12" fill="#F3F4F6"/>
+    <text x="448" y="120" text-anchor="middle" font-size="22" font-weight="700" fill="#0F7A4B">$12</text>
+    <text x="448" y="150" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">Produce</text>
+    <text x="448" y="178" text-anchor="middle" font-size="12" fill="#6B7280">Cabbage,</text>
+    <text x="448" y="196" text-anchor="middle" font-size="12" fill="#6B7280">carrots, frozen</text>
+    <text x="448" y="214" text-anchor="middle" font-size="12" fill="#6B7280">veg, bananas</text>
+    <rect x="540" y="84" width="156" height="200" rx="12" fill="#F3F4F6"/>
+    <text x="618" y="120" text-anchor="middle" font-size="22" font-weight="700" fill="#0F7A4B">$8</text>
+    <text x="618" y="150" text-anchor="middle" font-size="13" font-weight="600" fill="#1A1A1A">Anchors</text>
+    <text x="618" y="178" text-anchor="middle" font-size="12" fill="#6B7280">Peanut butter,</text>
+    <text x="618" y="196" text-anchor="middle" font-size="12" fill="#6B7280">oil, sauce,</text>
+    <text x="618" y="214" text-anchor="middle" font-size="12" fill="#6B7280">tea or milk</text>
+  </g>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">One Uber Eats combo can spend this entire produce-and-carb budget. Keep a no-cook shelf for lab nights.</text>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Costco only if a roommate car and a labelled freezer shelf exist. Otherwise Food Basics or No Frills on the bus.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026. Not a promise that $50 feeds every city.</text>
+</svg>

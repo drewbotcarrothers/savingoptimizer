@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian meat tray unit prices</title>
+  <desc id="desc">Worked example comparing a family pack, a small tray, and a whole chicken on a per-kilogram basis.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Read the small number: cents per 100 g or $/kg</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative discounter trays, Sep 2026. Recalculate at the cooler. Bone-in is a different product than boneless.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="24" y="84" width="216" height="210" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
+    <text x="132" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">Family pack thighs</text>
+    <text x="132" y="160" text-anchor="middle" font-size="22" font-weight="700" fill="#0F7A4B">$3.99/kg</text>
+    <text x="132" y="196" text-anchor="middle" font-size="13" fill="#1A1A1A">Wins if you portion</text>
+    <text x="132" y="216" text-anchor="middle" font-size="13" fill="#1A1A1A">and freeze tonight</text>
+    <text x="132" y="252" text-anchor="middle" font-size="12" fill="#6B7280">Flyer loss-leader</text>
+    <text x="132" y="270" text-anchor="middle" font-size="12" fill="#6B7280">pattern, not every week</text>
+    <rect x="252" y="84" width="216" height="210" rx="12" fill="#F3F4F6"/>
+    <text x="360" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">Small boneless tray</text>
+    <text x="360" y="160" text-anchor="middle" font-size="22" font-weight="700" fill="#1A1A1A">$12.80/kg</text>
+    <text x="360" y="196" text-anchor="middle" font-size="13" fill="#1A1A1A">Looks cheap as a</text>
+    <text x="360" y="216" text-anchor="middle" font-size="13" fill="#1A1A1A">$7 package</text>
+    <text x="360" y="252" text-anchor="middle" font-size="12" fill="#6B7280">Convenience tax</text>
+    <text x="360" y="270" text-anchor="middle" font-size="12" fill="#6B7280">unless it is dinner</text>
+    <rect x="480" y="84" width="216" height="210" rx="12" fill="#F3F4F6"/>
+    <text x="588" y="118" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B">Whole chicken</text>
+    <text x="588" y="160" text-anchor="middle" font-size="22" font-weight="700" fill="#0F7A4B">$3.50/kg</text>
+    <text x="588" y="196" text-anchor="middle" font-size="13" fill="#1A1A1A">Wins if you use</text>
+    <text x="588" y="216" text-anchor="middle" font-size="13" fill="#1A1A1A">bones for stock</text>
+    <text x="588" y="252" text-anchor="middle" font-size="12" fill="#6B7280">Waste if it sits</text>
+    <text x="588" y="270" text-anchor="middle" font-size="12" fill="#6B7280">as one roast</text>
+  </g>
+  <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Costco meat can win on quality and pack size. It loses if a 2 kg tray becomes freezer archaeology.</text>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Flashfood is the same unit-price test after the app fee. Skip if you cannot freeze tonight.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026. Examples only. Your cooler tag is the source.</text>
+</svg>

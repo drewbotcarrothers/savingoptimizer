@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian meal kit versus discounter and takeout</title>
+  <desc id="desc">Cost-per-serving bars for No Frills DIY, a meal-kit trial, a full-price kit, and restaurant delivery.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Kits beat takeout. Discounters still beat kits.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative per-serving all-in, Sep 2026. Recalculate with this week's box quote and your discounter till.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <text x="24" y="100" font-weight="600" fill="#1A1A1A">No Frills / FreshCo DIY dinner</text>
+    <rect x="300" y="84" width="90" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="400" y="100" fill="#6B7280">about $3-$6</text>
+    <text x="24" y="148" font-weight="600" fill="#1A1A1A">Meal-kit trial week (promo)</text>
+    <rect x="300" y="132" width="160" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="470" y="148" fill="#6B7280">often $5-$9 after credits</text>
+    <text x="24" y="196" font-weight="600" fill="#1A1A1A">Goodfood / HelloFresh full price</text>
+    <rect x="300" y="180" width="250" height="22" rx="4" fill="#9CA3AF"/>
+    <text x="560" y="196" fill="#6B7280">about $10-$17 + fees</text>
+    <text x="24" y="244" font-weight="600" fill="#1A1A1A">Restaurant delivery (tip + fees)</text>
+    <rect x="300" y="228" width="360" height="22" rx="4" fill="#6B7280"/>
+    <text x="24" y="280" fill="#6B7280">often $18-$28 once the app is done with you</text>
+  </g>
+  <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Public 2026 Canada kit reviews: Goodfood roughly $9.24-$16.99/serving; HelloFresh often ~$10-$12 plus shipping on some plans.</text>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A $10.99 delivery fee on a small box can erase the trial. Count the invoice, not the landing-page serving price.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026. Teaching ranges, not a quote. Check the live checkout.</text>
+</svg>
