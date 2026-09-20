@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">PC Optimum at Esso versus a cheaper posted litre</title>
+  <desc id="desc">Bar chart comparing net cents per litre after PC Optimum points when Esso posts the same price, 3 cents more, or 6 cents more than a nearby station.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">40 L fill: points only win if Esso is not already more expensive</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled worksheet, 20 Sep 2026. PC points valued at 10,000 = $10 (0.1¢/pt). Instant ¢/L is cash; points are cash only when you redeem.</text>
+  <line x1="64" y1="88" x2="64" y2="300" stroke="#E5E7EB"/>
+  <line x1="64" y1="300" x2="696" y2="300" stroke="#E5E7EB"/>
+  <text x="56" y="304" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0</text>
+  <text x="56" y="244" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">3¢</text>
+  <text x="56" y="184" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">6¢</text>
+  <text x="56" y="124" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">9¢</text>
+  <rect x="88" y="276" width="100" height="24" rx="6" fill="#9CA3AF"/>
+  <text x="138" y="268" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~1¢/L</text>
+  <text x="138" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PC base</text>
+  <text x="138" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">same posted ¢</text>
+  <rect x="220" y="229" width="100" height="71" rx="6" fill="#0F7A4B"/>
+  <text x="270" y="221" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~3¢/L</text>
+  <text x="270" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PC Mastercard</text>
+  <text x="270" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">same posted ¢</text>
+  <rect x="352" y="253" width="100" height="47" rx="6" fill="#4B9B74"/>
+  <text x="402" y="245" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">net ~0¢</text>
+  <text x="402" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PC MC +3¢</text>
+  <text x="402" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Esso 3¢ dearer</text>
+  <rect x="484" y="276" width="100" height="24" rx="6" fill="#9CA3AF"/>
+  <text x="534" y="268" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">net 3¢</text>
+  <text x="534" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PC MC +3¢</text>
+  <text x="534" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Esso 6¢ dearer</text>
+  <rect x="616" y="182" width="64" height="118" rx="6" fill="#0F7A4B"/>
+  <text x="648" y="174" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">up to 7¢</text>
+  <text x="648" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Insiders WE</text>
+  <text x="648" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">confirm live</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A 6¢/L cheaper independent still beats a 3¢ PC Mastercard stack on 40 L ($2.40 vs $1.20). Extra kilometres to earn points are gasoline you paid for.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Esso Extra is gone. Earn is PC Optimum at participating Esso and Mobil. Issuer tiles change  confirm pcoptimum.ca and the pump brand FAQ.</text>
+</svg>

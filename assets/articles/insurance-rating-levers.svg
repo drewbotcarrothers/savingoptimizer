@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian auto insurance rating levers</title>
+  <desc id="desc">Horizontal bars of FSRA-cited discount ranges and typical deductible or mileage effects. Educational illustration, not a quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Legal levers on a Canadian auto premium  ranges, not your quote</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">FSRA consumer materials reviewed 20 Sep 2026. Ontario-centric. ICBC and SAAQ are different sports. Not brokerage advice.</text>
+  <rect x="250" y="84" width="70" height="34" rx="6" fill="#4B9B74"/>
+  <text x="24" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Winter tires (ON, must offer)</text>
+  <text x="330" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">~25%</text>
+  <rect x="250" y="128" width="165" height="34" rx="6" fill="#0F7A4B"/>
+  <text x="24" y="150" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Multi-policy (auto + home)</text>
+  <text x="426" y="150" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">515%</text>
+  <rect x="250" y="172" width="165" height="34" rx="6" fill="#0F7A4B"/>
+  <text x="24" y="194" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Multi-vehicle</text>
+  <text x="426" y="194" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">515%</text>
+  <rect x="250" y="216" width="188" height="34" rx="6" fill="#4B9B74"/>
+  <text x="24" y="238" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Higher deductible (if funded)</text>
+  <text x="448" y="238" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">ask $500’$1,000</text>
+  <rect x="250" y="260" width="141" height="34" rx="6" fill="#4B9B74"/>
+  <text x="24" y="282" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Honest annual km / use</text>
+  <text x="402" y="282" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">company-specific</text>
+  <rect x="250" y="304" width="220" height="34" rx="6" fill="#9CA3AF"/>
+  <text x="24" y="326" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Vehicle rate group / theft</text>
+  <text x="480" y="326" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">VIN-specific</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">FSRA: shop; ask discounts; higher deductibles can lower premium; do not switch mid-term just to chase a rate; pay on time.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Scale illustrative. A $1,000 deductible you cannot cash-flow is not a save. Compare identical coverage.</text>
+</svg>

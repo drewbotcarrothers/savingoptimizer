@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Shell Go+ Scene+ and card stack in cents per litre</title>
+  <desc id="desc">Horizontal bars of illustrative Shell Canada stacks after the May 2026 nationwide Scene+ launch: base points, Go+ bonus, Scotiabank instant cents, V-Power extras, and CAA 3 cents.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Which Shell pieces you actually qualify for  ¢/L, 20 Sep 2026</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Nationwide Scene+ at participating Shell from 26 May 2026. Instant ¢/L is cash. Points valued at 1,000 = $10 at Shell. Confirm live Go+ and club terms.</text>
+  <rect x="200" y="88" width="47" height="36" rx="6" fill="#9CA3AF"/>
+  <text x="24" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Scene+ base (1 pt/L)</text>
+  <text x="256" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">~1.0¢</text>
+  <rect x="200" y="136" width="52" height="36" rx="6" fill="#4B9B74"/>
+  <text x="24" y="160" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">+ Go+ link (regular +10%)</text>
+  <text x="262" y="160" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">~1.1¢</text>
+  <rect x="200" y="184" width="141" height="36" rx="6" fill="#0F7A4B"/>
+  <text x="24" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">+ Scotia/Tangerine instant</text>
+  <text x="352" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">+3.0¢ cash</text>
+  <rect x="200" y="232" width="188" height="36" rx="6" fill="#0F7A4B"/>
+  <text x="24" y="256" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">V-Power extra instant</text>
+  <text x="400" y="256" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">+4.0¢ (7¢ total)</text>
+  <rect x="200" y="280" width="141" height="36" rx="6" fill="#4B9B74"/>
+  <text x="24" y="304" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">CAA member (verify club)</text>
+  <text x="352" y="304" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">3.0¢ cash</text>
+  <text x="24" y="356" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Do not add every bar. CAA terms (valid to 28 Feb 2027 in club copy reviewed Sep 2026) say combination is at Shells discretion  test one fill.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">V-Power only wins if you already buy premium. A 6¢ cheaper Petro-Canada or independent still beats a 3¢ Shell stack.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Scale: 1¢ H 47 px. Illustrative, not a quote. Air Miles at Shell is over.</text>
+</svg>
