@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">EnerGuide home evaluation as a decision tool after grant closure</title>
+  <desc id="desc">A registered energy advisor measures airtightness with a blower door, insulation, windows, and mechanicals. You get a GJ-per-year rating, a Homeowner Information Sheet, and a Renovation Upgrade Report. NRCan cites about $600$1,000 for pre- plus post-retrofit evaluations. Greener Homes Grant and Loan are closed to new applicants.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">EnerGuide is a decision tool, not a grant chase</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">After Greener Homes Grant and Loan closure. Lower GJ/year is better. NRCan average $600$1,000 for both visits. 20 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="214" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">What they measure</text>
+  <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Blower-door airtightness</text>
+  <text x="40" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Attic, wall, basement RSI</text>
+  <text x="40" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Windows, doors, vents</text>
+  <text x="40" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Heat, DHW, cooling</text>
+  <text x="40" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Book only NRCan-listed</text>
+  <text x="40" y="266" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">service organizations.</text>
+  <rect x="252" y="78" width="216" height="214" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">What you receive</text>
+  <text x="268" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">EnerGuide rating (GJ/year)</text>
+  <text x="268" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Label + information sheet</text>
+  <text x="268" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Renovation Upgrade Report</text>
+  <text x="268" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pre- vs post-retrofit pair</text>
+  <text x="268" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Standard operating conditions</text>
+  <text x="268" y="266" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif"> not your exact lifestyle.</text>
+  <rect x="480" y="78" width="216" height="214" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Closed federal $</text>
+  <text x="496" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Grant: closed; docs 31 Dec 2025</text>
+  <text x="496" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Loan: closed; funding committed</text>
+  <text x="496" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">OHPA intake: closed 31 Jul 2026</text>
+  <text x="496" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">OHPA docs: 31 Jan 2027</text>
+  <text x="496" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Pay the advisor unless a live</text>
+  <text x="496" y="266" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">provincial path reimburses.</text>
+  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rank upgrades by dollars per kWh or GJ saved  attic and air sealing often beat windows. Use the report as the quote sheet, not shelfware.</text>
+  <text x="24" y="358" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A DIY walkthrough is enough for weatherstripping and outlet gaskets. Pay for EnerGuide before a heat-pump or insulation contract you cannot undo.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: NRCan EnerGuide evaluation pages and service-organization cost note. Not a rebate approval.</text>
+</svg>

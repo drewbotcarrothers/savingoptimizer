@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Natural gas vs electric heat cost in Canada — Saving Optimizer</title>
+  <meta name="description" content="Compare Canadian heating fuels on useful heat: convert m³ and GJ to kWh, add furnace AFUE or heat-pump COP, then layer provincial delivery and carbon. OEB gas supply as of 1 Jul 2026. Not a U.S. fuel-price chart.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/cut-canadian-winter-heating-bill.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Natural gas vs electric heat cost in Canada — Saving Optimizer">
+  <meta property="og:description" content="Compare Canadian heating fuels on useful heat: convert m³ and GJ to kWh, add furnace AFUE or heat-pump COP, then layer provincial delivery and carbon. OEB gas supply as of 1 Jul 2026. Not a U.S. fuel-price chart.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/cut-canadian-winter-heating-bill.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Natural gas vs electric heat cost in Canada — Saving Optimizer">
+  <meta name="twitter:description" content="Compare Canadian heating fuels on useful heat: convert m³ and GJ to kWh, add furnace AFUE or heat-pump COP, then layer provincial delivery and carbon. OEB gas supply as of 1 Jul 2026. Not a U.S. fuel-price chart.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Utilities">
+  <meta name="article:published_time" content="2026-09-20">
+  <meta name="article:modified_time" content="2026-09-20">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Natural gas vs electric heat cost in Canada: how to compare for your home",
+  "description": "Compare Canadian heating fuels on useful heat: convert m³ and GJ to kWh, add furnace AFUE or heat-pump COP, then layer provincial delivery and carbon. OEB gas supply as of 1 Jul 2026. Not a U.S. fuel-price chart.",
+  "datePublished": "2026-09-20",
+  "dateModified": "2026-09-20",
+  "inLanguage": "en-CA",
+  "author": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "url": "https://savingoptimizer.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://savingoptimizer.com/assets/logo-primary.png"
+    },
+    "url": "https://savingoptimizer.com/"
+  },
+  "image": "https://savingoptimizer.com/assets/logo-primary.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://savingoptimizer.com/guides/articles/cut-canadian-winter-heating-bill.html"
+  },
+  "url": "https://savingoptimizer.com/guides/articles/cut-canadian-winter-heating-bill.html",
+  "articleSection": "Utilities",
+  "about": {
+    "@type": "Thing",
+    "name": "Canadian household savings",
+    "description": "Practical Utilities savings advice for Canadian households."
+  }
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://savingoptimizer.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://savingoptimizer.com/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Utilities",
+      "item": "https://savingoptimizer.com/guides/utilities.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Natural gas vs electric heat cost in Canada: how to compare for your home",
+      "item": "https://savingoptimizer.com/guides/articles/cut-canadian-winter-heating-bill.html"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Can I compare ¢/m³ of gas to ¢/kWh of electricity directly?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Convert gas to useful kWh using energy content (~10.36 kWh/m³) and furnace AFUE, then compare to electricity ¢/kWh (or ¢/kWh ÷ COP for a heat pump). Add delivery and carbon from the bill, not from the commodity screenshot."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Why is my Enbridge line higher than the OEB 9 ¢ supply figure?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The 9.0498 ¢/m³ EGD figure (1 Jul 2026) is gas supply in one rate zone. Union South supply is 17.3871 ¢/m³. Delivery, transportation, carbon, and the monthly customer charge are extra and often larger than supply in a mild month."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does a heat pump always beat gas in Canada?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. It depends on your all-in ¢/kWh, the pump’s cold-weather COP, backup fuel, and capital. Québec’s Rate D often favours electric heat pumps; an Ontario leaky house on resistance backup often does not."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Are Greener Homes or OHPA still open?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "New Grant applications are closed (existing-file documents were due 31 Dec 2025). The Loan is closed and funding is committed. OHPA intake closed 31 Jul 2026; remaining applicants have later document deadlines. Check provincial and utility programs instead."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Should a renter switch heating fuel?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Usually no. Compare heat-included vs hydro on the lease. Equipment choices belong to the owner. Air sealing you can undo is still fair game."
+            }
+        }
+    ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../utilities.html">Utilities</a></li>
+      <li aria-current="page">Natural gas vs electric heat cost in Canada: how to compare for your home</li>
+    </ol>
+    </nav>
+    <p class="kicker">Utilities · Canada</p>
+    <h1>Natural gas vs electric heat cost in Canada: how to compare for your home</h1>
+    <p class="article-meta">Useful heat, not sticker ¢/m³ vs ¢/kWh · About 15 minutes · 20 Sep 2026</p>
+    
+    <div class="prose">
+      <p>Households compare a gas “¢/m³” screenshot to an electricity “¢/kWh” screenshot and pick a fuel. Those units are not the same thing, and neither line is the bill. Delivery, carbon, equipment efficiency, and whether the heat is burned or moved decide January.</p>
+      <p>This is a Canadian conversion worksheet: GJ vs kWh, furnace AFUE vs heat-pump COP, and provincial adders at a high level. It is not a U.S. Henry Hub chart. Renters comparing listings should use <a href="heat-included-vs-hydro-lease-canada.html">heat included vs hydro</a> first. Owners picking equipment should continue to <a href="heat-pump-vs-furnace-canada.html">heat pump vs furnace</a>.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> Heat-pump quote tools are an offer type. Saving Optimizer may earn a commission if we later add partner links. We do not currently claim contractor or manufacturer partnerships. This is education — not a quote, rebate approval, or engineering advice.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>Convert to <strong>useful heat</strong> before you compare. 1 m³ of natural gas ≈ 0.0373 GJ ≈ 10.36 kWh of energy; a 95% furnace delivers about 9.8 kWh of heat. Electric resistance is 1:1. A heat pump divides your ¢/kWh by its COP.</li>
+          <li>OEB Enbridge <strong>supply</strong> (1 Jul 2026): EGD zone 9.0498 ¢/m³; Union South 17.3871 ¢/m³. That is not the winter bill — delivery, carbon, and the customer charge dwarf a cheap commodity month.</li>
+          <li>Provincial patterns matter: Ontario and Prairie gas vs Ontario hydro; Hydro-Québec Rate D can flip electric heat; Alberta shops the energy line and still pays delivery.</li>
+          <li>Heat pumps change the electric side of the worksheet and do not erase panel, duct, or −25°C performance questions — see the companion comparison.</li>
+          <li>Canada Greener Homes Grant and Loan are <strong>closed</strong> to new applicants; OHPA intake closed 31 Jul 2026. Price the retrofit in cash and live provincial / utility stacks, not a 2023 grant blog.</li>
+        </ul>
+      </div>
+      <h2>Convert apples to apples: GJ vs kWh and equipment efficiency</h2>
+      <p>Natural gas is billed in cubic metres (or GJ in some provinces). Electricity is billed in kWh. The physical bridge:</p>
+      <ul>
+        <li>1 m³ of natural gas ≈ <strong>0.0373 GJ</strong> ≈ <strong>10.36 kWh</strong> of energy content (standard conversion; your utility’s heat value is on the bill or tariff).</li>
+        <li>1 GJ = <strong>277.8 kWh</strong>.</li>
+        <li>Furnace <strong>AFUE</strong> is how much of that energy becomes house heat. A 95% condensing furnace: 10.36 × 0.95 ≈ <strong>9.8 kWh useful</strong> per m³. An 80% mid-efficiency unit: ≈ <strong>8.3 kWh</strong>.</li>
+        <li>Electric resistance (baseboard, furnace coil, plenum heater): COP ≈ 1. One kWh in, one kWh of heat.</li>
+        <li>Heat pump: COP is heat moved per kWh. At COP 2.5 you buy 0.40 kWh of electricity per useful kWh. At −20°C that COP may be 1.5 or the unit may hand off to backup.</li>
+      </ul>
+      <p>The comparison number you want is <strong>cents per useful kWh</strong>:</p>
+      <ul>
+        <li>Gas: (all-in ¢ per m³) ÷ useful kWh per m³.</li>
+        <li>Resistance electric: your all-in ¢/kWh (commodity + delivery + regulators − any rebate, from a real bill).</li>
+        <li>Heat pump: all-in ¢/kWh ÷ seasonal COP you actually believe, not the brochure COP at +8°C.</li>
+      </ul>
+      <figure class="article-figure">
+        <img src="../../assets/articles/gas-vs-electric-heat-canada.svg" width="720" height="420" alt="Three-panel worksheet converting gas furnace, electric resistance, and heat-pump heat into useful kWh.">
+        <figcaption>Labelled conversion, not a quote. Add delivery and carbon before you declare a winner. 20 Sep 2026.</figcaption>
+      </figure>
+
+      <h2>Provincial price patterns and carbon/delivery adders at high level</h2>
+      <p>Commodity is the line people screenshot. Delivery is the line that pays the pipes.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>High-level Canadian patterns. Use your bill. OEB gas supply as of 1 Jul 2026 is commodity only.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Place / fuel</th>
+              <th scope="col">What is regulated or public</th>
+              <th scope="col">What households miss</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Ontario gas (Enbridge)</th>
+              <td>OEB QRAM supply: EGD 9.0498 ¢/m³; Union South 17.3871 ¢/m³; Union North East 17.7280 ¢/m³; Union North West 6.6511 ¢/m³ (1 Jul 2026)</td>
+              <td>Customer charge (EGD residential $27.69 / month in the 1 Jul 2026 sheet), delivery slabs, facility carbon, transportation</td>
+            </tr>
+            <tr>
+              <th scope="row">Ontario electricity</th>
+              <td>OEB RPP TOU / ULO / Tiered + 23.5% OER</td>
+              <td>LDC delivery; electric heat on ULO’s 4–9 p.m. block</td>
+            </tr>
+            <tr>
+              <th scope="row">Québec electricity</th>
+              <td>Hydro-Québec Rate D from 1 Apr 2026: 46.154 ¢/day + 7.065 ¢ then 11.142 ¢/kWh</td>
+              <td>Winter second-tier kWh from baseboards; Flex D peak-event risk</td>
+            </tr>
+            <tr>
+              <th scope="row">Alberta energy</th>
+              <td>RoLR ~12.01–12.06 ¢/kWh to 31 Dec 2026; gas on a default tariff or contract</td>
+              <td>You shop energy; delivery stays with the distributor</td>
+            </tr>
+            <tr>
+              <th scope="row">B.C. / Atlantic / oil</th>
+              <td>Utility or fuel-oil dealer price lists</td>
+              <td>Oil still appears in older houses; OHPA federal intake is closed</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Labelled Ontario sketch (not a quote): if a winter month’s <em>all-in</em> gas is 40 ¢/m³ after delivery and carbon, a 95% furnace is 40 ÷ 9.8 ≈ <strong>4.1 ¢ per useful kWh</strong>. If your hydro all-in after OER is 16 ¢/kWh, resistance heat is 16 ¢ useful and a COP 2.5 heat pump is 6.4 ¢ useful. Change any of those inputs and the winner flips. Do not use the 9.05 ¢ EGD supply line as if it were the bill.</p>
+      <p>StatsCan’s Daily of 14 Sep 2026 (August 2026 CPI) is inflation mood music. It is not your GJ.</p>
+
+      <h2>Heat pumps change the electric side of the comparison</h2>
+      <p>A heat pump is not “electric heat” in the baseboard sense. It moves outdoor heat indoors. That is why a Québec or Manitoba kWh can beat gas even when an Ontario baseboard cannot. It is also why a cheap mini-split that locks out at −15°C and throws a resistance coil is just a fancy baseboard on the worst days.</p>
+      <p>Walk through COP, backup, and hybrid changeover in <a href="heat-pump-vs-furnace-canada.html">heat pump vs furnace</a>. Put those COP assumptions back into this worksheet. Do not paste a manufacturer’s “up to 18 HSPF” into a Winnipeg January.</p>
+
+      <h2>Existing ductwork, panel capacity, and cold-climate performance</h2>
+      <p>The fuel comparison assumes you can actually run the equipment.</p>
+      <ul>
+        <li><strong>Ducts.</strong> A furnace already has them. A central heat pump wants enough airflow. Undersized 1970s ducts make noise and short-cycle. Ductless heads skip ducts and add wall holes and a snow line for the outdoor unit.</li>
+        <li><strong>Panel.</strong> Resistance backup and some cold-climate compressors want 200 A and spare breakers. A 100 A service can make the “cheap electric” option a $3,000–$8,000 panel project before the first useful kWh.</li>
+        <li><strong>Cold climate.</strong> Ask for capacity and COP at −15°C and −25°C, not “operates to.” Hybrid dual-fuel is how many Ontario and Prairie houses keep gas for the deep freeze.</li>
+      </ul>
+      <p>If the house is a sieve, neither fuel wins. Seal and insulate first — <a href="diy-insulation-air-sealing-canada.html">attic R-values</a> and <a href="energuide-home-evaluation-in-canada-what-it-includes-costs-and-how-to-.html">EnerGuide</a> are the decision tools, not a new burner.</p>
+
+      <h2>Operating cost vs retrofit capital — simple payback framing</h2>
+      <p>Write four numbers on one page:</p>
+      <ol>
+        <li>Annual useful-heat cost on the current system (12 months of bills, converted).</li>
+        <li>Modelled annual cost on the alternative (same useful heat, new ¢/useful kWh).</li>
+        <li>Net capital after <em>live</em> rebates only. Federal Greener Homes Grant: closed; last document day for existing files was 31 Dec 2025. Loan: applications closed, funding committed (NRCan page dated 17 Apr 2026). OHPA: last application day 31 Jul 2026; existing applicants have document deadlines into 2027. Provincial and utility stacks still move — verify the week you sign.</li>
+        <li>Simple payback = net capital ÷ annual operating delta. If you will sell in three years, a 12-year payback is a gift to the next owner.</li>
+      </ol>
+      <p>A $12,000 heat-pump increment that saves $600/year is 20 years before comfort, cooling, and carbon — which you may still want, but that is not a “gas is expensive” slogan.</p>
+
+      <h2>When staying on gas still wins for a near-term budget</h2>
+      <ul>
+        <li>The furnace is mid-life, the heat exchanger is sound, and this winter’s emergency is a $400 repair, not a new plant.</li>
+        <li>The panel cannot take a compressor plus backup without a service upgrade you cannot fund this year.</li>
+        <li>You are on cheap gas commodity <em>and</em> modest delivery, in a tight house, in a cold climate where a heat pump would run backup all January.</li>
+        <li>You are a tenant. You do not buy the furnace. You buy the lease — see Housing.</li>
+      </ul>
+      <p>Staying on gas is not a moral failure. It is a cash-flow choice. Revisit when the furnace dies, when a live provincial stack appears, or when an EnerGuide report shows the envelope is ready. For the Ontario clock on the electric side, use <a href="ontario-tou-vs-tiered-vs-ulo.html">TOU vs ULO vs Tiered</a>. For Québec’s Rate D math, use <a href="hydro-quebec-save-on-power.html">Hydro-Québec Rate D</a>.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>Ontario Energy Board, Natural gas rates — Enbridge / Union / EPCOR supply as of 1 Jul 2026 (page used 20 Sep 2026).</li>
+          <li>OEB Enbridge Gas Inc. QRAM backgrounder, 1 Jul 2026 — EGD supply 9.0498 ¢/m³; residential customer charge $27.69 / month.</li>
+          <li>Ontario Energy Board, Electricity rates — RPP commodity from 1 Nov 2025; OER 23.5%.</li>
+          <li>Hydro-Québec Electricity Rates, 2026 edition (1 Apr 2026) — Rate D access and tiers.</li>
+          <li>NRCan, Canada Greener Homes Grant / Loan closure pages; OHPA intake closed 31 Jul 2026 (used 20 Sep 2026).</li>
+          <li>Statistics Canada, The Daily, 14 Sep 2026 — August 2026 CPI context; not your GJ.</li>
+          <li>Standard energy conversions: 1 GJ = 277.8 kWh; ~10.36 kWh per m³ of natural gas.</li>
+        </ul>
+      </div>
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Can I compare ¢/m³ of gas to ¢/kWh of electricity directly?</h3>
+          <p>No. Convert gas to useful kWh using energy content (~10.36 kWh/m³) and furnace AFUE, then compare to electricity ¢/kWh (or ¢/kWh ÷ COP for a heat pump). Add delivery and carbon from the bill, not from the commodity screenshot.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Why is my Enbridge line higher than the OEB 9 ¢ supply figure?</h3>
+          <p>The 9.0498 ¢/m³ EGD figure (1 Jul 2026) is gas supply in one rate zone. Union South supply is 17.3871 ¢/m³. Delivery, transportation, carbon, and the monthly customer charge are extra and often larger than supply in a mild month.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Does a heat pump always beat gas in Canada?</h3>
+          <p>No. It depends on your all-in ¢/kWh, the pump’s cold-weather COP, backup fuel, and capital. Québec’s Rate D often favours electric heat pumps; an Ontario leaky house on resistance backup often does not.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Are Greener Homes or OHPA still open?</h3>
+          <p>New Grant applications are closed (existing-file documents were due 31 Dec 2025). The Loan is closed and funding is committed. OHPA intake closed 31 Jul 2026; remaining applicants have later document deadlines. Check provincial and utility programs instead.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Should a renter switch heating fuel?</h3>
+          <p>Usually no. Compare heat-included vs hydro on the lease. Equipment choices belong to the owner. Air sealing you can undo is still fair game.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="heat-pump-vs-furnace-canada.html">Heat pump vs furnace<span>COP, hybrids, and when a furnace still pencils.</span></a></li>
+        <li><a href="diy-insulation-air-sealing-canada.html">Attic insulation<span>Envelope first — fuel choice is second.</span></a></li>
+        <li><a href="hydro-quebec-save-on-power.html">Hydro-Québec Rate D<span>Electric-heat winters on two tiers.</span></a></li>
+        <li><a href="heat-included-vs-hydro-lease-canada.html">Heat included vs hydro<span>Renters: all-in rent, not a fuel swap.</span></a></li>
+        <li><a href="../utilities.html">Utilities hub<span>Plans, heat, and evaluations.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../utilities.html">More Utilities guides</a>
+      <a class="btn btn-ghost" href="heat-pump-vs-furnace-canada.html">Next: heat pump vs furnace</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>More Canadian tools</h2>
+        <ul>
+          <li><a href="https://canadiancreditcardfinder.com/">Canadian Credit Card Finder</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

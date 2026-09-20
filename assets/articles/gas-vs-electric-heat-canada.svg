@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Convert gas and electricity to useful heat before comparing Canadian heating costs</title>
+  <desc id="desc">Worksheet: one cubic metre of natural gas is about 10.36 kWh of energy. A 95% furnace delivers about 9.8 kWh of useful heat. Electric resistance is 1:1. A heat pump at COP 2.5 uses 0.4 kWh of electricity per useful kWh. Delivery and carbon sit on top of commodity.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Compare useful heat, not sticker ¢/m³ vs ¢/kWh</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">1 m³ natural gas H 0.0373 GJ H 10.36 kWh of energy. 1 GJ = 277.8 kWh. Labelled conversion, not a quote. 20 Sep 2026.</text>
+  <rect x="24" y="80" width="216" height="210" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="110" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Gas furnace</text>
+  <text x="40" y="142" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Energy in 1 m³ H 10.36 kWh</text>
+  <text x="40" y="166" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">95% AFUE ’ ~9.8 kWh useful</text>
+  <text x="40" y="190" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">80% AFUE ’ ~8.3 kWh useful</text>
+  <text x="40" y="226" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Add delivery, carbon, and the</text>
+  <text x="40" y="244" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">monthly customer charge.</text>
+  <text x="40" y="270" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">¢ useful = all-in ¢/m³ ÷ useful kWh</text>
+  <rect x="252" y="80" width="216" height="210" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="110" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Electric resistance</text>
+  <text x="268" y="142" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Baseboard / plenum heater</text>
+  <text x="268" y="166" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">COP H 1.0</text>
+  <text x="268" y="190" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1 kWh in ’ 1 kWh heat</text>
+  <text x="268" y="226" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ontario and Atlantic files</text>
+  <text x="268" y="244" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">often lose to gas on $.</text>
+  <text x="268" y="270" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">¢ useful = your all-in ¢/kWh</text>
+  <rect x="480" y="80" width="216" height="210" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="110" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Heat pump</text>
+  <text x="496" y="142" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Moves heat; does not burn it</text>
+  <text x="496" y="166" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">COP 2.5 ’ 0.40 kWh / useful kWh</text>
+  <text x="496" y="190" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">COP 1.5 at 20°C is common</text>
+  <text x="496" y="226" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Québec kWh can flip the</text>
+  <text x="496" y="244" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">comparison vs Ontario gas.</text>
+  <text x="496" y="270" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">¢ useful = ¢/kWh ÷ COP</text>
+  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">OEB Enbridge Gas supply (1 Jul 2026): EGD zone 9.0498 ¢/m³; Union South 17.3871 ¢/m³. That is commodity only  not the winter bill.</text>
+  <text x="24" y="358" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Do not compare a gas commodity line to an Ontario TOU on-peak line. Pull 12 months of both bills, convert to useful kWh, then add retrofit capital.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational worksheet. Greener Homes Grant and Loan are closed to new applicants; provincial and utility stacks still change. Not a contractor quote.</text>
+</svg>
