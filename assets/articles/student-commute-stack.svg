@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+ <title id="title">Student commute stacks: U-Pass versus a beater with insurance</title>
+ <desc id="desc">Monthly bars for U-Pass BC, TTC post-secondary monthly, transit plus two Zipcar days, and a labelled student-owned used car including a hopeful insurance figure.</desc>
+ <rect width="720" height="420" fill="#FFFFFF"/>
+ <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Insurance is the hidden tuition</text>
+ <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">U-Pass BC $47.85 (1 Sep 2026-31 Aug 2027). TTC post-secondary $128.15. Zipcar compact ~$78 x 2 + $9. Beater stack is hopeful.</text>
+ <line x1="70" y1="78" x2="70" y2="300" stroke="#E5E7EB"/>
+ <line x1="70" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
+ <text x="62" y="304" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+ <text x="62" y="249" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$150</text>
+ <text x="62" y="194" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$300</text>
+ <text x="62" y="139" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$450</text>
+ <text x="62" y="90" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$600</text>
+ <!-- scale $600 = 222px -->
+ <rect x="110" y="282" width="90" height="18" rx="6" fill="#0F7A4B"/>
+ <text x="155" y="274" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$48</text>
+ <text x="155" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">U-Pass BC</text>
+ <rect x="250" y="253" width="90" height="47" rx="6" fill="#4B9B74"/>
+ <text x="295" y="245" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$128</text>
+ <text x="295" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TTC PS monthly</text>
+ <rect x="390" y="184" width="90" height="116" rx="6" fill="#4B9B74"/>
+ <text x="435" y="176" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$313</text>
+ <text x="435" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PS + 2 Zipcar</text>
+ <rect x="530" y="93" width="90" height="207" rx="6" fill="#9CA3AF"/>
+ <text x="575" y="85" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~$560</text>
+ <text x="575" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Beater (hopeful)</text>
+ <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Beater bar uses $250 insurance - many urban under-25 quotes are higher. Ratehub-s $164 is an all-ages placeholder, not yours.</text>
+ <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Quote the VIN before you e-transfer a Marketplace seller. Mandatory U-Pass stays on the bill even if you buy a car.</text>
+ <text x="24" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only - not an insurance quote. 20 Sep 2026.</text>
+</svg>

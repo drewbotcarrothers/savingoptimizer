@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+ <title id="title">Carpool split formulas versus the CRA 73 cent ceiling</title>
+ <desc id="desc">Horizontal bars for fuel only, fuel plus parking, fuel plus parking plus wear, and the 2026 CRA 73 cent per kilometre provincial allowance on a labelled 40 kilometre two-person commute.</desc>
+ <rect width="720" height="420" fill="#FFFFFF"/>
+ <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Split fuel and parking - do not invoice 73c/km</text>
+ <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">40 km each way / 20 days / 7.5 L/100 km / $1.50/L / $12 parking. Finance Canada 2026 allowance 73c/km (Jan 2026).</text>
+ <rect x="220" y="86" width="92" height="42" rx="6" fill="#4B9B74"/>
+ <text x="24" y="114" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Fuel only (pot)</text>
+ <text x="322" y="114" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$180 / $90 each</text>
+ <rect x="220" y="146" width="214" height="42" rx="6" fill="#0F7A4B"/>
+ <text x="24" y="174" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Fuel + parking</text>
+ <text x="444" y="174" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$420 / $210 each</text>
+ <rect x="220" y="206" width="336" height="42" rx="6" fill="#4B9B74"/>
+ <text x="24" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">+ 15c/km wear</text>
+ <text x="566" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$660 / $330 each</text>
+ <rect x="220" y="266" width="420" height="42" rx="6" fill="#9CA3AF"/>
+ <text x="24" y="294" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">CRA 73c ceiling</text>
+ <text x="650" y="294" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$1,168</text>
+ <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Friends use the green bars. The grey bar is a tax-allowance ceiling (first 5,000 km in the provinces), not an e-transfer.</text>
+ <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Tell the insurer about regular carpooling. FSRA-aligned education - not a policy reading. 20 Sep 2026.</text>
+ <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Scale: $1 H 0.36 px on the longest bar. Gasoline CPI +22.8% YoY (StatsCan Daily, 14 Sep 2026) is why you revisit the pot.</text>
+</svg>
