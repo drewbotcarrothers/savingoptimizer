@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian tenant money rights across Ontario B.C. and Quebec boards</title>
+  <desc id="desc">Money-first snapshot. Ontario last-month rent deposit and 2.1 percent 2026 guideline and LMR interest. B.C. half-month security deposit and 2.3 percent 2026 limit. Quebec Civil Code 1904 no exacted deposit and TAL process. LTB, RTB, TAL.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Three boards. Three deposit rules. Real dollars.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Verified 20 Sep 2026 from ontario.ca, gov.bc.ca, TAL / C.c.Q. 1904. Same $2,200 rent. Not a national first and last.</text>
+  <rect x="36" y="80" width="210" height="220" fill="#E7F4EE"/>
+  <text x="141" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ontario - LTB</text>
+  <text x="141" y="138" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Last-month deposit</text>
+  <text x="141" y="160" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Move-in ~$4,400</text>
+  <text x="141" y="190" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2026 guideline 2.1%</text>
+  <text x="141" y="212" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">LMR interest 2.1%</text>
+  <text x="141" y="242" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">N1 - 90 days</text>
+  <text x="141" y="272" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">T1 path for illegal fees</text>
+  <rect x="255" y="80" width="210" height="220" fill="#E7F4EE"/>
+  <text x="360" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">B.C. - RTB</text>
+  <text x="360" y="138" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Security d half month</text>
+  <text x="360" y="160" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Move-in ~$3,300</text>
+  <text x="360" y="190" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2026 limit 2.3%</text>
+  <text x="360" y="212" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">2027 posted 2.2%</text>
+  <text x="360" y="242" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RTB-7 - 3 full months</text>
+  <text x="360" y="272" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">15-day deposit return</text>
+  <rect x="474" y="80" width="210" height="220" fill="#E7F4EE"/>
+  <text x="579" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Québec - TAL</text>
+  <text x="579" y="138" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No exacted deposit</text>
+  <text x="579" y="160" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Move-in ~$2,200</text>
+  <text x="579" y="190" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Lease-renewal process</text>
+  <text x="579" y="212" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Refuse ' TAL path</text>
+  <text x="579" y="242" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">C.c.Q. art. 1904</text>
+  <text x="579" y="272" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No postdated cheques</text>
+  <text x="24" y="334" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A 30-minute audit: listing + lease + last notice + deposit math + interest. Recovering a junk $1,500 fee can beat a move.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational money map. Not legal advice. Bookmark LTB, RTB, and TAL pages  not a Facebook groups first and last slogan.</text>
+</svg>

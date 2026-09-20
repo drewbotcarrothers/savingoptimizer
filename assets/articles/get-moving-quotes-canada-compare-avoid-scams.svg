@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian moving quote scorecard including condo elevator and access fees</title>
+  <desc id="desc">Compare three written quotes on the same inventory. Watch travel time, stairs, long carry, binding language, valuation, and condo elevator plus certificate of insurance. 2026 public bands for two movers plus truck often $120 to $180 an hour. Summer weekend premiums are real.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same inventory. Three quotes. One scorecard.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled 2026 comparison education. Public crew bands ~$120$180/hour for two movers + truck. Condo elevator + COI before any deposit. 20 Sep 2026.</text>
+  <rect x="40" y="80" width="210" height="200" fill="#F3F4F6"/>
+  <text x="145" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Quote A - $980</text>
+  <text x="145" y="136" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No address on the card</text>
+  <text x="145" y="160" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Cash only</text>
+  <text x="145" y="184" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Estimate</text>
+  <text x="145" y="208" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No COI talk</text>
+  <text x="145" y="248" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Skip</text>
+  <rect x="255" y="80" width="210" height="200" fill="#E7F4EE"/>
+  <text x="360" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Quote B - $1,420</text>
+  <text x="360" y="136" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Local shop + WCB</text>
+  <text x="360" y="160" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Travel time in writing</text>
+  <text x="360" y="184" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Elevator window booked</text>
+  <text x="360" y="208" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">COI $2M named</text>
+  <text x="360" y="248" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Contender</text>
+  <rect x="470" y="80" width="210" height="200" fill="#F3F4F6"/>
+  <text x="575" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Quote C - $1,890</text>
+  <text x="575" y="136" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Full packing add-on</text>
+  <text x="575" y="160" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Declared-value option</text>
+  <text x="575" y="184" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Saturday / month-end</text>
+  <text x="575" y="208" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Binding-ish language</text>
+  <text x="575" y="248" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Price the extras</text>
+  <text x="24" y="314" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Score: inventory match, travel/stairs/shuttle, binding vs estimate, valuation, elevator + COI, deposit/cancel, and a real local address.</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Huge lowball + cash + no shop is a hostage-fee pattern, not a bargain. July 1 in Québec and August 31 condos are surge windows.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a mover brokerage. Quote platforms are an offer type only. Get three written numbers on your list, not a homepage band.</text>
+</svg>

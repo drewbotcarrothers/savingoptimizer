@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian condo versus freehold all-in monthly shelter cost</title>
+  <desc id="desc">Labelled comparison. Condo stack includes mortgage, property tax, condo fee, unit insurance, and a special-assessment reserve. Freehold stack includes mortgage, property tax, home insurance, and a DIY maintenance reserve around one percent of value per year. Fees never amortise. Roofs do not invoice themselves.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Condo vs freehold: the fee is not extra rent</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled Canadian sketch, 20 Sep 2026. CMHC: read the condo disclosure. Freehold 1% / year is a placeholder, not a quote. Not brokerage advice.</text>
+  <text x="170" y="92" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Condo apt (example)</text>
+  <rect x="90" y="104" width="160" height="56" fill="#1A1A1A"/>
+  <text x="170" y="138" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Mortgage $2,450</text>
+  <rect x="90" y="160" width="160" height="24" fill="#6B7280"/>
+  <text x="170" y="177" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Tax $320</text>
+  <rect x="90" y="184" width="160" height="44" fill="#0F7A4B"/>
+  <text x="170" y="211" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Condo fee $780</text>
+  <rect x="90" y="228" width="160" height="22" fill="#4B9B74"/>
+  <text x="170" y="244" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Unit ins. $45</text>
+  <rect x="90" y="250" width="160" height="22" fill="#E7F4EE"/>
+  <text x="170" y="266" text-anchor="middle" font-size="11" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Special reserve $80</text>
+  <text x="170" y="296" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$3,675 / mo</text>
+  <text x="400" y="92" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Freehold town (example)</text>
+  <rect x="320" y="104" width="160" height="64" fill="#1A1A1A"/>
+  <text x="400" y="142" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Mortgage $2,820</text>
+  <rect x="320" y="168" width="160" height="28" fill="#6B7280"/>
+  <text x="400" y="187" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Tax $410</text>
+  <rect x="320" y="196" width="160" height="28" fill="#4B9B74"/>
+  <text x="400" y="215" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Home ins. $130</text>
+  <rect x="320" y="224" width="160" height="48" fill="#0F7A4B"/>
+  <text x="400" y="253" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">DIY reserve $540</text>
+  <text x="400" y="296" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$3,900 / mo</text>
+  <text x="520" y="120" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fees cover</text>
+  <text x="520" y="144" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Common elements</text>
+  <text x="520" y="164" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Reserve contribution</text>
+  <text x="520" y="192" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fees skip</text>
+  <text x="520" y="216" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">In-suite appliances</text>
+  <text x="520" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Your special + time</text>
+  <text x="24" y="334" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">The cheaper mortgage on a condo can lose once the fee never amortises. The cheaper fee on freehold can lose if you will not fund a roof.</text>
+  <text x="24" y="362" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Busy dual-income households often pay for condo time. Handy households with a five-year+ stay often win on freehold if the reserve is real.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Replace every bar with your status certificate, tax bill, and insurance quotes. Mortgage-rate and home-insurance tools are offer types only.</text>
+</svg>

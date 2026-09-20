@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Toronto rent vs buy break-even drag from dual land transfer tax and condo fees</title>
+  <desc id="desc">Labelled midtown Toronto condo sketch. Combined provincial and municipal land transfer tax on $680,000 is about $20,150 before first-time refunds. Condo fees never amortise. Exit commission plus HST often exceeds $30,000. Break-even is a stay-horizon test, not a mortgage vs rent meme.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Toronto break-even is LTT + fees, not the mortgage</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled $680,000 midtown condo. Ontario LTT + Toronto MLTT. First-time refunds: Ontario max $4,000; Toronto rebate commonly cited $4,475 (verify toronto.ca). 20 Sep 2026.</text>
+  <rect x="48" y="100" width="200" height="52" fill="#1A1A1A"/>
+  <text x="148" y="122" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Ontario LTT ~$10,075</text>
+  <text x="148" y="140" text-anchor="middle" font-size="11" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">0.5 / 1 / 1.5 / 2% brackets</text>
+  <rect x="260" y="100" width="200" height="52" fill="#0F7A4B"/>
+  <text x="360" y="122" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Toronto MLTT ~$10,075</text>
+  <text x="360" y="140" text-anchor="middle" font-size="11" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Same lower brackets in the city</text>
+  <rect x="472" y="100" width="200" height="52" fill="#4B9B74"/>
+  <text x="572" y="122" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Combined ~$20,150</text>
+  <text x="572" y="140" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">FTHB sketch ~$11,675</text>
+  <rect x="48" y="172" width="140" height="88" fill="#E7F4EE"/>
+  <text x="118" y="202" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Condo fee</text>
+  <text x="118" y="226" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$680 / month</text>
+  <text x="118" y="246" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Never principal</text>
+  <rect x="204" y="172" width="140" height="88" fill="#E7F4EE"/>
+  <text x="274" y="202" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Special</text>
+  <text x="274" y="226" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+$8,000 year 3</text>
+  <text x="274" y="246" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Status-certificate risk</text>
+  <rect x="360" y="172" width="140" height="88" fill="#E7F4EE"/>
+  <text x="430" y="202" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Sell costs</text>
+  <text x="430" y="226" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~5% + HST</text>
+  <text x="430" y="246" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Commission + legal</text>
+  <rect x="516" y="172" width="156" height="88" fill="#0F7A4B"/>
+  <text x="594" y="202" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Stay test</text>
+  <text x="594" y="226" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">5 vs 10 years</text>
+  <text x="594" y="246" text-anchor="middle" font-size="11" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Cash, not a vibe</text>
+  <text x="24" y="300" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Headline rent $2,550 vs mortgage $2,400 hides $20k of city LTT and a fee that never pays down the loan. Under five years,</text>
+  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">sell costs often erase the equity story. First-time refunds help  they do not make a 22-month stay cheap.</text>
+  <text x="24" y="360" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Luxury MLTT bands (Apr 1, 2026) matter above $3M single-family  not this midtown condo sketch. Verify ontario.ca and toronto.ca.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational worksheet only. Not a mortgage, tax, or brokerage quote. Replace every dollar with your lawyers estimate and status certificate.</text>
+</svg>
