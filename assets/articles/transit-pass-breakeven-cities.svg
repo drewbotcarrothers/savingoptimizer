@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Monthly cost if you only ride office weeks</title>
+  <desc id="desc">A pass only wins if you would have paid more in singles. Hybrid office weeks usually stay on tickets or a cap. Re-price after every fare increase.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Monthly cost if you only ride office weeks</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled 2026 products. Hybrid = 3 office days × 2 taps × 4.3 weeks ≈ 26 paid trips.</text>
+  <line x1="64" y1="88" x2="64" y2="300" stroke="#E5E7EB"/>
+  <line x1="64" y1="300" x2="696" y2="300" stroke="#E5E7EB"/>
+  <rect x="80" y="156" width="75" height="144" rx="6" fill="#4B9B74"/>
+  <text x="118" y="148" text-anchor="middle" font-size="12" font-weight="700" fill="#4B9B74" font-family="Inter, system-ui, sans-serif">$155</text>
+  <text x="118" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TTC cap</text>
+  <text x="118" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">47 × $3.30</text>
+  <rect x="179" y="220" width="75" height="80" rx="6" fill="#9CA3AF"/>
+  <text x="216" y="212" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$86</text>
+  <text x="216" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TTC 26</text>
+  <text x="216" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">hybrid PAYG</text>
+  <rect x="278" y="198" width="75" height="102" rx="6" fill="#0F7A4B"/>
+  <text x="316" y="190" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$110</text>
+  <text x="316" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Opus A</text>
+  <text x="316" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">monthly</text>
+  <rect x="377" y="154" width="75" height="146" rx="6" fill="#4B9B74"/>
+  <text x="414" y="146" text-anchor="middle" font-size="12" font-weight="700" fill="#4B9B74" font-family="Inter, system-ui, sans-serif">$157</text>
+  <text x="414" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Compass 2z</text>
+  <text x="414" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">monthly</text>
+  <rect x="476" y="182" width="75" height="118" rx="6" fill="#0F7A4B"/>
+  <text x="514" y="174" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$126</text>
+  <text x="514" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">YYC pass</text>
+  <text x="514" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">monthly</text>
+  <rect x="575" y="206" width="75" height="94" rx="6" fill="#0F7A4B"/>
+  <text x="612" y="198" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$102</text>
+  <text x="612" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">YEG cap</text>
+  <text x="612" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Arc month</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A pass only wins if you would have paid more in singles. Hybrid office weeks usually stay on tickets or a cap. Re-price after every fare increase.</text>
+</svg>

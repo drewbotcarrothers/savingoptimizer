@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Transit pass break-even calculator for Canadian cities — Saving Optimizer</title>
+  <meta name="description" content="Transit pass break-even calculator for Canada’s cities: rides × single fare vs pass or cap, TTC 47-trip capping, Compass and Opus monthlies, hybrid WFH trip counts, and a reusable spreadsheet.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/transit-pass-break-even-calculator-canada-cities.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Transit pass break-even calculator for Canadian cities — Saving Optimizer">
+  <meta property="og:description" content="Transit pass break-even calculator for Canada’s cities: rides × single fare vs pass or cap, TTC 47-trip capping, Compass and Opus monthlies, hybrid WFH trip counts, and a reusable spreadsheet.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/transit-pass-break-even-calculator-canada-cities.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Transit pass break-even calculator for Canadian cities — Saving Optimizer">
+  <meta name="twitter:description" content="Transit pass break-even calculator for Canada’s cities: rides × single fare vs pass or cap, TTC 47-trip capping, Compass and Opus monthlies, hybrid WFH trip counts, and a reusable spreadsheet.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Transportation">
+  <meta name="article:published_time" content="2026-09-20">
+  <meta name="article:modified_time" content="2026-09-20">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to build a simple transit pass break-even calculator for any Canadian city",
+  "description": "Transit pass break-even calculator for Canada’s cities: rides × single fare vs pass or cap, TTC 47-trip capping, Compass and Opus monthlies, hybrid WFH trip counts, and a reusable spreadsheet.",
+  "datePublished": "2026-09-20",
+  "dateModified": "2026-09-20",
+  "inLanguage": "en-CA",
+  "author": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "url": "https://savingoptimizer.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://savingoptimizer.com/assets/logo-primary.png"
+    },
+    "url": "https://savingoptimizer.com/"
+  },
+  "image": "https://savingoptimizer.com/assets/logo-primary.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://savingoptimizer.com/guides/articles/transit-pass-break-even-calculator-canada-cities.html"
+  },
+  "url": "https://savingoptimizer.com/guides/articles/transit-pass-break-even-calculator-canada-cities.html",
+  "articleSection": "Transportation",
+  "about": {
+    "@type": "Thing",
+    "name": "Canadian transportation savings",
+    "description": "Practical Transportation savings advice for Canadian households."
+  }
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://savingoptimizer.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://savingoptimizer.com/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Transportation",
+      "item": "https://savingoptimizer.com/guides/transportation.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "How to build a simple transit pass break-even calculator for any Canadian city",
+      "item": "https://savingoptimizer.com/guides/articles/transit-pass-break-even-calculator-canada-cities.html"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the break-even formula for a Canadian transit pass?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Break-even trips = pass price ÷ the single fare you actually pay. Buy the pass only if a typical month’s paid trips exceed that number. In capping cities, you pay the lesser of trips × fare and the cap — if you use one payment method."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I count trips on a hybrid schedule?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Office days × two paid trips × 4.3 weeks, plus weekend trips outside the transfer window. A 3-day hybrid is about 26 commute trips, not 40. Do not count free transfers as new trips."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Toronto still need this calculator after fare capping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for the Adult 12-Month ($143) versus the $155.10 cap, and for hybrid months that never hit 47. Everyday PAYG capping is automatic. GO Transit is a separate ladder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use one spreadsheet when I move cities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Change S, P, and the transfer rules. Compass zones, Opus multi-agency titles, and TTC caps are different products. Recalculate concession and U-Pass rows from scratch."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I re-check the numbers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After every published fare increase, when you change office days, and when you qualify for a concession or Fair Pass. Autoload is not a decision."
+      }
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../transportation.html">Transportation</a></li>
+      <li aria-current="page">How to build a simple transit pass break-even calculator for any Canadian city</li>
+    </ol>
+    </nav>
+    <p class="kicker">Transportation · Canada</p>
+    <h1>How to build a simple transit pass break-even calculator for any Canadian city</h1>
+    <p class="article-meta">TTC, Compass, Opus, prairie cities · About 16 minutes · 20 Sep 2026</p>
+    
+    <div class="prose">
+
+      <p>People move from Calgary to Toronto, go hybrid in March, and keep buying last year’s pass because the app Autoloaded it. The arithmetic does not care about habit. Every Canadian fare table is the same sentence: <strong>rides × single fare versus the pass (or the cap)</strong>. Toronto now caps. Vancouver and Montréal still sell monthlies. Edmonton caps on Arc. Calgary still sells a paper-and-app monthly. Build one spreadsheet and change the inputs when you change cities — or when the operator raises fares.</p>
+      <p>This is a transit pass break-even calculator for Canada’s cities, not a one-city tip. Use it with the city guides for <a href="ttc-fare-capping-vs-presto-pass-2026.html">TTC capping</a>, <a href="compass-card-monthly-vs-stored-value.html">Compass</a>, <a href="opus-card-monthly-pass-montreal-stm-break-even.html">Opus</a>, and <a href="calgary-edmonton-transit-monthly-pass-vs-tickets.html">Calgary and Edmonton</a>.</p>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>Universal formula: <strong>break-even trips = pass price ÷ eligible single fare</strong>. Buy the pass only if a typical month’s <em>paid</em> trips exceed that number (and you will keep that pattern).</li>
+          <li>Fare-capping cities (Toronto TTC from 1 Sep 2026; Edmonton Arc) do the monthly math for you — if you tap the <em>same</em> payment method. Classic monthly cities (Compass, Opus, Calgary) still need a purchase decision.</li>
+          <li>Hybrid WFH: count office weeks, not 30 calendar days. 3 days × 2 taps × 4.3 ≈ <strong>26 trips</strong>, not 40.</li>
+          <li>Concession, U-Pass, Fair Pass, and employer products change the fare in the denominator. Recalculate; do not reuse adult math.</li>
+          <li>Re-run the sheet after every fare increase (TransLink 1 Jul 2026, ARTM 1 Jul 2026, Calgary Jan 2026, TTC Sep 2026 capping). Last year’s 38-trip rule may now be 42.</li>
+        </ul>
+      </div>
+
+      <h2>The universal formula: rides × single fare vs pass price</h2>
+      <p>Write four cells:</p>
+      <ol class="howto-steps">
+        <li><strong>S</strong> = the single fare you actually pay (PRESTO $3.30, Compass stored value for <em>your</em> zones, Opus 1-trip or 10-trip unit price, Calgary ticket $4.00, Edmonton Arc $3.00).</li>
+        <li><strong>P</strong> = monthly pass or the monthly cap ceiling.</li>
+        <li><strong>T</strong> = paid trips you expect this calendar month (first tap in a transfer window, not every boarding).</li>
+        <li><strong>Cost</strong> = min(T × S, P) in a capping city; T × S vs P in a classic city (you choose P up front).</li>
+      </ol>
+      <p>Break-even trips <strong>B = P ÷ S</strong>. If T is reliably above B, the pass (or hitting the cap) is cheaper. If T wobbles around B, stay on pay-as-you-go so light months do not donate money.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Worked B = P ÷ S with figures reviewed 20 Sep 2026. Confirm the operator the week you budget.</caption>
+          <thead>
+            <tr>
+              <th scope="col">City / product</th>
+              <th scope="col">S (single)</th>
+              <th scope="col">P (month)</th>
+              <th scope="col">B (trips)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">TTC adult PRESTO (cap)</th>
+              <td>$3.30</td>
+              <td>$155.10 cap / $143 12-Month</td>
+              <td>47 cap / 43.3 vs 12-Month</td>
+            </tr>
+            <tr>
+              <th scope="row">Compass adult 1-zone</th>
+              <td>$2.85 stored</td>
+              <td>$117.20</td>
+              <td>≈41.1</td>
+            </tr>
+            <tr>
+              <th scope="row">Compass adult 2-zone</th>
+              <td>$4.20 stored</td>
+              <td>$156.70</td>
+              <td>≈37.3</td>
+            </tr>
+            <tr>
+              <th scope="row">Opus All Modes A ordinary</th>
+              <td>$3.75 (or $3.50 on 10-trip)</td>
+              <td>$110</td>
+              <td>≈29.3 / 31.4</td>
+            </tr>
+            <tr>
+              <th scope="row">Calgary Transit adult</th>
+              <td>$4.00 ticket</td>
+              <td>$126</td>
+              <td>31.5</td>
+            </tr>
+            <tr>
+              <th scope="row">Edmonton ETS Arc</th>
+              <td>$3.00 PAYG</td>
+              <td>$102 cap</td>
+              <td>34 (automatic)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Adjust for fare capping cities (Toronto) vs classic monthly cities</h2>
+      <p><strong>Capping (TTC from 1 Sep 2026; Edmonton Arc daily $10.50 / monthly $102):</strong> you never pre-buy P. Cost = min(T × S, P). The risk is using two cards and never reaching P. There is no refund problem because you did not prepay. Toronto still sells an Adult 12-Month at $143 — that <em>is</em> a classic contract sitting beside a cap. See the <a href="ttc-fare-capping-vs-presto-pass-2026.html">TTC cap vs 12-Month</a> guide.</p>
+      <p><strong>Classic monthly (Compass, Opus, Calgary My Fare):</strong> you choose P on the 20th or the 15th. If you then take a two-week trip, P is gone. Autoload is how hybrid people overpay. Stored value / tickets / 10-trip booklets are the default until two real months beat B.</p>
+      <p>GO Transit is a third species: distance fares plus a loyalty ladder, not a flat monthly vs $3.30. Do not drop GO into the TTC cap cell. Use the <a href="go-transit-presto-monthly-vs-payg.html">GO PRESTO guide</a>.</p>
+
+      <h2>Hybrid WFH: count only office weeks, not calendar days</h2>
+      <p>The failure mode is “I commute, so I need a pass.” Hybrid 2- and 3-day weeks are a different product.</p>
+      <ul>
+        <li>Office days / week × 2 paid trips × 4.3 weeks = commute trips.</li>
+        <li>Add weekend and evening trips that fall <em>outside</em> the transfer window.</li>
+        <li>Subtract vacation weeks as zero commute trips (capping cities love this; classic monthlies hate it).</li>
+      </ul>
+      <p>Examples: 2-day hybrid ≈ 17 commute trips. 3-day ≈ 26. 5-day ≈ 43. Overlay the table above. 26 trips beats TTC’s 47-cap (you never cap), loses to Opus $110 if you pay $3.75 singles ($97.50 — still under), loses to Calgary $126 ($104 on tickets), and never hits Edmonton’s $102 cap ($78). Five-day flips most of those.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/transit-pass-breakeven-cities.svg" width="720" height="420" alt="Bar chart of monthly transit cost for TTC cap, TTC hybrid 26 trips, Opus monthly, Compass 2-zone monthly, Calgary monthly, and Edmonton Arc cap.">
+        <figcaption>Pass and cap ceilings versus a 26-trip hybrid month. The green bars are products you might buy; the grey TTC 26 bar is what hybrid actually pays on PRESTO.</figcaption>
+      </figure>
+
+      <h2>Family and concession fares that change the math</h2>
+      <p>Never reuse adult S:</p>
+      <ul>
+        <li><strong>TTC:</strong> youth $2.35, senior $2.25, Fair Pass $2.10, post-secondary monthly $128.15. Children 12 and under free. Open-loop debit is always adult $3.30.</li>
+        <li><strong>Compass:</strong> concession stored $2.30 / $3.40 / $4.60; concession monthly $66.95 all zones; U-Pass BC $47.85 (Sep 2026 eligible students). Adult DayPass $12.55.</li>
+        <li><strong>Opus:</strong> reduced column (photo OPUS); 4-month $251; Gratuité 65+ Zone A for Montréal-agglomeration residents.</li>
+        <li><strong>Calgary:</strong> youth ticket $2.65 / monthly $92 from Sep 2026; low-income Fair Entry bands $6.30 / $44.10 / $63; senior annual $169.</li>
+        <li><strong>Edmonton:</strong> senior Arc monthly cap $36; low-income annual products; youth/senior rows on edmonton.ca/ets.</li>
+      </ul>
+      <p>A family of four on Calgary’s weekend group pass ($18 in 2026) can beat four adult singles for one Saturday. That is a day product — it does not justify four adult monthlies.</p>
+
+      <h2>Template spreadsheet you can reuse city to city</h2>
+      <p>One tab, copy down for each city or each fare change:</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Blank template. Fill S and P from the operator PDF the week you move or the week fares change.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Field</th>
+              <th scope="col">Cell</th>
+              <th scope="col">Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">City / agency</th>
+              <td></td>
+              <td>TTC, GO, Compass, Opus, Calgary, ETS…</td>
+            </tr>
+            <tr>
+              <th scope="row">Fare date stamp</th>
+              <td></td>
+              <td>PDF or page reviewed date</td>
+            </tr>
+            <tr>
+              <th scope="row">S single / T trips / P pass or cap</th>
+              <td></td>
+              <td>Concession? Same card all month?</td>
+            </tr>
+            <tr>
+              <th scope="row">B = P ÷ S</th>
+              <td></td>
+              <td>Break-even paid trips</td>
+            </tr>
+            <tr>
+              <th scope="row">Hybrid T (office × 2 × 4.3 + other)</th>
+              <td></td>
+              <td>Do not count transfers as trips</td>
+            </tr>
+            <tr>
+              <th scope="row">Decision</th>
+              <td></td>
+              <td>PAYG / cap / monthly / 12-month contract</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Keep last month’s actual T. One real month beats a vibes month. If actual T is 20% under B, stop Autoloading.</p>
+
+      <h2>When ride-hail + transit hybrid still beats a second pass</h2>
+      <p>A second monthly (GO + TTC, Compass 3-zone, Opus ABC) is the expensive way to cover two rare suburban days. Price: stay on the cheap core product + two Uber/taxi/car-share trips. If those two trips cost less than (P_big − P_small), do not upgrade. Downtown TTC/Opus/Compass 1-zone plus a monthly car-share membership is the <a href="car-lite-living-canadian-cities-cost-comparison.html">car-lite</a> version of the same idea. A second <em>agency</em> pass is for a five-day off-island commute, not for IKEA.</p>
+
+      <h2>Re-check after every fare increase</h2>
+      <p>Operators publish once or twice a year. Put a calendar reminder on the effective date — not “when I notice the tap feels expensive.”</p>
+      <ul>
+        <li>TransLink average 5% on <strong>1 Jul 2026</strong> — Compass B moved; 2-zone monthly is $156.70.</li>
+        <li>ARTM/STM <strong>1 Jul 2026</strong> — Opus All Modes A $110.</li>
+        <li>Calgary Transit <strong>Jan 2026</strong> — adult single $4.00, monthly $126.</li>
+        <li>TTC capping <strong>1 Sep 2026</strong> — most monthlies died; 47 × $3.30 = $155.10.</li>
+        <li>Edmonton Arc monthly adult cap <strong>$102</strong> (confirm edmonton.ca the month you move).</li>
+      </ul>
+      <p>When S rises and P rises by a different percentage, B moves. That is the whole hobby. Re-paste S and P. Do not inherit last year’s Autoload.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>TTC Fares and passes, reviewed 20 Sep 2026 — $3.30 adult PRESTO, 47-trip cap, $143 Adult 12-Month, Fair Pass $2.10.</li>
+          <li>TransLink Compass fares in effect 1 Jul 2026 — stored $2.85 / $4.20 / $5.40; monthlies $117.20 / $156.70 / $211.65 (as in the Compass guide).</li>
+          <li>ARTM/STM 1 Jul 2026 — All Modes A $3.75 / $110. Calgary Transit 2026 — $4.00 / $126. Edmonton ETS Arc page — $3.00 PAYG, $102 monthly cap.</li>
+        </ul>
+      </div>
+
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>What is the break-even formula for a Canadian transit pass?</h3>
+          <p>Break-even trips = pass price ÷ the single fare you actually pay. Buy the pass only if a typical month’s paid trips exceed that number. In capping cities, you pay the lesser of trips × fare and the cap — if you use one payment method.</p>
+        </div>
+        <div class="faq-item">
+          <h3>How do I count trips on a hybrid schedule?</h3>
+          <p>Office days × two paid trips × 4.3 weeks, plus weekend trips outside the transfer window. A 3-day hybrid is about 26 commute trips, not 40. Do not count free transfers as new trips.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Does Toronto still need this calculator after fare capping?</h3>
+          <p>Yes, for the Adult 12-Month ($143) versus the $155.10 cap, and for hybrid months that never hit 47. Everyday PAYG capping is automatic. GO Transit is a separate ladder.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Can I use one spreadsheet when I move cities?</h3>
+          <p>Yes. Change S, P, and the transfer rules. Compass zones, Opus multi-agency titles, and TTC caps are different products. Recalculate concession and U-Pass rows from scratch.</p>
+        </div>
+        <div class="faq-item">
+          <h3>When should I re-check the numbers?</h3>
+          <p>After every published fare increase, when you change office days, and when you qualify for a concession or Fair Pass. Autoload is not a decision.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="ttc-fare-capping-vs-presto-pass-2026.html">TTC fare capping vs 12-Month<span>47 paid trips, then free.</span></a></li>
+        <li><a href="opus-card-monthly-pass-montreal-stm-break-even.html">Opus Montréal break-even<span>All Modes A $110 and AB/ABC zones.</span></a></li>
+        <li><a href="compass-card-monthly-vs-stored-value.html">Compass monthly vs stored value<span>1-/2-/3-zone after 1 Jul 2026.</span></a></li>
+        <li><a href="calgary-edmonton-transit-monthly-pass-vs-tickets.html">Calgary and Edmonton hybrid math<span>My Fare $126 vs ETS Arc $102 cap.</span></a></li>
+        <li><a href="../transportation.html">Transportation hub<span>Transit, gas, EV, insurance, and TCO.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../transportation.html">More Transportation guides</a>
+      <a class="btn btn-ghost" href="fair-pass-toronto-transit-discount-how-to-apply.html">Next: Toronto Fair Pass</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>More Canadian tools</h2>
+        <ul>
+          <li><a href="https://canadiancreditcardfinder.com/">Canadian Credit Card Finder</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

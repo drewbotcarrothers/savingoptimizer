@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Platinum is a litre threshold, not a coupon</title>
+  <desc id="desc">40 L twice a week ≈ 1,040 L/quarter. Once-a-week fills miss Platinum. Do not detour to manufacture litres. $25 CT Money/quarter needs a linked Triangle account.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Platinum is a litre threshold, not a coupon</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">1,000 L every 3 months from 1 Jan 2026. Extra points only help if you already burn that fuel.</text>
+  <line x1="64" y1="88" x2="64" y2="300" stroke="#E5E7EB"/>
+  <line x1="64" y1="300" x2="696" y2="300" stroke="#E5E7EB"/>
+  <rect x="80" y="196" width="100" height="104" rx="6" fill="#9CA3AF"/>
+  <text x="130" y="188" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">520 L</text>
+  <text x="130" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1 fill/wk</text>
+  <text x="130" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">520 L/qtr</text>
+  <rect x="204" y="100" width="100" height="200" rx="6" fill="#0F7A4B"/>
+  <text x="254" y="92" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1,000 L</text>
+  <text x="254" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Threshold</text>
+  <text x="254" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">qualify</text>
+  <rect x="328" y="100" width="100" height="200" rx="6" fill="#4B9B74"/>
+  <text x="378" y="92" text-anchor="middle" font-size="12" font-weight="700" fill="#4B9B74" font-family="Inter, system-ui, sans-serif">1,040 L</text>
+  <text x="378" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2 fills/wk</text>
+  <text x="378" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">1,040 L</text>
+  <rect x="452" y="240" width="100" height="60" rx="6" fill="#9CA3AF"/>
+  <text x="502" y="232" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">300 L</text>
+  <text x="502" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Light WFH</text>
+  <text x="502" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">300 L</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">40 L twice a week ≈ 1,040 L/quarter. Once-a-week fills miss Platinum. Do not detour to manufacture litres. $25 CT Money/quarter needs a linked Triangle account.</text>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Zone A Opus: monthly vs tickets for three commute profiles</title>
+  <desc id="desc">Hybrid 26 × $3.75 = $97.50 beats the $110 monthly. Five weekday round trips already pass $110. Confirm stm.info / artm.quebec before you load the card.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Zone A Opus: monthly vs tickets for three commute profiles</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">ARTM/STM fares in effect 1 Jul 2026. Ordinary 1-trip $3.75; monthly All Modes A $110.</text>
+  <line x1="64" y1="88" x2="64" y2="300" stroke="#E5E7EB"/>
+  <line x1="64" y1="300" x2="696" y2="300" stroke="#E5E7EB"/>
+  <rect x="80" y="190" width="100" height="110" rx="6" fill="#9CA3AF"/>
+  <text x="130" y="182" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$97.50</text>
+  <text x="130" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hybrid 3-day</text>
+  <text x="130" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">26 trips</text>
+  <rect x="204" y="176" width="100" height="124" rx="6" fill="#0F7A4B"/>
+  <text x="254" y="168" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$110</text>
+  <text x="254" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Monthly A</text>
+  <text x="254" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">unlimited</text>
+  <rect x="328" y="118" width="100" height="182" rx="6" fill="#9CA3AF"/>
+  <text x="378" y="110" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$161.25</text>
+  <text x="378" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">5-day office</text>
+  <text x="378" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">43 trips</text>
+  <rect x="452" y="108" width="100" height="192" rx="6" fill="#4B9B74"/>
+  <text x="502" y="100" text-anchor="middle" font-size="12" font-weight="700" fill="#4B9B74" font-family="Inter, system-ui, sans-serif">$170</text>
+  <text x="502" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">AB monthly</text>
+  <text x="502" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">off-island</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Hybrid 26 × $3.75 = $97.50 beats the $110 monthly. Five weekday round trips already pass $110. Confirm stm.info / artm.quebec before you load the card.</text>
+</svg>
