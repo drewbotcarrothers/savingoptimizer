@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">How to use the OEB bill calculator</title>
+  <desc id="desc">Six-step Ontario Energy Board bill calculator workflow: winter and summer bills, interval or TOU-band usage, compare TOU ULO and Tiered including delivery, apply the 23.5 percent Ontario Electricity Rebate, avoid one-month mistakes, then file an LDC election.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">OEB bill calculator: six steps, not a guess</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Compare TOU, ULO, and Tiered all-in bills with your LDC. OER is 23.5% as of 1 Nov 2025. Verified 20 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Pull two seasons</text>
+  <text x="40" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">January and July bills,</text>
+  <text x="40" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">plus a shoulder month.</text>
+  <text x="40" y="180" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">One month is not a year.</text>
+  <rect x="252" y="78" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="106" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Get the hours</text>
+  <text x="268" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TOU/ULO bands or</text>
+  <text x="268" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Green Button intervals.</text>
+  <text x="268" y="180" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">EV/heat need intervals.</text>
+  <rect x="480" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3. Pick your LDC</text>
+  <text x="496" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Delivery is local.</text>
+  <text x="496" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Wrong utility = fiction.</text>
+  <text x="496" y="180" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Toronto Hydro != Hydro One.</text>
+  <rect x="24" y="234" width="216" height="120" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Compare all-in</text>
+  <text x="40" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Commodity + delivery</text>
+  <text x="40" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ 23.5% OER credit.</text>
+  <rect x="252" y="234" width="216" height="120" rx="12" fill="#E7F4EE"/>
+  <text x="268" y="262" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">5. Avoid traps</text>
+  <text x="268" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Default EV profile,</text>
+  <text x="268" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">retailer contracts.</text>
+  <rect x="480" y="234" width="216" height="120" rx="12" fill="#F3F4F6"/>
+  <text x="496" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">6. Then elect</text>
+  <text x="496" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">LDC form, not OEB.</text>
+  <text x="496" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">10 business days.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: oeb.ca bill calculator and choosing-your-electricity-price-plan. RPP prices 1 Nov 2025-31 Oct 2026. Education only.</text>
+</svg>

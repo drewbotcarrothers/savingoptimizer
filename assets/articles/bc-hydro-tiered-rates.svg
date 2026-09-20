@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">BC Hydro residential tiered, flat, and time-of-day rates</title>
+  <desc id="desc">BC Hydro residential rates as published for 2026: tiered Step 1 11.87 cents and Step 2 14.08 cents per kWh with a 23.44 cent daily basic charge; optional flat 12.70 cents with a 25.00 cent daily basic; optional time-of-day overlay minus 5 cents overnight and plus 5 cents from 4 to 9 p.m.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">BC Hydro residential: tiered, flat, time-of-day</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">BCUC / BC Hydro pages used 20 Sep 2026. Confirm live ¢ in Account Online before you switch.</text>
+  <rect x="24" y="78" width="224" height="248" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Tiered (RS 1101)</text>
+  <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Step 1 11.87 cents/kWh</text>
+  <text x="40" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Step 2 14.08 cents/kWh</text>
+  <text x="40" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Basic 23.44 cents/day</text>
+  <text x="40" y="220" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Threshold 22.1918 kWh/day</text>
+  <text x="40" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~1,350 kWh / 60-day bill</text>
+  <text x="40" y="256" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~675 kWh / 30-day bill</text>
+  <text x="40" y="292" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fits: condo, gas heat, average use.</text>
+  <rect x="260" y="78" width="220" height="248" rx="12" fill="#F3F4F6"/>
+  <text x="276" y="106" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Optional flat (RS 1151)</text>
+  <text x="276" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">12.70 cents/kWh all kWh</text>
+  <text x="276" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Basic 25.00 cents/day</text>
+  <text x="276" y="196" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No Step 2 cliff.</text>
+  <text x="276" y="214" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Higher daily basic.</text>
+  <text x="276" y="250" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fits: electric heat,</text>
+  <text x="276" y="268" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">high-use detached.</text>
+  <rect x="492" y="78" width="204" height="248" rx="12" fill="#E7F4EE"/>
+  <text x="508" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Time-of-day overlay</text>
+  <text x="508" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">11 p.m.-7 a.m. -5 cents</text>
+  <text x="508" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4-9 p.m. +5 cents</text>
+  <text x="508" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Other hours: no change</text>
+  <text x="508" y="220" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Adds to tiered or flat.</text>
+  <text x="508" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">EV overnight is the use case.</text>
+  <text x="508" y="274" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Not a condo default.</text>
+  <text x="24" y="356" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Use the Account Online rate estimator on your own kWh. Interior electric heat in January is a different house than a Lower Mainland condo.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: bchydro.com residential tiered, flat, and time-of-day pages; BCUC residential energy rates. Education only.</text>
+</svg>

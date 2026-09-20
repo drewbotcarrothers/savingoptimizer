@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alberta Rate of Last Resort vs fixed contracts: how to decide without panic shopping — Saving Optimizer</title>
+  <meta name="description" content="Alberta RoLR (ex-RRO) vs fixed and floating electricity through 31 Dec 2026: when a contract beats ~12 ¢ energy, floating bill-shock, exit and renewal clauses, why one winter bill is a bad sample, and a risk-averse vs flexible decision matrix. UCA tool. Education only.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/alberta-rate-of-last-resort-vs-fixed.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Alberta Rate of Last Resort vs fixed contracts: how to decide without panic shopping — Saving Optimizer">
+  <meta property="og:description" content="Alberta RoLR (ex-RRO) vs fixed and floating electricity through 31 Dec 2026: when a contract beats ~12 ¢ energy, floating bill-shock, exit and renewal clauses, why one winter bill is a bad sample, and a risk-averse vs flexible decision matrix. UCA tool. Education only.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/alberta-rate-of-last-resort-vs-fixed.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Alberta Rate of Last Resort vs fixed contracts: how to decide without panic shopping — Saving Optimizer">
+  <meta name="twitter:description" content="Alberta RoLR (ex-RRO) vs fixed and floating electricity through 31 Dec 2026: when a contract beats ~12 ¢ energy, floating bill-shock, exit and renewal clauses, why one winter bill is a bad sample, and a risk-averse vs flexible decision matrix. UCA tool. Education only.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Utilities">
+  <meta name="article:published_time" content="2026-09-20">
+  <meta name="article:modified_time" content="2026-09-20">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Alberta Rate of Last Resort vs fixed contracts: how to decide without panic shopping",
+  "description": "Alberta RoLR (ex-RRO) vs fixed and floating electricity through 31 Dec 2026: when a contract beats ~12 ¢ energy, floating bill-shock, exit and renewal clauses, why one winter bill is a bad sample, and a risk-averse vs flexible decision matrix. UCA tool. Education only.",
+  "datePublished": "2026-09-20",
+  "dateModified": "2026-09-20",
+  "inLanguage": "en-CA",
+  "author": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "url": "https://savingoptimizer.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://savingoptimizer.com/assets/logo-primary.png"
+    },
+    "url": "https://savingoptimizer.com/"
+  },
+  "image": "https://savingoptimizer.com/assets/logo-primary.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://savingoptimizer.com/guides/articles/alberta-rate-of-last-resort-vs-fixed.html"
+  },
+  "url": "https://savingoptimizer.com/guides/articles/alberta-rate-of-last-resort-vs-fixed.html",
+  "articleSection": "Utilities",
+  "about": {
+    "@type": "Thing",
+    "name": "Canadian household savings",
+    "description": "Practical Utilities savings advice for Canadian households."
+  }
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://savingoptimizer.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://savingoptimizer.com/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Utilities",
+      "item": "https://savingoptimizer.com/guides/utilities.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Alberta Rate of Last Resort vs fixed contracts: how to decide without panic shopping",
+      "item": "https://savingoptimizer.com/guides/articles/alberta-rate-of-last-resort-vs-fixed.html"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+                {
+                        "@type": "Question",
+                        "name": "Do I have to leave the Rate of Last Resort before 31 Dec 2026?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "No. RoLR is the default energy price through that date. You can stay. You can also leave any time with no exit fee. A notification that you are on RoLR is information, not a cut-off notice."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "When does a fixed contract actually beat RoLR?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "When the UCA estimated annual energy + admin fees is lower than RoLR at your kWh, and you can live with the exit fee if you move or rates fall. A 7 ¢ ad with an $8 monthly fee can lose on a low-use condo."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Is floating cheaper than RoLR?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Some months. Floating can undercut ~12 ¢ and then print a January you cannot cash-flow. It is a watch-the-tool product, not a set-and-forget."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "What if I already signed and regret it?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Competitive contracts have a 10-calendar-day cooling-off (phone contracts can have a longer window). After that, read the exit-fee clause in dollars. UCA mediation: 310-4822."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Does switching retailers lower delivery?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "No. You are shopping the energy (and maybe admin) line. The distributor still bills wires and riders."
+                        }
+                }
+        ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../utilities.html">Utilities</a></li>
+      <li aria-current="page">Alberta Rate of Last Resort vs fixed contracts: how to decide without panic shopping</li>
+    </ol>
+    </nav>
+    <p class="kicker">Utilities · Canada</p>
+    <h1>Alberta Rate of Last Resort vs fixed contracts: how to decide without panic shopping</h1>
+    <p class="article-meta">A headline is not a deadline · About 15 minutes · 20 Sep 2026</p>
+    
+    <div class="prose">
+      <p>Alberta headlines about default electricity rates push people into five-year contracts they regret by spring. The default is the <strong>Rate of Last Resort</strong> (RoLR, formerly the Regulated Rate Option). It is an AUC-approved energy ¢ through <strong>31 December 2026</strong>. You can stay. You can leave any time with no exit fee. A door-knocker who implies the power will be cut unless you sign today is running a script.</p>
+      <p>This is a decision framework dated through 2026 — not a second copy of the <a href="alberta-electricity-retailer-comparison.html">UCA tool how-to</a>, and not an Ontario RPP explainer. If you also heat with gas, compare fuels in <a href="cut-canadian-winter-heating-bill.html">gas vs electric heat</a> after you know which line you can shop.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> There is no natural affiliate product in a regulated default-vs-contract decision. Saving Optimizer does not claim retailer, UCA, or utility partnerships. This is education — not a recommendation of any competitive offer.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>RoLR energy (UCA tables, used 20 Sep 2026): <strong>12.01 ¢</strong> (EPCOR), <strong>12.06 ¢</strong> (ENMAX), <strong>12.02 ¢</strong> (Direct Energy Regulated Services) depending on the distributor column, through 31 Dec 2026. Billing and delivery are extra.</li>
+          <li>A fixed contract beats RoLR only if <strong>energy + admin − incentives, year two</strong> still wins at <em>your</em> kWh, after you can live with the exit fee.</li>
+          <li>Floating can print a cheap July and a brutal January. If you cannot watch the UCA tool, do not buy a market ¢.</li>
+          <li>Read exit and auto-renewal clauses in dollars before you sign. Cooling-off is <strong>10 calendar days</strong> on competitive contracts.</li>
+          <li>One winter bill is a bad sample. Model 12 months. Dual-fuel bundles need two winning lines, not one logo.</li>
+        </ul>
+      </div>
+      <h2>What RoLR is (formerly RRO) and the current multi-year default window</h2>
+      <p>If you never signed a competitive contract, a <strong>default retailer</strong> serves you. For electricity that default energy price is the Rate of Last Resort, which replaced the RRO on 1 January 2025. The AUC approved a two-year RoLR term through <strong>31 December 2026</strong>. UCA’s default-rate page (used 20 Sep 2026) publishes the commodity table: EPCOR 12.01 ¢ on EPCOR Distribution and FortisAlberta; ENMAX 12.06 ¢ on ENMAX Power; Direct Energy Regulated Services 12.02 ¢ on ATCO Electric. Those cells exclude billing and delivery.</p>
+      <p>You are not required to leave. You can leave any time without an exit fee. Gas, if you never contracted it, sits on a separate <strong>Default Rate Tariff</strong> that can change monthly (UCA’s 2026 DRT table moves from winter highs above $3/GJ down through summer). Do not let an electricity conversation silently reprice your furnace.</p>
+      <p>What happens after 31 Dec 2026 is an AUC / government file, not a reason to sign a 60-month contract in September 2026. Revisit when the next default is published.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/alberta-rolr-vs-fixed.svg" width="720" height="420" alt="Three-panel decision matrix comparing Alberta RoLR, fixed contracts, and floating rates through 2026.">
+        <figcaption>Stay, fix, or float — energy only. Delivery stays with the wires company. 20 Sep 2026.</figcaption>
+      </figure>
+
+      <h2>When fixed contracts beat RoLR — and when they do not</h2>
+      <p>Open the <a href="https://ucahelps.alberta.ca/cost-comparison-tool/">UCA Cost Comparison Tool</a>. Sort by estimated annual cost at your kWh, not by the bold ¢.</p>
+      <p><strong>Fixed can win</strong> when a clean 7–9 ¢ energy ¢ plus a small admin fee still beats ~12 ¢ × your annual kWh, the term matches how long you will stay in the house, and the exit fee is a number you could write a cheque for if you are posted to Ontario next year.</p>
+      <p><strong>Fixed loses</strong> when the admin fee eats a low-use condo, a first-year credit expires, the exit fee is “remaining months × $X,” or you are buying peace of mind you already have — RoLR is already a regulated ¢ through 2026.</p>
+      <p>Labelled sketch: 600 kWh × (12.06 − 8.00) ¢ = <strong>$24.36 / month</strong> on energy, before an $8 admin fee ($96 / year) and before an exit fee. Do that math on the tool’s annual column, not on a Facebook ad.</p>
+
+      <h2>Floating rates: upside and bill-shock risk</h2>
+      <p>A floating or variable energy ¢ moves with the market or a posted variable. It can sit under RoLR for months. It can also print the January that made people invent RoLR in the first place.</p>
+      <ul>
+        <li>Upside: you keep optionality; some floaters are month-to-month with a thin exit.</li>
+        <li>Downside: cash-flow. A fixed-income household that needs a known Visa debit should not learn the pool price from a bill.</li>
+        <li>Homework: if you will not reopen the UCA tool when the ¢ jumps, you do not have a floating strategy. You have a hope.</li>
+      </ul>
+
+      <h2>Reading early-exit and renewal clauses before you sign</h2>
+      <p>Before you give a voice authorization or click:</p>
+      <ol>
+        <li><strong>Exit fee in dollars</strong> — flat, declining, or remaining-months formula. Model a move in month 8.</li>
+        <li><strong>Admin / monthly fee</strong> — a $6–$10 line can erase a 1 ¢ “win.”</li>
+        <li><strong>Incentives</strong> — bill credits that die in month 13. Model year two.</li>
+        <li><strong>Auto-renewal</strong> — to what ¢, at what notice, with what new exit.</li>
+        <li><strong>Dual-fuel tie-in</strong> — a cheap power ¢ bundled with a rich gas ¢ (or the reverse).</li>
+        <li><strong>Cooling-off</strong> — 10 calendar days on competitive contracts; phone marketing can have a longer statutory window. Keep the confirmation notice.</li>
+      </ol>
+      <p>If the tool row and the website disagree, believe neither until you have the rate, fee, and exit in writing. UCA mediation (310-4822) exists when a contract and a bill disagree.</p>
+
+      <h2>Seasonal usage: why one winter bill is a bad sample</h2>
+      <p>Alberta January kWh (and GJ) are not July. A condo that looks like a $40 energy win on a shoulder-month bill can be a $0 win — or a loss after fees — once you include furnace fan, engine-block, and a −30°C recovery. Pull 12 months. If you just moved in, use the house’s history at that address, not your Calgary apartment from 2022.</p>
+      <p>A switch still takes <strong>10–90 days</strong>. You pay the old retailer until the flip. Do not stop payment because you signed last Tuesday.</p>
+
+      <h2>Decision matrix for risk-averse vs flexible households</h2>
+      <div class="table-wrap">
+        <table>
+          <caption>Labels, not recommendations. Confirm live rows in the UCA tool.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Household</th>
+              <th scope="col">Default move</th>
+              <th scope="col">Only stretch if…</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Risk-averse, fixed income, moving in 18 months</th>
+              <td>Stay RoLR through 2026</td>
+              <td>A month-to-month competitive ¢ with no meaningful exit beats RoLR after fees</td>
+            </tr>
+            <tr>
+              <th scope="row">Stable house, will read a bill, 12 months of data</th>
+              <td>Shortlist three UCA rows vs RoLR</td>
+              <td>Year-two all-in still wins and the exit fee is payable</td>
+            </tr>
+            <tr>
+              <th scope="row">Flexible, will watch the tool</th>
+              <td>RoLR or a thin-exit floater</td>
+              <td>You have a written rule for when you jump back to RoLR or a fixed</td>
+            </tr>
+            <tr>
+              <th scope="row">Dual-fuel “bundle” pitch</th>
+              <td>Compare power and gas separately</td>
+              <td>Both lines win after fees — one logo is not a win</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Panic is the product. The UCA tool is the process. If someone needs an answer in this hallway, the answer is RoLR until you have 12 months of kWh on one page.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>UCA, Default rates — RoLR electricity table to 31 Dec 2026; 2026 natural gas DRT by month (used 20 Sep 2026).</li>
+          <li>UCA, Cost Comparison Tool — energy, admin, term, exit, bundles.</li>
+          <li>UCA, How to switch / how to choose — 10-day cooling-off; 10–90 day switch; delivery is separate.</li>
+          <li>Alberta Utilities Commission — RoLR background (ex-RRO; multi-year default window).</li>
+        </ul>
+      </div>
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Do I have to leave the Rate of Last Resort before 31 Dec 2026?</h3>
+          <p>No. RoLR is the default energy price through that date. You can stay. You can also leave any time with no exit fee. A notification that you are on RoLR is information, not a cut-off notice.</p>
+        </div>
+        <div class="faq-item">
+          <h3>When does a fixed contract actually beat RoLR?</h3>
+          <p>When the UCA estimated annual energy + admin fees is lower than RoLR at your kWh, and you can live with the exit fee if you move or rates fall. A 7 ¢ ad with an $8 monthly fee can lose on a low-use condo.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Is floating cheaper than RoLR?</h3>
+          <p>Some months. Floating can undercut ~12 ¢ and then print a January you cannot cash-flow. It is a watch-the-tool product, not a set-and-forget.</p>
+        </div>
+        <div class="faq-item">
+          <h3>What if I already signed and regret it?</h3>
+          <p>Competitive contracts have a 10-calendar-day cooling-off (phone contracts can have a longer window). After that, read the exit-fee clause in dollars. UCA mediation: 310-4822.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Does switching retailers lower delivery?</h3>
+          <p>No. You are shopping the energy (and maybe admin) line. The distributor still bills wires and riders.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="alberta-electricity-retailer-comparison.html">Compare retailers with the UCA tool<span>The shopping workflow after you decide.</span></a></li>
+        <li><a href="cut-canadian-winter-heating-bill.html">Gas vs electric heat<span>You shop energy; delivery stays put.</span></a></li>
+        <li><a href="equal-billing-canadian-utilities-worth-it.html">Equal billing<span>Cashflow is a different lever than ¢.</span></a></li>
+        <li><a href="ontario-tou-vs-tiered-vs-ulo.html">Ontario plan choice<span>RPP, not retailers.</span></a></li>
+        <li><a href="../utilities.html">Utilities hub<span>Provincial bills and heat.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../utilities.html">More Utilities guides</a>
+      <a class="btn btn-ghost" href="alberta-electricity-retailer-comparison.html">Next: UCA retailer tool</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>More Canadian tools</h2>
+        <ul>
+          <li><a href="https://canadiancreditcardfinder.com/">Canadian Credit Card Finder</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

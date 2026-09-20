@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Why an Enbridge Gas Ontario winter bill spikes</title>
+  <desc id="desc">Three drivers of an Enbridge Ontario bill: weather (more cubic metres), rates (OEB QRAM supply plus delivery slabs and customer charge), and usage (setpoint, filter, leaks). EMPP equal monthly payments smooth cash but hide a jump in cubic metres until true-up.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Enbridge winter spike: weather, rate, or usage?</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">EGD Rate 1 customer charge $27.69/month (1 Jul 2026). Supply is not the whole bill. Verified 20 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Weather</text>
+  <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Colder HDD, more m3.</text>
+  <text x="40" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Same house, same 21 C,</text>
+  <text x="40" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">bigger commodity + delivery.</text>
+  <text x="40" y="220" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Compare m3 to last January,</text>
+  <text x="40" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">not dollars to July.</text>
+  <rect x="252" y="78" width="216" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="106" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rate</text>
+  <text x="268" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">OEB QRAM supply</text>
+  <text x="268" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Delivery slabs + transport</text>
+  <text x="268" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Carbon-related lines</text>
+  <text x="268" y="220" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">EGD vs Union South supply</text>
+  <text x="268" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">are different ¢/m3.</text>
+  <rect x="480" y="78" width="216" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Usage you control</text>
+  <text x="496" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Setpoint and setbacks</text>
+  <text x="496" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Dirty filter, open rooms</text>
+  <text x="496" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Leaks, failed humidifier</text>
+  <text x="496" y="220" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">A 20% m3 jump in a mild</text>
+  <text x="496" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">month is a furnace clue.</text>
+  <text x="24" y="312" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">EMPP: 12 installments from history + rates + weather. Other Enbridge Charges still appear. A true-up is the bill arriving later, not a rebate.</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Assistance: Enbridge payment arrangements and Golden Age Service; LEAP emergency grant via intake agencies (up to $650 on gas).</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: Enbridge EMPP and Rate 1 notice 1 Jul 2026; OEB natural gas rates and LEAP. Education only - not a rate quote.</text>
+</svg>
