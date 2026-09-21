@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">How to read EnerGuide labels on Canadian appliances</title>
+  <desc id="desc">The large number is kWh per year, not an efficiency percent. Lower is better for appliances. Compare the same type and capacity. Convert kWh times your utility cents. A larger efficient fridge can still cost more to run.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">EnerGuide sticker: kWh/year, then your  cents</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">NRCan appliance label. Lower kWh is better. 20 Sep 2026.</text>
+  <rect x="24" y="78" width="328" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Four things on the label</text>
+  <text x="40" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. Annual kWh of this model</text>
+  <text x="40" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Pointer on the class scale</text>
+  <text x="40" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Type and capacity of the class</text>
+  <text x="40" y="210" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Model number</text>
+  <text x="40" y="246" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Left on the scale is better</text>
+  <text x="40" y="264" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">for appliances. Scales update yearly.</text>
+  <text x="40" y="288" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ENERGY STAR is a fifth mark, if present.</text>
+  <rect x="368" y="78" width="328" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="384" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Dollar sketch (commodity)</text>
+  <text x="384" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">400 kWh x 15.7 c = $63 TOU mid</text>
+  <text x="384" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">400 kWh x 11.142 c = $45 Rate D</text>
+  <text x="384" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">400 kWh x 14.08 c = $56 Step 2</text>
+  <text x="384" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ontario and B.C. delivery is extra.</text>
+  <text x="384" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">OEB TOU 15.7 c is 1 Nov 2025-2026.</text>
+  <text x="384" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Same-size models only.</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Do not chase the lowest sticker on a bigger fridge you do not need. Size is a class.</text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Gas dryers and water heaters use different label energy units - compare within fuel.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">NRCan EnerGuide label pages; OEB / Hydro-Quebec / BC Hydro rates. Education only.</text>
+</svg>

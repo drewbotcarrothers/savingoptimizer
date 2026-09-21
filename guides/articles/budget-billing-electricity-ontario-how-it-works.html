@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ontario electricity budget billing: enrolment, reviews, and gotchas — Saving Optimizer</title>
+  <meta name="description" content="Ontario LDC equal-payment and budget billing literacy: Toronto Hydro EPP vs Hydro One Budget Billing, how estimates use history, mid-year adjustments, cancel balances, and why this is not TOU/ULO/Tiered choice. Education only.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/budget-billing-electricity-ontario-how-it-works.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Ontario electricity budget billing: enrolment, reviews, and gotchas — Saving Optimizer">
+  <meta property="og:description" content="Ontario LDC equal-payment and budget billing literacy: Toronto Hydro EPP vs Hydro One Budget Billing, how estimates use history, mid-year adjustments, cancel balances, and why this is not TOU/ULO/Tiered choice. Education only.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/budget-billing-electricity-ontario-how-it-works.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Ontario electricity budget billing: enrolment, reviews, and gotchas — Saving Optimizer">
+  <meta name="twitter:description" content="Ontario LDC equal-payment and budget billing literacy: Toronto Hydro EPP vs Hydro One Budget Billing, how estimates use history, mid-year adjustments, cancel balances, and why this is not TOU/ULO/Tiered choice. Education only.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Utilities">
+  <meta name="article:published_time" content="2026-09-20">
+  <meta name="article:modified_time" content="2026-09-20">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Ontario Budget/Equal Payment Plans for Electricity: Enrolment, Reviews, and Gotchas",
+  "description": "Ontario LDC equal-payment and budget billing literacy: Toronto Hydro EPP vs Hydro One Budget Billing, how estimates use history, mid-year adjustments, cancel balances, and why this is not TOU/ULO/Tiered choice. Education only.",
+  "datePublished": "2026-09-20",
+  "dateModified": "2026-09-20",
+  "inLanguage": "en-CA",
+  "author": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "url": "https://savingoptimizer.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://savingoptimizer.com/assets/logo-primary.png"
+    },
+    "url": "https://savingoptimizer.com/"
+  },
+  "image": "https://savingoptimizer.com/assets/logo-primary.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://savingoptimizer.com/guides/articles/budget-billing-electricity-ontario-how-it-works.html"
+  },
+  "url": "https://savingoptimizer.com/guides/articles/budget-billing-electricity-ontario-how-it-works.html",
+  "articleSection": "Utilities",
+  "about": {
+    "@type": "Thing",
+    "name": "Canadian household savings",
+    "description": "Practical Utilities savings advice for Canadian households."
+  }
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://savingoptimizer.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://savingoptimizer.com/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Utilities",
+      "item": "https://savingoptimizer.com/guides/utilities.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Ontario electricity budget billing",
+      "item": "https://savingoptimizer.com/guides/articles/budget-billing-electricity-ontario-how-it-works.html"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is budget billing a cheaper Ontario hydro rate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. It is a payment shape. TOU, Tiered, and ULO are the OEB price-plan choice. Enrol in both conversations separately."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I choose how much I pay each month?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hydro One says no — an artificial amount manufactures a true-up. You can request a review if your household changed. Some portals allow an increase only."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I cancel in winter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The plan usually reconciles now. Winter actuals plus any shortfall can land on the next bill. Read the balance first."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I just moved. Should I enrol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually wait until you have a season of your own kWh, or enrol knowing the estimate is the previous occupant’s house. Request a review after the first winter."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does EPP include the Ontario Electricity Rebate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 23.5% OER is a bill credit on eligible charges, not a feature of EPP. Your installment should reflect the billed total the LDC estimated — confirm on your own PDF."
+      }
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../utilities.html">Utilities</a></li>
+      <li aria-current="page">Ontario electricity budget billing</li>
+    </ol>
+    </nav>
+    <p class="kicker">Utilities · Ontario</p>
+    <h1>Ontario Budget/Equal Payment Plans for Electricity: Enrolment, Reviews, and Gotchas</h1>
+    <p class="article-meta">Cashflow at the LDC — not an OEB price-plan election · About 15 minutes · 20 Sep 2026</p>
+    
+    <div class="prose">
+      <p>Ontario customers enrol in “budget billing” because they want a cheaper hydro rate, then discover they bought a flatter Visa debit. Equal payments do not elect Time-of-Use, Tiered, or Ultra-Low Overnight. That is a separate OEB Customer Choice form. Confusing the two is how a household “goes on the cheap plan” and still pays 39.1 ¢ from 4–9 p.m. if they actually chose ULO.</p>
+      <p>This is LDC payment-plan mechanics. For the clock, use the <a href="ontario-oeb-bill-calculator-how-to.html">OEB bill calculator</a> and <a href="ontario-tou-vs-tiered-vs-ulo.html">TOU vs Tiered vs ULO</a>. For the national cashflow story, see <a href="equal-billing-canadian-utilities-worth-it.html">equal billing</a>.</p>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>Names differ: Toronto Hydro <strong>Equal Payment Plan</strong>, Hydro One <strong>Budget Billing</strong> (also marketed as Balanced Billing), plus other LDC “budget” or “equalized” products. All estimate and divide. None is a ¢ discount.</li>
+          <li>Toronto Hydro (used 20 Sep 2026): account must be paid in full; annual reconciliation; over/under applied to the next bill; if you owe about an average month or more, they can recover it over the following year’s payments.</li>
+          <li>Hydro One: amount from billing history; equal amount for six months; reassessed at months <strong>6 and 9</strong>; reconciled after 12 months; auto-renews. You cannot pick a fake monthly number.</li>
+          <li>Cancelling mid-plan can make the balance due on the next bill. Request a review after a renovation, EV, or new heat pump instead of rage-cancelling in January.</li>
+          <li>Pair the flat debit with TOU/ULO/Tiered choice and a quarterly usage check. The installment does not tell you whether dinner-hour kWh are expensive.</li>
+        </ul>
+      </div>
+      <h2>Which LDCs offer equalized payments and under what names</h2>
+      <p>Every licensed Ontario electricity distributor has some flavour of equalized or budget payments. The brand on the envelope changes. The idea does not.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Two large LDCs, used 20 Sep 2026. Your bill’s LDC portal is the source of truth.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Utility</th>
+              <th scope="col">Product name</th>
+              <th scope="col">Review / reconcile</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Toronto Hydro</th>
+              <td>Equal Payment Plan (EPP)</td>
+              <td>Estimate annual cost ÷ 12; reconcile once a year; large owing can roll into next year’s installments</td>
+            </tr>
+            <tr>
+              <th scope="row">Hydro One</th>
+              <td>Budget Billing / Balanced Billing</td>
+              <td>History-based amount for 6 months; reassess at 6 and 9; reconcile at 12; auto-renew</td>
+            </tr>
+            <tr>
+              <th scope="row">Other LDCs (Alectra, Hydro Ottawa, and others)</th>
+              <td>Budget billing, equalized payments, similar</td>
+              <td>Same estimate-and-divide pattern; read that LDC’s page before you enrol</td>
+            </tr>
+            <tr>
+              <th scope="row">Enbridge Gas (not an LDC hydro bill)</th>
+              <td>EMPP</td>
+              <td>Gas-only cashflow — see the Enbridge spike guide. Do not mix it with hydro EPP.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Hydro One’s FAQ is explicit: residential, seasonal, and general-service energy-billed customers can enrol; unmetered and demand-billed cannot; retailer-commodity customers who are still billed by Hydro One can enrol. Seasonal accounts on Budget Billing move to monthly bills instead of quarterly.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/budget-billing-electricity-ontario-how-it-works.svg" width="720" height="420" alt="Two panels contrasting Ontario LDC equal-payment products with OEB TOU, Tiered, and ULO price plans.">
+        <figcaption>Pay the same monthly debit. Still elect a clock. 20 Sep 2026.</figcaption>
+      </figure>
+
+      <h2>How estimates use your history and what new movers get</h2>
+      <p>The estimate is last year’s kWh at the address × the rates they expect, divided by 12 (or a mid-year reset). If you just moved, you inherit the previous occupant’s heat, kids, and work-from-home kettle — or a neighbourhood stand-in. A wrong first installment is normal. It is also how August arrives with a number that does not match your life.</p>
+      <p>Hydro One says you cannot pick the amount you want to pay. An artificial low number would just manufacture a reconciliation bill. Online self-serve may let you <em>increase</em> the amount; decreases go through a plan review.</p>
+
+      <h2>Mid-year adjustments when rates or weather shift</h2>
+      <p>OEB RPP commodity prices in force 1 Nov 2025–31 Oct 2026 are TOU 9.8 / 15.7 / 20.3 ¢/kWh, ULO overnight 3.9 ¢ and weekday 4–9 p.m. <strong>39.1 ¢</strong>, Tiered 12.0 ¢ then 14.2 ¢ after 600 kWh (summer) or 1,000 kWh (winter), plus the 23.5% Ontario Electricity Rebate on the eligible base. Delivery is extra. A plan change or a polar winter moves actual charges; the installment lags until the LDC’s review clock.</p>
+      <p>Hydro One reassesses at months 6 and 9 so you are not wildly over or under. Toronto Hydro leans on the annual reconcile and can spread a large shortfall into the next year. If you added an EV, a heat pump, or a basement suite, do not wait for their clock — request a review in the portal.</p>
+
+      <h2>Cancelling mid-plan: balances that become due</h2>
+      <p>Hydro One: cancel in myAccount and the plan reconciles; you are billed the owing or credited the overpayment. Toronto Hydro: under- or overpayment hits the next bill; a large owing can instead be recovered across the following year’s EPP if you stay on the plan. Cancelling in January can put winter actuals and any shortfall on one statement.</p>
+      <p>Read the plan balance line before you toggle. A review is often smarter than a cancel if you still want smoothing.</p>
+
+      <h2>Pairing with TOU/ULO choice so you still optimize commodity</h2>
+      <p>Enrolment in EPP does not file a Customer Choice election. Run the <a href="ontario-oeb-bill-calculator-how-to.html">OEB calculator</a> with winter and summer usage, then file the LDC form if the dollars move. ULO’s 3.9 ¢ overnight is a gift to a night-shifting EV and a trap for a 5:30 p.m. oven-plus-baseboard family. The equal debit will hide that dinner-hour pile until you open interval data.</p>
+      <p>Peak Perks ($75 / $20) is a third lever — summer demand response, not a payment plan. See <a href="ontario-peak-perks-smart-thermostat.html">Peak Perks</a>.</p>
+
+      <h2>Sample calendar for checking usage while payments stay flat</h2>
+      <ol>
+        <li><strong>Every bill:</strong> ignore the debit for 30 seconds. Write kWh for the period and the number of days (Toronto Hydro notes cycles of about 27–33 days).</li>
+        <li><strong>January and July:</strong> compare this year to last year. Direction matters more than a degree-day essay.</li>
+        <li><strong>Month 6 and 9 (Hydro One):</strong> expect a reassessment letter or portal note. If they did not move the amount and your life changed, request a review.</li>
+        <li><strong>Anniversary month:</strong> read the reconcile line before you spend the “credit” you imagined.</li>
+        <li><strong>After a renovation, baby, EV, or heat pump:</strong> call or ticket a review the same week. Do not wait for their clock.</li>
+      </ol>
+      <p>Equal payments are a grown-up cashflow tool. They are a terrible conservation report. Use them like a mortgage payment: known debit, separate eye on the kWh you actually bought.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>Toronto Hydro, Ways to pay — Equal Payment Plan estimate, annual reconcile, roll-forward of large owing; account must be paid in full (used 20 Sep 2026).</li>
+          <li>Toronto Hydro, Understanding high bills — EPP annual reconciliation as a cause of a one-time high bill.</li>
+          <li>Hydro One, Budget Billing / Balanced Billing — 6-month amount, month 6 and 9 reassess, 12-month reconcile, auto-renew; cannot pick a custom amount (used 20 Sep 2026).</li>
+          <li>OEB RPP prices 1 Nov 2025–31 Oct 2026 and 23.5% OER — commodity clocks are a different lever than budget billing.</li>
+        </ul>
+      </div>
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Is budget billing a cheaper Ontario hydro rate?</h3>
+          <p>No. It is a payment shape. TOU, Tiered, and ULO are the OEB price-plan choice. Enrol in both conversations separately.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Can I choose how much I pay each month?</h3>
+          <p>Hydro One says no — an artificial amount manufactures a true-up. You can request a review if your household changed. Some portals allow an increase only.</p>
+        </div>
+        <div class="faq-item">
+          <h3>What happens if I cancel in winter?</h3>
+          <p>The plan usually reconciles now. Winter actuals plus any shortfall can land on the next bill. Read the balance first.</p>
+        </div>
+        <div class="faq-item">
+          <h3>I just moved. Should I enrol?</h3>
+          <p>Usually wait until you have a season of your own kWh, or enrol knowing the estimate is the previous occupant’s house. Request a review after the first winter.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Does EPP include the Ontario Electricity Rebate?</h3>
+          <p>The 23.5% OER is a bill credit on eligible charges, not a feature of EPP. Your installment should reflect the billed total the LDC estimated — confirm on your own PDF.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="ontario-tou-vs-tiered-vs-ulo.html">TOU vs Tiered vs ULO<span>The actual ¢ decision — not the debit shape.</span></a></li>
+        <li><a href="ontario-oeb-bill-calculator-how-to.html">OEB bill calculator<span>Winter and summer usage, then the election form.</span></a></li>
+        <li><a href="equal-billing-canadian-utilities-worth-it.html">Equal billing in Canada<span>EMPP, FortisBC EPP, hydro variants.</span></a></li>
+        <li><a href="utility-bill-true-up-equal-payment-canada-surprise.html">Avoid true-up shock<span>Read the cumulative balance before anniversary.</span></a></li>
+        <li><a href="../utilities.html">Utilities hub<span>Plans, heat, cashflow.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../utilities.html">More Utilities guides</a>
+      <a class="btn btn-ghost" href="utility-bill-true-up-equal-payment-canada-surprise.html">Next: avoid true-up shock</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>More Canadian tools</h2>
+        <ul>
+          <li><a href="https://canadiancreditcardfinder.com/">Canadian Credit Card Finder</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

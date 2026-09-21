@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario electricity budget and equal payment plans</title>
+  <desc id="desc">Ontario LDC equal-payment products are cashflow tools. They are not the OEB TOU, Tiered, or ULO price-plan choice. Toronto Hydro EPP reconciles annually. Hydro One Budget Billing reassesses at months 6 and 9.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario: equal payments are not a rate plan</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">LDC cashflow vs OEB Customer Choice. Verified 20 Sep 2026.</text>
+  <rect x="24" y="78" width="328" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Payment shape (LDC)</text>
+  <text x="40" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Toronto Hydro Equal Payment</text>
+  <text x="40" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hydro One Budget / Balanced</text>
+  <text x="40" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Other LDC "budget billing"</text>
+  <text x="40" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Same dollars over the year</text>
+  <text x="40" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">plus or minus a true-up.</text>
+  <text x="40" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">You cannot pick a fake amount.</text>
+  <rect x="368" y="78" width="328" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="384" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Price plan (OEB)</text>
+  <text x="384" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TOU 9.8 / 15.7 / 20.3 c</text>
+  <text x="384" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ULO 3.9 c night / 39.1 c dinner</text>
+  <text x="384" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tiered 12.0 then 14.2 c</text>
+  <text x="384" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Elect with the LDC form.</text>
+  <text x="384" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">OEB calculator first.</text>
+  <text x="384" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">23.5% OER is on the bill, not EPP.</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hydro One: equal amount for 6 months; reassess at months 6 and 9; reconcile at 12.</text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Toronto Hydro: annual reconcile; large owing can roll into next year's payments.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: Toronto Hydro, Hydro One, OEB. Education only. Not a rate quote.</text>
+</svg>
