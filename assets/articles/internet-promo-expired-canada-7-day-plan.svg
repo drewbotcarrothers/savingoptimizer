@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Seven-day internet promo decision</title>
+  <desc id="desc">Seven steps from reading the bill to a stay, switch, or wait decision, with a calendar reminder on day seven.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Seven days. One decision.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Do not sign a new term on day one. Drafted 21 Sep 2026.</text>
+  <rect x="24" y="78" width="90" height="78" rx="10" fill="#E7F4EE"/>
+  <text x="69" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Day 1</text>
+  <text x="69" y="128" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Split</text>
+  <text x="69" y="142" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">the bill</text>
+  <rect x="124" y="78" width="90" height="78" rx="10" fill="#F3F4F6"/>
+  <text x="169" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Day 2</text>
+  <text x="169" y="128" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Code</text>
+  <text x="169" y="142" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">notices</text>
+  <rect x="224" y="78" width="90" height="78" rx="10" fill="#E7F4EE"/>
+  <text x="269" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Day 3</text>
+  <text x="269" y="128" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Address</text>
+  <text x="269" y="142" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">quotes</text>
+  <rect x="324" y="78" width="90" height="78" rx="10" fill="#F3F4F6"/>
+  <text x="369" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Day 4</text>
+  <text x="369" y="128" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Write the</text>
+  <text x="369" y="142" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">BATNA</text>
+  <rect x="424" y="78" width="90" height="78" rx="10" fill="#E7F4EE"/>
+  <text x="469" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Day 5</text>
+  <text x="469" y="128" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Retention</text>
+  <text x="469" y="142" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">call</text>
+  <rect x="524" y="78" width="80" height="78" rx="10" fill="#F3F4F6"/>
+  <text x="564" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Day 6</text>
+  <text x="564" y="128" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Decide</text>
+  <rect x="614" y="78" width="82" height="78" rx="10" fill="#0F7A4B"/>
+  <text x="655" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Day 7</text>
+  <text x="655" y="128" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Calendar</text>
+  <text x="655" y="142" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">the cliff</text>
+  <rect x="24" y="180" width="672" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="44" y="208" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Day 6 is one of three outcomes</text>
+  <text x="44" y="236" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Stay: written rate, credits, equipment, term, and ETF beat your alternative.</text>
+  <text x="44" y="258" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Switch: 24-month independent or fibre number wins, and you can live with support.</text>
+  <text x="44" y="280" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Wait 30-60 days: the ETF eats the save, or install dates do not line up. Set the reminder anyway.</text>
+  <text x="44" y="308" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Do not add TV or home phone on this call unless the unbundle math still wins.</text>
+  <text x="24" y="360" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">90-day promo-expiry notices in CRTC 2026-67 are enforceable 13 Apr 2027, not on this bill.</text>
+  <text x="24" y="382" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Internet Code already requires during-and-after prices in the contract. Education only. Not legal advice.</text>
+  <text x="24" y="404" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Pair with the three-quote sheet. A Reddit price is not a BATNA.</text>
+</svg>

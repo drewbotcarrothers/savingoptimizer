@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Oxio provinces and wholesale plant</title>
+  <desc id="desc">Six provinces where Oxio says it serves, mapped to Cogeco in Ontario, Videotron in Quebec, and Rogers in the four western provinces. Atlantic Canada is outside that list.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Where the flat rate can exist</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Oxio moving FAQ, 21 Sep 2026. Address check still required.</text>
+  <rect x="24" y="78" width="210" height="110" rx="12" fill="#E7F4EE"/>
+  <text x="129" y="112" text-anchor="middle" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ontario</text>
+  <text x="129" y="136" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cogeco cable plant</text>
+  <text x="129" y="158" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Topicks 11 Sep: 100/100 at $52</text>
+  <rect x="250" y="78" width="210" height="110" rx="12" fill="#E7F4EE"/>
+  <text x="355" y="112" text-anchor="middle" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Quebec</text>
+  <text x="355" y="136" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Videotron cable plant</text>
+  <text x="355" y="158" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Also price Fizz</text>
+  <rect x="476" y="78" width="220" height="110" rx="12" fill="#E7F4EE"/>
+  <text x="586" y="108" text-anchor="middle" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">BC, AB, MB, SK</text>
+  <text x="586" y="132" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rogers cable plant</text>
+  <text x="586" y="154" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Topicks: 1500/200 at $95</text>
+  <rect x="24" y="206" width="672" height="70" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="234" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Not in that province list</text>
+  <text x="40" y="256" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">New Brunswick, Nova Scotia, Prince Edward Island, Newfoundland and Labrador, territories.</text>
+  <text x="24" y="306" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Oxio's own help centre: coaxial last mile on those fibre-to-the-node networks. Not pure fibre to the home.</text>
+  <text x="24" y="334" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Homepage 21 Sep 2026: fixed price, equipment included, speeds up to 1 Gbps, 60-day guarantee, chat 8 a.m. to 7 p.m.</text>
+  <text x="24" y="358" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ground Rules list a $30 account processing fee and a $12 NSF fee. Marketing and the fee table are different documents.</text>
+  <text x="24" y="382" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Moving page: no moving fees for existing clients, two-week head start, code FRESHSTART advertised for one month free. Confirm the code is live.</text>
+  <text x="24" y="406" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Education only. Not an Oxio partnership.</text>
+</svg>
