@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">BC Hydro self-generation versus legacy net metering</title>
+  <desc id="desc">RS 1289 is closed to new customers. From 1 July 2026, RS 2289 pays 10 cents per kWh exported each billing cycle. Self-use still beats export when you pay 11.87 to 14.08 cents to buy power.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">New rooftops: 10 cents out, retail cents in</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">RS 2289 from 1 July 2026. RS 1289 closed to new customers. 20 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Legacy 1289</text>
+  <text x="40" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Closed to new accounts</text>
+  <text x="40" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Felt closer to retail bank</text>
+  <text x="40" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Grandfather: verify years</text>
+  <text x="40" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Solar rebate generally</text>
+  <text x="40" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">moves you to 2289.</text>
+  <text x="40" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Read the live letter.</text>
+  <rect x="252" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="268" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">RS 2289</text>
+  <text x="268" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Use your kWh first</text>
+  <text x="268" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Export 10 cents / kWh</text>
+  <text x="268" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Credit each bill cycle</text>
+  <text x="268" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">50 kWh surplus = $5</text>
+  <text x="268" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">in BC Hydro's example.</text>
+  <text x="268" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Apply in MyHydro first.</text>
+  <rect x="480" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Your buy rate</text>
+  <text x="496" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Step 1 11.87 cents</text>
+  <text x="496" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Step 2 14.08 cents</text>
+  <text x="496" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Optional flat 12.70</text>
+  <text x="496" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Self-use beats 10-cent</text>
+  <text x="496" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">export on Step 2 / flat.</text>
+  <text x="496" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Battery is optional.</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FortisBC and municipal utilities are not this tariff. TOD +5 cents evenings is not a solar reason to elect TOD.</text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rebate-eligible installs may need an HPCN installer. Permission to operate is not a handshake.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Electric Tariff PDF wins if a webpage drifts. Not an interconnection approval.</text>
+</svg>

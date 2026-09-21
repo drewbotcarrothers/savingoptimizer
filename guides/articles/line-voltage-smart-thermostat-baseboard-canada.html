@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Line-voltage smart thermostats for Canadian baseboard heat — Saving Optimizer</title>
+  <meta name="description" content="Why a 24 V Nest-style thermostat does not run Canadian electric baseboards, how to match voltage, double-pole and amp rating, Québec and Atlantic use cases, and when DIY is a hard no. Education only.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/line-voltage-smart-thermostat-baseboard-canada.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Line-voltage smart thermostats for Canadian baseboard heat — Saving Optimizer">
+  <meta property="og:description" content="Why a 24 V Nest-style thermostat does not run Canadian electric baseboards, how to match voltage, double-pole and amp rating, Québec and Atlantic use cases, and when DIY is a hard no. Education only.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/line-voltage-smart-thermostat-baseboard-canada.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Line-voltage smart thermostats for Canadian baseboard heat — Saving Optimizer">
+  <meta name="twitter:description" content="Why a 24 V Nest-style thermostat does not run Canadian electric baseboards, how to match voltage, double-pole and amp rating, Québec and Atlantic use cases, and when DIY is a hard no. Education only.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Utilities">
+  <meta name="article:published_time" content="2026-09-20">
+  <meta name="article:modified_time" content="2026-09-20">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Line-voltage smart thermostats for Canadian baseboard heat: what to know before you buy",
+  "description": "Why a 24 V Nest-style thermostat does not run Canadian electric baseboards, how to match voltage, double-pole and amp rating, Québec and Atlantic use cases, and when DIY is a hard no. Education only.",
+  "datePublished": "2026-09-20",
+  "dateModified": "2026-09-20",
+  "inLanguage": "en-CA",
+  "author": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "url": "https://savingoptimizer.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://savingoptimizer.com/assets/logo-primary.png"
+    },
+    "url": "https://savingoptimizer.com/"
+  },
+  "image": "https://savingoptimizer.com/assets/logo-primary.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://savingoptimizer.com/guides/articles/line-voltage-smart-thermostat-baseboard-canada.html"
+  },
+  "url": "https://savingoptimizer.com/guides/articles/line-voltage-smart-thermostat-baseboard-canada.html",
+  "articleSection": "Utilities",
+  "about": {
+    "@type": "Thing",
+    "name": "Canadian household savings",
+    "description": "Practical Utilities savings advice for Canadian households."
+  }
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://savingoptimizer.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://savingoptimizer.com/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Utilities",
+      "item": "https://savingoptimizer.com/guides/utilities.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Line-voltage smart thermostats for Canadian baseboard heat: what to know before you buy",
+      "item": "https://savingoptimizer.com/guides/articles/line-voltage-smart-thermostat-baseboard-canada.html"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+        "@type": "Question",
+        "name": "Can I put a Nest or ecobee on electric baseboards?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not the common 24-volt furnace models. Line-voltage baseboards need a 120/240 V stat (Mysa, Sinopé, and similar). Wrong box is a fire and warranty problem."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "What is a double-pole thermostat?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It breaks both hot conductors on a 240 V circuit so the heater is truly isolated. Single-pole can leave a leg live. Most Canadian 240 V baseboards want double-pole — confirm on the existing stat and the nameplate."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Do I need an electrician?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Often yes: permits, 240 V, aluminum wire, or a box that does not match the diagram. Renters need the landlord in writing. If you cannot lock out the breaker confidently, hire the ticket."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Will a smart line-voltage stat cut my Hydro-Québec bill?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hydro-Québec Energy Wise: electronic vs dial can cut about 10% of annual heating cost if you keep a schedule. Wi-Fi is extra. Flex D event energy is 46.463 ¢ (1 Apr 2026) — do not collect that ¢ for sport."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Does Peak Perks work on baseboards?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Peak Perks needs central AC (or a heat pump that is part of that AC). Do not buy a furnace thermostat for a program you cannot join."
+        }
+    }
+]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../utilities.html">Utilities</a></li>
+      <li aria-current="page">Line-voltage smart thermostats for baseboards</li>
+    </ol>
+    </nav>
+    <p class="kicker">Utilities · Canada</p>
+    <h1>Line-voltage smart thermostats for Canadian baseboard heat: what to know before you buy</h1>
+    <p class="article-meta">Voltage and amps first, Wi-Fi last · About 15 minutes · 20 Sep 2026</p>
+    
+    <div class="prose">
+      <p>Shoppers buy a Nest-shaped box because the aisle said “smart,” then discover the baseboard still has 240 volts in the wall. The 24-volt furnace thermostat is the wrong product. It will not dim the heat. In the worst case it is a fire and a warranty argument. Line-voltage stats are a different aisle — and in a lot of Canadian apartments they are the whole heating control.</p>
+      <p>This is a Canadian baseboard buyer’s filter: voltage, pole count, amperage, and when you hire an electrician. Savings tactics live in <a href="cut-electric-baseboard-heat-costs-canada.html">cut baseboard costs</a>. If you only wanted a furnace-style schedule, start with <a href="smart-thermostat-savings-canada-worth-it.html">are smart thermostats worth it</a> instead.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> Line-voltage smart thermostats (Mysa, Sinopé, and similar) are an offer type. Saving Optimizer may earn a commission if we later add partner links. We do not currently claim thermostat-brand, Hydro-Québec, or electrician partnerships. This is education — not an electrical-code ruling or an install quote.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>Most Canadian baseboards are <strong>line voltage (120 or 240 V)</strong>. A common Nest / ecobee 24 V furnace model is the wrong box unless the manufacturer sells an explicit line-voltage SKU.</li>
+          <li>Match <strong>voltage, single- vs double-pole, and amp rating</strong> to the circuit. A 2,000 W 240 V heater is about 8.3 A; two heaters on one 20 A circuit need a stat that can switch that load.</li>
+          <li>Double-pole breaks both hots — the usual Canadian 240 V product. Single-pole can leave a leg live. If you are not sure, that is an electrician question, not a weekend guess.</li>
+          <li>Hydro-Québec Energy Wise: swapping <strong>dial</strong> stats for electronic ones can cut about <strong>10%</strong> of annual heating cost — a schedule you keep, not the Wi-Fi logo.</li>
+          <li>Room-by-room control is the kWh play. ULO’s 39.1 ¢ dinner block and Rate D’s second tier (11.142 ¢ from 1 Apr 2026) both punish recovery blasts.</li>
+        </ul>
+      </div>
+      <h2>Why standard Nest-style 24V stats do not work on many baseboards</h2>
+      <p>A gas furnace or most central heat pumps uses a 24-volt control circuit. The thermostat is a low-voltage switch that tells a relay to run the blower. A baseboard <em>is</em> the heater. The thermostat sits in the 120 or 240 volt feed and interrupts that current. Put a 24 V board on that feed and you have a paperweight — or a hazard.</p>
+      <p>Some brands sell both. The box that looks like a Nest in a U.S. ad is almost never the line-voltage SKU. Read the spec sheet for “line voltage,” “120/240 V,” or “electric baseboard.” If it mentions a C-wire and a furnace, walk away from the baseboard aisle.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/line-voltage-smart-thermostat-baseboard-canada.svg" width="720" height="420" alt="Three panels: 24 V versus line-voltage, amperage and double-pole checks, and Quebec plus Atlantic use cases.">
+        <figcaption>Voltage first, amps second, schedule third. Hydro-Quebec ~10% is electronic vs dial. 20 Sep 2026.</figcaption>
+      </figure>
+
+      <h2>Amperage, double-pole, and electrician requirements</h2>
+      <div class="table-wrap">
+        <table>
+          <caption>Buyer checks before you click “add to cart.” Confirm on the nameplate and the breaker. Education only — not a code inspection.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Check</th>
+              <th scope="col">What you are matching</th>
+              <th scope="col">Typical miss</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Voltage</th>
+              <td>120 V or 240 V on the heater nameplate</td>
+              <td>Buying 120 V for a 240 V pair (or the reverse)</td>
+            </tr>
+            <tr>
+              <th scope="row">Poles</th>
+              <td>Double-pole for most 240 V Canadian baseboards (breaks both hots)</td>
+              <td>Single-pole that leaves a conductor live when “off”</td>
+            </tr>
+            <tr>
+              <th scope="row">Amps</th>
+              <td>Stat rating ≥ circuit load (W ÷ V). Leave headroom; do not daisy-chain past the rating</td>
+              <td>One pretty stat feeding three heaters that add up to 24 A</td>
+            </tr>
+            <tr>
+              <th scope="row">Listing</th>
+              <td>CSA / cUL for line-voltage electric heat</td>
+              <td>A decorative “smart switch” that is not a heater control</td>
+            </tr>
+            <tr>
+              <th scope="row">Wi-Fi / millivolt</th>
+              <td>Some line-voltage stats need a small load or a bypass; read the install sheet</td>
+              <td>A unit that flickers or never sleeps on a tiny bathroom heater</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Canadian Electrical Code and municipal permits sit above this page. Many cities want a licensed electrician for a new line-voltage device, especially a 240 V swap. A renter needs the landlord in writing — you do not own the circuit. If the existing stat is a mechanical double-pole with four fat wires, photograph it before you disconnect anything.</p>
+      <p><strong>DIY is a hard no</strong> when the panel is a mystery, the wire is aluminum you do not know how to terminate, the box is too small, you smell heat damage, or anyone in the house is not comfortable locking out a breaker. Hire the ticket.</p>
+
+      <h2>Room-by-room control strategies that cut kWh</h2>
+      <p>Baseboards are COP ≈ 1. You do not buy a better COP from a nicer plastic. You buy <strong>hours × watts in rooms you do not need at 22°C</strong>.</p>
+      <ul>
+        <li>One stat per room (or per circuit that serves one room). A hallway stat that “controls the apartment” is how unused bedrooms stay at 21°C.</li>
+        <li>Schedule: 18–19°C nights, 20°C days, guest room 15–16°C with the door closed and pipes above freezing. Deep 8°C setbacks in a leaky plex can cost more in recovery kWh — especially on Ontario ULO’s 39.1 ¢ weekday 4–9 p.m. block (OEB RPP 1 Nov 2025–31 Oct 2026).</li>
+        <li>Vacation mode you will actually turn off. A January “away” that never ends is how pipes freeze.</li>
+        <li>A dumb electronic stat that holds 19°C already captures most of Hydro-Québec’s ~10% vs a forgotten dial. Wi-Fi is for remote setback and utility programs, not magic.</li>
+      </ul>
+
+      <h2>Québec and Atlantic electric-heat use cases</h2>
+      <p>Hydro-Québec Rate D (1 Apr 2026): 46.154 ¢/day plus 7.065 ¢ then 11.142 ¢ after 40 kWh/day. January baseboard hours live on the second tier. Flex D event energy is 46.463 ¢ — a plex that cannot shed load should not collect that ¢ for sport. Hilo / Flex D automation is a line-voltage-compatible conversation; confirm the live device list.</p>
+      <p>Atlantic households on electric heat (Nova Scotia Power, NB Power, Newfoundland and Labrador, PEI) are the same physics with different ¢. Time-varying or peak-event rates punish a 5 p.m. recovery blast. A schedule that pre-heats before the expensive window is the product. Confirm your utility’s current residential ¢ — this is not a Maritimes rate sheet.</p>
+      <p>Ontario baseboard houses can sit on TOU (winter 5–7 p.m. on-peak 20.3 ¢) or, rarely, ULO. ULO is usually a bad roommate for resistance heat. Run the <a href="ontario-oeb-bill-calculator-how-to.html">OEB calculator</a> before you elect a clock meant for an EV.</p>
+
+      <h2>Safety and code: when DIY is a hard no</h2>
+      <ul>
+        <li>You cannot identify line/load or you have more wires than the diagram.</li>
+        <li>Shared neutrals, multi-wire branches, or a panel you cannot lock out.</li>
+        <li>A bathroom or damp location that needs a listed cover and clearances.</li>
+        <li>Any sign of scorched insulation, loose lugs, or a breaker that already trips.</li>
+        <li>Landlord / condo rules that forbid tenant electrical work.</li>
+      </ul>
+      <p>A $180 thermostat is cheaper than a service call until it is not. The electrician’s hour is the product when the wall is a surprise.</p>
+
+      <h2>Pairing with Hydro-Québec / utility tips</h2>
+      <p>Hydro-Québec Energy Wise still lands on electronic thermostats, zoning, and not heating unused rooms. That pairs with this hardware guide. Peak-event programs (Hilo, some Peak Perks-class offers) want a connected device on their list — a line-voltage Wi-Fi stat may qualify; a 24 V Nest on a furnace in a gas house is a different program. Ontario Peak Perks is central AC, not baseboards — do not buy a furnace stat for a program you cannot join. Shop rebates <em>before</em> you buy in <a href="smart-thermostat-rebate-canada-utility.html">the rebate sequencing guide</a>.</p>
+      <p>After the right box is on the wall, the cheap levers are still curtains, door snakes, and the attic hatch — <a href="cut-electric-baseboard-heat-costs-canada.html">the baseboard playbook</a>.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>Hydro-Québec, Energy Wise / reducing electricity consumption — electronic vs dial (~10%), zoning (used 20 Sep 2026).</li>
+          <li>Hydro-Québec, Electricity Rates 2026 (1 Apr 2026) — Rate D 7.065 / 11.142 ¢; Flex D event 46.463 ¢.</li>
+          <li>OEB, Electricity rates — TOU / ULO / Tiered 1 Nov 2025–31 Oct 2026 (ULO 39.1 ¢ dinner block).</li>
+          <li>NRCan home energy-efficiency — controls after envelope; education only.</li>
+          <li>Manufacturer listing sheets (Mysa, Sinopé, and peers) — voltage, pole, amp; verify the SKU you actually buy.</li>
+        </ul>
+      </div>
+
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Can I put a Nest or ecobee on electric baseboards?</h3>
+          <p>Not the common 24-volt furnace models. Line-voltage baseboards need a 120/240 V stat (Mysa, Sinopé, and similar). Wrong box is a fire and warranty problem.</p>
+        </div>
+        <div class="faq-item">
+          <h3>What is a double-pole thermostat?</h3>
+          <p>It breaks both hot conductors on a 240 V circuit so the heater is truly isolated. Single-pole can leave a leg live. Most Canadian 240 V baseboards want double-pole — confirm on the existing stat and the nameplate.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Do I need an electrician?</h3>
+          <p>Often yes: permits, 240 V, aluminum wire, or a box that does not match the diagram. Renters need the landlord in writing. If you cannot lock out the breaker confidently, hire the ticket.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Will a smart line-voltage stat cut my Hydro-Québec bill?</h3>
+          <p>Hydro-Québec Energy Wise: electronic vs dial can cut about 10% of annual heating cost if you keep a schedule. Wi-Fi is extra. Flex D event energy is 46.463 ¢ (1 Apr 2026) — do not collect that ¢ for sport.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Does Peak Perks work on baseboards?</h3>
+          <p>No. Peak Perks needs central AC (or a heat pump that is part of that AC). Do not buy a furnace thermostat for a program you cannot join.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="cut-electric-baseboard-heat-costs-canada.html">Cut baseboard heat costs<span>Zoning and Rate D / ULO interactions.</span></a></li>
+        <li><a href="smart-thermostat-savings-canada-worth-it.html">Are smart thermostats worth it?<span>Schedule math vs a programmable.</span></a></li>
+        <li><a href="smart-thermostat-rebate-canada-utility.html">Find thermostat rebates first<span>Confirm the list before you buy.</span></a></li>
+        <li><a href="hydro-quebec-save-on-power.html">Lower a Rate D bill<span>Second-tier 11.142 ¢ is where baseboards live.</span></a></li>
+        <li><a href="../utilities.html">Utilities hub<span>Heat, plans, envelope.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../utilities.html">More Utilities guides</a>
+      <a class="btn btn-ghost" href="cut-electric-baseboard-heat-costs-canada.html">Next: Cut baseboard costs</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>More Canadian tools</h2>
+        <ul>
+          <li><a href="https://canadiancreditcardfinder.com/">Canadian Credit Card Finder</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>
