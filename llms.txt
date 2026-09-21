@@ -40,7 +40,7 @@ Content may be summarized by AI systems and answer engines with attribution to S
 - [Events](https://savingoptimizer.com/guides/events.html): Parties, holidays, and gatherings without a budget hangover.
 - [Education](https://savingoptimizer.com/guides/education.html): Courses, certifications, RESPs, and lifelong learning.
 - [Technology](https://savingoptimizer.com/guides/technology.html): Phones, laptops, and home gear — upgrade only when it costs you.
-- [Internet](https://savingoptimizer.com/guides/internet.html): Home internet and mobile plans that match how you actually use them.
+- [Internet](https://savingoptimizer.com/guides/internet.html): Home internet how-tos for Canadian households. The hub groups compare-and-switch (a reusable three-quote method at the civic address: technology, incumbent + independent + flanker, 24-month CAD with equipment and ETFs), winbacks and independents (Rogers retention with competing quotes; TekSavvy 12-month bill credits vs Oxio’s no-term flat rate, coverage, and support), Québec flankers (Fizz vs Videotron Helix on the same coaxial, app-only vs phone support), rights and fees (CRTC 2026-43 activation-fee ban in force 12 Jun 2026 vs Internet Code fixed-term ETFs that can still apply; CCTS steps), gear (buy vs rent modem, DOCSIS approved lists, Bell Fibe ONT, bridge-mode Wi-Fi), and assistance and rural (ISED Connecting Families $10/10 Mbps/100 GB and $20/50/10 Mbps/200 GB with an invitation letter; Starlink vs UBF fibre and WISPs). Education only — not an ISP quote, partnership, or legal advice. No invented search volumes. Affiliate opportunity types (modem, router, mesh, ethernet) are labelled as types only.
 - [Sports](https://savingoptimizer.com/guides/sports.html): Kids’ sports, gyms, and gear without quitting the game.
 
 ## Featured articles
@@ -307,6 +307,14 @@ Content may be summarized by AI systems and answer engines with attribution to S
 - [Ontario property tax relief](https://savingoptimizer.com/guides/articles/ontario-property-tax-relief-grants-homeowners.html) — 2026 OEPTC max $1,307 / $1,488; OSHPTG $500; municipal forms (Brampton $590; Toronto 2 Nov 2026). Not tax advice.
 - [B.C. Home Owner Grant](https://savingoptimizer.com/guides/articles/bc-home-owner-grant-property-tax.html) — 2026 threshold $2,075,000; $570 / $770 regular; $845 / $1,045 additional; $5 / $1,000 phase-out. Not tax advice.
 - [Property tax escrow vs self-pay](https://savingoptimizer.com/guides/articles/property-tax-escrow-mortgage-canada-how-it-works.html) — Monthly tax portion; shortages after reassessment; first-year adjustments; instalment calendar. Not brokerage advice.
+- [Compare Canadian ISPs by address](https://savingoptimizer.com/guides/articles/compare-canadian-isps-by-address.html) — Three-quote method: technology, incumbent + independent + flanker, 24-month CAD, BATNA, re-shop before promo cliffs. Education only.
+- [Rogers internet winback call script](https://savingoptimizer.com/guides/articles/rogers-internet-winback-call-script.html) — Competing quotes first; future-dated cancel pattern; rate, credits, gateway, ETF in writing. Not a Rogers offer.
+- [TekSavvy vs Oxio in 2026](https://savingoptimizer.com/guides/articles/teksavvy-vs-oxio-canada-2026.html) — 12-month credits vs flat rate; ON 100 Mbps 24-month sketch; phone vs chat. Confirm live at the address.
+- [Fizz vs Videotron in Québec](https://savingoptimizer.com/guides/articles/fizz-vs-videotron-internet-quebec.html) — Same Videotron plant; ~$45 vs ~$68 on 100 Mbps-class cards; app-only support. Education only.
+- [Internet ETFs after CRTC 2026-43](https://savingoptimizer.com/guides/articles/internet-etf-crtc-2026-canada.html) — Activation-fee ban 12 Jun 2026; wireless no-ETF without device subsidy; home internet term ETFs can still apply. Not legal advice.
+- [Buy vs rent a modem in Canada](https://savingoptimizer.com/guides/articles/buy-vs-rent-modem-canada.html) — TPIA approved lists; Rogers gateway; Bell Fibe ONT; $10/mo payback; bridge-mode Wi-Fi. Verify the live list.
+- [Connecting Families Initiative](https://savingoptimizer.com/guides/articles/connecting-families-initiative-internet.html) — $10/10 Mbps/100 GB and $20/50/10/200 GB; max CCB / GIS 80%+; 8-digit letter; no mid-initiative ISP switch. Official ISED walkthrough.
+- [Starlink vs rural fibre and WISPs](https://savingoptimizer.com/guides/articles/starlink-vs-rural-internet-canada.html) — National Broadband Map / UBF first; Starlink CAD is postal-code specific; Xplore fibre vs LEO latency. Education only.
 
 ## Optional
 

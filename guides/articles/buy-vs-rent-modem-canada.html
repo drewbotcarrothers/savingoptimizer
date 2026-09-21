@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Buy vs Rent Your Modem in Canada: ISP Rules, Payback Math, and Compatibility Traps — Saving Optimizer</title>
+  <meta name="description" content="Canada ISP-by-ISP modem rules: who allows BYO, DOCSIS approved lists, Bell Fibe ONT limits, rental vs purchase payback, and bridge-mode Wi-Fi. Education only; verify the live list.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/buy-vs-rent-modem-canada.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Buy vs Rent Your Modem in Canada: ISP Rules, Payback Math, and Compatibility Traps — Saving Optimizer">
+  <meta property="og:description" content="Canada ISP-by-ISP modem rules: who allows BYO, DOCSIS approved lists, Bell Fibe ONT limits, rental vs purchase payback, and bridge-mode Wi-Fi. Education only; verify the live list.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/buy-vs-rent-modem-canada.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Buy vs Rent Your Modem in Canada: ISP Rules, Payback Math, and Compatibility Traps — Saving Optimizer">
+  <meta name="twitter:description" content="Canada ISP-by-ISP modem rules: who allows BYO, DOCSIS approved lists, Bell Fibe ONT limits, rental vs purchase payback, and bridge-mode Wi-Fi. Education only; verify the live list.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Internet">
+  <meta name="article:published_time" content="2026-09-21">
+  <meta name="article:modified_time" content="2026-09-21">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Buy vs Rent Your Modem in Canada: ISP Rules, Payback Math, and Compatibility Traps",
+  "description": "Canada ISP-by-ISP modem rules: who allows BYO, DOCSIS approved lists, Bell Fibe ONT limits, rental vs purchase payback, and bridge-mode Wi-Fi. Education only; verify the live list.",
+  "datePublished": "2026-09-21",
+  "dateModified": "2026-09-21",
+  "inLanguage": "en-CA",
+  "author": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "url": "https://savingoptimizer.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://savingoptimizer.com/assets/logo-primary.png"
+    },
+    "url": "https://savingoptimizer.com/"
+  },
+  "image": "https://savingoptimizer.com/assets/logo-primary.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://savingoptimizer.com/guides/articles/buy-vs-rent-modem-canada.html"
+  },
+  "url": "https://savingoptimizer.com/guides/articles/buy-vs-rent-modem-canada.html",
+  "articleSection": "Internet",
+  "about": {
+    "@type": "Thing",
+    "name": "Canadian household savings",
+    "description": "Practical Internet savings advice for Canadian households."
+  }
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://savingoptimizer.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://savingoptimizer.com/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Internet",
+      "item": "https://savingoptimizer.com/guides/internet.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Buy vs Rent Your Modem in Canada: ISP Rules, Payback Math, and Compatibility Traps",
+      "item": "https://savingoptimizer.com/guides/articles/buy-vs-rent-modem-canada.html"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Can I use any DOCSIS 3.1 modem on Rogers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Usually no if you are a Rogers retail customer. Rogers has long required its gateway; community bills show a ~$10 line, sometimes credited on a term. Independents on Rogers plant may allow specific approved models. The MAC/certificate has to be provisioned. A U.S. retail box often fails."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Why won’t buying a modem kill my Bell Fibe fee?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fibe’s optical network terminal is Bell’s interface to glass. You typically cannot substitute a cable modem. You may still put your own router behind the ONT in bridge/DMZ mode. Confirm the live equipment charge on your bill rather than a blog’s $15."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How fast does a $150 modem pay back at $10/month?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fifteen months, ignoring tax, time-value, and the next DOCSIS refresh. If you might move ISPs in a year, rent or take the included combo."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Oxio a BYO-modem play?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oxio’s public offer is equipment included. Comparisons in 2026 describe supplied gear, not a bring-your-own path. TekSavvy is the more typical approved-list ISP."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What should I buy if the ISP owns the modem?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A router or mesh you control, plus ethernet if walls are brick. Confirm the ISP modem can pass through (bridge). Do not stack two Wi-Fi radios on default without turning one off."
+            }
+        }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../internet.html">Internet</a></li>
+      <li aria-current="page">Buy vs Rent Your Modem in Canada: ISP Rules, Payback Math, and Compatibility Traps</li>
+    </ol>
+    </nav>
+    <p class="kicker">Internet · Canada</p>
+    <h1>Buy vs Rent Your Modem in Canada: ISP Rules, Payback Math, and Compatibility Traps</h1>
+    <p class="article-meta">Approved list first, then the 15-month math · About 15 minutes · 21 Sep 2026</p>
+    
+    <div class="prose">
+
+      <p>Canadian households lose money on modems in both directions. They rent a gateway for $10 a month for six years, or they buy a random Amazon DOCSIS stick that <strong>will not authenticate on Rogers, Videotron, or Cogeco plant</strong>. U.S. “Comcast approved” lists are not a Canadian compatibility matrix. The question is ISP-by-ISP: who allows bring-your-own, which DOCSIS version, what the payback is, and whether fibre even has a modem you can own.</p>
+      <p>Put the answer on the <a href="compare-canadian-isps-by-address.html">three-quote sheet</a>. If you are on Fizz or Oxio, the combo is usually in the monthly. If you are threatening a <a href="rogers-internet-winback-call-script.html">Rogers winback</a>, ask whether the gateway line is waived before you shop hardware.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> Compatible DOCSIS modems, Wi-Fi routers, and mesh systems are offer types. Saving Optimizer may earn a commission if we later add partner links. We do not currently claim hardware or ISP partnerships, and we will not name a model that is “guaranteed” on Canadian cable. Verify the ISP’s approved list and return policy before you buy. Education only.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li><strong>Independents</strong> (TekSavvy and some other TPIAs) are where BYO cable modems still live — approved list only.</li>
+          <li><strong>Rogers retail</strong> generally issues its own gateway; community invoices still show ~$10, sometimes offset on a term. Do not assume Comcast-style BYOD.</li>
+          <li><strong>Bell Fibe</strong> uses a Bell ONT. You usually cannot escape the optical box; you can often add your own router behind it.</li>
+          <li>Payback is <strong>purchase ÷ rental $/mo</strong>. At $10/mo, $150 is 15 months. Firmware and plant upgrades can strand a paid-off modem.</li>
+          <li>Hybrid that usually works: ISP modem in <strong>bridge mode</strong> + your router/mesh + ethernet to the office.</li>
+        </ul>
+      </div>
+
+      <h2>Big-3 vs independents: who allows BYO modem today</h2>
+      <div class="table-wrap">
+        <table>
+          <caption>Pattern as of community and public pages used 21 Sep 2026. Your account terms win.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Retailer</th>
+              <th scope="col">Typical equipment rule</th>
+              <th scope="col">BYO notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Rogers / Shaw-legacy retail</th>
+              <td>ISP gateway; ~$10 line appears on many month-to-month bills; often wrapped into term pricing</td>
+              <td>Retail customers generally cannot register a random DOCSIS modem. TPIAs on Rogers plant may.</td>
+            </tr>
+            <tr>
+              <th scope="row">Bell Fibe</th>
+              <td>Bell-owned ONT (+ often a Bell router/Wi-Fi)</td>
+              <td>No cable-modem substitution. Ask about bridge and whether a “home hub” rental is separable.</td>
+            </tr>
+            <tr>
+              <th scope="row">Telus PureFibre</th>
+              <td>Telus ONT / Wi-Fi hub</td>
+              <td>Same fibre logic: you do not buy a third-party ONT at Best Buy and light it yourself.</td>
+            </tr>
+            <tr>
+              <th scope="row">Videotron Helix / Fizz</th>
+              <td>Helix Fi included on qualifying Helix; Fizz modem included ($225 stated value)</td>
+              <td>Flanker and parent both supply the WAN box. TPIA on Videotron plant is a different approved list.</td>
+            </tr>
+            <tr>
+              <th scope="row">TekSavvy and similar TPIAs</th>
+              <td>Hardware loan on selected plans; purchase options historically documented</td>
+              <td>BYO if the exact model is on the list for that plant (Rogers vs Cogeco vs Videotron).</td>
+            </tr>
+            <tr>
+              <th scope="row">Oxio</th>
+              <td>Equipment included in the monthly</td>
+              <td>Public pitch is the supplied combo, 60-day guarantee — not a hobbyist modem project.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>DOCSIS version and approved-list reality for cable</h2>
+      <p>Cable last mile is not USB-C. The ISP (or the plant owner behind a TPIA) provisions a <strong>MAC address and certificates</strong> for a known model. Wrong list, wrong firmware region (Videotron vs Rogers variants of the same chassis), or a used unit still tied to another account = no internet, no refund drama you will enjoy.</p>
+      <ul>
+        <li>Match <strong>DOCSIS 3.0 vs 3.1 vs 4.0</strong> to the speed you bought. A 3.0 modem on a 1 Gbps plan is a paperweight.</li>
+        <li>Prefer the ISP PDF or support article dated this year over a 2019 RFD shopping list.</li>
+        <li>Canada Computers and ISP store-refurbs beat grey-market imports. Avoid “unlocked for Xfinity” as a Canadian selling point.</li>
+        <li>Puma-chipset caution is old lore that still shows up in threads — the approved list is still the gate, not a Reddit chipset debate.</li>
+      </ul>
+
+      <h2>Bell Fibe ONT: why you often cannot escape equipment fees</h2>
+      <p>Glass needs an optical network terminal. Bell owns that conversion. Blogs that say “Rogers BYO saves $144/year, Bell $15 ONT is forever” are directionally describing the architecture even when the dollar figures are stale. Read your bill: some 2026 Bell offers fold Wi-Fi 7 gear into the advertised monthly; others still break out rental. Either way, buying a Motorola cable modem will not light Fibe.</p>
+      <p>What you <em>can</em> do: put Bell’s box in bridge mode (or IP passthrough) and run a router you understand. That is how you escape the ISP Wi-Fi radio, not the ONT.</p>
+
+      <h2>Simple payback: rental $/mo vs purchase price</h2>
+      <figure class="article-figure">
+        <img src="../../assets/articles/buy-vs-rent-modem-canada.svg" width="720" height="420" alt="Bar chart of payback months from 8 to 25 as modem purchase price rises from 80 to 250 dollars at a 10 dollar monthly rental.">
+        <figcaption>Payback months at a $10 rental. Only relevant if BYO is actually allowed. Drafted 21 Sep 2026.</figcaption>
+      </figure>
+      <div class="table-wrap">
+        <table>
+          <caption>Pre-tax. $10/month rental assumed. Add provincial tax on both sides.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Purchase</th>
+              <th scope="col">Months to break even</th>
+              <th scope="col">Five-year rent if you never buy</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">$80</th><td>8</td><td>$600</td></tr>
+            <tr><th scope="row">$120</th><td>12</td><td>$600</td></tr>
+            <tr><th scope="row">$150</th><td>15</td><td>$600</td></tr>
+            <tr><th scope="row">$200</th><td>20</td><td>$600</td></tr>
+            <tr><th scope="row">$250</th><td>25</td><td>$600</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>If the ISP includes the gateway in a term price, buying a modem does not save $10 — there is no $10. If you leave in 11 months, a $150 modem is a loss plus a return headache. If TekSavvy loans hardware at $0 on the plan you picked, BYO is a hobby, not a save.</p>
+
+      <h2>Firmware and network upgrade risk (DOCSIS refreshes)</h2>
+      <p>Plant upgrades orphan hardware. A paid-off 3.0 modem on a node moving to mid-splits or 3.1-only provisioning becomes e-waste. Independents will eventually require a new approved model; they are not required to make your Amazon invoice whole. Factor a 3–5 year life, not a decade. Fibre ONTs get swapped by the incumbent — you never owned the bet.</p>
+
+      <h2>Bridge mode + your own Wi-Fi as a hybrid strategy</h2>
+      <p>This is the default for people stuck with an ISP gateway:</p>
+      <ol>
+        <li>Place the ISP modem where the coax/fibre enters, not in a pantry Faraday cage.</li>
+        <li>Enable bridge / IP passthrough so only one router does DHCP and Wi-Fi.</li>
+        <li>Run ethernet to the office and the TV. Mesh nodes on wireless backhaul are a compromise, not magic.</li>
+        <li>Turn off the ISP radio if the UI allows, to avoid dual-NAT and overlapping SSIDs.</li>
+      </ol>
+      <p>A decent Wi-Fi 6/6E router or a small mesh kit is the affiliate-safe gear type that still helps when BYO modem is illegal on that account. It does not require a fake ISP partnership.</p>
+
+      <h2>Affiliate-safe gear types (modem, router) — verify ISP list first</h2>
+      <ul>
+        <li><strong>Approved DOCSIS modem</strong> — only after the TPIA list names the SKU and plant.</li>
+        <li><strong>Wi-Fi router</strong> — when you can bridge the ISP box.</li>
+        <li><strong>Mesh</strong> — brick apartments and three-floor houses; ethernet backhaul if possible.</li>
+        <li><strong>Cat6 patch cables</strong> — cheaper than another 500 Mbps of plan speed you will never see over Wi-Fi.</li>
+      </ul>
+      <p>Skip “best modem 2026” listicles that do not mention Rogers vs Videotron certificates. Skip predatory financing on a $180 radio. If Connecting Families or a rural WISP issued the gear, do not swap it without asking — you can eat a non-return fee for no gain.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>TekSavvy.com — independent hardware/loan language and address-specific plant (used 21 Sep 2026).</li>
+          <li>Oxio.ca — equipment included, 60-day guarantee (used 21 Sep 2026).</li>
+          <li>Fizz.ca — included modem, $225 stated value (used 21 Sep 2026).</li>
+          <li>r/CanadianBroadband, r/Rogers, RedFlagDeals modem threads — Rogers gateway ~$10; TPIA approved-list practice; no retail Rogers BYO. Anecdotes, not a spec sheet.</li>
+          <li>Rogers public plan cards (21 Sep 2026) — gateway treated as part of the Xfinity package rather than a consumer-electronics SKU.</li>
+        </ul>
+      </div>
+
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Can I use any DOCSIS 3.1 modem on Rogers?</h3>
+          <p>Usually no if you are a Rogers retail customer. Rogers has long required its gateway; community bills show a ~$10 line, sometimes credited on a term. Independents on Rogers plant may allow specific approved models. The MAC/certificate has to be provisioned. A U.S. retail box often fails.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Why won’t buying a modem kill my Bell Fibe fee?</h3>
+          <p>Fibe’s optical network terminal is Bell’s interface to glass. You typically cannot substitute a cable modem. You may still put your own router behind the ONT in bridge/DMZ mode. Confirm the live equipment charge on your bill rather than a blog’s $15.</p>
+        </div>
+        <div class="faq-item">
+          <h3>How fast does a $150 modem pay back at $10/month?</h3>
+          <p>Fifteen months, ignoring tax, time-value, and the next DOCSIS refresh. If you might move ISPs in a year, rent or take the included combo.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Is Oxio a BYO-modem play?</h3>
+          <p>Oxio’s public offer is equipment included. Comparisons in 2026 describe supplied gear, not a bring-your-own path. TekSavvy is the more typical approved-list ISP.</p>
+        </div>
+        <div class="faq-item">
+          <h3>What should I buy if the ISP owns the modem?</h3>
+          <p>A router or mesh you control, plus ethernet if walls are brick. Confirm the ISP modem can pass through (bridge). Do not stack two Wi-Fi radios on default without turning one off.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="compare-canadian-isps-by-address.html">Three-quote method<span>Equipment is a column, not an afterthought.</span></a></li>
+        <li><a href="teksavvy-vs-oxio-canada-2026.html">TekSavvy vs Oxio<span>Loan vs included combo.</span></a></li>
+        <li><a href="fizz-vs-videotron-internet-quebec.html">Fizz vs Videotron<span>Included flanker modem vs Helix Fi.</span></a></li>
+        <li><a href="rogers-internet-winback-call-script.html">Rogers winback<span>Ask for the gateway line to be waived.</span></a></li>
+        <li><a href="../internet.html">Internet hub<span>Compare, winbacks, Québec, rights, gear, rural.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../internet.html">More Internet guides</a>
+      <a class="btn btn-ghost" href="connecting-families-initiative-internet.html">Next: Connecting Families</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>More Canadian tools</h2>
+        <ul>
+          <li><a href="https://canadiancreditcardfinder.com/">Canadian Credit Card Finder</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

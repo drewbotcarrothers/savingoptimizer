@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Buy vs rent modem payback in Canada</title>
+  <desc id="desc">Payback months if a compatible DOCSIS modem costs 80 to 250 dollars versus a 10 dollar monthly rental. Rogers and Bell often do not allow bring-your-own. Independents may. Verify the approved list. Drafted 21 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Payback only if your ISP actually allows BYO</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Rental $10 / month vs purchase. Months to break even. Drafted 21 Sep 2026.</text>
+  <rect x="56" y="150" width="70" height="160" rx="8" fill="#E7F4EE"/>
+  <text x="91" y="140" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">8 mo</text>
+  <text x="91" y="330" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$80</text>
+  <rect x="156" y="130" width="70" height="180" rx="8" fill="#C5E3D4"/>
+  <text x="191" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">12 mo</text>
+  <text x="191" y="330" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$120</text>
+  <rect x="256" y="100" width="70" height="210" rx="8" fill="#0F7A4B"/>
+  <text x="291" y="90" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">15 mo</text>
+  <text x="291" y="330" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$150</text>
+  <rect x="356" y="80" width="70" height="230" rx="8" fill="#0A5C38"/>
+  <text x="391" y="70" text-anchor="middle" font-size="12" font-weight="700" fill="#0A5C38" font-family="Inter, system-ui, sans-serif">20 mo</text>
+  <text x="391" y="330" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$200</text>
+  <rect x="456" y="50" width="70" height="260" rx="8" fill="#064028"/>
+  <text x="491" y="40" text-anchor="middle" font-size="12" font-weight="700" fill="#064028" font-family="Inter, system-ui, sans-serif">25 mo</text>
+  <text x="491" y="330" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$250</text>
+  <rect x="548" y="88" width="148" height="222" rx="12" fill="#F3F4F6"/>
+  <text x="564" y="116" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Usually BYO?</text>
+  <text x="564" y="144" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TekSavvy: often</text>
+  <text x="564" y="164" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Oxio: supplied gear</text>
+  <text x="564" y="184" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rogers: generally no</text>
+  <text x="564" y="204" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bell Fibe: ONT stays</text>
+  <text x="564" y="224" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fizz: included modem</text>
+  <text x="564" y="256" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Approved-list first.</text>
+  <text x="564" y="276" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">DOCSIS version trap.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Rogers community bills often show a $10 gateway line, sometimes credited on a term. A random Amazon modem will not authenticate on Canadian cable plant.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Bridge mode plus your own Wi-Fi is the hybrid when the ISP owns the modem. Education only. Verify the live approved list.</text>
+</svg>
