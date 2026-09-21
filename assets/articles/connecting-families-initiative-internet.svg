@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Connecting Families Initiative 10 and 20 dollar plans</title>
+  <desc id="desc">ISED Connecting Families: 10 dollars plus tax for 10 Mbps down, 1 Mbps up, 100 GB; 20 dollars plus tax for 50/10 Mbps and 200 GB. Invitation letter and 8-digit code required. Date modified on ISED pages 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Connecting Families: letter first, then the portal</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">ISED low-cost plans. Taxes extra. You generally cannot switch ISPs mid-initiative. Used 21 Sep 2026.</text>
+  <rect x="24" y="78" width="328" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="110" font-size="16" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Plan 1: $10 / month</text>
+  <text x="40" y="142" font-size="14" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Up to 10 Mbps download</text>
+  <text x="40" y="166" font-size="14" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1 Mbps upload</text>
+  <text x="40" y="190" font-size="14" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">100 GB of data</text>
+  <text x="40" y="226" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Email, homework, light video.</text>
+  <text x="40" y="250" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Watch the GB if several stream.</text>
+  <rect x="368" y="78" width="328" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="384" y="110" font-size="16" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Plan 2: $20 / month</text>
+  <text x="384" y="142" font-size="14" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Up to 50 Mbps download</text>
+  <text x="384" y="166" font-size="14" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">10 Mbps upload</text>
+  <text x="384" y="190" font-size="14" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">200 GB of data</text>
+  <text x="384" y="226" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Connecting Families 2.0 (Apr 2022).</text>
+  <text x="384" y="250" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Closer to the 50/10 national target.</text>
+  <rect x="24" y="296" width="672" height="68" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Who: max Canada Child Benefit families, or seniors at least 80% of max GIS - and an invitation letter.</text>
+  <text x="40" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">How: 8-digit code + name + letter address on the ISED portal, then pick a participating ISP. 19 ISPs; rural gaps remain.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: ised-isde.canada.ca Connecting Families pages (eligibility 2026-01-09; low-cost plans 2026-07-20). Some ISP pages note March 2027. Education only.</text>
+</svg>
