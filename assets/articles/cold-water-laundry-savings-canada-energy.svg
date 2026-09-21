@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cold-water laundry savings versus dryer energy in Canada</title>
+  <desc id="desc">About 90 percent of washer energy is water heating. Cold wash cuts that slice. A typical Canadian dryer still uses far more kilowatt-hours per year than the washer. Verified 20 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Cold wash saves washer heat. The dryer still wins the bill.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">ENERGY STAR: about 90% of washer energy heats water. NRCan EnerGuide dryer example ~928 kWh/yr. 20 Sep 2026.</text>
+  <rect x="60" y="120" width="220" height="160" rx="10" fill="#E7F4EE"/>
+  <text x="80" y="150" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Washer energy</text>
+  <rect x="80" y="168" width="180" height="28" fill="#0F7A4B"/>
+  <text x="90" y="187" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">~90% water heat</text>
+  <rect x="80" y="204" width="36" height="28" fill="#9CA3AF"/>
+  <text x="124" y="223" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~10% motor / spin</text>
+  <text x="80" y="260" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Cold wash targets the big slice.</text>
+  <rect x="310" y="100" width="70" height="180" fill="#E5E7EB"/>
+  <rect x="400" y="70" width="70" height="210" fill="#0F7A4B"/>
+  <text x="318" y="300" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Washer</text>
+  <text x="318" y="316" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~304 kWh</text>
+  <text x="410" y="300" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Dryer</text>
+  <text x="410" y="316" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~928 kWh</text>
+  <rect x="500" y="88" width="196" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="516" y="116" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Canadian cents check</text>
+  <text x="516" y="144" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ON TOU off-peak 9.8 c</text>
+  <text x="516" y="164" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">QC Rate D 7.065 / 11.142</text>
+  <text x="516" y="184" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">BC Hydro 11.87 / 14.08</text>
+  <text x="516" y="216" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Winter tap can be ~5 C.</text>
+  <text x="516" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Use a cold-water detergent.</text>
+  <text x="516" y="268" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">NRCan / OEB / HQ / BC Hydro.</text>
+  <text x="24" y="356" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hot still earns its keep for oily work clothes, cloth diapers, and some towels. The dryer clock usually dwarfs the washer save.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: ENERGY STAR clothes washers; NRCan EnerGuide appliance tables; OEB RPP; Hydro-Quebec Rate D 1 Apr 2026. Education only.</text>
+</svg>

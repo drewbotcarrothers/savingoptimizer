@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Call early for a Canadian utility payment arrangement</title>
+  <desc id="desc">Contact the utility before a disconnection notice. Ontario OEB, Alberta UCA, and BC Hydro all treat early arrangements as the first tool. Get the plan in writing. 20 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Call before the disconnection notice, not after shame</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">OEB, UCA Alberta, and BC Hydro all start with the number on the bill. Used 20 Sep 2026.</text>
+  <rect x="50" y="88" width="200" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="66" y="116" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">This week</text>
+  <text x="66" y="148" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pay what you can</text>
+  <text x="66" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask for an arrears plan</text>
+  <text x="66" y="188" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Get a reference number</text>
+  <text x="66" y="208" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Screenshot / email copy</text>
+  <text x="66" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Keep paying new bills.</text>
+  <text x="66" y="256" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">The plan is the old balance.</text>
+  <rect x="270" y="88" width="200" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="286" y="116" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">By province</text>
+  <text x="286" y="148" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ON: LDC + OEB / LEAP</text>
+  <text x="286" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">AB: retailer + UCA</text>
+  <text x="286" y="188" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">BC: MyHydro catch-up</text>
+  <text x="286" y="208" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">QC: Hydro-Quebec plan</text>
+  <text x="286" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Winter rules differ.</text>
+  <text x="286" y="256" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">They are not forgiveness.</text>
+  <rect x="490" y="88" width="200" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="506" y="116" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">After the plan</text>
+  <text x="506" y="148" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Equal billing is cashflow</text>
+  <text x="506" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">for the next year, not</text>
+  <text x="506" y="188" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">a wipe of arrears.</text>
+  <text x="506" y="216" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Clinic if the notice</text>
+  <text x="506" y="236" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">looks wrong or you</text>
+  <text x="506" y="256" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">are medically dependent.</text>
+  <text x="24" y="328" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Alberta UCA can help set up an arrangement. BC Hydro catch-up plans show the overdue slice separately from the regular bill.</text>
+  <text x="24" y="364" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A broken plan can restart disconnection. Put due dates on the same calendar as rent.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: OEB consumer protection; UCA disconnection and FAQ; BC Hydro bill-help. Education only.</text>
+</svg>

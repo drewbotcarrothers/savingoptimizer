@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian dryer energy: vents, heat-pump dryers, and winter drying</title>
+  <desc id="desc">NRCan: ENERGY STAR dryers use about 20 percent less energy. Heat-pump dryers can save an extra 20 to 60 percent versus a standard dryer. Clean vents first. 20 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Winter laundry energy lives in the dryer, not the washer</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">NRCan: ENERGY STAR dryer ~20% less. Heat-pump models 20-60% more saving vs standard. 20 Sep 2026.</text>
+  <rect x="60" y="160" width="70" height="120" fill="#E5E7EB"/>
+  <text x="68" y="300" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Standard</text>
+  <rect x="150" y="184" width="70" height="96" fill="#9CA3AF"/>
+  <text x="158" y="300" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">ESTAR</text>
+  <rect x="240" y="220" width="70" height="60" fill="#0F7A4B"/>
+  <text x="248" y="300" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Heat pump</text>
+  <text x="60" y="330" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Relative kWh per year (sketch, not a quote)</text>
+  <rect x="360" y="88" width="320" height="210" rx="12" fill="#E7F4EE"/>
+  <text x="376" y="116" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Do this before you buy a machine</text>
+  <text x="376" y="148" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. Clean lint screen every load</text>
+  <text x="376" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Vacuum the vent and outdoor flap</text>
+  <text x="376" y="188" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. High-spin the washer first</text>
+  <text x="376" y="208" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Full loads; moisture sensor on</text>
+  <text x="376" y="236" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Heat-pump: longer cycle, condensate</text>
+  <text x="376" y="256" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">drain, cooler room, higher price</text>
+  <text x="376" y="280" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Line-dry only what winter allows.</text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A clogged vent is a fire risk and a longer cycle. Replace a 15-year vented dryer when repairs stack and you already spin hard.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: NRCan ENERGY STAR clothes dryers; Hydro-Quebec Energy Wise laundry tips. Education only.</text>
+</svg>

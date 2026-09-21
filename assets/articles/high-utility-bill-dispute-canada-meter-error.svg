@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian high-bill dispute ladder: leak first, then meter, then regulator</title>
+  <desc id="desc">Request an actual meter read before you dispute. Rule out leaks and always-on loads. Then utility complaint, then OEB, UCA, or the BC/QC path. Keep paying. 20 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Spike bill? Leak and actual read first. Regulator last.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">OEB: contact the utility first; written confirmation in 2 business days; company reply in 10. 20 Sep 2026.</text>
+  <rect x="40" y="88" width="155" height="180" rx="10" fill="#E7F4EE"/>
+  <text x="56" y="116" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Diagnose</text>
+  <text x="56" y="144" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Estimate vs actual</text>
+  <text x="56" y="164" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Photo the meter</text>
+  <text x="56" y="184" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Toilet / hose leak</text>
+  <text x="56" y="204" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Furnace / heat pump</text>
+  <text x="56" y="224" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Weather vs last year</text>
+  <rect x="211" y="88" width="155" height="180" rx="10" fill="#E7F4EE"/>
+  <text x="227" y="116" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Utility</text>
+  <text x="227" y="144" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Request actual read</text>
+  <text x="227" y="164" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Billing investigation</text>
+  <text x="227" y="184" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Names and dates</text>
+  <text x="227" y="204" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Reference number</text>
+  <text x="227" y="224" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Keep paying something</text>
+  <rect x="382" y="88" width="155" height="180" rx="10" fill="#F3F4F6"/>
+  <text x="398" y="116" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Regulator</text>
+  <text x="398" y="144" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ON: OEB complaint</text>
+  <text x="398" y="164" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">AB: UCA mediation</text>
+  <text x="398" y="184" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">BC: BCUC / Hydro</text>
+  <text x="398" y="204" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">QC: Hydro-Quebec</text>
+  <text x="398" y="224" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">then Regie if needed</text>
+  <rect x="553" y="88" width="135" height="180" rx="10" fill="#FEE2E2"/>
+  <text x="569" y="116" font-size="13" font-weight="700" fill="#991B1B" font-family="Inter, system-ui, sans-serif">Do not</text>
+  <text x="569" y="144" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ignore the bill</text>
+  <text x="569" y="164" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pay a "fixer" fee</text>
+  <text x="569" y="184" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Assume meter fraud</text>
+  <text x="569" y="204" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Skip the leak test</text>
+  <text x="569" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">OEB: overbill credit</text>
+  <text x="569" y="252" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">up to 2 years.</text>
+  <text x="24" y="304" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A January estimate after a missed read is often weather plus a guessed month, not a broken meter. Ask for an actual read and a usage graph.</text>
+  <text x="24" y="340" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If heat use jumped and the house is cold, call a licensed tech. A cracked heat exchanger or a stuck heat-pump strip is not a dispute form.</text>
+  <text x="24" y="376" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Disputing does not pause disconnection clocks. Arrange payment while the file is open.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: OEB "We're here to help" and Consumer Charter; UCA; BC Hydro. Education only, not legal advice.</text>
+</svg>
