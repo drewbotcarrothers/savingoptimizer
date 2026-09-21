@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">LED replacement order for Canadian homes</title>
+  <desc id="desc">ENERGY STAR LEDs use up to 90 percent less energy than incandescent. A 9 W LED matches about 800 lumens of a 60 W incandescent. Replace pot lights and outdoor lamps first. 20 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Most homes are not "already LED" in the cans and porch</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">NRCan: 9 W LED ~ 800 lumens vs 60 W incandescent. Up to 90% less energy. 20 Sep 2026.</text>
+  <rect x="50" y="90" width="150" height="190" rx="10" fill="#E7F4EE"/>
+  <text x="66" y="118" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Replace first</text>
+  <text x="66" y="146" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Recessed pot lights</text>
+  <text x="66" y="166" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Kitchen / living hours</text>
+  <text x="66" y="186" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Outdoor / garage</text>
+  <text x="66" y="206" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Halogen track heads</text>
+  <text x="66" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Hours x watts win.</text>
+  <rect x="220" y="90" width="150" height="190" rx="10" fill="#F3F4F6"/>
+  <text x="236" y="118" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Then</text>
+  <text x="236" y="146" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bedside lamps</text>
+  <text x="236" y="166" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hall and closet</text>
+  <text x="236" y="186" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Appliance bulbs</text>
+  <text x="236" y="206" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Dimmer-rated LEDs</text>
+  <text x="236" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Match lumens, not W.</text>
+  <rect x="390" y="90" width="150" height="190" rx="10" fill="#F3F4F6"/>
+  <text x="406" y="118" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Cold-weather</text>
+  <text x="406" y="146" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Outdoor wet-location</text>
+  <text x="406" y="166" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rated to -30 C or so</text>
+  <text x="406" y="186" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Enclosed-fixture OK</text>
+  <text x="406" y="206" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Photocell / timer</text>
+  <text x="406" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Skip indoor A19s.</text>
+  <rect x="560" y="90" width="136" height="190" rx="10" fill="#E7F4EE"/>
+  <text x="576" y="118" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Bill sketch</text>
+  <text x="576" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">60 W to 9 W</text>
+  <text x="576" y="170" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3 h/day = 56 kWh</text>
+  <text x="576" y="190" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">saved per socket</text>
+  <text x="576" y="218" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Times your cents/kWh.</text>
+  <text x="576" y="250" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Heating offset: small.</text>
+  <text x="24" y="320" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Waste heat from old bulbs is not a heating plan. Electric-heat homes lose a little of the lighting save in winter; gas-heat homes keep more of it.</text>
+  <text x="24" y="356" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Recycle CFLs as household hazardous waste. LEDs go to an e-waste or lamp drop-off, not the kitchen bag.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: NRCan ENERGY STAR lighting; Hydro-Quebec Energy Wise; BC Hydro lighting tips. Education only.</text>
+</svg>
