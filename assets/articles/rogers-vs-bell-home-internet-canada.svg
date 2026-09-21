@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">24-month internet cost sketch Rogers Bell Oxio</title>
+  <desc id="desc">Illustrative 24-month totals before tax: Rogers Popular 500 at 90 dollars, Bell Ontario 500 with mobility credit at 80 dollars, Oxio Ontario 500 at 79 dollars. Not a quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">24-month sketch, 500-class tiers</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Before tax. Different uploads. Drafted 21 Sep 2026. Not a winner.</text>
+  <rect x="70" y="150" width="120" height="150" rx="8" fill="#F3F4F6"/>
+  <text x="130" y="140" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rogers 500</text>
+  <text x="130" y="250" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,160</text>
+  <text x="130" y="320" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$90 x 24</text>
+  <rect x="250" y="170" width="120" height="130" rx="8" fill="#E7F4EE"/>
+  <text x="310" y="160" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bell 500 + mobile</text>
+  <text x="310" y="250" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$1,920</text>
+  <text x="310" y="320" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$80 x 24</text>
+  <rect x="430" y="174" width="120" height="126" rx="8" fill="#0F7A4B"/>
+  <text x="490" y="164" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Oxio ON 500</text>
+  <text x="490" y="248" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$1,896</text>
+  <text x="490" y="320" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$79 x 24</text>
+  <text x="24" y="360" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Rogers figure: plans-page card recorded 21 Sep 2026, 24-month term with Auto-Pay, time-limited savings holding all 24 months.</text>
+  <text x="24" y="380" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Bell figure: Ontario Internet and Mobility page the same day, $80 already includes a $10 mobility credit. Internet-only is a different card.</text>
+  <text x="24" y="400" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Oxio: Topicks Ontario 500/200 at $79, 11 Sep 2026. Without-savings Rogers 500 was $130 ($3,120). Uploads are not equal.</text>
+</svg>

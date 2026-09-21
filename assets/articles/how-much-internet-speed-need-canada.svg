@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Household speed bands for Canadian homes</title>
+  <desc id="desc">Three bands: under 100 Mbps for light use, 100 to 200 for most households, and 500 or more when uploads or many wired devices need it. Wi-Fi is called out as a separate bottleneck.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Buy a band, not a billboard</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Planning figures, not a speed-test prize. Drafted 21 Sep 2026.</text>
+  <rect x="24" y="80" width="210" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="129" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Under 100 down</text>
+  <text x="129" y="140" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1-2 people, HD video,</text>
+  <text x="129" y="158" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">little uploading.</text>
+  <text x="129" y="186" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Watch the upload.</text>
+  <rect x="250" y="80" width="220" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="360" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">100-200 down</text>
+  <text x="360" y="140" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Most families. A couple of</text>
+  <text x="360" y="158" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4K streams plus calls.</text>
+  <text x="360" y="186" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Aim for 20 Mbps up.</text>
+  <rect x="486" y="80" width="210" height="150" rx="12" fill="#0F7A4B"/>
+  <text x="591" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">500 and up</text>
+  <text x="591" y="140" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Creators, big backups,</text>
+  <text x="591" y="158" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">many wired devices.</text>
+  <text x="591" y="186" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Fibre upload matters.</text>
+  <text x="24" y="260" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If ethernet is fast and Wi-Fi is not, fix Wi-Fi before you buy a faster plan.</text>
+  <text x="24" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cost per usable megabit = monthly price divided by the speed you can actually use.</text>
+  <text x="24" y="320" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Example: Rogers Popular 500 at $90 is $0.18 per advertised Mbps. At the $130 without-savings card it is $0.26. You may only use 150.</text>
+  <text x="24" y="348" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Those Rogers dollars are the 21 Sep 2026 plans-page card. A 150 Mbps household does not get five times the life from 500.</text>
+  <text x="24" y="376" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">CRTC universal service objective remains 50 Mbps down and 10 Mbps up. That is a floor, not a family plan.</text>
+  <text x="24" y="400" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Education only. Mesh, routers, and ethernet are hardware types, not ISP deals.</text>
+</svg>
