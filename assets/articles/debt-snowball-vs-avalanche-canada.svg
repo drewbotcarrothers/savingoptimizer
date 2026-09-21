@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled interest to payoff: snowball, avalanche, hybrid</title>
+  <desc id="desc">Grouped bars of total interest on a labelled Canadian household under a 2 percent card-minimum model and a Quebec 5 percent card-minimum model. Line of credit minimum is interest only. Fixed payment includes a 400 dollar extra that stays in the plan.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Interest to zero on a labelled $18,100 mix</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Fixed payment keeps going after a balance dies. Drafted 21 Sep 2026.</text>
+  <text x="24" y="92" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2% card minimums</text>
+  <rect x="24" y="168" width="70" height="148" fill="#0F7A4B"/>
+  <text x="59" y="160" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$5,116</text>
+  <text x="59" y="332" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Snow</text>
+  <rect x="108" y="198" width="70" height="118" fill="#0F7A4B" opacity="0.72"/>
+  <text x="143" y="190" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$4,123</text>
+  <text x="143" y="332" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Avalanche</text>
+  <rect x="192" y="197" width="70" height="119" fill="#0F7A4B" opacity="0.45"/>
+  <text x="227" y="189" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$4,166</text>
+  <text x="227" y="332" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Hybrid</text>
+  <text x="400" y="92" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Quebec 5% card floor</text>
+  <rect x="400" y="236" width="70" height="80" fill="#0F7A4B"/>
+  <text x="435" y="228" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,804</text>
+  <text x="435" y="332" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Snow</text>
+  <rect x="484" y="248" width="70" height="68" fill="#0F7A4B" opacity="0.72"/>
+  <text x="519" y="240" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,398</text>
+  <text x="519" y="332" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Avalanche</text>
+  <rect x="568" y="247" width="70" height="69" fill="#0F7A4B" opacity="0.45"/>
+  <text x="603" y="239" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,418</text>
+  <text x="603" y="332" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Hybrid</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Same debts, same extra $400. LOC minimum is interest only. Card rates 19.99%, 22.99%, 20.99%.</text>
+  <text x="24" y="386" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">LOC rate is a labelled prime 4.45% plus 4 points, not a published offer. Illustration only.</text>
+  <text x="24" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Quebec 5% floor: OPC, in force 1 Aug 2025. Education only. Not a payoff quote.</text>
+</svg>
