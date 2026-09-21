@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Manitoba Hydro residential: flat ¢, then kWh</title>
+  <desc id="desc">9.970 c/kWh and $9.84 basic from 1 Jan 2026. No Ontario-style clock. 20 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Manitoba Hydro residential: flat ¢, then kWh</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">9.970 c/kWh and $9.84 basic from 1 Jan 2026. No Ontario-style clock. 20 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. The lines</text>
+  <text x="40" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Energy 9.970 ¢.</text>
+  <text x="40" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Basic $9.84 (<=200 A).</text>
+  <text x="40" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Seasonal $118.08 / year.</text>
+  <rect x="252" y="78" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="106" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Prairie heat</text>
+  <text x="268" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Electric vs gas bills.</text>
+  <text x="268" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Backup heat can hide.</text>
+  <text x="268" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Convert useful heat.</text>
+  <rect x="480" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3. Budget billing</text>
+  <text x="496" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cashflow, not a deal.</text>
+  <text x="496" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Watch the usage graph.</text>
+  <text x="496" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">True-ups follow weather.</text>
+  <rect x="24" y="234" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Envelope first</text>
+  <text x="40" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Air-seal and attic.</text>
+  <text x="40" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Line-voltage stats.</text>
+  <text x="40" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">LEDs after the furnace.</text>
+  <rect x="252" y="234" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="268" y="262" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">5. Efficiency MB</text>
+  <text x="268" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$75-$150 / GJ pattern.</text>
+  <text x="268" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,500 / $2,000 ASHP.</text>
+  <text x="268" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Verify live offers.</text>
+  <rect x="480" y="234" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="496" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">6. Diagnose spikes</text>
+  <text x="496" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rate vs kWh vs leak.</text>
+  <text x="496" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Match billing days.</text>
+  <text x="496" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4% may be 1 Jan 2026.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: hydro.mb.ca residential rates; PUB Order 1/26; efficiencymb.ca. Education only.</text>
+</svg>

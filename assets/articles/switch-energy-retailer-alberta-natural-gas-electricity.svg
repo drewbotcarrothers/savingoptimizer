@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Alberta retailer switch: six official UCA steps</title>
+  <desc id="desc">Shop energy, not delivery. 10-day cooling-off. 10-90 day flip. 20 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Alberta retailer switch: six official UCA steps</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Shop energy, not delivery. 10-day cooling-off. 10-90 day flip. 20 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Read the bill</text>
+  <text x="40" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Distributor delivers.</text>
+  <text x="40" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Retailer sells energy.</text>
+  <text x="40" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Four names if dual-fuel.</text>
+  <rect x="252" y="78" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="106" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. UCA shortlist</text>
+  <text x="268" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Your kWh and GJ.</text>
+  <text x="268" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Three rows + default.</text>
+  <text x="268" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Then call to confirm.</text>
+  <rect x="480" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3. Enrolment rules</text>
+  <text x="496" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Credit, email, PAD.</text>
+  <text x="496" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask about deposits.</text>
+  <text x="496" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No porch void cheques.</text>
+  <rect x="24" y="234" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Cooling-off</text>
+  <text x="40" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">10 calendar days.</text>
+  <text x="40" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Phone sales may be longer.</text>
+  <text x="40" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Cancel in writing.</text>
+  <rect x="252" y="234" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="268" y="262" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">5. Until the flip</text>
+  <text x="268" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pay the old retailer.</text>
+  <text x="268" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">10-15 days typical;</text>
+  <text x="268" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">up to 90 happens.</text>
+  <rect x="480" y="234" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="496" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">6. REA / co-op</text>
+  <text x="496" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rural choice differs.</text>
+  <text x="496" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask before you sign.</text>
+  <text x="496" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">UCA 310-4822 helps.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: ucahelps.alberta.ca how-to-switch and Cost Comparison Tool. Education only.</text>
+</svg>

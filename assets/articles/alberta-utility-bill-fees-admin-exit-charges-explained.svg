@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Alberta fine print: fees that move, poles that do not</title>
+  <desc id="desc">Convert admin and exit into dollars at your usage. 20 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Alberta fine print: fees that move, poles that do not</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Convert admin and exit into dollars at your usage. 20 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Three piles</text>
+  <text x="40" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Energy (shop).</text>
+  <text x="40" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Delivery (stay).</text>
+  <text x="40" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Admin (read it).</text>
+  <rect x="252" y="78" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="106" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Exit math</text>
+  <text x="268" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Flat or months x $X.</text>
+  <text x="268" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A $150 fee beats</text>
+  <text x="268" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">a 1 ¢ annual win.</text>
+  <rect x="480" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3. Riders</text>
+  <text x="496" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Overage or demand.</text>
+  <text x="496" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Model January.</text>
+  <text x="496" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No rider in writing? Stop.</text>
+  <rect x="24" y="234" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Pre-sign list</text>
+  <text x="40" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Term, renew, cancel,</text>
+  <text x="40" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">exit $, deposit.</text>
+  <text x="40" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Bundle ties too.</text>
+  <rect x="252" y="234" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="268" y="262" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">5. Write it down</text>
+  <text x="268" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Same-day email.</text>
+  <text x="268" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask them to confirm.</text>
+  <text x="268" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Keep the notice.</text>
+  <rect x="480" y="234" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="496" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">6. UCA mediation</text>
+  <text x="496" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">310-4822 when the</text>
+  <text x="496" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">bill != contract.</text>
+  <text x="496" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Bring the PDFs.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: UCA Cost Comparison Tool fields and how-to-switch. Education only.</text>
+</svg>
