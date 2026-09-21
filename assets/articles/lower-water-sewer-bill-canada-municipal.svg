@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Lower Canadian municipal water and sewer bills</title>
+  <desc id="desc">Sewer usually tracks metered water. Toronto Block 1 combined rate is $4.8629 per cubic metre on time from 1 Jan 2026. Fix leaks before fixtures. 20 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Sewer is usually a water-volume tax</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Toronto Block 1 $4.8629/m3 on time (1 Jan 2026). Vancouver sewer often ~85% of water.</text>
+  <rect x="24" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Why the line is large</text>
+  <text x="40" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cities rarely meter sewage</text>
+  <text x="40" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Wastewater tracks m3 in</text>
+  <text x="40" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A leak buys treatment</text>
+  <text x="40" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Some cities cap summer</text>
+  <text x="40" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">sewer. Many do not.</text>
+  <text x="40" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Read your bill legend.</text>
+  <rect x="252" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="268" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Find the leak</text>
+  <text x="268" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">All-off meter watch</text>
+  <text x="268" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Toilet dye 10-15 min</text>
+  <text x="268" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Irrigation clock stuck</text>
+  <text x="268" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Toronto: 20 m3/day</text>
+  <text x="268" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">toilet ~$97/day.</text>
+  <text x="268" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Silent flappers exist.</text>
+  <rect x="480" y="78" width="216" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="496" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Then fixtures</text>
+  <text x="496" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4.8 L toilets that clear</text>
+  <text x="496" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Showerheads / aerators</text>
+  <text x="496" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Odd-even watering rules</text>
+  <text x="496" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">City rebate lists move.</text>
+  <text x="496" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Search toronto.ca / vancouver.ca.</text>
+  <text x="496" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pay on time (late cents).</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Surrey 2026 example: sewer $2.3593/m3 on 88% of water can exceed the water line. Not Toronto.</text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A high bill can be an estimated catch-up. Compare m3, not only dollars.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not a billing adjustment. Confirm live city rates the week you dispute.</text>
+</svg>

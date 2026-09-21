@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Demand response programs Canadian households can search</title>
+  <desc id="desc">Demand response pays a short, reversible load change. Ontario Peak Perks is $75 plus $20. Search BC Hydro Peak Saver, Hydro-Quebec Hilo, and Alberta pilots. Do not double-enrol. 20 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Paid flexibility, not a cheaper hydro rate</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Search by utility. Peak Perks is the national template. 20 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ontario</text>
+  <text x="40" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Peak Perks $75 + $20</text>
+  <text x="40" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Central AC + Wi-Fi stat</text>
+  <text x="40" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Jun-Sep, override OK</text>
+  <text x="40" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not both with Hydro One</text>
+  <text x="40" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">myEnergy Rewards.</text>
+  <text x="40" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cornwall is not eligible.</text>
+  <rect x="252" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="268" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">B.C. / Quebec</text>
+  <text x="268" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Peak Saver (winter)</text>
+  <text x="268" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Challenges ~$3 / event</text>
+  <text x="268" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hilo / Flex D events</text>
+  <text x="268" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Flex D event energy</text>
+  <text x="268" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">46.463 cents (1 Apr 2026).</text>
+  <text x="268" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Winter Credit cannot raise D.</text>
+  <rect x="480" y="78" width="216" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="496" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Devices</text>
+  <text x="496" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Thermostat (most BYOT)</text>
+  <text x="496" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">EV charger delay</text>
+  <text x="496" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Water heater / battery</text>
+  <text x="496" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Window AC and many</text>
+  <text x="496" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">baseboard homes: out.</text>
+  <text x="496" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Unenrol before switching.</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Alberta Peak Rewards pilots have advertised $50 + $25 in EPCOR areas - confirm the pilot is still open.</text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A $75 card does not, by itself, justify a $250 thermostat you would not otherwise buy.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not an enrolment. Reload saveonenergy.ca, bchydro.com, and Hilo pages.</text>
+</svg>

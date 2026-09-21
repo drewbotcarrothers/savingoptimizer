@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BC Hydro self-generation and solar after the rate updates — Saving Optimizer</title>
+  <meta name="description" content="BC Hydro solar after 1 July 2026: RS 1289 closed to new customers, RS 2289 net billing at 10¢/kWh, how Step 1/Step 2 interacts with self-use, interconnection steps, and rebate paperwork. Education only.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/bc-hydro-solar-net-metering-self-generation-rates.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="BC Hydro self-generation and solar after the rate updates — Saving Optimizer">
+  <meta property="og:description" content="BC Hydro solar after 1 July 2026: RS 1289 closed to new customers, RS 2289 net billing at 10¢/kWh, how Step 1/Step 2 interacts with self-use, interconnection steps, and rebate paperwork. Education only.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/bc-hydro-solar-net-metering-self-generation-rates.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="BC Hydro self-generation and solar after the rate updates — Saving Optimizer">
+  <meta name="twitter:description" content="BC Hydro solar after 1 July 2026: RS 1289 closed to new customers, RS 2289 net billing at 10¢/kWh, how Step 1/Step 2 interacts with self-use, interconnection steps, and rebate paperwork. Education only.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Utilities">
+  <meta name="article:published_time" content="2026-09-20">
+  <meta name="article:modified_time" content="2026-09-20">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "BC Hydro self-generation and solar: what households need to know after rate updates",
+  "description": "BC Hydro solar after 1 July 2026: RS 1289 closed to new customers, RS 2289 net billing at 10¢/kWh, how Step 1/Step 2 interacts with self-use, interconnection steps, and rebate paperwork. Education only.",
+  "datePublished": "2026-09-20",
+  "dateModified": "2026-09-20",
+  "inLanguage": "en-CA",
+  "author": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "url": "https://savingoptimizer.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://savingoptimizer.com/assets/logo-primary.png"
+    },
+    "url": "https://savingoptimizer.com/"
+  },
+  "image": "https://savingoptimizer.com/assets/logo-primary.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://savingoptimizer.com/guides/articles/bc-hydro-solar-net-metering-self-generation-rates.html"
+  },
+  "url": "https://savingoptimizer.com/guides/articles/bc-hydro-solar-net-metering-self-generation-rates.html",
+  "articleSection": "Utilities",
+  "about": {
+    "@type": "Thing",
+    "name": "Canadian household savings",
+    "description": "Practical Utilities savings advice for Canadian households."
+  }
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://savingoptimizer.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://savingoptimizer.com/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Utilities",
+      "item": "https://savingoptimizer.com/guides/utilities.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "BC Hydro self-generation and solar: what households need to know after rate updates",
+      "item": "https://savingoptimizer.com/guides/articles/bc-hydro-solar-net-metering-self-generation-rates.html"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+        "@type": "Question",
+        "name": "Is net metering still available for new BC Hydro solar?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not the old RS 1289 product. New customers use RS 2289 self-generation from 1 July 2026: 10¢/kWh exports credited each billing cycle. Existing 1289 customers should read the live grandfather rules."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Is 10 cents a good export price?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is lower than Step 2 (14.08 ¢) and the optional flat rate (12.70 ¢). Self-consumed kWh are usually worth more than exported kWh. Do not size an array to dump summer surplus at 10¢."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Does taking the solar rebate change my rate?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "BC Hydro’s pages say accepting the solar rebate puts you on RS 2289. Battery-only rebate language has been treated separately. Confirm the current terms before you click accept."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Do I need a battery?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. RS 2289 does not require storage. A battery can raise self-use and may have its own rebate and Peak Saver credit. Price it as a second project."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "When do I apply?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In MyHydro before installation. Permission to operate is not the installer’s handshake. Rebate paths may require a listed HPCN installer — verify live."
+        }
+    }
+]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../utilities.html">Utilities</a></li>
+      <li aria-current="page">BC Hydro self-generation and solar rates</li>
+    </ol>
+    </nav>
+    <p class="kicker">Utilities · Canada</p>
+    <h1>BC Hydro self-generation and solar: what households need to know after rate updates</h1>
+    <p class="article-meta">RS 2289 at 10 cents, not old net metering · About 16 minutes · 20 Sep 2026</p>
+    
+    <div class="prose">
+      <p>B.C. solar blogs still teach Rate Schedule 1289 as if you can bank mid-day kWh at retail until spring. For new customers that door closed. Effective <strong>1 July 2026</strong>, new self-generation uses <strong>Rate Schedule 2289</strong>: you use your own power first, and exports earn a posted <strong>10¢/kWh</strong> each billing cycle. That is net billing, not old net metering.</p>
+      <p>This is BC Hydro–specific literacy with verify-at-draft discipline. Canada-wide credit machines live in <a href="home-solar-net-metering-canada-how-it-works.html">how net metering works</a>. Quote hygiene lives in <a href="solar-quotes-compare-canada-homeowner-checklist.html">comparing solar quotes</a>. Your residential ¢ (Step 1 / Step 2 / flat / time-of-day) is still <a href="bc-hydro-residential-tiered-rates-explained.html">the tiered-rate guide</a>.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> There is no natural affiliate product in a BC Hydro tariff explainer. Saving Optimizer does not claim BC Hydro, BCUC, or installer partnerships. This is education — not an interconnection approval or a rebate decision.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li><strong>RS 1289</strong> (legacy net metering) is closed to new customers. <strong>RS 2289</strong> self-generation applies from <strong>1 July 2026</strong> (BCUC decision; BC Hydro customer-generation pages used 20 Sep 2026).</li>
+          <li>Exports: <strong>10¢/kWh</strong> credited each billing cycle. BC Hydro’s example: 50 kWh surplus → $5. You still pay the residential energy rate (tiered 11.87 / 14.08 ¢ or optional flat 12.70 ¢) plus the daily basic for what you <em>buy</em>.</li>
+          <li>Self-use is worth more than export when your retail ¢ is above 10¢ — which Step 2 (14.08 ¢) and flat (12.70 ¢) both are. Oversizing to dump kWh at 10¢ is a different business than offsetting a January heat bill.</li>
+          <li>Solar rebate (up to $5,000 residential on the pages we have used) generally <strong>moves you to RS 2289</strong>. Battery-only rebate language has been treated separately — read the live terms. Grandfather windows for 1289 veterans are on the customer-generation page and the BCUC order; confirm 10- vs 20-year language the week you decide.</li>
+          <li>Apply in MyHydro <strong>before</strong> installation. From 1 June 2026, rebate-eligible solar/battery work has used HPCN installer rules — verify live.</li>
+        </ul>
+      </div>
+      <h2>Legacy net metering vs newer self-generation rate frameworks (verify dates)</h2>
+      <p>Old RS 1289 behaved like classic net metering for many households: surplus could offset later consumption in a way that felt close to retail. BCUC closed that schedule to new customers and approved RS 2289 as a self-generation / net-billing rate with a posted energy price of 10¢/kWh, held for a defined period in the order (five years at that price in the decision text we reviewed — confirm if BCUC later changes it).</p>
+      <p>Effective date on BC Hydro’s customer pages: <strong>1 July 2026</strong>. If a salesperson is still quoting “1:1 net metering for new BC Hydro rooftop,” they are selling a 2024 blog. FortisBC and municipal utilities are not this tariff.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/bc-hydro-solar-net-metering-self-generation-rates.svg" width="720" height="420" alt="Three panels: RS 1289 closed, RS 2289 10 cent exports, and Step 1 vs Step 2 self-use.">
+        <figcaption>New customers: RS 2289 at 10 cents/kWh per cycle. Self-use still beats export. 20 Sep 2026.</figcaption>
+      </figure>
+
+      <h2>Export credit mechanics at a homeowner level</h2>
+      <p>Two meters in spirit (often one bidirectional register): kWh you buy from BC Hydro, and kWh you send out. Under RS 2289, surplus in a billing cycle becomes a <strong>dollar</strong> generation credit at 10¢. That credit applies to your bill. It is not a kWh bank that waits for November baseboards at Step 2. If you export 200 kWh and import 800 kWh in the same cycle, you bought 800 at your residential ¢ and sold 200 at 10¢ — you did not “net” 600 kWh at retail.</p>
+      <p>Export capacity language on the self-generation pages: up to <strong>100 kW per phase</strong> back to the grid. Household rooftops sit far below that. Community generation (RS 2290) is a different product.</p>
+
+      <h2>Interconnection steps and timelines</h2>
+      <ol>
+        <li>MyHydro application for customer generation <em>before</em> you buy, or at least before you install. Paperwork after a roof tear-off is how projects stall.</li>
+        <li>Technical review: panel, inverter, protection, and whether the local feeder can take the export.</li>
+        <li>Permission to operate — not the installer’s handshake. Do not energize export until BC Hydro says so.</li>
+        <li>Rebate pre-approval, if you want one, is a parallel file with its own installer network rules.</li>
+      </ol>
+      <p>Timelines move with volume. Get the current estimate in writing from BC Hydro and the installer. A quote that says “the utility always takes two weeks” is a hope.</p>
+
+      <h2>How Step 1 / Step 2 consumption interacts with generation</h2>
+      <div class="table-wrap">
+        <table>
+          <caption>What an exported kWh is worth versus a self-used kWh. Residential ¢ used 20 Sep 2026; tariff PDF wins if a page drifts.</caption>
+          <thead>
+            <tr>
+              <th scope="col">kWh fate</th>
+              <th scope="col">Value sketch</th>
+              <th scope="col">Household implication</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Export on RS 2289</th>
+              <td>10¢ credited that billing cycle</td>
+              <td>50 kWh surplus → $5 in BC Hydro’s example</td>
+            </tr>
+            <tr>
+              <th scope="row">Self-use on Step 1</th>
+              <td>Avoids 11.87 ¢ (plus some of the rider story)</td>
+              <td>Still usually beats a 10¢ export</td>
+            </tr>
+            <tr>
+              <th scope="row">Self-use on Step 2</th>
+              <td>Avoids 14.08 ¢</td>
+              <td>Interior electric-heat houses get more from noon-hour self-use</td>
+            </tr>
+            <tr>
+              <th scope="row">Self-use on optional flat</th>
+              <td>Avoids 12.70 ¢</td>
+              <td>Do not size an array to dump July surplus at 10¢</td>
+            </tr>
+            <tr>
+              <th scope="row">Buy on time-of-day overlay</th>
+              <td>−5 ¢ 11 p.m.–7 a.m.; +5 ¢ 4–9 p.m.</td>
+              <td>Midday solar export is not the +5 ¢ evening window</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Tiered RS 1101 (used 20 Sep 2026): <strong>11.87 ¢</strong> up to 22.1918 kWh/day, then <strong>14.08 ¢</strong>; daily basic <strong>23.44 ¢</strong>. Optional flat RS 1151: <strong>12.70 ¢</strong> all kWh; basic <strong>25.00 ¢</strong>. Optional time-of-day: −5 ¢ 11 p.m.–7 a.m., +5 ¢ 4–9 p.m.</p>
+      <p>Self-consumed solar avoids whatever ¢ you would have paid in that hour — 11.87, 14.08, or 12.70, plus some of the story of riders — and is usually worth more than a 10¢ export. Interior electric-heat houses that live on Step 2 get more value from noon-hour self-use (and from a battery that shifts solar into the evening) than from a giant array that dumps July surplus at 10¢. Lower Mainland gas-heat condos may never see Step 2; their solar case is weaker unless a rebate is large. Run 12 months in Account Online, not a January screenshot.</p>
+      <p>Time-of-day + solar: midday export is not in the +5 ¢ evening window. Do not buy TOD because a solar deck said “peak.” TOD is an EV-overnight conversation for most condos.</p>
+
+      <h2>Battery storage: optional vs required narratives</h2>
+      <p>RS 2289 does not require a battery. Sales decks that say “you must buy storage now that net metering is dead” are selling storage. A battery can raise self-use and may unlock a separate rebate (pages we have used: up to $1,500 residential — verify live) and a Peak Saver seasonal credit. It also adds inverters, fire-code questions, and a replacement cycle. Price it as a second project with its own payback, not as a mandatory RS 2289 fee.</p>
+      <p>If you only accepted a battery rebate, BC Hydro’s rate-update pages have said that alone does not force the same RS 2289 transition as the solar rebate — read the letter they sent and the current terms.</p>
+
+      <h2>Installer checklist for BC Hydro paperwork</h2>
+      <ul>
+        <li>Which rate schedule will I be on the day after permission to operate — 2289, or a documented 1289 grandfather?</li>
+        <li>If I take the solar rebate, do I give up 1289 forever? (Terms we have seen: yes.)</li>
+        <li>Who files MyHydro? Who pays if the application is incomplete?</li>
+        <li>HPCN / network installer status if a rebate is in the quote.</li>
+        <li>Production estimate using a B.C. weather file, snow, and shade — not Phoenix.</li>
+        <li>What happens to unused 10¢ credits if I sell the house?</li>
+        <li>Panel ampacity, roof years left, and who climbs for a failed microinverter.</li>
+      </ul>
+      <p>We used BC Hydro’s self-generation and rate-update pages and the site’s RS 1101 ¢ on <strong>20 September 2026</strong>. Reload them the week you sign. The Electric Tariff PDF wins if a webpage drifts.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>BC Hydro, Customer generation service rates updates — RS 1289 closed; RS 2289 from 1 Jul 2026; 10¢/kWh (used 20 Sep 2026).</li>
+          <li>BC Hydro, Self-generation — net-billing example (50 kWh → $5); apply before install; rebate / HPCN notes.</li>
+          <li>BCUC net-metering / self-generation decision (24 Mar 2026) — 10¢ energy price; grandfather and rebate-transition language to verify on the live customer page.</li>
+          <li>BC Hydro residential rate pages — Step 1 / Step 2 / flat / TOD ¢ used in the tiered companion.</li>
+        </ul>
+      </div>
+
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>Is net metering still available for new BC Hydro solar?</h3>
+          <p>Not the old RS 1289 product. New customers use RS 2289 self-generation from 1 July 2026: 10¢/kWh exports credited each billing cycle. Existing 1289 customers should read the live grandfather rules.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Is 10 cents a good export price?</h3>
+          <p>It is lower than Step 2 (14.08 ¢) and the optional flat rate (12.70 ¢). Self-consumed kWh are usually worth more than exported kWh. Do not size an array to dump summer surplus at 10¢.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Does taking the solar rebate change my rate?</h3>
+          <p>BC Hydro’s pages say accepting the solar rebate puts you on RS 2289. Battery-only rebate language has been treated separately. Confirm the current terms before you click accept.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Do I need a battery?</h3>
+          <p>No. RS 2289 does not require storage. A battery can raise self-use and may have its own rebate and Peak Saver credit. Price it as a second project.</p>
+        </div>
+        <div class="faq-item">
+          <h3>When do I apply?</h3>
+          <p>In MyHydro before installation. Permission to operate is not the installer’s handshake. Rebate paths may require a listed HPCN installer — verify live.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="home-solar-net-metering-canada-how-it-works.html">Net metering in Canada<span>Ontario, B.C., and Québec side by side.</span></a></li>
+        <li><a href="bc-hydro-residential-tiered-rates-explained.html">BC Hydro tiered rates<span>The ¢ you still pay to buy power.</span></a></li>
+        <li><a href="solar-quotes-compare-canada-homeowner-checklist.html">Compare solar quotes<span>Scorecard after the tariff makes sense.</span></a></li>
+        <li><a href="is-home-solar-worth-it-ontario-2026.html">Ontario solar worth-it<span>A different credit machine.</span></a></li>
+        <li><a href="../utilities.html">Utilities hub<span>Plans, solar, and heat.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../utilities.html">More Utilities guides</a>
+      <a class="btn btn-ghost" href="solar-quotes-compare-canada-homeowner-checklist.html">Next: Compare solar quotes</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>More Canadian tools</h2>
+        <ul>
+          <li><a href="https://canadiancreditcardfinder.com/">Canadian Credit Card Finder</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>

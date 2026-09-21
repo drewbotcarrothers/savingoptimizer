@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Compare residential solar quotes in Canada</title>
+  <desc id="desc">Force the same kW DC on every bid. No US 30 percent credit. No closed Greener Homes grant. Ontario about $2.40 to $3.50 per watt shopping band. Name the tariff. Walk away when the math needs fantasy rates.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same kW DC. Canadian credits only.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Shopping band ~$2.40-$3.50/W (Sep 2026, competitive ON). Not a bid.</text>
+  <rect x="24" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Must-have lines</text>
+  <text x="40" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Module W and count</text>
+  <text x="40" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Inverter type + years</text>
+  <text x="40" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">kWh with CA weather</text>
+  <text x="40" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">All-in CAD, HST,</text>
+  <text x="40" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">permits, scaffolding.</text>
+  <text x="40" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Exclusions in writing.</text>
+  <rect x="252" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="268" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Credit machine</text>
+  <text x="268" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ON: 12-month, kWh line</text>
+  <text x="268" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">BC new: 10 cents RS 2289</text>
+  <text x="268" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">QC: Option I kWh bank</text>
+  <text x="268" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Delivery usually stays.</text>
+  <text x="268" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No US 30% credit.</text>
+  <text x="268" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Greener Homes is closed.</text>
+  <rect x="480" y="78" width="216" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="496" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Walk away</text>
+  <text x="496" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Missing tariff name</text>
+  <text x="496" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$0 down, hidden lien</text>
+  <text x="496" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Roof under ~10 years</text>
+  <text x="496" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Payback needs 40-cent</text>
+  <text x="496" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">hydro or a dead grant.</text>
+  <text x="496" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Get two written quotes.</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Who files interconnection is a line item. "We handle the utility" without a name is how deposits age.</text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Oversized batteries and monitoring fees are second projects. Envelope work still precedes panels.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not an investment recommendation or a permit review.</text>
+</svg>
