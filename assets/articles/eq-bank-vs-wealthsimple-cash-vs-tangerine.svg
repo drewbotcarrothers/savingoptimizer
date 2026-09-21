@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">EQ Bank vs Wealthsimple chequing vs Tangerine habit matrix</title>
+  <desc id="desc">Three use-cases: EQ everyday rate with payroll, Wealthsimple asset tiers plus spending perks, Tangerine five-month promo then cliff. Public figures 21 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Pick the cash account that matches the habit</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Rates move. Confirm issuer pages. Drafted 21 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="250" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">EQ Bank</text>
+  <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2.75% with $2k/mo DD</text>
+  <text x="40" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1.00% without it</text>
+  <text x="40" y="188" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CDIC member (Equitable)</text>
+  <text x="40" y="210" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ATM rebate $5 x 5 / month</text>
+  <text x="40" y="232" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No cash deposits or cheques</text>
+  <text x="40" y="262" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Best for: set-and-forget</text>
+  <text x="40" y="284" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">parking with payroll.</text>
+  <rect x="252" y="78" width="216" height="250" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Wealthsimple</text>
+  <text x="268" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1.25% / 1.75% / 2.25%</text>
+  <text x="268" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+0.5% DD (Core/Premium)</text>
+  <text x="268" y="188" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Not a bank; CDIC via trust</text>
+  <text x="268" y="210" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Global ATM rebate; $0 FX</text>
+  <text x="268" y="232" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Visa prepaid; one-app habit</text>
+  <text x="268" y="262" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Best for: hybrid spend</text>
+  <text x="268" y="284" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">if you already invest there.</text>
+  <rect x="480" y="78" width="216" height="250" rx="12" fill="#F3F4F6"/>
+  <text x="496" y="108" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tangerine</text>
+  <text x="496" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4.50% first 5 months</text>
+  <text x="496" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">then everyday (often ~0.30%)</text>
+  <text x="496" y="188" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CDIC member (Tangerine Bank)</text>
+  <text x="496" y="210" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Scotiabank ABM network</text>
+  <text x="496" y="232" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$250 payroll switch offer*</text>
+  <text x="496" y="262" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Best for: promo hopping</text>
+  <text x="496" y="284" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">if you will move at month 6.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">EQ rates effective 16 Sep 2026. Wealthsimple tiers as of 11 Jun 2026. Tangerine promo: Ratehub 21 Sep 2026. *Payroll bonus terms on tangerine.ca (client numbers through 31 Oct 2026).</text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Notice savings (EQ 2.35% / 2.75%) delay withdrawals. CIPF is for dealer insolvency, not chequing cash. Education only.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Do not invent live affiliate deals. Confirm every rate and bonus on the issuer page before you switch payroll.</text>
+</svg>

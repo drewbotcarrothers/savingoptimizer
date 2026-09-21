@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Fourteen-day Canadian bank switch sprint</title>
+  <desc id="desc">Days 1-3 audit and open, days 4-8 payroll and government deposits, days 9-14 PAD rewrite, then two billing cycles before close. FCAC: new products first.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">14 days to start the switch - not to close</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">FCAC: open new products before you cancel old ones. Drafted 21 Sep 2026.</text>
+  <rect x="24" y="78" width="160" height="210" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Days 1-3</text>
+  <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Audit fees and</text>
+  <text x="40" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">NSF history.</text>
+  <text x="40" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Open no-fee</text>
+  <text x="40" y="204" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">account. Order card.</text>
+  <text x="40" y="232" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fund a cushion.</text>
+  <text x="40" y="260" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Test $10 e-Transfer.</text>
+  <rect x="196" y="78" width="160" height="210" rx="12" fill="#E7F4EE"/>
+  <text x="212" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Days 4-8</text>
+  <text x="212" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">HR direct deposit.</text>
+  <text x="212" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CRA My Account</text>
+  <text x="212" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">benefits.</text>
+  <text x="212" y="204" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Service Canada /</text>
+  <text x="212" y="224" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">EI / OAS if needed.</text>
+  <text x="212" y="252" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Do not close old.</text>
+  <rect x="368" y="78" width="160" height="210" rx="12" fill="#F3F4F6"/>
+  <text x="384" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Days 9-14</text>
+  <text x="384" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rewrite PADs:</text>
+  <text x="384" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">rent, hydro, cards.</text>
+  <text x="384" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Update e-Transfer</text>
+  <text x="384" y="204" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">email. Stop cheques.</text>
+  <text x="384" y="232" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Watch both apps.</text>
+  <rect x="540" y="78" width="156" height="210" rx="12" fill="#F3F4F6"/>
+  <text x="556" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">After day 14</text>
+  <text x="556" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Two billing cycles</text>
+  <text x="556" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">with $0 at old bank.</text>
+  <text x="556" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Then close at $0.</text>
+  <text x="556" y="204" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Written confirmation.</text>
+  <text x="556" y="232" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CDIC member check.</text>
+  <text x="24" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Registered transfers: typically 7 business days; 12 from 15 Feb to 8 Apr (FCAC / CBA-member banks). Do not same-year TFSA recontribute.</text>
+  <text x="24" y="344" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Mortgage discharge is not a 14-day task. Change the PAD only unless you have run the math.</text>
+  <text x="24" y="366" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: FCAC transferring products (Canada.ca). Education only. No predatory debt-relief offers.</text>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Welcome bonuses are optional and dated. Never bounce rent to hit a promo.</text>
+</svg>

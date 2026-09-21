@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">RRSP refund loop without February panic</title>
+  <desc id="desc">Monthly RRSP PAD, file with both receipts, refund lands, pre-committed to debt or TFSA or FHSA. 2025 deadline 2 March 2026. 2026 dollar limit 33,810 dollars.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The refund loop: contribute monthly, assign the refund</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">2025 deadline 2 Mar 2026. 2026 RRSP dollar limit $33,810. Drafted 21 Sep 2026.</text>
+  <rect x="24" y="78" width="160" height="190" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">All year</text>
+  <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Payday PAD into</text>
+  <text x="40" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RRSP (limit / 12).</text>
+  <text x="40" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Capture employer</text>
+  <text x="40" y="204" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">match first.</text>
+  <rect x="196" y="78" width="160" height="190" rx="12" fill="#E7F4EE"/>
+  <text x="212" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">First 60 days</text>
+  <text x="212" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Optional extra for</text>
+  <text x="212" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">last year only if</text>
+  <text x="212" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">room remains.</text>
+  <text x="212" y="204" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Keep both receipts.</text>
+  <rect x="368" y="78" width="160" height="190" rx="12" fill="#F3F4F6"/>
+  <text x="384" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">File</text>
+  <text x="384" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Schedule 7.</text>
+  <text x="384" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">NOA shows next</text>
+  <text x="384" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">year's room.</text>
+  <text x="384" y="204" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Resize the PAD.</text>
+  <rect x="540" y="78" width="156" height="190" rx="12" fill="#E7F4EE"/>
+  <text x="556" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Refund</text>
+  <text x="556" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pre-committed:</text>
+  <text x="556" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">debt, TFSA, or</text>
+  <text x="556" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FHSA - not groceries.</text>
+  <text x="556" y="204" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Same week it lands.</text>
+  <text x="24" y="302" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Personal limit = lesser of 18% of prior-year earned income and $33,810, minus PA, plus unused room (CRA). NOA is canonical.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Low-income year: carry-forward may beat a deduction now. $2,000 lifetime buffer; 1% / month above that.</text>
+  <text x="24" y="346" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: CRA important dates, T4040, registered-plan limits table. Used 21 Sep 2026. Education only.</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Do not cash out an RRSP to "move" it. Use a direct transfer. Not tax advice.</text>
+</svg>

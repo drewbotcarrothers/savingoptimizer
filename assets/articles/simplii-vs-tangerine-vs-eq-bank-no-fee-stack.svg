@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian no-fee banking stack</title>
+  <desc id="desc">Spending account at Simplii or Tangerine, emergency HISA at EQ Bank, optional small Big-5 leftover for drafts. Drafted 21 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A no-fee stack, not a single hero account</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Move payroll only after cards work. Drafted 21 Sep 2026.</text>
+  <rect x="24" y="78" width="672" height="70" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Spending rail</text>
+  <text x="40" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Simplii (CIBC ATMs + cash deposits) or Tangerine (Scotiabank ABMs). $0 package. One to two weeks of bills.</text>
+  <rect x="24" y="162" width="672" height="70" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="192" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Parking sleeve</text>
+  <text x="40" y="216" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">EQ Personal 2.75% with $2,000/month qualifying DD (1.00% without). Or another everyday HISA. Emergency label.</text>
+  <rect x="24" y="246" width="672" height="70" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="276" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Optional leftover</text>
+  <text x="40" y="300" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tiny Big-5 or credit-union account only for drafts, cash-heavy exceptions, or a mortgage login. Not a $30 bundle.</text>
+  <text x="24" y="350" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Joint PADs need a joint spending account. Government benefits are individual in CRA My Account.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Simplii welcome $300 + $50 Skip and Tangerine $250 payroll bonus are dated offer types (used 21 Sep 2026) - never bounce rent for a bonus.</text>
+  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">EQ: no cash, no cheques. Confirm CDIC member names. Education only.</text>
+</svg>
