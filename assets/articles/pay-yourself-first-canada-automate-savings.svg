@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian pay-yourself-first payday flow</title>
+  <desc id="desc">Payroll clears, wait one business day, then split remaining skim to emergency HISA, TFSA, and FHSA. 2026 CRA limits noted.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Payday + 1 business day, then named pots</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Start small enough that you never cancel. Drafted 21 Sep 2026.</text>
+  <rect x="24" y="78" width="200" height="90" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="114" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Payroll lands</text>
+  <text x="40" y="138" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Spending float covers rent PAD.</text>
+  <rect x="260" y="78" width="200" height="90" rx="12" fill="#E7F4EE"/>
+  <text x="276" y="114" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Wait 1 business day</text>
+  <text x="276" y="138" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Avoid same-day NSF races.</text>
+  <rect x="496" y="78" width="200" height="90" rx="12" fill="#E7F4EE"/>
+  <text x="512" y="114" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3. Auto-split</text>
+  <text x="512" y="138" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">HISA / TFSA / FHSA.</text>
+  <rect x="24" y="190" width="216" height="120" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="222" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Emergency HISA</text>
+  <text x="40" y="246" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Unregistered buffer.</text>
+  <text x="40" y="268" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CDIC category aware.</text>
+  <text x="40" y="290" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Until 3 months of must-pays.</text>
+  <rect x="252" y="190" width="216" height="120" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="222" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TFSA</text>
+  <text x="268" y="246" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2026 limit $7,000</text>
+  <text x="268" y="268" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ unused room.</text>
+  <text x="268" y="290" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Check CRA My Account.</text>
+  <rect x="480" y="190" width="216" height="120" rx="12" fill="#F3F4F6"/>
+  <text x="496" y="222" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FHSA (if open)</text>
+  <text x="496" y="246" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$8,000 / $40,000</text>
+  <text x="496" y="268" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Room starts at open.</text>
+  <text x="496" y="290" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Carry-forward max 1 year.</text>
+  <text x="24" y="346" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Irregular income: percentage of each deposit, not a fixed dollar. Employer RRSP match still goes first.</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRA: TFSA withdrawals return 1 Jan next year. Do not same-year recontribute without unused room.</text>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: CRA TFSA and FHSA pages used 21 Sep 2026. Education only. Not tax advice.</text>
+</svg>
