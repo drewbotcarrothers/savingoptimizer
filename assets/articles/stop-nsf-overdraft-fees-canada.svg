@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">NSF cap versus overdraft cost</title>
+  <desc id="desc">From 12 March 2026 a federally regulated bank may charge at most 10 dollars NSF on a personal deposit account, not more than once in two business days, and not when the unauthorized overdraft is under 10 dollars. RBC overdraft protection is listed at 5 dollars a month plus 22 percent interest when used.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What a shortfall can cost after 12 March 2026</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Personal deposit accounts at federally regulated banks. Drafted 21 Sep 2026.</text>
+  <rect x="24" y="84" width="210" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="116" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Before the cap</text>
+  <text x="40" y="148" font-size="28" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$45-$48</text>
+  <text x="40" y="176" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Big-bank NSF, Canada Gazette</text>
+  <text x="40" y="196" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">examples as of April 2024.</text>
+  <rect x="254" y="84" width="210" height="150" rx="12" fill="#0F7A4B"/>
+  <text x="270" y="116" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">NSF cap now</text>
+  <text x="270" y="156" font-size="28" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$10 max</text>
+  <text x="270" y="184" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Once per 2 business days.</text>
+  <text x="270" y="204" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">No fee if under $10 short.</text>
+  <rect x="484" y="84" width="212" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="500" y="116" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">RBC overdraft</text>
+  <text x="500" y="148" font-size="22" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$5 / month</text>
+  <text x="500" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">plus 22% a year when used</text>
+  <text x="500" y="200" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Quebec: $5 fee waived.</text>
+  <text x="24" y="268" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The cap does not erase a landlord or biller returned-payment charge.</text>
+  <text x="24" y="292" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Credit unions and a line of credit can use a different schedule. Read that table.</text>
+  <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Design beat: alert above the largest PAD, one business day after payday, a float for fixed bills.</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: FCAC and Finance Canada, 12 March 2026; Canada Gazette SOR/2025-96; RBC disclosures used 21 Sep 2026.</text>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No-fee chequing is an offer type. Not a bank partnership. Education only.</text>
+</svg>

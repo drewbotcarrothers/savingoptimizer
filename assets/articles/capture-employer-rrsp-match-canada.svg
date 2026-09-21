@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled employer match on an 80000 dollar salary</title>
+  <desc id="desc">If the formula is 100 percent of your contribution up to 4 percent of salary, contributing 4 percent captures 3200 dollars from the employer. Contributing 2 percent leaves 1600 dollars of that match uncaptured. Illustration only.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">$80,000 salary, match 100% up to 4% of pay</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">A formula to copy from your booklet, not a typical plan. Drafted 21 Sep 2026.</text>
+  <text x="24" y="96" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">You contribute 4% ($3,200)</text>
+  <rect x="24" y="108" width="280" height="32" rx="6" fill="#0F7A4B" opacity="0.45"/>
+  <text x="36" y="130" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Your $3,200</text>
+  <rect x="312" y="108" width="280" height="32" rx="6" fill="#0F7A4B"/>
+  <text x="324" y="130" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Employer $3,200</text>
+  <text x="24" y="176" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">You contribute 2% ($1,600)</text>
+  <rect x="24" y="188" width="140" height="32" rx="6" fill="#0F7A4B" opacity="0.45"/>
+  <text x="36" y="210" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Your $1,600</text>
+  <rect x="172" y="188" width="140" height="32" rx="6" fill="#0F7A4B"/>
+  <text x="184" y="210" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Match $1,600</text>
+  <rect x="340" y="188" width="200" height="32" rx="6" fill="#F3F4F6"/>
+  <text x="352" y="210" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Left behind: $1,600</text>
+  <rect x="24" y="250" width="672" height="110" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="280" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Before you celebrate the bar</text>
+  <text x="40" y="304" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Group RRSP dollars use your RRSP room. 2026 dollar ceiling $33,810. Your NOA is lower if 18% or a pension adjustment says so.</text>
+  <text x="40" y="328" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A DPSP match can take up to 24 months to vest and creates a pension adjustment for next year's room.</text>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No fund picks. Enrol even if the menu is boring. Education only. Not tax advice.</text>
+</svg>

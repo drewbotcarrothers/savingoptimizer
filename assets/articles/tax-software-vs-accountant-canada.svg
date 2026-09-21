@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Software versus preparer decision for a Canadian household</title>
+  <desc id="desc">Two paths: NETFILE software when slips are straightforward, and a written preparer quote when rental, self-employment, or cross-border issues show up. CRA My Account sits under both.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Pick the filing path from the slips, not the guilt</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">NETFILE open 23 Feb 2026 through 29 Jan 2027 for 2025 returns. Drafted 21 Sep 2026.</text>
+  <rect x="24" y="78" width="320" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="110" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Certified software</text>
+  <text x="40" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">T4, T4A, RRSP receipts</text>
+  <text x="40" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tuition, donations, basic credits</text>
+  <text x="40" y="182" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A T5008 you can explain</text>
+  <text x="40" y="214" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Simple tiers can be $0</text>
+  <text x="40" y="236" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Paid tiers change by file date</text>
+  <text x="40" y="268" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Confirm the CRA certified list</text>
+  <text x="40" y="286" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">the week you file.</text>
+  <rect x="376" y="78" width="320" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="392" y="110" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Written preparer quote</text>
+  <text x="392" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rental (T776), self-employed (T2125)</text>
+  <text x="392" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cross-border, a death, separation</text>
+  <text x="392" y="182" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ACB history you do not hold</text>
+  <text x="392" y="214" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask which forms are in the fee</text>
+  <text x="392" y="236" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Quebec: federal plus TP1</text>
+  <text x="392" y="268" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Two quotes. Same slip list.</text>
+  <text x="392" y="286" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not a partnership.</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">CRA My Account and Auto-fill my return sit under both paths. You still check every slip.</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Tax software is an offer type. Saving Optimizer does not claim a software partnership.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not tax advice. CRA certified-software page used 21 Sep 2026.</text>
+</svg>

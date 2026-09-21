@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian rate-gap order before extra TFSA contributions</title>
+  <desc id="desc">Five-step ladder: employer match, high-interest revolving debt, a one-month cash buffer, low-rate debt on a schedule beside TFSA room, then a six-month review. No market-return assumption.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What gets the next dollar</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Certain costs first. TFSA growth is not a promised rate. Drafted 21 Sep 2026.</text>
+  <rect x="24" y="74" width="672" height="52" rx="10" fill="#0F7A4B"/>
+  <text x="40" y="96" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">1. Employer RRSP match you will actually vest</text>
+  <text x="40" y="114" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Contractual match on the dollars you contribute. Read vesting.</text>
+  <rect x="24" y="136" width="672" height="52" rx="10" fill="#0F7A4B" opacity="0.88"/>
+  <text x="40" y="158" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">2. Revolving card balances at purchase rates near 20%</text>
+  <text x="40" y="176" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">A certain interest cost. Consumer card interest is not a personal deduction.</text>
+  <rect x="24" y="198" width="672" height="52" rx="10" fill="#0F7A4B" opacity="0.7"/>
+  <text x="40" y="220" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">3. One month of must-pays in an emergency HISA</text>
+  <text x="40" y="238" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">So the card you just cleared does not refill on the next PAD.</text>
+  <rect x="24" y="260" width="672" height="52" rx="10" fill="#0F7A4B" opacity="0.5"/>
+  <text x="40" y="282" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">4. Low-rate debt on a schedule, beside TFSA room</text>
+  <text x="40" y="300" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">2026 TFSA dollar limit $7,000. Check CRA My Account before a PAD.</text>
+  <rect x="24" y="322" width="672" height="52" rx="10" fill="#E7F4EE"/>
+  <text x="40" y="344" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">5. Rewrite the order every six months</text>
+  <text x="40" y="362" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Policy rate, prime, balances, and match formula all move.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Bank of Canada overnight target 2.25% on 2 Sep 2026. RBC Prime 4.45%. Education only.</text>
+</svg>
