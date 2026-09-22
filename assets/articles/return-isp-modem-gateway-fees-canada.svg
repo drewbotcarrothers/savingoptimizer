@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">ISP modem return timeline</title>
+  <desc id="desc">Work backwards from cancel day: return kit, photos, ship or drop-off, then watch the next invoice for non-return charges. Drafted 2 Oct 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Non-return fees are a second bill.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian ISP gateway return timeline. 2 Oct 2026.</text>
+  <rect x="40" y="90" width="120" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="100" y="140" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Cancel −7</text>
+  <text x="100" y="170" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Kit + photos</text>
+  <rect x="180" y="90" width="120" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="240" y="140" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Cancel −2</text>
+  <text x="240" y="170" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pack pods</text>
+  <rect x="320" y="90" width="120" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="380" y="140" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Cancel day</text>
+  <text x="380" y="170" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ship / drop</text>
+  <rect x="460" y="90" width="120" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="520" y="140" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+3 days</text>
+  <text x="520" y="170" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Delivered?</text>
+  <rect x="600" y="90" width="80" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="640" y="140" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bill</text>
+  <text x="640" y="170" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$0?</text>
+  <text x="24" y="280" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Activation-fee bans do not erase contracted non-return charges.</text>
+  <text x="24" y="308" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Keep tracking and serial photos for at least two billing cycles.</text>
+  <text x="24" y="350" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Dispute wrongful charges with proof, then CCTS if the ISP will not correct the scan.</text>
+  <text x="24" y="374" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Follow the RMA on your cancel email.</text>
+  <text x="24" y="398" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Accent #0F7A4B.</text>
+</svg>
