@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Fibre to the suite versus cable upload</title>
+  <desc id="desc">Fibre to the home keeps upload close to download. Cable keeps a large download and a much smaller upload. The word fibre in an advertisement is not the test.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Read the second number</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative shape, not your quote. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="78" width="320" height="176" rx="12" fill="#E7F4EE"/>
+  <text x="184" y="110" text-anchor="middle" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Fibre to the suite</text>
+  <text x="184" y="140" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Glass to an optical terminal</text>
+  <text x="184" y="164" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Upload often matches download</text>
+  <text x="184" y="196" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Shared at a splitter, not a private strand</text>
+  <text x="184" y="220" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Bell Pure Fibre, Telus PureFibre, some buildings</text>
+  <rect x="376" y="78" width="320" height="176" rx="12" fill="#0F7A4B"/>
+  <text x="536" y="110" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Cable last mile</text>
+  <text x="536" y="140" text-anchor="middle" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Fibre to the node, coax to you</text>
+  <text x="536" y="164" text-anchor="middle" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Upload is a fraction of download</text>
+  <text x="536" y="196" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Evening sag is a node problem</text>
+  <text x="536" y="220" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Rogers, former Shaw, Videotron, Cogeco</text>
+  <text x="24" y="286" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">"Fibre-powered" and "Fibe" can still finish on copper or coax. Matched speeds are the clue.</text>
+  <text x="24" y="314" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Keep cable when you mostly download and the 24-month total is lower. Buy glass when upload fails.</text>
+  <text x="24" y="346" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">CRTC floor remains 50 Mbps down and 10 Mbps up. That is a policy floor, not a family plan.</text>
+  <text x="24" y="374" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Wholesale fibre rates in Order 2026-77 are what a competitor pays, not your retail bill.</text>
+  <text x="24" y="402" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Education only. Home internet plans are an offer type. No live ISP partnership.</text>
+</svg>

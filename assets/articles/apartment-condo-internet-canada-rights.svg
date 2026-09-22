@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Bulk fee, your own ISP, and a carrier access request</title>
+  <desc id="desc">Three separate questions in a Canadian apartment or condo: the building fee you may still owe, ordering your own provider, and a carrier asking the CRTC for access if the building blocks that provider.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Three questions, not one argument</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CRTC access rules and the building's fee are different. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="78" width="210" height="168" rx="12" fill="#F3F4F6"/>
+  <text x="129" y="110" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bulk fee</text>
+  <text x="129" y="138" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">May stay in the rent</text>
+  <text x="129" y="156" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">or strata payment</text>
+  <text x="129" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">after you switch.</text>
+  <text x="129" y="202" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Provincial tribunal.</text>
+  <rect x="250" y="78" width="220" height="168" rx="12" fill="#E7F4EE"/>
+  <text x="360" y="110" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Your own ISP</text>
+  <text x="360" y="138" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Allowed if a carrier</text>
+  <text x="360" y="156" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">can reach the suite.</text>
+  <text x="360" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Check the jack first.</text>
+  <text x="360" y="202" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Quote the unit.</text>
+  <rect x="486" y="78" width="210" height="168" rx="12" fill="#0F7A4B"/>
+  <text x="591" y="110" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">If they block</text>
+  <text x="591" y="138" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">The carrier applies.</text>
+  <text x="591" y="156" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Exclusivity is not</text>
+  <text x="591" y="174" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">a valid defence.</text>
+  <text x="591" y="202" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Months, not Tuesday.</text>
+  <text x="24" y="278" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Decision 2003-45 is the access condition. Decision 2026-116 (5 Jun 2026) and 2026-209 (14 Aug 2026) still enforce it.</text>
+  <text x="24" y="306" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A personal account with a large ISP can be an Internet Code contract. A strata line item usually is not.</text>
+  <text x="24" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Before you renew: dollars included, opt-out, whose name is on the account, pair / coax / fibre, other carriers in the room.</text>
+  <text x="24" y="366" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Do not withhold rent because the Wi-Fi is bad. Shop the wire you have while access is pending.</text>
+  <text x="24" y="398" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Education only. Not legal advice. Home internet plans are an offer type, not a live partnership.</text>
+</svg>
