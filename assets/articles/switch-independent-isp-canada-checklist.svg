@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Independent ISP switch checklist</title>
+  <desc id="desc">Six steps: address quote, modem rules, move email and TV, written cancellation, return gear, then read the first bill. Do not cancel the incumbent before a wired test. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Switch the retailer. Do not invent a new last mile.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Cancel only after a wired test on the new line. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="78" width="210" height="64" rx="10" fill="#0F7A4B"/>
+  <text x="40" y="106" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">1. Address quote</text>
+  <text x="40" y="126" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Upload, not just the logo</text>
+  <rect x="250" y="78" width="210" height="64" rx="10" fill="#E7F4EE"/>
+  <text x="266" y="106" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Modem rules</text>
+  <text x="266" y="126" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Approved list or their gateway</text>
+  <rect x="476" y="78" width="220" height="64" rx="10" fill="#F3F4F6"/>
+  <text x="492" y="106" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Email, phone, TV</text>
+  <text x="492" y="126" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Move them before cancel day</text>
+  <rect x="24" y="160" width="210" height="64" rx="10" fill="#E7F4EE"/>
+  <text x="40" y="188" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">4. Written cancel</text>
+  <text x="40" y="208" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Date, ETF, trial clock</text>
+  <rect x="250" y="160" width="210" height="64" rx="10" fill="#F3F4F6"/>
+  <text x="266" y="188" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">5. Return gear</text>
+  <text x="266" y="208" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Photo, receipt, serials</text>
+  <rect x="476" y="160" width="220" height="64" rx="10" fill="#0F7A4B"/>
+  <text x="492" y="188" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">6. First bill</text>
+  <text x="492" y="208" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Credits match checkout</text>
+  <rect x="24" y="250" width="672" height="100" rx="12" fill="#E7F4EE"/>
+  <text x="44" y="282" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Internet Code, still in force</text>
+  <text x="44" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Month-to-month: no ETF. Fixed term: disclosed ETF can remain, to $0 by 24 months.</text>
+  <text x="44" y="330" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">From 12 Jun 2026 a no-visit activation fee should not be on that first invoice.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Fibre optical terminals stay with the network owner. A retail DOCSIS modem is not a substitute.</text>
+  <text x="24" y="402" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. CCTS comes after you have asked the ISP to fix the bill.</text>
+</svg>

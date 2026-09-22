@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Move-day internet timeline</title>
+  <desc id="desc">Three weeks out, quote transfer versus switch. One week out, confirm the technician fee. Moving day, test the new line. Next morning, cancel the old line and return gear. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One line working, then the other line closed.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian move timeline. Drafted 22 Sep 2026. Overlap days, not a whole cycle.</text>
+  <rect x="24" y="86" width="160" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="116" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3 weeks out</text>
+  <text x="40" y="144" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Quote the new unit</text>
+  <text x="40" y="166" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Transfer vs switch</text>
+  <text x="40" y="188" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Book the window</text>
+  <rect x="196" y="86" width="160" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="212" y="116" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1 week out</text>
+  <text x="212" y="144" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Visit or self-install</text>
+  <text x="212" y="166" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Photo serials</text>
+  <text x="212" y="188" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pack the return box</text>
+  <rect x="368" y="86" width="160" height="150" rx="12" fill="#0F7A4B"/>
+  <text x="384" y="116" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Moving day</text>
+  <text x="384" y="144" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Wired test first</text>
+  <text x="384" y="166" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Keep old line</text>
+  <text x="384" y="188" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">until it works</text>
+  <rect x="540" y="86" width="156" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="556" y="116" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Next morning</text>
+  <text x="556" y="144" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cancel with a date</text>
+  <text x="556" y="166" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Return gear</text>
+  <text x="556" y="188" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Keep the receipt</text>
+  <rect x="24" y="256" width="672" height="88" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No-visit activation fee: generally banned since 12 Jun 2026. Truck roll: can still be billed.</text>
+  <text x="40" y="314" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A fixed-term ETF can still apply if you leave. Ask for a move waiver in writing. Do not assume it.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Fizz pause example, notes 21 Sep 2026: $10, twice a year, up to six months. Not every brand.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. The new civic address is a new quote.</text>
+</svg>
