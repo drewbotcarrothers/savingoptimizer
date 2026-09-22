@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Federal and Quebec dual filing without double fees</title>
+  <desc id="desc">One household slip folder feeds a federal T1 and a Quebec TP1 through one certified suite or one preparer quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Québec: one folder, two returns, one invoice</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Dual-certified workflow. Drafted 22 Sep 2026. Not tax advice.</text>
+  <rect x="24" y="78" width="200" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="110" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Slip folder</text>
+  <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">T4, RRSP, donations,</text>
+  <text x="40" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Québec-only slips.</text>
+  <text x="40" y="190" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Shared once.</text>
+  <rect x="250" y="78" width="200" height="90" rx="12" fill="#E7F4EE"/>
+  <text x="266" y="110" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Federal T1</text>
+  <text x="266" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CRA NETFILE transmit</text>
+  <rect x="250" y="188" width="200" height="90" rx="12" fill="#E7F4EE"/>
+  <text x="266" y="220" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Québec TP1</text>
+  <text x="266" y="248" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Revenu Québec transmit</text>
+  <rect x="476" y="78" width="220" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="492" y="110" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pay once</text>
+  <text x="492" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One dual-certified</text>
+  <text x="492" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">suite, or one preparer</text>
+  <text x="492" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">quote listing T1+TP1.</text>
+  <text x="492" y="214" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Avoid two unrelated</text>
+  <text x="492" y="234" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">products for one year.</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRA My Account does not replace Revenu Québec services. Save both confirmation numbers.</text>
+  <text x="24" y="342" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Credits can differ federally vs Québec. Education only. Not a product ranking.</text>
+
+</svg>

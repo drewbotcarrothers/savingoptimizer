@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Optimize Canadian payroll deductions</title>
+  <desc id="desc">Map voluntary deductions, protect a take-home floor, and put the RRSP match ahead of optional charity and ESPP.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Payroll map that protects take-home</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Open-enrolment habit. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="78" width="160" height="190" rx="12" fill="#E7F4EE"/>
+  <text x="36" y="110" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Map</text>
+  <text x="36" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Every voluntary</text>
+  <text x="36" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">line → monthly $</text>
+  <rect x="200" y="78" width="160" height="190" rx="12" fill="#E7F4EE"/>
+  <text x="212" y="110" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Floor</text>
+  <text x="212" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Must-pays plus</text>
+  <text x="212" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">bill float first</text>
+  <rect x="376" y="78" width="160" height="190" rx="12" fill="#E7F4EE"/>
+  <text x="388" y="110" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Match</text>
+  <text x="388" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RRSP percent</text>
+  <text x="388" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">that captures it</text>
+  <rect x="552" y="78" width="144" height="190" rx="12" fill="#F3F4F6"/>
+  <text x="564" y="110" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Optional</text>
+  <text x="564" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Charity / ESPP</text>
+  <text x="564" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">only inside cap</text>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Coordinate HSA/PSA dollars with premiums you already pay. Review at open enrolment.</text>
+  <text x="24" y="332" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not insurance or tax advice.</text>
+
+</svg>
