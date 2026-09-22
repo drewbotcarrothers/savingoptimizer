@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Break the credit card revolve cycle</title>
+  <desc id="desc">Separate float from revolving debt, move groceries to debit, and run a 60-day payoff without predatory products.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">60-day revolve break</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Groceries and gas stay. The revolving card does not. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="78" width="155" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="36" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Label</text>
+  <text x="36" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Float vs leftover</text>
+  <text x="36" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">that survives the</text>
+  <text x="36" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">due date.</text>
+  <rect x="195" y="78" width="155" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="207" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Move</text>
+  <text x="207" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Groceries and gas</text>
+  <text x="207" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">to debit. Freeze</text>
+  <text x="207" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">discretionary.</text>
+  <rect x="366" y="78" width="155" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="378" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Pay</text>
+  <text x="378" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Minimums everywhere.</text>
+  <text x="378" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Extra on the</text>
+  <text x="378" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">revolving card.</text>
+  <rect x="537" y="78" width="155" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="549" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Guard</text>
+  <text x="549" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One-month HISA.</text>
+  <text x="549" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No settlement or</text>
+  <text x="549" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">credit-repair pitch.</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Benchmark purchase rate on related guides: 20.99%. Quebec minimum 5% from 1 Aug 2025 is pacing.</text>
+  <text x="24" y="342" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A transfer helps only when principal falls and the old card stays out of the wallet.</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. FCAC debt framing used 22 Sep 2026.</text>
+</svg>
