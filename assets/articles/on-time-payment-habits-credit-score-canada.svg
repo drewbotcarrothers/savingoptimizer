@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">On-time payment habits for Canadian credit scores</title>
+  <desc id="desc">Autopay a minimum floor, clear statement balances when possible, buffer due dates by two or three business days, and repair process after one miss without buying credit repair.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Due dates before rewards points</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Payment history is the household lever. 22 Sep 2026.</text>
+  <rect x="24" y="78" width="672" height="44" rx="8" fill="#E7F4EE"/>
+  <text x="40" y="105" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Autopay minimum = floor · Autopay statement balance = grace-period goal</text>
+  <rect x="24" y="140" width="320" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="168" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Calendar buffer</text>
+  <text x="40" y="196" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Move pay date 2–3 business days early</text>
+  <text x="40" y="220" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fund the paying chequing account</text>
+  <text x="40" y="244" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Map cards, hydro, car, property tax</text>
+  <text x="40" y="268" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Statement date ≠ due date</text>
+  <rect x="360" y="140" width="336" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="376" y="168" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">After one miss</text>
+  <text x="376" y="196" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. Pay past due same day</text>
+  <text x="376" y="220" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Confirm current status</text>
+  <text x="376" y="244" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Harden autopay + float</text>
+  <text x="376" y="268" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4. Do not buy repair</text>
+  <rect x="24" y="310" width="672" height="70" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="340" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cleaner on-time history supports better pricing talks. It does not invent income or a down payment.</text>
+  <text x="40" y="362" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Québec card minimum 5% from 1 Aug 2025 is a floor, not a payoff plan.</text>
+  <text x="24" y="406" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">FCAC: payment history matters. Education only. Not credit advice.</text>
+</svg>

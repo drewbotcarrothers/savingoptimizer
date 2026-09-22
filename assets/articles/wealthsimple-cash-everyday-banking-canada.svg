@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Wealthsimple Cash everyday banking checklist</title>
+  <desc id="desc">Yield and transfers can work for everyday spending. Cash deposits and some branch needs often require a no-fee chequing partner. CDIC trust is not the same as CIPF.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Can Cash be everyday banking?</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Checklist, not a vibe. Confirm live limits. 22 Sep 2026.</text>
+  <rect x="24" y="78" width="330" height="180" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Works well</text>
+  <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tiered yield on spending cash</text>
+  <text x="40" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">App transfers and Interac</text>
+  <text x="40" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FX-friendly card claims</text>
+  <text x="40" y="208" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One login with investing</text>
+  <text x="40" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">ATM rebates, not a Big-5 network</text>
+  <rect x="370" y="78" width="326" height="180" rx="12" fill="#F3F4F6"/>
+  <text x="386" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Gaps to test</text>
+  <text x="386" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cash deposits</text>
+  <text x="386" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Drafts / some cheque needs</text>
+  <text x="386" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Payroll + PAD verification</text>
+  <text x="386" y="208" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Joint bill rails</text>
+  <text x="386" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Often: no-fee chequing + Cash</text>
+  <rect x="24" y="278" width="672" height="96" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="308" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Coverage note</text>
+  <text x="40" y="334" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Not a CDIC member bank. Chequing cash uses a CDIC trust at partner members — read the live disclosure.</text>
+  <text x="40" y="356" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CIPF is dealer-insolvency protection for investment accounts, not a chequing slogan.</text>
+  <text x="24" y="406" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not a product recommendation. Accent #0F7A4B.</text>
+</svg>
