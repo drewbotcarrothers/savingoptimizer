@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Vancouver PureFibre versus Rogers cable</title>
+  <desc id="desc">Telus PureFibre with upload near the download, Rogers cable on the former Shaw network with a smaller upload, and a note that Novus or a strata bulk deal can replace both in some buildings.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Vancouver is two plants, plus the building</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Do not reuse an Ontario sticker. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="78" width="220" height="176" rx="12" fill="#E7F4EE"/>
+  <text x="134" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Telus PureFibre</text>
+  <text x="134" y="142" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Glass where the unit</text>
+  <text x="134" y="160" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">qualifies. Upload</text>
+  <text x="134" y="178" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">near the download.</text>
+  <text x="134" y="210" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Not every strata.</text>
+  <rect x="260" y="78" width="220" height="176" rx="12" fill="#0F7A4B"/>
+  <text x="370" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Rogers cable</text>
+  <text x="370" y="142" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Former Shaw plant.</text>
+  <text x="370" y="160" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Fast down, smaller up,</text>
+  <text x="370" y="178" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">unless the quote is FTTH.</text>
+  <text x="370" y="210" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Price both years.</text>
+  <rect x="496" y="78" width="200" height="176" rx="12" fill="#F3F4F6"/>
+  <text x="596" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Also quote</text>
+  <text x="596" y="142" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Novus in served</text>
+  <text x="596" y="160" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">buildings. Oxio</text>
+  <text x="596" y="178" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">and TekSavvy if</text>
+  <text x="596" y="196" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">the checker says yes.</text>
+  <text x="596" y="220" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Strata fee may stay.</text>
+  <text x="24" y="286" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Telus wholesale access in B.C. and Alberta: $77.21 a month up to 1500 Mbps, before capacity (Order 2026-77).</text>
+  <text x="24" y="314" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">That figure is what a competitor pays. It is why cheap fibre ads need a second look.</text>
+  <text x="24" y="346" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Decide in 30 days: worksheet, both incumbents, one independent, retention in writing, then an ethernet test.</text>
+  <text x="24" y="374" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Decision 2026-116 (5 Jun 2026) still required access talks at a Richmond strata. A preferred ISP is not a lock.</text>
+  <text x="24" y="402" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Education only. Offer types, not a live partnership. Not a strata ruling.</text>
+</svg>
