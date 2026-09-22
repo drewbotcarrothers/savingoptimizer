@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">CDIC categories across two banks</title>
+  <desc id="desc">One-name and TFSA categories at Member A and Member B, plus a credit union under provincial insurance. Limit 100,000 dollars per category per member.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">CDIC map: members and categories</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">$100,000 per category per member (principal + interest). ~22 Sep 2026.</text>
+  <rect x="24" y="80" width="220" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="112" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Member A</text>
+  <text x="40" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One name: chequing + HISA</text>
+  <text x="40" y="162" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">share one $100k bucket</text>
+  <text x="40" y="194" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TFSA cash: separate</text>
+  <text x="40" y="216" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$100k category</text>
+  <text x="40" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Confirm legal member name</text>
+  <rect x="260" y="80" width="220" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="276" y="112" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Member B</text>
+  <text x="276" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One name HISA gets a</text>
+  <text x="276" y="162" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">fresh $100k bucket</text>
+  <text x="276" y="194" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Joint accounts use the</text>
+  <text x="276" y="216" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">joint category</text>
+  <text x="276" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Different member required</text>
+  <rect x="496" y="80" width="200" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="512" y="112" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Credit union</text>
+  <text x="512" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Usually provincial</text>
+  <text x="512" y="162" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">insurer — not CDIC</text>
+  <text x="512" y="194" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Read FSRA / peers</text>
+  <text x="512" y="216" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Limits can differ</text>
+  <text x="512" y="248" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Check the logo</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Eligible deposits only. Investments and crypto are not CDIC deposits. Brokerage cash may be CIPF-framed.</text>
+  <text x="24" y="342" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Trade names can share one member — search CDIC, do not assume two apps means two limits.</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: CDIC what’s covered / categories pages used ~22 Sep 2026. Education only.</text>
+  <text x="24" y="386" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a coverage determination for your balances — confirm with CDIC and your institution.</text>
+</svg>

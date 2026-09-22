@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Student to adult no-fee banking transition</title>
+  <desc id="desc">Verify cut-off, open adult no-fee account, move payroll and PADs, then downgrade or close the student package.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">After graduation: keep no-fee status</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Plan before the first adult package fee. Drafted ~22 Sep 2026.</text>
+  <rect x="24" y="90" width="150" height="120" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="128" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Verify</text>
+  <text x="40" y="152" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Age cut-off and</text>
+  <text x="40" y="172" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">enrolment proof</text>
+  <rect x="198" y="90" width="150" height="120" rx="12" fill="#E7F4EE"/>
+  <text x="214" y="128" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Open adult</text>
+  <text x="214" y="152" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No-fee chequing</text>
+  <text x="214" y="172" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">while still free</text>
+  <rect x="372" y="90" width="150" height="120" rx="12" fill="#E7F4EE"/>
+  <text x="388" y="128" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3. Move money</text>
+  <text x="388" y="152" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Payroll + PADs</text>
+  <text x="388" y="172" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">with overlap</text>
+  <rect x="546" y="90" width="150" height="120" rx="12" fill="#E7F4EE"/>
+  <text x="562" y="128" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">4. Close tidy</text>
+  <text x="562" y="152" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Downgrade or</text>
+  <text x="562" y="172" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">written zero</text>
+  <rect x="24" y="240" width="672" height="100" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="278" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Do not pay a package fee for a future mortgage relationship</text>
+  <text x="40" y="304" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Everyday banking can be digital no-fee. Mortgage shopping can wait until you need it.</text>
+  <text x="40" y="326" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Credit unions: confirm provincial deposit insurance. NSF design still matters in graduation month.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: FCAC banking and switching guidance (~22 Sep 2026). Issuer student definitions vary — verify live.</text>
+  <text x="24" y="402" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Federal personal NSF cap $10 from 12 Mar 2026 at federally regulated banks — confirm live pages.</text>
+</svg>

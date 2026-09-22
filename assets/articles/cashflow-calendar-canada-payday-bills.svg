@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian cashflow calendar sketch</title>
+  <desc id="desc">Payday, clustered bill due dates, and savings transfer one business day after payday on a month grid.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Align bills and savings to payday</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Semi-monthly sketch. Move due dates where billers allow. ~22 Sep 2026.</text>
+  <rect x="24" y="78" width="672" height="250" rx="12" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <text x="48" y="110" font-size="12" font-weight="700" fill="#6B7280" font-family="Inter, system-ui, sans-serif">1</text>
+  <text x="48" y="128" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Immovable?</text>
+  <text x="48" y="144" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Buffer</text>
+  <rect x="200" y="96" width="130" height="70" rx="8" fill="#E7F4EE"/>
+  <text x="214" y="126" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Payday 15</text>
+  <text x="214" y="148" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Deposit clears</text>
+  <rect x="350" y="96" width="150" height="70" rx="8" fill="#0F7A4B"/>
+  <text x="364" y="126" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Bills 16–17</text>
+  <text x="364" y="148" font-size="11" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Rent/hydro/card</text>
+  <rect x="520" y="96" width="150" height="70" rx="8" fill="#E7F4EE"/>
+  <text x="534" y="126" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Save +1 day</text>
+  <text x="534" y="148" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">HISA / pots</text>
+  <rect x="200" y="200" width="130" height="70" rx="8" fill="#E7F4EE"/>
+  <text x="214" y="230" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Payday 30</text>
+  <text x="214" y="252" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Second deposit</text>
+  <rect x="350" y="200" width="150" height="70" rx="8" fill="#0F7A4B"/>
+  <text x="364" y="230" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Bills 1–2*</text>
+  <text x="364" y="252" font-size="11" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Shifted if allowed</text>
+  <rect x="520" y="200" width="150" height="70" rx="8" fill="#E7F4EE"/>
+  <text x="534" y="230" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Save +1 day</text>
+  <text x="534" y="252" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Sinking funds</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">*Some landlords and lenders will not move the 1st — size the float instead of hoping.</text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Couples: one shared calendar of paydays and PADs. NSF $10 cap (federal personal accounts from 12 Mar 2026) is not a plan.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: FCAC fee and budgeting guidance (~22 Sep 2026). Education only.</text>
+</svg>
