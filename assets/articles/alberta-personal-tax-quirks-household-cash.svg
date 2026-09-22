@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Alberta personal tax and benefit checklist for household cash</title>
+  <desc id="desc">No PST context, Alberta Child and Family Benefit via CRA filing, resource-sector complexity flag, and software versus preparer decision.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Alberta household cash checklist</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">File for benefits, not only for a refund. 22 Sep 2026.</text>
+  <rect x="24" y="78" width="210" height="130" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">No PST</text>
+  <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Generally 5% GST</text>
+  <text x="40" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Still file on time</text>
+  <text x="40" y="184" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Other leaks still compound</text>
+  <rect x="250" y="78" width="220" height="130" rx="12" fill="#F3F4F6"/>
+  <text x="266" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ACFB</text>
+  <text x="266" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Via CRA when CCB qualifies</text>
+  <text x="266" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Four instalments</text>
+  <text x="266" y="184" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Both adults often must file</text>
+  <rect x="486" y="78" width="210" height="130" rx="12" fill="#E7F4EE"/>
+  <text x="502" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2026 season</text>
+  <text x="502" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Open 23 Feb 2026</text>
+  <text x="502" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Due 30 Apr (most)</text>
+  <text x="502" y="184" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">SE file 15 Jun</text>
+  <rect x="24" y="230" width="672" height="130" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="260" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Complexity flags</text>
+  <text x="40" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Resource-sector allowances, contractor invoices, rentals, mid-year moves — get a preparer quote.</text>
+  <text x="40" y="312" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Straight T4 households: certified software + the federal credits checklist.</text>
+  <text x="40" y="336" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Not a filing position. Verify Alberta.ca and CRA amounts live.</text>
+  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not tax advice. Accent #0F7A4B.</text>
+</svg>
