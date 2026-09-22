@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Package fee choices without dead money</title>
+  <desc id="desc">Labelled 4,000 dollars parked at zero percent to waive a fee, versus paying the fee, versus a no-fee account that still earns an everyday rate.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Do not freeze cash to rent a waiver</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Worksheet on a labelled $4,000. Drafted 22 Sep 2026. Not a quote.</text>
+  <rect x="24" y="78" width="210" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Park to waive</text>
+  <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$4,000 sits near 0%</text>
+  <text x="40" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">so the package fee</text>
+  <text x="40" y="176" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">shows as $0.</text>
+  <text x="40" y="208" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Interest: about $0.</text>
+  <text x="40" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">One dip and the fee</text>
+  <text x="40" y="254" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">returns.</text>
+  <rect x="250" y="78" width="210" height="230" rx="12" fill="#F3F4F6"/>
+  <text x="266" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pay the package</text>
+  <text x="266" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$16.95 x 12</text>
+  <text x="266" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">= $203.40 a year.</text>
+  <text x="266" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$4,000 at 2.75%</text>
+  <text x="266" y="208" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">earns about $110.</text>
+  <text x="266" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Still behind on the fee.</text>
+  <rect x="476" y="78" width="220" height="230" rx="12" fill="#E7F4EE"/>
+  <text x="492" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">No-fee + HISA</text>
+  <text x="492" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Package fee: $0.</text>
+  <text x="492" y="156" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No minimum balance.</text>
+  <text x="492" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Same $4,000 can earn</text>
+  <text x="492" y="208" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">about $110 at 2.75%.</text>
+  <text x="492" y="240" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Worksheet winner.</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">FCAC low-cost commitment in force 1 Dec 2025: $4 or less, no minimum balance, at listed federal signatories.</text>
+  <text x="24" y="362" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">2.75% is EQ Bank Personal Account with qualifying direct deposit, effective 16 Sep 2026. Re-check.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Simple interest. Tax ignored. Education only. Confirm the fee schedule on your statement.</text>
+</svg>

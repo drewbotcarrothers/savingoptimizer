@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">RRSP versus TFSA order by 2026 federal band</title>
+  <desc id="desc">Pay high-interest debt and keep a cash buffer, take the employer match, use an FHSA if eligible, then choose TFSA or RRSP using 2026 federal tax bands. Provincial tax is extra.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Pick an order, then automate it</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">2026 federal bands. Add provincial tax. Drafted 22 Sep 2026. Not advice.</text>
+  <rect x="24" y="76" width="672" height="44" rx="8" fill="#E7F4EE"/>
+  <text x="40" y="103" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Buffer and 19%+ debt</text>
+  <text x="280" y="103" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Employer match you will vest</text>
+  <rect x="24" y="132" width="220" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="160" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Up to $58,523</text>
+  <text x="40" y="184" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">14% federal</text>
+  <text x="40" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TFSA-first if you</text>
+  <text x="40" y="232" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">might need the cash.</text>
+  <text x="40" y="256" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,000 RRSP saves ~$140 federal.</text>
+  <rect x="256" y="132" width="220" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="272" y="160" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">To $117,045</text>
+  <text x="272" y="184" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">20.5% federal</text>
+  <text x="272" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Split. TFSA for</text>
+  <text x="272" y="232" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">flexible dollars.</text>
+  <text x="272" y="256" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,000 RRSP saves ~$205 federal.</text>
+  <rect x="488" y="132" width="208" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="504" y="160" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Over $117,045</text>
+  <text x="504" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">26% / 29% / 33%</text>
+  <text x="504" y="212" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RRSP if you can</text>
+  <text x="504" y="232" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">wait, plus a TFSA.</text>
+  <text x="504" y="256" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">FHSA first if a home qualifies.</text>
+  <text x="24" y="312" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Next bands: 26% to $181,440, 29% to $258,482, 33% above. 2026 TFSA limit $7,000. RRSP ceiling $33,810.</text>
+  <text x="24" y="334" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">FHSA: $8,000 in the year you open, $40,000 lifetime, only if you pass the first-time test.</text>
+  <text x="24" y="356" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Pre-commit the RRSP refund. Do not leave it in chequing.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not tax advice. Provincial tax is not in the dollar column.</text>
+</svg>

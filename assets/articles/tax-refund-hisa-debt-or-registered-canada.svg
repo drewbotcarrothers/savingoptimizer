@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Tax refund triage for a Canadian household</title>
+  <desc id="desc">If the emergency buffer is empty, park one month of bills in a HISA. Then pay high-interest debt. Then use TFSA, FHSA, or RRSP room.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One refund, one written job</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled order. Drafted 22 Sep 2026. Not tax advice.</text>
+  <rect x="24" y="78" width="210" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Buffer</text>
+  <text x="40" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No cash cushion?</text>
+  <text x="40" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One month of</text>
+  <text x="40" y="178" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">must-pays into</text>
+  <text x="40" y="198" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">an unregistered HISA.</text>
+  <text x="40" y="230" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Stops the card refilling.</text>
+  <rect x="250" y="78" width="220" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="266" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Expensive debt</text>
+  <text x="266" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">About 19% and up.</text>
+  <text x="266" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,000 at 20.99%</text>
+  <text x="266" y="178" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">is about $420</text>
+  <text x="266" y="198" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">of interest a year.</text>
+  <text x="266" y="230" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Your card agreement governs.</text>
+  <rect x="486" y="78" width="210" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="502" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Registered</text>
+  <text x="502" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TFSA room, or FHSA</text>
+  <text x="502" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">if a first home is real,</text>
+  <text x="502" y="178" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">or RRSP if the bracket</text>
+  <text x="502" y="198" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">says the deduction wins.</text>
+  <text x="502" y="230" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">2026 TFSA limit $7,000.</text>
+  <text x="24" y="314" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Direct-deposit the refund to a named HISA. CRA electronic timeline is about two weeks. Confirm canada.ca.</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Do not loop an RRSP refund into more RRSP while a high-rate card revolves.</text>
+  <text x="24" y="358" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Federal sketch only: 14% to $58,523 in 2026. Add provincial tax. Not a ruling.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. No debt-settlement pitch. $2,000 math is an illustration.</text>
+</svg>
