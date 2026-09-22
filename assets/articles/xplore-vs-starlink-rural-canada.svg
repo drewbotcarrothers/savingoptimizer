@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Xplore vs Starlink rural trade-offs</title>
+  <desc id="desc">Compare Xplore fibre, Xplore fixed wireless, and Starlink on latency, weather, hardware, and when to wait for funded fibre. Education only.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Xplore vs Starlink: pick the failure mode you can live with</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Trade-offs at one civic address. Not a brand ranking. Facts stamped 22 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Xplore fibre</text>
+  <text x="40" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Often under ~20 ms.</text>
+  <text x="40" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Up to 1 Gbps symmetrical</text>
+  <text x="40" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">where glass exists.</text>
+  <text x="40" y="194" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Best when dig is real.</text>
+  <rect x="252" y="78" width="216" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="106" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Xplore / WISP wireless</text>
+  <text x="268" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tower line of sight.</text>
+  <text x="268" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Up to ~500 Mbps class</text>
+  <text x="268" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">on some fixed wireless.</text>
+  <text x="268" y="194" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Foliage and rain matter.</text>
+  <rect x="480" y="78" width="216" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Starlink LEO</text>
+  <text x="496" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Often tens of ms.</text>
+  <text x="496" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Sky view + snow brush.</text>
+  <text x="496" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CAD is postal-code tied.</text>
+  <text x="496" y="194" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Verify Order Now live.</text>
+  <rect x="24" y="250" width="672" height="110" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="278" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rural shortlist</text>
+  <text x="40" y="304" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1) National Broadband Map / UBF  ·  2) Xplore or WISP quote  ·  3) Starlink checkout  ·  4) Dated fibre wait</text>
+  <text x="40" y="328" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">WFH uploads favour stable terrestrial paths when they exist. Education only — Saving Optimizer.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">xplore.ca address tools · starlink.com/ca · ISED National Broadband Map. No paid ranking.</text>
+</svg>

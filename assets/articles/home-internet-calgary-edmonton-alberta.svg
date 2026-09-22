@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Calgary and Edmonton home internet checklist</title>
+  <desc id="desc">PureFibre versus Rogers/Shaw cable, resellers, promo cliffs, and condo bulk caveats.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Calgary &amp; Edmonton: address-first internet</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">PureFibre vs Rogers on former Shaw plant. Facts stamped 22 Sep 2026.</text>
+  <rect x="24" y="78" width="328" height="130" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Technology at the unit</text>
+  <text x="40" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Telus PureFibre checker</text>
+  <text x="40" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rogers/Shaw cable checker</text>
+  <text x="40" y="176" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Upload tells glass vs coax.</text>
+  <rect x="368" y="78" width="328" height="130" rx="12" fill="#F3F4F6"/>
+  <text x="384" y="106" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Second quotes</text>
+  <text x="384" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Resellers / independents</text>
+  <text x="384" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">where wholesale reaches</text>
+  <text x="384" y="176" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">the suite wiring.</text>
+  <rect x="24" y="228" width="672" height="120" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="256" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3. Money clocks</text>
+  <text x="40" y="282" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Promo vs loyalty after 12–24 months · condo bulk fee may remain · winback when cliff hits</text>
+  <text x="40" y="308" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">See Telus PureFibre winback guide for Alberta retention pattern. Education only.</text>
+  <text x="24" y="386" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRTC wholesale context is not a retail price list. Saving Optimizer.</text>
+</svg>
