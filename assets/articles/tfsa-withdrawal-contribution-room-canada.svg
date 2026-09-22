@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">TFSA withdrawal room returns the next 1 January</title>
+  <desc id="desc">A July withdrawal does not free room until 1 January. Putting the cash back the same year can be taxed at 1 percent a month. Pause the payday transfer the same day.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">July cash is not July room</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled path after a full $7,000 contribution. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="78" width="210" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">July withdrawal</text>
+  <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Take $2,000 out.</text>
+  <text x="40" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2026 room stays $0</text>
+  <text x="40" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">if you were full.</text>
+  <text x="40" y="214" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Pause the PAD today.</text>
+  <rect x="250" y="78" width="220" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="266" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">August refill</text>
+  <text x="266" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Put $2,000 back with</text>
+  <text x="266" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">no unused room.</text>
+  <text x="266" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1% x $2,000 x 5 mo</text>
+  <text x="266" y="204" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">= about $100 if it stays.</text>
+  <text x="266" y="234" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Same-month removal still owes 1%.</text>
+  <rect x="486" y="78" width="210" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="502" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1 January</text>
+  <text x="502" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Withdrawal room</text>
+  <text x="502" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">returns, plus the</text>
+  <text x="502" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">new dollar limit.</text>
+  <text x="502" y="214" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Resize before any top-up.</text>
+  <text x="24" y="314" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A qualifying transfer between TFSA issuers is not a withdrawal. An e-Transfer to yourself is.</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Do not add a manual replacement on top of a PAD already sized to include that returned room.</text>
+  <text x="24" y="358" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Emergency cash: unregistered HISA. EQ TFSA cash 1.50% vs 2.75% unregistered, effective 16 Sep 2026. Re-check.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Form RC243 if excess. Education only. Not tax advice.</text>
+</svg>
