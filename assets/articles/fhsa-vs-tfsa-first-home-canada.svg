@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">FHSA versus TFSA cash efficiency for a first home</title>
+  <desc id="desc">FHSA: 8,000 dollars a year, 40,000 lifetime, deduction in, tax-free qualifying withdrawal, one-year carry-forward. TFSA: 7,000 dollar 2026 limit, unused room piles up, flexible withdrawal. Stack with HBP only if each program's rules are met. Do not move the same dollar through two wrappers.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Where the down-payment dollar should sit</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CRA figures used 22 Sep 2026. Not tax advice. Emergency cash stays in a HISA.</text>
+  <rect x="24" y="74" width="220" height="188" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="102" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">FHSA (home likely)</text>
+  <text x="40" y="128" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$8,000 new room / year</text>
+  <text x="40" y="148" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$40,000 lifetime</text>
+  <text x="40" y="168" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Deduction on the way in</text>
+  <text x="40" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tax-free if qualifying</text>
+  <text x="40" y="208" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Carry-forward max $8,000</text>
+  <text x="40" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">15-year clock. No repayment.</text>
+  <rect x="256" y="74" width="220" height="188" rx="12" fill="#F3F4F6"/>
+  <text x="272" y="102" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TFSA (maybe / other)</text>
+  <text x="272" y="128" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2026 limit $7,000</text>
+  <text x="272" y="148" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Unused room accumulates</text>
+  <text x="272" y="168" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No deduction</text>
+  <text x="272" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Withdrawal is flexible</text>
+  <text x="272" y="208" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Room returns next 1 Jan</text>
+  <text x="272" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Non-home goals live here.</text>
+  <rect x="488" y="74" width="208" height="188" rx="12" fill="#F3F4F6"/>
+  <text x="504" y="102" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Do not double-count</text>
+  <text x="504" y="128" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RRSP to FHSA uses</text>
+  <text x="504" y="148" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">FHSA room. Not a</text>
+  <text x="504" y="168" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">second deduction.</text>
+  <text x="504" y="196" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">HBP is a separate</text>
+  <text x="504" y="216" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$60,000 RRSP loan.</text>
+  <text x="504" y="236" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Same dollar, one wrapper.</text>
+  <rect x="24" y="278" width="672" height="92" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="306" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Decision order</text>
+  <text x="40" y="330" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. Emergency HISA funded. 2. Eligible and a home is plausible inside 15 years: FHSA for that slice.</text>
+  <text x="40" y="350" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Uncertain timeline or non-home goals: TFSA. 4. Stack HBP only with its own repayment calendar.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: CRA FHSA and TFSA pages; HBP limit from the Housing HBP guide. Used 22 Sep 2026. Education only.</text>
+</svg>

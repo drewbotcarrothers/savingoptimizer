@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Lower reported credit utilization without closing cards</title>
+  <desc id="desc">A labelled example: 7,000 dollars on 10,000 dollars of limits is 70 percent. Paying to 2,500 dollars is 25 percent. Pay before the statement if the issuer reports that balance. Do not close the oldest useful card to tidy a wallet. Utilization is a heuristic, not a statute. No credit-repair offer.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Reported balance over limit, not a tidier wallet</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled math. Under 30 percent is a heuristic, not a Canadian law. 22 Sep 2026.</text>
+  <rect x="24" y="78" width="320" height="36" rx="8" fill="#F3F4F6"/>
+  <rect x="24" y="78" width="224" height="36" rx="8" fill="#6B7280"/>
+  <text x="36" y="101" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">70%  ($7,000 / $10,000)</text>
+  <rect x="24" y="128" width="320" height="36" rx="8" fill="#E7F4EE"/>
+  <rect x="24" y="128" width="80" height="36" rx="8" fill="#0F7A4B"/>
+  <text x="112" y="151" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">25%  ($2,500 / $10,000)</text>
+  <rect x="364" y="74" width="332" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="380" y="102" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">60-day order</text>
+  <text x="380" y="128" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. List limits and statement dates</text>
+  <text x="380" y="148" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Pay high APR for interest</text>
+  <text x="380" y="168" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Pay before the statement</text>
+  <text x="380" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Keep needed cards open</text>
+  <text x="380" y="208" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">A new card is not the first move</text>
+  <rect x="24" y="244" width="672" height="120" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="272" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">What this page will not sell</text>
+  <text x="40" y="296" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No credit-repair firm, no debt-settlement pitch, no promise that a ratio produces a score.</text>
+  <text x="40" y="316" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Closing an old card shrinks the limit. A limit increase can be a hard inquiry. Interest is a separate bill.</text>
+  <text x="40" y="336" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Free Equifax and TransUnion disclosures are the check. Disputes of inaccurate items are free.</text>
+  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">FCAC: payment history and amounts owed are levers you can work. Education only. Not credit advice.</text>
+</svg>

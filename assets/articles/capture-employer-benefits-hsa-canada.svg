@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Employer benefits capture calendar</title>
+  <desc id="desc">Map the health spending account deadline, coordinate with a spouse plan, capture RRSP match and other payroll elections, and do not assume a US-style health savings account. Unused credits often expire at the plan year. Not tax advice.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Benefits expire on the booklet calendar, not yours</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian employer plans. Used 22 Sep 2026. Not a US health savings account.</text>
+  <rect x="24" y="74" width="216" height="160" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="102" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Health account</text>
+  <text x="40" y="130" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">HSA / HCSA credits</text>
+  <text x="40" y="150" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Eligible medical only</text>
+  <text x="40" y="178" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Use, carry, or lose</text>
+  <text x="40" y="206" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Read the plan-year date</text>
+  <rect x="252" y="74" width="216" height="160" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="102" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Payroll elections</text>
+  <text x="268" y="130" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RRSP match first</text>
+  <text x="268" y="150" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ESPP is often taxable</text>
+  <text x="268" y="178" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Charity via payroll</text>
+  <text x="268" y="206" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Still needs a receipt</text>
+  <rect x="480" y="74" width="216" height="160" rx="12" fill="#F3F4F6"/>
+  <text x="496" y="102" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Two plans</text>
+  <text x="496" y="130" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Your plan first</text>
+  <text x="496" y="150" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Spouse plan second</text>
+  <text x="496" y="178" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Do not claim a credit</text>
+  <text x="496" y="198" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">for a reimbursed bill</text>
+  <rect x="24" y="250" width="672" height="116" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="278" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Year-end and job change</text>
+  <text x="40" y="302" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Glasses, dental, physio, prescriptions: submit before the run-out. A wellness account may be a taxable benefit.</text>
+  <text x="40" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">When you leave, the health balance usually does not follow you. Confirm the last day of coverage in writing.</text>
+  <text x="40" y="342" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">There is no Canadian COBRA. Provincial health coverage is a separate card from the employer booklet.</text>
+  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Plan rules vary. Read the booklet. Education only. No product offers on this page.</text>
+</svg>
