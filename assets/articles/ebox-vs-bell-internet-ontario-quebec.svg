@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ebox vs Bell decision</title>
+  <desc id="desc">When the flanker wins on after-promo math versus when a Bell fibre promo or support need wins. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same Bell plant family. Different retail bill.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario / Québec flanker framework. Illustrative. Drafted 22 Sep 2026.</text>
+  <rect x="48" y="100" width="280" height="220" rx="12" fill="#E7F4EE"/>
+  <text x="188" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Pick Ebox when</text>
+  <text x="70" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">• After-promo 24-mo CAD is lower</text>
+  <text x="70" y="205" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">• You accept digital-first support</text>
+  <text x="70" y="230" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">• Modem policy and fees are clear</text>
+  <text x="70" y="255" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">• You do not need Bell TV stack</text>
+  <rect x="392" y="100" width="280" height="220" rx="12" fill="#F3F4F6"/>
+  <text x="532" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pick Bell when</text>
+  <text x="414" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">• Written Fibe promo beats flanker</text>
+  <text x="414" y="205" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">• Symmetrical upload matters</text>
+  <text x="414" y="230" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">• Store / phone support is a must</text>
+  <text x="414" y="255" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">• Bundle math is intentional</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ebox is a Bell Canada flanker brand. Availability and technology vary by address. Verify live carts.</text>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRTC 2026-43 fee context ~22 Sep 2026. Education only. Not a partnership ranking.</text>
+</svg>

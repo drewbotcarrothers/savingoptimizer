@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario independent ISP worksheet</title>
+  <desc id="desc">Compare upload, modem policy, after-promo rate, support signals across TekSavvy and other Ontario independents. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario independents: more than one wholesaler</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Checklist beyond TekSavvy. Brands change — verify live. Drafted 22 Sep 2026.</text>
+  <rect x="40" y="90" width="640" height="50" rx="8" fill="#0F7A4B"/>
+  <text x="60" y="122" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Address qualifies? → Upload listed? → Modem BYO/loaner? → After-promo $? → Support path?</text>
+  <rect x="40" y="160" width="200" height="140" rx="10" fill="#E7F4EE"/>
+  <text x="140" y="195" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">TekSavvy</text>
+  <text x="140" y="225" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Credits + phone</text>
+  <text x="140" y="250" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Wide plant mix</text>
+  <rect x="260" y="160" width="200" height="140" rx="10" fill="#C5E3D4"/>
+  <text x="360" y="195" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Start.ca-style</text>
+  <text x="360" y="225" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Regional focus</text>
+  <text x="360" y="250" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Verify tiers</text>
+  <rect x="480" y="160" width="200" height="140" rx="10" fill="#F3F4F6"/>
+  <text x="580" y="195" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Distributel-style</text>
+  <text x="580" y="225" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Wholesale cable</text>
+  <text x="580" y="250" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">/ fibre labels</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Also price Oxio, Ebox, and incumbents. A missing independent is normal — not a conspiracy.</text>
+  <text x="24" y="375" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRTC wholesale rates are not retail prices. Cart overrides blogs. Education only.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Use with the independent switch checklist before you cancel the incumbent.</text>
+</svg>

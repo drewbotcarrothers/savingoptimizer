@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">West retention 30-day calendar</title>
+  <desc id="desc">Timeline: day 0 gather quotes, day 7 file cancel, day 14 retention call, day 21 email terms, day 30 walk or stay. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">West retention is a 30-day calendar, not nostalgia</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative BC / Alberta playbook. Drafted 22 Sep 2026. Not a Rogers offer.</text>
+  <rect x="40" y="100" width="120" height="160" rx="10" fill="#E7F4EE"/>
+  <text x="100" y="140" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Day 0–3</text>
+  <text x="100" y="170" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Telus + Oxio</text>
+  <text x="100" y="190" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ independent</text>
+  <text x="100" y="220" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">24-mo CAD</text>
+  <rect x="180" y="100" width="120" height="160" rx="10" fill="#C5E3D4"/>
+  <text x="240" y="140" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Day 4–10</text>
+  <text x="240" y="170" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Future-dated</text>
+  <text x="240" y="190" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">cancel filed</text>
+  <text x="240" y="220" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Keep gateway</text>
+  <rect x="320" y="100" width="120" height="160" rx="10" fill="#0F7A4B"/>
+  <text x="380" y="140" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Day 11–20</text>
+  <text x="380" y="170" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Winback /</text>
+  <text x="380" y="190" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">retention call</text>
+  <text x="380" y="220" text-anchor="middle" font-size="11" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Ask in email</text>
+  <rect x="460" y="100" width="120" height="160" rx="10" fill="#E7F4EE"/>
+  <text x="520" y="140" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Day 21–30</text>
+  <text x="520" y="170" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Stay if email</text>
+  <text x="520" y="190" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">beats BATNA</text>
+  <text x="520" y="220" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Else switch</text>
+  <rect x="600" y="100" width="90" height="160" rx="10" fill="#F3F4F6"/>
+  <text x="645" y="160" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Calendar</text>
+  <text x="645" y="185" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">next cliff</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Ask for: monthly rate · credits · gateway waiver · term · ETF schedule · promo end date</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRTC 2026-43 (12 Jun 2026): most activation fees banned; home-internet term ETFs can still apply. Education only.</text>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Pair with Telus PureFibre and Vancouver address guides. Community offers vary by province.</text>
+</svg>

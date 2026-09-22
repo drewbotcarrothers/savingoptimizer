@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">RFD internet deal hygiene checklist</title>
+  <desc id="desc">Filter city, technology, after-promo price; verify live; cross-check ISP and independent; build BATNA. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">RFD is research. Your cart is the quote.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Same-day hygiene for Canadian internet threads. Drafted 22 Sep 2026.</text>
+  <rect x="40" y="90" width="150" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="115" y="120" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Filter</text>
+  <text x="115" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">City / postal</text>
+  <text x="115" y="170" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cable vs fibre</text>
+  <text x="115" y="190" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">After-promo $</text>
+  <text x="115" y="220" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Term + ETF</text>
+  <rect x="210" y="90" width="150" height="200" rx="12" fill="#C5E3D4"/>
+  <text x="285" y="120" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Verify</text>
+  <text x="285" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Post date</text>
+  <text x="285" y="170" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ISP site live?</text>
+  <text x="285" y="190" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Address check</text>
+  <text x="285" y="220" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Screenshot cart</text>
+  <rect x="380" y="90" width="150" height="200" rx="12" fill="#0F7A4B"/>
+  <text x="455" y="120" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">3. BATNA</text>
+  <text x="455" y="150" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">24-mo totals</text>
+  <text x="455" y="170" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Independent</text>
+  <text x="455" y="190" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Flanker</text>
+  <text x="455" y="220" text-anchor="middle" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Walk number</text>
+  <rect x="550" y="90" width="140" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="620" y="120" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Call</text>
+  <text x="620" y="155" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Read BATNA</text>
+  <text x="620" y="180" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Demand email</text>
+  <text x="620" y="205" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Calendar cliff</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Dead-deal tells: months-old OP, “worked for my cousin,” no speed or city, promo with no after price.</text>
+  <text x="24" y="375" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Forums.redflagdeals.com is user content. CRTC fee facts are separate. Education only.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Use with the three-quote method — never as your only price source.</text>
+</svg>

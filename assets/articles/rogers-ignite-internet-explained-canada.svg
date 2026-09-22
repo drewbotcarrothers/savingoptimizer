@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ignite fee and bundle stack</title>
+  <desc id="desc">Internet rate plus gateway plus TV or phone add-ons versus internet-only. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ignite is branding. The bill is a stack.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative monthly anatomy. Verify live. Drafted 22 Sep 2026.</text>
+  <rect x="60" y="200" width="100" height="120" rx="8" fill="#0F7A4B"/>
+  <text x="110" y="190" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Internet</text>
+  <text x="110" y="270" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Plan rate</text>
+  <rect x="180" y="240" width="100" height="80" rx="8" fill="#C5E3D4"/>
+  <text x="230" y="230" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Gateway</text>
+  <text x="230" y="285" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~$10?</text>
+  <rect x="300" y="160" width="100" height="160" rx="8" fill="#F3F4F6"/>
+  <text x="350" y="150" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TV add-on</text>
+  <text x="350" y="250" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Own clock</text>
+  <rect x="420" y="210" width="100" height="110" rx="8" fill="#F3F4F6"/>
+  <text x="470" y="200" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Phone</text>
+  <text x="470" y="270" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Own clock</text>
+  <rect x="540" y="100" width="140" height="220" rx="12" fill="#E7F4EE"/>
+  <text x="610" y="140" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ask</text>
+  <text x="560" y="175" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">All-in monthly?</text>
+  <text x="560" y="200" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">BYO modem?</text>
+  <text x="560" y="225" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Promo end?</text>
+  <text x="560" y="250" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ETF?</text>
+  <text x="560" y="275" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Upload?</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ignite / Xfinity Home packaging sits on DOCSIS cable plant in many markets. Fibre competitors can win on upload.</text>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Public Rogers cards rotate. Education only. Not a plan catalogue.</text>
+</svg>
