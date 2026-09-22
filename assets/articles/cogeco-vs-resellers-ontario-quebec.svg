@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cogeco retail vs reseller on same cable</title>
+  <desc id="desc">Same plant, different 24-month bills for Cogeco retail versus wholesalers like Oxio. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same Cogeco cable. Different retail bill.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario / Québec illustrative stacks. Drafted 22 Sep 2026. Not quotes.</text>
+  <rect x="80" y="120" width="220" height="180" rx="12" fill="#F3F4F6"/>
+  <text x="190" y="160" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cogeco retail</text>
+  <text x="190" y="195" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Promo → regular</text>
+  <text x="190" y="220" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Store support</text>
+  <text x="190" y="245" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">TV hooks</text>
+  <rect x="360" y="100" width="220" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="470" y="150" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Reseller (e.g. Oxio)</text>
+  <text x="470" y="185" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Often flatter rate</text>
+  <text x="470" y="210" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Digital support</text>
+  <text x="470" y="235" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Same last mile</text>
+  <text x="470" y="270" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Compare 24-mo CAD</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Retail promo can still win — only the email and the worksheet decide.</text>
+  <text x="24" y="375" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Oxio Ontario rows in companion guides use Cogeco plant. Confirm your unit.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Cancellation and modem return checklists prevent double billing. Education only.</text>
+</svg>

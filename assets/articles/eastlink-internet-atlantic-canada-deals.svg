@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Atlantic thin-market shopping paths</title>
+  <desc id="desc">Eastlink cable versus Bell Aliant fibre versus fixed wireless or satellite when choice is thin. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Atlantic internet: thin choice, thick prep</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">NS, NB, PEI, NL patterns. Illustrative. Drafted 22 Sep 2026.</text>
+  <rect x="40" y="95" width="200" height="180" rx="12" fill="#0F7A4B"/>
+  <text x="140" y="140" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Eastlink cable</text>
+  <text x="140" y="175" text-anchor="middle" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Promo vs loyalty</text>
+  <text x="140" y="200" text-anchor="middle" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Equipment fees</text>
+  <text x="140" y="225" text-anchor="middle" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Winback script</text>
+  <rect x="260" y="95" width="200" height="180" rx="12" fill="#E7F4EE"/>
+  <text x="360" y="140" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Bell / Aliant</text>
+  <text x="360" y="175" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fibre where lit</text>
+  <text x="360" y="200" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Upload check</text>
+  <text x="360" y="225" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Written terms</text>
+  <rect x="480" y="95" width="200" height="180" rx="12" fill="#F3F4F6"/>
+  <text x="580" y="140" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If both fail</text>
+  <text x="580" y="175" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Independent?</text>
+  <text x="580" y="200" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fixed wireless</text>
+  <text x="580" y="225" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Satellite last</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Thin markets reward calendars: promo end + 45-day re-shop alarm.</text>
+  <text x="24" y="355" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">National Broadband Map and address tools override assumptions. Education only.</text>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRTC fee rules still apply regionally — activation ban vs possible term ETFs.</text>
+</svg>
