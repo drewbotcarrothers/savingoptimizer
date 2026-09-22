@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Mobile plus home internet loyalty math</title>
+  <desc id="desc">Four-column worksheet: status quo, loyalty credit, internet-only, and independent plus cheap mobile. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Loyalty credit vs four honest totals</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Add the mobile plan you would not have chosen. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="78" width="155" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="36" y="108" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A. Status quo</text>
+  <text x="36" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Current mobile</text>
+  <text x="36" y="164" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Current internet</text>
+  <text x="36" y="188" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">24-month total</text>
+  <rect x="191" y="78" width="155" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="203" y="108" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">B. + loyalty</text>
+  <text x="203" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Credit end month</text>
+  <text x="203" y="164" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Required mobile tier</text>
+  <text x="203" y="188" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Device financing</text>
+  <rect x="358" y="78" width="155" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="370" y="108" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">C. Internet-only</text>
+  <text x="370" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Same ISP, no mobile</text>
+  <text x="370" y="164" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Separate phone plan</text>
+  <text x="370" y="188" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ask in writing</text>
+  <rect x="525" y="78" width="171" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="537" y="108" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">D. À-la-carte</text>
+  <text x="537" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Independent ISP</text>
+  <text x="537" y="164" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Flanker / prepaid</text>
+  <text x="537" y="188" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Often the win</text>
+  <rect x="24" y="300" width="672" height="72" rx="12" fill="#0F7A4B"/>
+  <text x="40" y="334" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">If a $15 internet credit forces a $20-worse mobile plan, you are underwater.</text>
+  <text x="40" y="358" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Get credit end dates in email. Education only.</text>
+  <text x="24" y="398" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Patterns as of 22 Sep 2026. Live quotes override this diagram.</text>
+</svg>
