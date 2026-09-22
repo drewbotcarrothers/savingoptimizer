@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian budget split adjustments</title>
+  <desc id="desc">Stacked bars comparing 50/30/20, 60/20/20, and 70/20/10 needs, wants, and future splits.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same labels, city-honest percentages</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Needs / wants / future. Illustrative only. ~22 Sep 2026.</text>
+  <text x="80" y="92" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">50/30/20</text>
+  <rect x="160" y="78" width="200" height="28" fill="#0F7A4B"/>
+  <rect x="360" y="78" width="120" height="28" fill="#6B7280"/>
+  <rect x="480" y="78" width="80" height="28" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="80" y="142" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">60/20/20</text>
+  <rect x="160" y="128" width="240" height="28" fill="#0F7A4B"/>
+  <rect x="400" y="128" width="80" height="28" fill="#6B7280"/>
+  <rect x="480" y="128" width="80" height="28" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="80" y="192" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">70/20/10</text>
+  <rect x="160" y="178" width="280" height="28" fill="#0F7A4B"/>
+  <rect x="440" y="178" width="80" height="28" fill="#6B7280"/>
+  <rect x="520" y="178" width="40" height="28" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <rect x="24" y="240" width="18" height="18" fill="#0F7A4B"/>
+  <text x="50" y="254" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Needs (shelter, childcare, transit to work)</text>
+  <rect x="24" y="272" width="18" height="18" fill="#6B7280"/>
+  <text x="50" y="286" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Wants (flexible lifestyle)</text>
+  <rect x="24" y="304" width="18" height="18" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="50" y="318" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Future (savings, debt extra, registered room)</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">High Canadian shelter costs raise the needs floor — adjust the split instead of quitting.</text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Keep sinking funds for property tax and insurance as named jobs. FCAC budgeting tools help.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not a city ranking or a required percentage set.</text>
+</svg>
