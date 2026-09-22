@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Pod rental versus buying mesh</title>
+  <desc id="desc">Illustrative totals: one pod at 10 or 15 dollars a month over 24 and 36 months, versus a one-time mesh purchase around 200 dollars. Not an invoice. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The pod line compounds. A purchase does not.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative CAD before tax. Use your invoice. Drafted 22 Sep 2026.</text>
+  <rect x="48" y="150" width="70" height="150" rx="8" fill="#C5E3D4"/>
+  <text x="83" y="140" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$240</text>
+  <text x="83" y="322" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$10 x 24</text>
+  <rect x="140" y="110" width="70" height="190" rx="8" fill="#E7F4EE"/>
+  <text x="175" y="100" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$360</text>
+  <text x="175" y="322" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$15 x 24</text>
+  <rect x="232" y="110" width="70" height="190" rx="8" fill="#C5E3D4"/>
+  <text x="267" y="100" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$360</text>
+  <text x="267" y="322" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$10 x 36</text>
+  <rect x="324" y="78" width="70" height="222" rx="8" fill="#F3F4F6"/>
+  <text x="359" y="68" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$540</text>
+  <text x="359" y="322" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$15 x 36</text>
+  <rect x="416" y="188" width="70" height="112" rx="8" fill="#0F7A4B"/>
+  <text x="451" y="178" text-anchor="middle" font-size="12" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$200</text>
+  <text x="451" y="322" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Buy once</text>
+  <rect x="520" y="78" width="176" height="222" rx="12" fill="#E7F4EE"/>
+  <text x="536" y="108" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Rent if</text>
+  <text x="536" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Included at $0</text>
+  <text x="536" y="152" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One dead room</text>
+  <text x="536" y="172" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Leaving within a year</text>
+  <text x="536" y="204" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Buy if</text>
+  <text x="536" y="228" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">You will pay 2 to 3 years</text>
+  <text x="536" y="248" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">The house needs two nodes</text>
+  <text x="536" y="276" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Return their pods.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$10 to $15 is a planning band, not a tariff. Two pods double the rental bars.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A mesh kit does not raise the plan speed. Test ethernet at the modem first.</text>
+  <text x="24" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Hardware non-return fees can still apply.</text>
+</svg>

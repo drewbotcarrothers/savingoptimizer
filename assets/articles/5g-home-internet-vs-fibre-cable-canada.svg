@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Wireless home versus fibre or cable</title>
+  <desc id="desc">If fibre or cable is at the unit and you upload for work, stay on the wire. If the wire is weak, test 5G or fixed wireless. If the tower fails, look at satellite. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Wireless home is a branch, not the default.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Decision order for Canadian addresses. Drafted 22 Sep 2026.</text>
+  <rect x="230" y="74" width="260" height="52" rx="10" fill="#0F7A4B"/>
+  <text x="360" y="105" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Fibre or cable already here?</text>
+  <rect x="24" y="156" width="210" height="100" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="184" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Yes, and you upload</text>
+  <text x="40" y="208" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Stay on the wire.</text>
+  <text x="40" y="228" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Shop a winback.</text>
+  <rect x="254" y="156" width="212" height="100" rx="12" fill="#F3F4F6"/>
+  <text x="270" y="184" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Wire is weak or absent</text>
+  <text x="270" y="208" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Test 5G home or a</text>
+  <text x="270" y="228" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">local fixed wireless.</text>
+  <rect x="486" y="156" width="210" height="100" rx="12" fill="#F3F4F6"/>
+  <text x="502" y="184" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tower test fails</text>
+  <text x="502" y="208" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Funded fibre first,</text>
+  <text x="502" y="228" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">then satellite.</text>
+  <rect x="24" y="278" width="672" height="72" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="306" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rogers policy: after the high-speed allotment, 10 Mbps down and 2 Mbps up until next cycle.</text>
+  <text x="40" y="330" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Telus footnotes: ordinary use, and a $20 unlimited add-on can return at month 25. Re-read the page.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Short rentals, cottages, and backup lines are the usual good fits. Gaming and heavy upload are not.</text>
+  <text x="24" y="402" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Indoor speeds depend on the window, the tower, and the walls.</text>
+</svg>

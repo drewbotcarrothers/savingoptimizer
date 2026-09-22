@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Alberta and B.C. internet decision order</title>
+  <desc id="desc">Check PureFibre at the unit, then compare Rogers cable, building fibre, and an independent. Do not book install until an email lists rate, upload, term, and ETF. Drafted 22 Sep 2026. Not a quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Address first. The winback email second.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Alberta and B.C. units differ by plant. Drafted 22 Sep 2026. Not a provider offer.</text>
+  <rect x="24" y="78" width="160" height="88" rx="12" fill="#0F7A4B"/>
+  <text x="104" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">1. PureFibre</text>
+  <text x="104" y="134" text-anchor="middle" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">at this unit?</text>
+  <rect x="200" y="78" width="160" height="88" rx="12" fill="#E7F4EE"/>
+  <text x="280" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Rogers cable</text>
+  <text x="280" y="134" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">former Shaw plant</text>
+  <rect x="376" y="78" width="160" height="88" rx="12" fill="#F3F4F6"/>
+  <text x="456" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Building fibre</text>
+  <text x="456" y="134" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">or an independent</text>
+  <rect x="552" y="78" width="144" height="88" rx="12" fill="#F3F4F6"/>
+  <text x="624" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. 24-month</text>
+  <text x="624" y="134" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">total, then call</text>
+  <rect x="24" y="190" width="672" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="44" y="222" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Do not book the truck until one email lists</text>
+  <text x="44" y="252" font-size="14" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Monthly rate and the month credits end</text>
+  <text x="44" y="276" font-size="14" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Download and upload, named as fibre or cable</text>
+  <text x="400" y="252" font-size="14" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Term length and ETF schedule</text>
+  <text x="400" y="276" font-size="14" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Self-install or a technician fee</text>
+  <text x="44" y="312" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">No email, no deal. Forum prices are stories.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">PureFibre symmetry notes are a 9 Sep 2026 third-party Calgary snapshot. Re-check telus.com.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRTC 2026-43: no-visit activation fees generally banned from 12 Jun 2026. Home-internet ETFs can remain.</text>
+</svg>
