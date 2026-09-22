@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">UBF rural fibre status check</title>
+  <desc id="desc">Check the National Broadband Map, then builder notices, then a bridge plan while you wait. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Is funded fibre actually coming?</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Map layer, then a dated builder answer. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="90" width="200" height="180" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="128" font-size="40" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1</text>
+  <text x="40" y="180" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">National Broadband Map</text>
+  <text x="40" y="208" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Current vs UBF layers</text>
+  <rect x="248" y="90" width="200" height="180" rx="12" fill="#E7F4EE"/>
+  <text x="264" y="128" font-size="40" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2</text>
+  <text x="264" y="180" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Builder / ISP notice</text>
+  <text x="264" y="208" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask for a quarter</text>
+  <rect x="472" y="90" width="224" height="180" rx="12" fill="#F3F4F6"/>
+  <text x="488" y="128" font-size="40" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3</text>
+  <text x="488" y="180" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Bridge plan</text>
+  <text x="488" y="208" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">WISP / LTE / satellite</text>
+  <rect x="24" y="294" width="672" height="72" rx="12" fill="#0F7A4B"/>
+  <text x="40" y="328" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">A hexagon is not a modem. Do not freeze on 5 Mbps out of patriotism.</text>
+  <text x="40" y="352" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Revisit the map every six months. Education only.</text>
+  <text x="24" y="398" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">ISED map and UBF program pages — confirm live. Drafted 22 Sep 2026.</text>
+</svg>

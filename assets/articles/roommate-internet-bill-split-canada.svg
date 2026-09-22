@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Roommate internet bill split</title>
+  <desc id="desc">Account name risk, fair split formulas, and e-Transfer cadence for Canadian roommates. Drafted 22 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One account name. Clear splits. Written rules.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">The ISP bills the named holder. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="78" width="320" height="220" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Account risk</text>
+  <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Credit and ETF on named party</text>
+  <text x="40" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Late e-Transfer is your problem</text>
+  <text x="40" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Gear return on one person</text>
+  <text x="40" y="220" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">CCTS is not roommate court.</text>
+  <rect x="364" y="78" width="332" height="220" rx="12" fill="#E7F4EE"/>
+  <text x="380" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Agreement basics</text>
+  <text x="380" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Equal / usage / room formula</text>
+  <text x="380" y="164" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Due date before ISP due date</text>
+  <text x="380" y="188" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Move-out buyout clause</text>
+  <text x="380" y="220" font-size="13" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Photo the modem serial</text>
+  <rect x="24" y="320" width="672" height="52" rx="12" fill="#0F7A4B"/>
+  <text x="40" y="352" font-size="13" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Write it on one page before the first bill. Education only — not legal advice.</text>
+  <text x="24" y="398" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Provincial tenancy and roommate rules differ. Confirm locally.</text>
+</svg>
