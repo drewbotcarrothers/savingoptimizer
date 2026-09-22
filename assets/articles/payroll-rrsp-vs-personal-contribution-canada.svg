@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Payroll RRSP versus personal contribution</title>
+  <desc id="desc">Capture the employer match through payroll, then compare fees for amounts above the match in a personal RRSP.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Payroll RRSP vs personal: match, then fees</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Cashflow always. Drafted 22 Sep 2026. Not investment advice.</text>
+  <rect x="24" y="78" width="220" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="110" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Capture match</text>
+  <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Payroll percent that</text>
+  <text x="40" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">completes the formula.</text>
+  <text x="40" y="190" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Only if take-home</text>
+  <text x="40" y="210" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">still clears must-pays.</text>
+  <rect x="260" y="78" width="220" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="276" y="110" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Compare fees</text>
+  <text x="276" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Group MER vs personal</text>
+  <text x="276" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">brokerage RRSP for</text>
+  <text x="276" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">dollars above the match.</text>
+  <text x="276" y="214" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Direct transfer only.</text>
+  <rect x="496" y="78" width="200" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="512" y="110" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Hybrid OK</text>
+  <text x="512" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Match via payroll.</text>
+  <text x="512" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rest personal PAD.</text>
+  <text x="512" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Stay inside room.</text>
+  <text x="512" y="214" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">2026 limit $33,810.</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">High-rate revolving debt still outranks extra RRSP above the match.</text>
+  <text x="24" y="342" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No fund picks. Education only.</text>
+
+</svg>

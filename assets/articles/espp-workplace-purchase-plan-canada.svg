@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian ESPP discount checklist</title>
+  <desc id="desc">Check cashflow fit, concentration risk, and tax slips before treating an ESPP discount as savings.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">ESPP: is the discount real?</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Cashflow and concentration first. Drafted 22 Sep 2026.</text>
+  <rect x="24" y="78" width="210" height="180" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="110" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Cashflow</text>
+  <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Will the percent</text>
+  <text x="40" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">still clear rent and</text>
+  <text x="40" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">debt minimums?</text>
+  <rect x="250" y="78" width="210" height="180" rx="12" fill="#E7F4EE"/>
+  <text x="266" y="110" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Concentration</text>
+  <text x="266" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Salary plus stock</text>
+  <text x="266" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">in one employer is</text>
+  <text x="266" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">a correlated bet.</text>
+  <rect x="476" y="78" width="220" height="180" rx="12" fill="#F3F4F6"/>
+  <text x="492" y="110" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Tax + exit</text>
+  <text x="492" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Expect possible</text>
+  <text x="492" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">taxable benefit.</text>
+  <text x="492" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Quick sale vs hold</text>
+  <text x="492" y="200" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">only per the plan.</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A ~21% revolving card usually beats ESPP for the next spare dollar.</text>
+  <text x="24" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Skip when cashflow is fragile or employer stock already dominates.</text>
+  <text x="24" y="344" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not a trade recommendation. Verify tax with a pro.</text>
+
+</svg>

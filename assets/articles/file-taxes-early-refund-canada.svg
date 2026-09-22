@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Early Canadian tax filing path</title>
+  <desc id="desc">Set CRA My Account direct deposit, gather complete slips, NETFILE, then assign the refund to debt or a buffer.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">File early — only with a complete file</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Direct deposit first. Drafted 22 Sep 2026. Not tax advice.</text>
+  <rect x="24" y="78" width="155" height="170" rx="12" fill="#E7F4EE"/>
+  <text x="36" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. My Account</text>
+  <text x="36" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Direct deposit</text>
+  <text x="36" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">and online mail</text>
+  <text x="36" y="178" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">before you transmit.</text>
+  <rect x="195" y="78" width="155" height="170" rx="12" fill="#E7F4EE"/>
+  <text x="207" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">2. Slips</text>
+  <text x="207" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">T4 / T4A after</text>
+  <text x="207" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">late February.</text>
+  <text x="207" y="178" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">RRSP receipts too.</text>
+  <rect x="366" y="78" width="155" height="170" rx="12" fill="#E7F4EE"/>
+  <text x="378" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3. NETFILE</text>
+  <text x="378" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Window opens</text>
+  <text x="378" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">23 Feb 2026.</text>
+  <text x="378" y="178" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Complete files only.</text>
+  <rect x="537" y="78" width="159" height="170" rx="12" fill="#F3F4F6"/>
+  <text x="549" y="108" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Refund job</text>
+  <text x="549" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Buffer if empty,</text>
+  <text x="549" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">then ~19%+ debt.</text>
+  <text x="549" y="178" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Skip advances.</text>
+  <text x="24" y="290" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRA electronic refunds with direct deposit are often described on the order of about two weeks. Confirm canada.ca.</text>
+  <text x="24" y="312" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Missing slips create reviews, not speed. Pre-commit the deposit the night you file.</text>
+  <text x="24" y="334" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. No refund-advance or debt-settlement pitch.</text>
+
+</svg>
