@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">WFH upload speed decision</title>
+  <desc id="desc">Upload needs, asymmetric cable limits, fibre checks, and wired testing before mesh spending.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">WFH uploads: cable feels fine until it does not</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Download tiers do not fix a 10 Mbps upload. Facts stamped 22 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Needs</text>
+  <text x="40" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">HD call ~3–5 Mbps up</text>
+  <text x="40" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">each concurrent user</text>
+  <text x="40" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">+ VPN + backup headroom</text>
+  <text x="40" y="194" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Leave spare capacity.</text>
+  <rect x="252" y="78" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="106" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cable tell</text>
+  <text x="268" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fast down, modest up</text>
+  <text x="268" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Evening node congestion</text>
+  <text x="268" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Feels fine until 2 Zoom</text>
+  <text x="268" y="194" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">homes share the pipe.</text>
+  <rect x="480" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Test right</text>
+  <text x="496" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ethernet to gateway</text>
+  <text x="496" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pause backup / cameras</text>
+  <text x="496" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Noon and 7 p.m. tests</text>
+  <text x="496" y="194" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Then judge Wi-Fi.</text>
+  <rect x="24" y="240" width="672" height="110" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="268" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Upgrade vs mesh</text>
+  <text x="40" y="294" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Wired upload at plan limit → plan/tech change. Wired fine, Wi-Fi weak → mesh/ethernet.</text>
+  <text x="40" y="318" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">CRTC 50/10 is a policy floor, not a two-person WFH design. Education only.</text>
+  <text x="24" y="386" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Fibre vs cable guide · speed worksheet · Saving Optimizer.</text>
+</svg>

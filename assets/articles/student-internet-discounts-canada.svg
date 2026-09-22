@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Student internet discounts and lease math</title>
+  <desc id="desc">Campus deals versus flankers, roommate splits, and contract dates aligned to leases.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Student internet: sticker vs lease calendar</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Campus deals expire. 24-month terms often outlast August 31. Facts stamped 22 Sep 2026.</text>
+  <rect x="24" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Verify campus</text>
+  <text x="40" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">.edu / student portal</text>
+  <text x="40" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">codes each term.</text>
+  <text x="40" y="176" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Speed + ETF in writing.</text>
+  <rect x="252" y="78" width="216" height="140" rx="12" fill="#F3F4F6"/>
+  <text x="268" y="106" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Price flankers</text>
+  <text x="268" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Same last mile, often</text>
+  <text x="268" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">cheaper than “student”.</text>
+  <text x="268" y="176" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Fizz, Lucky, Public, etc.</text>
+  <rect x="480" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
+  <text x="496" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Roommate math</text>
+  <text x="496" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One account holder.</text>
+  <text x="496" y="150" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Written split + move-out.</text>
+  <text x="496" y="176" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">End date ≤ lease end.</text>
+  <rect x="24" y="240" width="672" height="110" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="268" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hotspot semester?</text>
+  <text x="40" y="294" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Maybe for a solo dorm with campus Ethernet. Rarely for a 4K house of five.</text>
+  <text x="40" y="318" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Internet Code notices and fixed-term ETFs still apply. Education only — Saving Optimizer.</text>
+  <text x="24" y="386" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRTC Internet Code · address quotes · no invented campus partnerships.</text>
+</svg>
