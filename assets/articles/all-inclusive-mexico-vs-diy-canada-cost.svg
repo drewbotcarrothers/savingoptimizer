@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled all-inclusive package versus do-it-yourself Cancun week</title>
+  <desc id="desc">Two adults, seven nights, labelled sketch in Canadian dollars. Package door to door about 2590 dollars including a tip sketch. Do-it-yourself with restaurant-level food about 2880 dollars. The same DIY stack with simpler food and a cheaper flight can fall near 2355 dollars.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same week, three totals, before travel medical</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Two adults, 7 nights. Labelled sketch. Placeholder FX 1.36 CAD per USD for tips only.</text>
+  <text x="24" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Package + tip sketch</text>
+  <rect x="210" y="90" width="330" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="550" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$2,590</text>
+  <text x="24" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">DIY, meals out</text>
+  <rect x="210" y="140" width="368" height="26" rx="4" fill="#9CA3AF"/>
+  <text x="588" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$2,880</text>
+  <text x="24" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">DIY, simpler food</text>
+  <text x="24" y="226" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">and a $700 flight</text>
+  <rect x="210" y="200" width="300" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="520" y="218" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$2,355</text>
+  <text x="24" y="276" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Package wins in the first DIY stack. It loses when you will not drink the included alcohol</text>
+  <text x="24" y="298" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">and the cash flights are actually on sale. Medical insurance is a separate Insurance decision.</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Do not deposit until both columns use the same dates and the same party.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Illustrative Canadian-origin week. Not a live package. Re-price before you pay a deposit.</text>
+</svg>

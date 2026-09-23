@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cents per point decision against a cash-back floor</title>
+  <desc id="desc">Household rule: if cents per point are below the cash-back alternative, buy the ticket. A labelled 2 percent cash-back floor sits above a 0.8 cent redemption and below a 2.1 cent short-haul redemption.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">If the points lose to cash back, pay cash</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled $310 fare, $45 taxes on the reward. Your cash-back percent is the line that matters.</text>
+  <line x1="80" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
+  <line x1="80" y1="100" x2="80" y2="300" stroke="#E5E7EB"/>
+  <line x1="80" y1="140" x2="660" y2="140" stroke="#0F7A4B" stroke-dasharray="6 4"/>
+  <text x="250" y="88" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Dashed line: 2.0 cent cash-back floor</text>
+  <rect x="140" y="130.4" width="90" height="169.6" fill="#0F7A4B"/>
+  <text x="152" y="122" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">2.12 c</text>
+  <text x="148" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Short-haul</text>
+  <text x="152" y="338" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">12,500 pts</text>
+  <rect x="320" y="239.2" width="90" height="60.8" fill="#9CA3AF"/>
+  <text x="336" y="230" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#6B7280">0.76 c</text>
+  <text x="318" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Dynamic price</text>
+  <text x="330" y="338" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">35,000 pts</text>
+  <rect x="500" y="180" width="90" height="120" fill="#0F7A4B"/>
+  <text x="516" y="172" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">1.5 c floor</text>
+  <text x="498" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Your number</text>
+  <text x="508" y="338" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">write it down</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Chart "starting at" prices are a ceiling check after 1 Jun 2026, not the price Air Canada will charge.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Aeroplan flight reward chart PDF dated 2026-08, used 23 Sep 2026. Education only. Not a card ranking.</text>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Scene+ fixed one cent versus variable Aeroplan cents per point</title>
+  <desc id="desc">Scene+ travel redemptions are 100 points for 1 dollar, a fixed 1 cent. The same cash fare can be worth about 2.1 cents, 1.1 cents, or 0.8 cents per Aeroplan point depending on the points price. Below 1 cent, the fixed portal or cash is the simpler result.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Fixed penny versus a moving Aeroplan price</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Same labelled $310 cash fare, taxes on the reward $45. Method: (cash minus reward taxes) / points.</text>
+  <line x1="70" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="228" x2="680" y2="228" stroke="#0F7A4B" stroke-dasharray="5 4"/>
+  <text x="500" y="220" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Scene+ travel = 1.0 cent</text>
+  <rect x="110" y="148.8" width="70" height="151.2" fill="#0F7A4B"/>
+  <text x="118" y="140" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">2.1 c</text>
+  <text x="96" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">12,500 pts</text>
+  <rect x="280" y="223.7" width="70" height="76.3" fill="#0F7A4B"/>
+  <text x="288" y="214" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">1.06 c</text>
+  <text x="270" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">25,000 pts</text>
+  <rect x="450" y="242.4" width="70" height="57.6" fill="#9CA3AF"/>
+  <text x="462" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#6B7280">0.8 c</text>
+  <text x="440" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">35,000 pts</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Grey bar is under the Scene+ penny. Buy cash or use the portal. Do not treat points as free.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Scene+ 100 points = $1 on Scene+ Travel, read 23 Sep 2026. Aeroplan prices move. Not a card ranking.</text>
+</svg>
