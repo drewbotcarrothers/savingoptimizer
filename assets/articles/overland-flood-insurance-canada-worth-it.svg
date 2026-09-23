@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Whether an overland flood endorsement is worth buying</title>
+  <desc id="desc">Separate overland flood from sewer backup and groundwater, check public maps, confirm the postal code is eligible, then compare the endorsement limit with the cost to restore the vulnerable floor.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Is the overland endorsement worth it?</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Limit versus the floor that floods. Not a national premium. 23 Sep 2026.</text>
+  <rect x="24" y="78" width="210" height="64" rx="10" fill="#0F7A4B"/>
+  <text x="36" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">1. Name the peril</text>
+  <text x="36" y="126" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">Overland, sewer, or groundwater</text>
+  <rect x="254" y="78" width="210" height="64" rx="10" fill="#E7F4EE"/>
+  <text x="266" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">2. Read a public map</text>
+  <text x="266" y="126" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">City layer plus insurer score</text>
+  <rect x="484" y="78" width="212" height="64" rx="10" fill="#E7F4EE"/>
+  <text x="496" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">3. Eligibility</text>
+  <text x="496" y="126" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Full limit, cap, or decline</text>
+  <rect x="24" y="166" width="672" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="196" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Labelled basement: about $50,000 to restore</text>
+  <text x="40" y="224" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A $15,000 sub-limit covers part of the loss. You still hold the rest in cash.</text>
+  <text x="40" y="252" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A limit at or above the floor cost matches the risk you can see.</text>
+  <text x="40" y="288" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Worth buying when that limit is offered and you can pay the premium without cutting sewer or liability.</text>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Storm surge is a coastal question. IBC: usually outside ordinary overland endorsements.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Canada.ca overland-flood page used 23 Sep 2026. Education only.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Grading and eavestroughs reduce damage. They are not a policy.</text>
+</svg>

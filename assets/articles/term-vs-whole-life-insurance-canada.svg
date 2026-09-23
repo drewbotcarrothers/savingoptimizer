@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Term versus permanent life insurance decision</title>
+  <desc id="desc">Term coverage lines up with a mortgage and dependent years that end. Permanent coverage is for a need that lasts for life. Compare the same death benefit first.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Match the years, then the price</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Same death benefit. Cash value comes after that test. 23 Sep 2026.</text>
+  <rect x="24" y="78" width="320" height="200" rx="12" fill="#E7F4EE"/>
+  <text x="40" y="108" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#0F7A4B">Term</text>
+  <text x="40" y="136" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Pays if you die during the window</text>
+  <text x="40" y="160" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Fits mortgage and kids' years</text>
+  <text x="40" y="184" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">No cash value if you cancel</text>
+  <text x="40" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Lower premium at purchase</text>
+  <text x="40" y="248" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">FCAC: generally less expensive at first</text>
+  <rect x="376" y="78" width="320" height="200" rx="12" fill="#F3F4F6"/>
+  <text x="392" y="108" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">Permanent</text>
+  <text x="392" y="136" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Lifetime death benefit if in force</text>
+  <text x="392" y="160" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Estate liquidity, lifelong dependant</text>
+  <text x="392" y="184" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Cash value, usually below premiums</text>
+  <text x="392" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Much higher premium for the same face</text>
+  <text x="392" y="248" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a TFSA. Dividends are not guaranteed.</text>
+  <rect x="24" y="300" width="672" height="78" rx="12" fill="#0F7A4B"/>
+  <text x="40" y="332" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Assuris death benefit at member insurers</text>
+  <text x="40" y="356" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#E7F4EE">Greater of $1,000,000 or 90% of the benefit. Same category for term and whole life.</text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Assuris page used 23 Sep 2026. Education only. Not a policy illustration.</text>
+</svg>

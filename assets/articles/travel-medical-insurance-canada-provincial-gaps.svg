@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Provincial out-of-country hospital caps versus a private travel medical maximum</title>
+  <desc id="desc">Published daily public hospital caps are tens or hundreds of Canadian dollars. A private travel medical certificate is the layer that addresses the unpaid balance, evacuation, and drugs.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Public daily caps, not the hospital bill</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian dollars per day. Ministry pages used 23 Sep 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="168" y="92">OHIP outpatient $50</text>
+    <rect x="168" y="100" width="40" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="168" y="148">B.C. MSP hospital $75</text>
+    <rect x="168" y="156" width="60" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="168" y="204">Alberta or RAMQ inpatient $100</text>
+    <rect x="168" y="212" width="80" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="168" y="260">OHIP lower inpatient $200</text>
+    <rect x="168" y="268" width="160" height="22" rx="4" fill="#0F7A4B"/>
+    <text x="168" y="316">OHIP OR / ICU / CCU $400</text>
+    <rect x="168" y="324" width="320" height="22" rx="4" fill="#0F7A4B"/>
+  </g>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Bars show the public per diem only. Evacuation, repatriation, and most foreign drugs sit outside these caps.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Private travel medical is the contract for the unpaid balance. Read the maximum and the stability clause.</text>
+  <text x="24" y="428" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">RAMQ example: 3 hospital days can reimburse $300 against a much larger U.S. bill. Education only.</text>
+</svg>
