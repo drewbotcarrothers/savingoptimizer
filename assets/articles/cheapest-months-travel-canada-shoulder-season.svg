@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Expedia 2026 Canada signal: September international and January domestic versus December</title>
+  <desc id="desc">One input, not a fare quote. In Expedia's 2026 Canada Air Hacks, September international fares were about 26 percent below December, on the order of 160 Canadian dollars. One line of the Canada release described January domestic fares as about 27 percent below December. December is drawn as an index of 100.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">December as 100, then the cheap month in that report</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Expedia 2026 Canada Air Hacks. Averages across routes. Not your Tuesday fare.</text>
+  <text x="24" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">International, December</text>
+  <rect x="230" y="90" width="340" height="26" rx="4" fill="#9CA3AF"/>
+  <text x="580" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">100</text>
+  <text x="24" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">International, September</text>
+  <rect x="230" y="140" width="252" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="492" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">74</text>
+  <text x="24" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Domestic, December</text>
+  <rect x="230" y="190" width="340" height="26" rx="4" fill="#9CA3AF"/>
+  <text x="580" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">100</text>
+  <text x="24" y="258" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Domestic, January</text>
+  <rect x="230" y="240" width="248" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="488" y="258" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">73</text>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">September is about 26 percent under December internationally, roughly $160 CAD in that dataset.</text>
+  <text x="24" y="332" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">January is the cheap domestic month in the Canada release, about 27 percent under December on one line.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">School calendars can block the cheap month. Price the week you can actually leave.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Signal only. Expedia.ca Air Hacks and the February 2026 Canada release. Used 23 Sep 2026.</text>
+</svg>
