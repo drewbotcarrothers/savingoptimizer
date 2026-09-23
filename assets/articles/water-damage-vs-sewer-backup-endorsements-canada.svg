@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Four water perils on a Canadian home policy</title>
+  <desc id="desc">Sudden plumbing leaks are often covered. Sewer backup and sump failure usually need an endorsement. Repeated seepage is usually excluded. Overland flood is a separate endorsement.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same wet basement, different peril</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">IBC consumer pages used 23 Sep 2026. Your wording controls.</text>
+  <rect x="24" y="78" width="160" height="150" rx="12" fill="#0F7A4B"/>
+  <text x="36" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Sudden leak</text>
+  <text x="36" y="136" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">Pipe or appliance</text>
+  <text x="36" y="158" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">Often on the</text>
+  <text x="36" y="176" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">standard policy</text>
+  <rect x="196" y="78" width="160" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="208" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Sewer backup</text>
+  <text x="208" y="136" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Drains, septic,</text>
+  <text x="208" y="158" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">municipal sewer</text>
+  <text x="208" y="180" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">Usually an endorsement</text>
+  <rect x="368" y="78" width="160" height="150" rx="12" fill="#E7F4EE"/>
+  <text x="380" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Sump failure</text>
+  <text x="380" y="136" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Often inside the</text>
+  <text x="380" y="158" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">sewer wording</text>
+  <text x="380" y="180" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">Ask. Do not assume.</text>
+  <rect x="540" y="78" width="156" height="150" rx="12" fill="#F3F4F6"/>
+  <text x="552" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Seepage</text>
+  <text x="552" y="136" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Slow or repeated</text>
+  <text x="552" y="158" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Usually excluded</text>
+  <text x="552" y="180" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Maintenance, not a rider</text>
+  <rect x="24" y="252" width="672" height="110" rx="12" fill="#1A1A1A"/>
+  <text x="40" y="286" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Overland flood is a fifth box, not a synonym for sewer backup.</text>
+  <text x="40" y="314" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#E7F4EE">Surface water from rain, snowmelt, or a freshwater body. Usually its own endorsement.</text>
+  <text x="40" y="338" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#E7F4EE">Write the limit and the deductible from the declarations, not from a brochure.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Coastal storm surge is typically outside both optional coverages. IBC, used 23 Sep 2026.</text>
+  <text x="24" y="422" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not a policy.</text>
+</svg>

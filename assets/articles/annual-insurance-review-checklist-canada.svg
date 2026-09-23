@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Annual insurance review path for a Canadian household</title>
+  <desc id="desc">Forty-five days before renewal, pull declarations, update one sheet, quote one broker market and one direct writer, then keep, negotiate, or switch with dates that overlap.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One sitting, every policy</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">45 days before each effective date. Drafted 23 Sep 2026.</text>
+  <rect x="24" y="74" width="150" height="86" rx="12" fill="#0F7A4B"/>
+  <text x="36" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">1. Pull pages</text>
+  <text x="36" y="128" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">Auto, home, life,</text>
+  <text x="36" y="144" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">travel medical</text>
+  <rect x="196" y="74" width="150" height="86" rx="12" fill="#E7F4EE"/>
+  <text x="208" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">2. One sheet</text>
+  <text x="208" y="128" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Drivers, km, renos,</text>
+  <text x="208" y="144" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">beneficiaries</text>
+  <rect x="368" y="74" width="150" height="86" rx="12" fill="#E7F4EE"/>
+  <text x="380" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">3. Two quotes</text>
+  <text x="380" y="128" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">One broker market</text>
+  <text x="380" y="144" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">One direct writer</text>
+  <rect x="540" y="74" width="156" height="86" rx="12" fill="#1A1A1A"/>
+  <text x="552" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">4. Decide</text>
+  <text x="552" y="128" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">Keep, match, or</text>
+  <text x="552" y="144" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">switch with overlap</text>
+  <rect x="24" y="186" width="672" height="168" rx="12" fill="#F3F4F6"/>
+  <text x="40" y="214" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Same limits on every quote</text>
+  <text x="40" y="242" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Liability, rebuild or contents, replacement cost or ACV</text>
+  <text x="40" y="266" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Sewer backup limit and deductible  ,  Overland flood if offered</text>
+  <text x="40" y="290" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Life face amount and conversion date  ,  Travel medical maximum</text>
+  <text x="40" y="328" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">A lower price that deleted a water endorsement is not a save.</text>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">FCAC consumer insurance pages and FSRA broker/agent roles. Education only.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Do not cancel the old policy until the new declarations are in force.</text>
+</svg>
