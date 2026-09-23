@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled Aeroplan cents per point on one transatlantic cash fare</title>
+  <desc id="desc">One adult, labelled cash fare of 1240 Canadian dollars. Reward taxes and fees 210 dollars. At the June 2026 chart floor of 32500 points, cents per point are about 3.17. At 60000 points, about 1.72. At 70000 points, about 1.47. A 2 cent cash-back alternative is the line to beat. Not a live seat.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Transatlantic cpp on one labelled fare</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Cash $1,240 all-in. Reward taxes $210. cpp = (1,240 minus 210) divided by points.</text>
+  <text x="24" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">32,500 pts (chart floor)</text>
+  <rect x="230" y="90" width="317" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="557" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">3.17 cents</text>
+  <text x="24" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">60,000 pts (dynamic)</text>
+  <rect x="230" y="140" width="172" height="26" rx="4" fill="#9CA3AF"/>
+  <text x="412" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">1.72 cents</text>
+  <text x="24" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">70,000 pts (dynamic)</text>
+  <rect x="230" y="190" width="147" height="26" rx="4" fill="#9CA3AF"/>
+  <text x="387" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">1.47 cents</text>
+  <text x="24" y="258" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2 cent cash-back line</text>
+  <rect x="230" y="240" width="200" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="440" y="258" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">2.00 cents</text>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The floor beats a 2 cent alternative. The two dynamic prices do not. Buy cash when cpp is under your line.</text>
+  <text x="24" y="332" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">North America to Atlantic economy under 4,000 miles starts at 32,500 on the June 2026 chart. Seats price above it.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Labelled sketch, 23 Sep 2026. Not a live Aeroplan seat and not a card ranking.</text>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian passport fees in Canada from 31 March 2026</title>
+  <desc id="desc">Fees for applications in Canada on or after 31 March 2026. Adult 10-year passport 163 dollars and 50 cents. Adult 5-year passport 122 dollars and 50 cents. Child passport 58 dollars and 50 cents. Urgent pickup and weekend service are extra. Figures from the Government of Canada fee table.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Passport fees in Canada, on or after 31 Mar 2026</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Regular fees only. Urgent pickup is an extra $125.75. Weekend or holiday service is an extra $383.50.</text>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Adult, 10 years</text>
+  <rect x="200" y="100" width="340" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="550" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$163.50</text>
+  <text x="24" y="168" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Adult, 5 years</text>
+  <rect x="200" y="150" width="255" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="465" y="168" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$122.50</text>
+  <text x="24" y="218" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Child, 5 years</text>
+  <rect x="200" y="200" width="122" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="332" y="218" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$58.50</text>
+  <text x="24" y="278" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Per year of validity the 10-year book is $16.35 and the 5-year book is $24.50.</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Two 5-year books cost $245. One 10-year book costs $163.50, if a name change does not force a new one.</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">A refund of the fee after 30 business days does not refund a non-refundable fare.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Canada.ca fee table, applications on or after 31 Mar 2026. Read again before you pay. Outside Canada the fees are higher.</text>
+</svg>
