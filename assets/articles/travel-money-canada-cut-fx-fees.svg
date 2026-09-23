@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Foreign exchange cost on two thousand dollars of travel spend</title>
+  <desc id="desc">A 2.5 percent bank foreign-transaction fee is about 50 dollars on 2000 dollars of spend. A conversion fee starting near 0.48 percent is about 10 dollars on the same spend. Both are illustrations. Card agreements and Wise fees change.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">$2,000 abroad, before ATM operator fees</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustration only. Your cardholder agreement is the fee. Decline dynamic currency conversion.</text>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2.5% issuer FX fee</text>
+  <rect x="200" y="98" width="400" height="28" rx="4" fill="#9CA3AF"/>
+  <text x="612" y="118" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$50</text>
+  <text x="24" y="178" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">0.48% conversion fee</text>
+  <rect x="200" y="158" width="77" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="288" y="178" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">~$10</text>
+  <text x="24" y="238" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Wise ATM above $100</text>
+  <rect x="200" y="218" width="64" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="274" y="238" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">~$8</text>
+  <text x="24" y="258" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">on a $300 withdrawal</text>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Canadian Wise cards: free ATM withdrawals up to $100 CAD a month, then $2.69 plus 2.69% of the excess.</text>
+  <text x="24" y="334" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">That table took effect 1 May 2026. Re-read it the week you fly. Operator surcharges are extra.</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Choose local currency on the terminal. The CAD button is the expensive one.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Wise Canada pricing and help centre, used 23 Sep 2026. Not a product ranking.</text>
+</svg>

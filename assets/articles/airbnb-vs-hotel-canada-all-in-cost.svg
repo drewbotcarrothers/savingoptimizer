@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled Toronto four-night lodging all-in comparison</title>
+  <desc id="desc">A labelled sketch, not a quote. Short-term rental all-in lodging about 1140 dollars. Hotel all-in lodging about 1174 dollars. Adding cafe breakfasts for four people over four mornings adds about 256 dollars to the hotel path.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The nightly rate was not the bill</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Toronto, 4 nights, labelled sketch. HST 13% and MAT 6% from 1 Aug 2026. Not a live listing.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">STR headline $175/night</text>
+  <rect x="230" y="82" width="200" height="24" rx="4" fill="#9CA3AF"/>
+  <text x="440" y="99" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$700 room only</text>
+  <text x="24" y="140" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">STR all-in lodging</text>
+  <rect x="230" y="122" width="326" height="24" rx="4" fill="#0F7A4B"/>
+  <text x="566" y="139" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">~$1,140</text>
+  <text x="24" y="190" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Hotel headline $245/night</text>
+  <rect x="230" y="172" width="280" height="24" rx="4" fill="#9CA3AF"/>
+  <text x="520" y="189" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$980 room only</text>
+  <text x="24" y="230" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Hotel all-in lodging</text>
+  <rect x="230" y="212" width="336" height="24" rx="4" fill="#0F7A4B"/>
+  <text x="576" y="229" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">~$1,174</text>
+  <text x="24" y="280" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Hotel + cafe breakfasts</text>
+  <rect x="230" y="262" width="410" height="24" rx="4" fill="#0F7A4B"/>
+  <text x="650" y="279" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">~$1,430</text>
+  <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Cleaning, an illustrative guest fee, HST, and MAT closed most of the $70 nightly gap.</text>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Breakfast for 4 x $16 x 4 mornings is about $256. That is the kitchen test, not the room rate.</text>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Decide with nights x party size x whether you will actually cook.</text>
+  <text x="24" y="420" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Toronto MAT 6% from 1 Aug 2026. Platforms itemize fees differently. Education only.</text>
+</svg>

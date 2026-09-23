@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">APPR delay compensation for large and small airlines</title>
+  <desc id="desc">For delays and cancellations within the airline control and not required for safety, with notice of 14 days or less: large airlines pay 400, 700, or 1000 dollars. Small airlines pay 125, 250, or 500 dollars. The clock is arrival at the ticketed destination, starting at three hours late.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Cash amounts, if the delay was within airline control</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Arrival versus the time on the original ticket. Safety and outside-control delays pay $0 inconvenience compensation.</text>
+  <text x="180" y="92" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">3 to under 6 hours</text>
+  <text x="360" y="92" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">6 to under 9 hours</text>
+  <text x="540" y="92" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">9 hours or more</text>
+  <text x="24" y="150" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Large</text>
+  <rect x="180" y="128" width="80" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="196" y="147" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$400</text>
+  <rect x="360" y="128" width="140" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="404" y="147" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$700</text>
+  <rect x="540" y="128" width="156" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="584" y="147" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$1,000</text>
+  <text x="24" y="214" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Small</text>
+  <rect x="180" y="192" width="36" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="224" y="211" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$125</text>
+  <rect x="360" y="192" width="56" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="424" y="211" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$250</text>
+  <rect x="540" y="192" width="88" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="636" y="211" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$500</text>
+  <text x="24" y="268" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Refund instead of rebooking, same within-control case: large $400, small $125.</text>
+  <text x="24" y="296" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">File in writing within 1 year. The airline has 30 days to pay or explain.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A voucher is optional. It must be worth more than the cash, never expire, and you must agree in writing.</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Denied boarding uses a different schedule. Do not mix it with this delay table.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: APPR, SOR-2019-150, consolidated to 14 Jun 2026; CTA delay guide. Education only.</text>
+</svg>
