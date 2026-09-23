@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Fuel for 1200 kilometres at 1.84 dollars a litre</title>
+  <desc id="desc">Labelled one-way fuel at 1.84 dollars a litre: about 177 dollars at 8 litres per 100 kilometres, 243 dollars at 11, and 309 dollars at 14. The price is near Kalibrate's August 2026 Canadian average of 184.3 cents.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">1,200 km, one way, at $1.84/L</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled sketch. Double it for the drive home. Your pump replaces $1.84.</text>
+  <text x="24" y="110" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">8 L/100 km, 96 L</text>
+  <rect x="230" y="92" width="210" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="242" y="110" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">about $177</text>
+  <text x="24" y="164" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">11 L/100 km, 132 L</text>
+  <rect x="230" y="146" width="290" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="242" y="164" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">about $243</text>
+  <text x="24" y="218" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">14 L/100 km, 168 L</text>
+  <rect x="230" y="200" width="370" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="242" y="218" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">about $309</text>
+  <text x="24" y="280" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">August 2026 retail average was 184.3 cents. Vancouver ended near 218.</text>
+  <text x="24" y="304" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Brandon ended near 143. Price the region you will actually buy in.</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A roof box belongs in a higher L/100 km, not in a round-down.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: Kalibrate Canadian petroleum snapshot, August 2026. Illustration, not a quote.</text>
+</svg>

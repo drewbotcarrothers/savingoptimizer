@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Prepaid checked bag versus a gate surprise</title>
+  <desc id="desc">Air Canada prepaid first checked bag is 45 dollars before tax. A Basic bag at the gate can add about 65 to 78 dollars in handling on top of checked-bag fees. WestJet UltraBasic prepaid first bag is 55 to 65 dollars, with a higher airport price and a 25 to 30 dollar service fee if a carry-on was not allowed.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Pay for the bag before the gate does</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">North American first bag. Airline pages read 23 Sep 2026. Not your receipt.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Air Canada, prepaid first bag</text>
+  <rect x="250" y="82" width="180" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$45 before tax</text>
+  <text x="24" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Air Canada, gate handling</text>
+  <rect x="250" y="130" width="280" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">about $65-$78, plus bag fees</text>
+  <text x="24" y="196" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">WestJet, prepaid UltraBasic</text>
+  <rect x="250" y="178" width="220" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="196" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$55-$65</text>
+  <text x="24" y="244" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">WestJet, gate if not allowed</text>
+  <rect x="250" y="226" width="340" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="244" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">higher airport fee + about $25-$30</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A personal item that fits the sizer is $0. A roller that does not fit is a checked bag.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Prepay when you already know the personal item is not enough.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: Air Canada baggage pages, 13 Apr 2026 and carry-on page; WestJet fee table and flight terms.</text>
+</svg>

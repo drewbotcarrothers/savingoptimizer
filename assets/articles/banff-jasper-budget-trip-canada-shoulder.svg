@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Lake Louise parking versus the shuttle</title>
+  <desc id="desc">Lake Louise lakeshore parking is 42 dollars per vehicle. The Parks Canada shuttle is 12.75 dollars for an adult plus a 3.50 dollar online reservation fee. Park admission is extra in both cases.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Parking is per car. The shuttle is per person.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Banff regular fees, read 23 Sep 2026. Admission is not included in either bar.</text>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Lakeshore parking</text>
+  <rect x="230" y="100" width="280" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="242" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$42 per vehicle</text>
+  <text x="24" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Shuttle, one adult</text>
+  <rect x="230" y="158" width="150" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="242" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$12.75 + $3.50</text>
+  <text x="24" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Shuttle, two adults</text>
+  <rect x="230" y="216" width="220" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="242" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">about $29 with the fee</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The $42 stall may not exist by sunrise. A reserved shuttle seat does.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Four shuttle fares can meet the parking price. Count heads before you decide.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Discovery Pass break-even is a different chart. Camping is extra.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: Parks Canada Banff fee page and Lake Louise shuttle pages.</text>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled Air Canada return by fare brand</title>
+  <desc id="desc">Labelled one-adult return: Basic 289 dollars if a personal item is enough, Basic plus a checked bag and seats 439 dollars, Standard 369 dollars, Flex 449 dollars.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Basic is cheap only in the first bar</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled return, one adult, inside Canada. Bag fees are pre-tax, times two directions.</text>
+  <text x="24" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Basic, personal item</text>
+  <rect x="250" y="90" width="200" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="108" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$289</text>
+  <text x="24" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Basic + bag + seats</text>
+  <rect x="250" y="140" width="304" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$439</text>
+  <text x="24" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Standard, carry-on</text>
+  <rect x="250" y="190" width="256" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$369</text>
+  <text x="24" y="258" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Flex, first bag in</text>
+  <rect x="250" y="240" width="312" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="258" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$449</text>
+  <text x="24" y="312" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">If you need the roller in the cabin, Standard beats Basic-plus-a-checked-bag.</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">If you might change once, price Flex against Standard plus a $100-$120 fee.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sketch. Air Canada bag fees for tickets from 13 Apr 2026. Your fare replaces the headlines.</text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Five nights of family lodging, labelled</title>
+  <desc id="desc">Labelled five-night sketch: two hotel rooms about 2140 dollars, one suite about 1750 dollars, a rental with a cleaning fee about 1560 dollars before municipal tax.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The second room is the family fare</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Five nights, labelled. Tax on the rooms is 13 percent in the sketch. Your quote replaces it.</text>
+  <text x="24" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Two rooms</text>
+  <rect x="200" y="94" width="400" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="212" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">about $2,140</text>
+  <text x="24" y="168" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">One suite</text>
+  <rect x="200" y="150" width="326" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="212" y="168" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">about $1,750</text>
+  <text x="24" y="224" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Rental + clean</text>
+  <rect x="200" y="206" width="292" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="212" y="224" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">about $1,560 before city tax</text>
+  <text x="24" y="290" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A kitchen earns the rental only if you will cook. A one-night stop usually does not.</text>
+  <text x="24" y="314" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Add the municipal tax from the all-in lodging guide before you call a winner.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sketch for method. Not a live rate in any Canadian city.</text>
+</svg>
