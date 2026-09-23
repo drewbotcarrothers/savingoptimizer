@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Refund path when a Canadian flight is cancelled</title>
+  <desc id="desc">Within airline control, section 17 rebooking comes first and a refund follows if it does not meet your needs. Outside control, a partner flight within 48 hours comes first and then you choose a refund. A voucher is optional and must not expire.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Two clocks. The voucher is not the start.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Air Passenger Protection Regulations, sections 17, 18, and 18.2. Read 23 Sep 2026.</text>
+  <rect x="24" y="80" width="320" height="150" rx="8" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="40" y="108" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Within the airline's control</text>
+  <text x="40" y="134" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Large airline: partner flight</text>
+  <text x="40" y="154" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">within 9 hours, then any airline</text>
+  <text x="40" y="174" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">within 48 hours.</text>
+  <text x="40" y="202" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Refund if that does not meet</text>
+  <text x="40" y="220" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">your travel needs.</text>
+  <rect x="376" y="80" width="320" height="150" rx="8" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="392" y="108" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Outside the airline's control</text>
+  <text x="392" y="134" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Own airline or a partner,</text>
+  <text x="392" y="154" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">departing within 48 hours.</text>
+  <text x="392" y="182" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">If they cannot: you choose</text>
+  <text x="392" y="202" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">a refund or a later rebooking.</text>
+  <rect x="24" y="252" width="672" height="92" rx="8" fill="#0F7A4B"/>
+  <text x="40" y="284" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Original payment method. 30 days.</text>
+  <text x="40" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">A voucher only if it does not expire, you were told the cash value in writing,</text>
+  <text x="40" y="330" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">and you accept it in writing. Unused bag and seat fees come back too.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Lateness compensation is a separate claim. Do not trade one cheque for the other.</text>
+  <text x="24" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: SOR/2019-150 and the Canadian Transportation Agency delay guide.</text>
+</svg>
