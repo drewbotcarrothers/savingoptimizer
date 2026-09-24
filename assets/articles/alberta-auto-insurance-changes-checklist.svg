@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Alberta auto insurance shopping timeline through Care-First</title>
+  <desc id="desc">Private-market quotes continue. Collisions before 1 January 2027 stay on the court-based system. Collisions on or after that date are handled under Care-First. The grid rating system is repealed the same day, with no replacement announced.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Shop now. The accident date picks the system.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Alberta.ca Care-First and reform pages, and the 21 Sep 2026 basics PDF. Re-read at renewal.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2026 good-driver increase cap</text>
+  <rect x="280" y="82" width="160" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="452" y="100" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">7.5% if you qualify</text>
+  <text x="24" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Grid base premium, 1 Jan 2026</text>
+  <rect x="280" y="130" width="180" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="472" y="148" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$2,843 at step 0</text>
+  <text x="24" y="196" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Injury on or after 1 Jan 2027</text>
+  <rect x="280" y="178" width="390" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="280" y="226" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Care-First. Earlier injury claims stay on the court-based system.</text>
+  <text x="24" y="262" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Grid repeal</text>
+  <rect x="280" y="244" width="220" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="512" y="262" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">1 Jan 2027, no replacement</text>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">A cap limits an increase. It does not shop the premium for you.</text>
+  <text x="24" y="344" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">AIRB average rate-change ceiling in 2026: 12.5%. From 2027, average rates 5% and a 10% cap for an average driver at renewal.</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A new at-fault claim, a conviction, a driver, a vehicle, or a coverage change can remove the 2027 protection.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Current common-injury care is described as 10 to 21 pre-approved visits. Care-First drops that visit cap for eligible care.</text>
+  <text x="24" y="422" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Quote at least two markets at the same liability and the same collision deductible. Physical damage is still insurer-priced.</text>
+</svg>

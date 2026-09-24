@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Motorhome policy versus a towable trailer while hitched</title>
+  <desc id="desc">A motorhome carries its own liability and physical damage. A travel trailer usually needs its own physical-damage policy, while liability while it is attached often follows the tow vehicle. Full-time living, United States day caps, and peer rental are separate disclosures.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Two units, two jobs, while you are towing</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Aviva RV pages used 24 Sep 2026 describe product shapes. Your certificate controls.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Motorhome liability and damage</text>
+  <rect x="280" y="82" width="390" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Tow vehicle liability, trailer hitched</text>
+  <rect x="280" y="130" width="320" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="196" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Trailer physical damage</text>
+  <rect x="280" y="178" width="250" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="542" y="196" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Its own policy</text>
+  <text x="24" y="244" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Aviva U.S. exposure, base</text>
+  <rect x="280" y="226" width="280" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="572" y="244" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">180 days</text>
+  <text x="24" y="292" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Pleasure, seasonal, and full-time living are different rates. Say which one is true.</text>
+  <text x="24" y="326" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Aviva's RVLife description includes 180 U.S. days, with an optional further 180. That is one insurer, not a statute.</text>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Mexico is off many Canadian RV certificates. Do not borrow a United States endorsement for a Mexican road.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Awnings, solar, and generators often need a schedule. Peer-rental use needs disclosure before the first guest.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A lay-up discount applies only for the months the unit is off the road, on the terms the insurer writes down.</text>
+</svg>

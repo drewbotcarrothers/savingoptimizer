@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title desc">
+  <title id="title">Manitoba Basic Autopac versus Extension choices</title>
+  <desc id="desc">Basic Autopac third-party liability is 500,000 dollars. From 1 April 2026 the Basic physical-damage deductible is 1,000 dollars. Extension can raise liability to 1, 2, or 5 million dollars and can buy the deductible down. Autopac is invalid in Mexico.</desc>
+  <rect width="720" height="460" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Where Basic stops and Extension starts</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">MPI pages used 24 Sep 2026. The 2026/27 year began 1 April 2026.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Basic third-party liability</text>
+  <rect x="250" y="82" width="200" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="462" y="100" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$500,000</text>
+  <text x="24" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Extension liability options</text>
+  <rect x="250" y="130" width="420" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="250" y="178" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$1 million, $2 million, or $5 million. $7 million and $10 million ended 1 July 2025.</text>
+  <text x="24" y="214" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Basic deductible from 1 Apr 2026</text>
+  <rect x="250" y="196" width="160" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="422" y="214" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$1,000</text>
+  <text x="24" y="262" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Extension deductible buy-down</text>
+  <rect x="250" y="244" width="280" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="542" y="262" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$750, $500, $300, $200</text>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Driver Safety Rating level +20: 53% off vehicle insurance and 55% off driver insurance.</text>
+  <text x="24" y="344" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">MPI statement on the 2026/27 Public Utilities Board order. One level on the scale, not a promise for every driver.</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Canada and the United States are the driving territory. Autopac is invalid while the vehicle is in Mexico.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Stopping a payment does not cancel registration. Bind the next province before you create a bare day.</text>
+  <text x="24" y="430" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Basic is compulsory MPI. Extension is optional inside Autopac, not an Alberta-style private market.</text>
+</svg>
