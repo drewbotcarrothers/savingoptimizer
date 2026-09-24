@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title desc">
+  <title id="title">Homeowner policy versus a landlord policy on a rented house</title>
+  <desc id="desc">An owner-occupied policy assumes you live there. A landlord policy is the contract that should name the building, your appliances, premises liability, and loss of rent. The tenant's belongings stay on the tenant's policy.</desc>
+  <rect width="720" height="460" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Which contract answers once a tenant has keys</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Wording is contractual. Tell the insurer before possession. No national premium.</text>
+  <text x="24" y="96" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">You still live there</text>
+  <rect x="230" y="78" width="220" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="462" y="96" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Homeowner form</text>
+  <text x="24" y="144" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Rented, policy not updated</text>
+  <rect x="230" y="126" width="120" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="362" y="144" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Claim can fail</text>
+  <text x="24" y="192" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Landlord form: building</text>
+  <rect x="230" y="174" width="420" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="240" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Loss of rent after a covered loss</text>
+  <rect x="230" y="222" width="300" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="542" y="240" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Stated months</text>
+  <text x="24" y="288" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Tenant contents and their liability</text>
+  <rect x="230" y="270" width="260" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="502" y="288" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Their policy</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Malicious damage by a tenant is a separate question. Ask if it is included, excluded, or a sublimit.</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Unpaid rent is not a fire claim. Short-term platform bookings are a different use than a one-year lease.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">An umbrella pays the rental only if the address is scheduled and the underlying liability limit matches.</text>
+  <text x="24" y="430" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Rebuild cost is not the purchase price and not one year of rent. Read the declarations page.</text>
+</svg>

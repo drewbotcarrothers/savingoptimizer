@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Saskatchewan plate insurance versus a package policy</title>
+  <desc id="desc">Plate insurance includes 200,000 dollars of liability. A package policy is a second contract that can raise liability, lower the deductible, and add rental or lease-gap cover. No Fault injury coverage is the default unless a Tort declaration is filed.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Plate floor, then the package you choose</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">SGI plate and injury guides. Liability figure is the published $200,000 floor.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Plate liability, every vehicle</text>
+  <rect x="270" y="82" width="140" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="422" y="100" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$200,000</text>
+  <text x="24" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Package liability above the plate</text>
+  <rect x="270" y="130" width="400" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="196" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Plate physical damage</text>
+  <rect x="270" y="178" width="200" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="482" y="196" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Deductible on the receipt</text>
+  <text x="24" y="244" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Package: lower deductible, rental, gap</text>
+  <rect x="270" y="226" width="360" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="292" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">No Fault is automatic. Tort starts only after SGI has your declaration.</text>
+  <text x="24" y="326" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Injury benefits under the No Fault guide apply in Canada and the United States. File an injury claim within two years.</text>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">The $200,000 can be split among people you injure. A financed vehicle is a reason to price gap and a higher limit.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A farm plate is not a passenger plate. A package on the family car does not follow a truck used for hire.</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">The package is excess to the plate. Read both documents. There is no single provincial percent to demand.</text>
+</svg>
