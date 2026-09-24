@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled subscription audit result</title>
+  <desc id="desc">A teaching example that finds 168 dollars a month, cancels 96 dollars, and keeps 72 dollars. Not a survey.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What the sheet found, in one labelled month</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustration only. Your 30-day test sets the kept total.</text>
+  <rect x="70" y="90" width="120" height="220" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="92" y="82" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$168</text>
+  <text x="96" y="332" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Found</text>
+  <rect x="280" y="166" width="120" height="144" rx="6" fill="#0F7A4B"/>
+  <text x="306" y="158" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$96</text>
+  <text x="302" y="332" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Cancel</text>
+  <rect x="490" y="198" width="120" height="112" rx="6" fill="#1A1A1A"/>
+  <text x="520" y="190" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$72</text>
+  <text x="522" y="332" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Keep</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Cancel only after you know the biller: Apple, Google, direct, or the carrier add-on.</text>
+  <text x="24" y="398" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">24 Sep 2026. Not an average Canadian household.</text>
+</svg>
