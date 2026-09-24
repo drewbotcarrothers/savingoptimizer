@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Renew, convert, or replace term life</title>
+  <desc id="desc">Twelve to eighteen months before expiry, compare a new term if you are healthy. Convert if health has changed and the window is open. Renewal is the backstop if the window has closed.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One path. Do not cancel until the next policy is in force.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Contract dates control. The 12 to 18 month window is a household method.</text>
+  <rect x="24" y="78" width="210" height="150" rx="8" fill="#0F7A4B"/>
+  <text x="40" y="110" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Still healthy</text>
+  <text x="40" y="140" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Price a new term.</text>
+  <text x="40" y="164" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Compare it with the</text>
+  <text x="40" y="188" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">renewal rate. Keep</text>
+  <text x="40" y="212" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">the old policy.</text>
+  <rect x="254" y="78" width="210" height="150" rx="8" fill="#128A56"/>
+  <text x="270" y="110" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Health changed</text>
+  <text x="270" y="140" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">If conversion is</text>
+  <text x="270" y="164" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">still open, get that</text>
+  <text x="270" y="188" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">premium now. It may</text>
+  <text x="270" y="212" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">be the only door.</text>
+  <rect x="484" y="78" width="212" height="150" rx="8" fill="#1A1A1A"/>
+  <text x="500" y="110" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Window closed</text>
+  <text x="500" y="140" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Renewal rate, a</text>
+  <text x="500" y="164" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">smaller amount, or</text>
+  <text x="500" y="188" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">a lapse only if the</text>
+  <text x="500" y="212" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">need is gone.</text>
+  <text x="24" y="268" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Write the term end and the conversion expiry. They are often different dates.</text>
+  <text x="24" y="292" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Redo beneficiaries and owners on the new contract number.</text>
+  <text x="24" y="316" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Group life at work is not this decision. It ends with the job.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not a quote and not a recommendation to buy permanent insurance.</text>
+</svg>

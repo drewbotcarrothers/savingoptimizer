@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Three separate records after a Canadian traffic ticket</title>
+  <desc id="desc">Demerit points are a licensing score. The abstract shows the conviction. Only the insurer filing changes the premium. They are not one national points table.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Three records. Only one prices the policy.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustration. Years and dollars are the filing, not a statute. 24 Sep 2026.</text>
+  <rect x="24" y="78" width="210" height="196" rx="8" fill="#F3F4F6"/>
+  <text x="40" y="108" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Demerit points</text>
+  <text x="40" y="136" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Licensing score.</text>
+  <text x="40" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Can be zero on a</text>
+  <text x="40" y="180" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">ticket that still</text>
+  <text x="40" y="202" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">counts as a</text>
+  <text x="40" y="224" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">conviction.</text>
+  <rect x="254" y="78" width="210" height="196" rx="8" fill="#E7F4EE"/>
+  <text x="270" y="108" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Driving abstract</text>
+  <text x="270" y="136" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The conviction,</text>
+  <text x="270" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">the date, and the</text>
+  <text x="270" y="180" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">offence. A withdrawal</text>
+  <text x="270" y="202" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">is not on this</text>
+  <text x="270" y="224" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">column.</text>
+  <rect x="484" y="78" width="212" height="196" rx="8" fill="#0F7A4B"/>
+  <text x="500" y="108" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Insurer filing</text>
+  <text x="500" y="136" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Minor, major, or</text>
+  <text x="500" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">serious, for the</text>
+  <text x="500" y="180" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">years that company</text>
+  <text x="500" y="202" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">filed. This is the</text>
+  <text x="500" y="224" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">premium.</text>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A claim stacks beside the conviction. It does not replace it.</text>
+  <text x="24" y="334" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">ICBC, MPI, and SGI use their own scales. Quebec private damage can still ask.</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not a rate and not a defence to a charge.</text>
+</svg>

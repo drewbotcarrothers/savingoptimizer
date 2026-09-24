@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario auto insurance complaint ladder</title>
+  <desc id="desc">Start with the insurer complaint officer and a final position letter, then the company ombuds. GIO can review the decision. FSRA reviews conduct and does not order a personal refund.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The ladder, in order</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">FSRA complaint page, read 24 Sep 2026. Not a filing service.</text>
+  <rect x="24" y="76" width="672" height="48" rx="6" fill="#0F7A4B"/>
+  <text x="40" y="106" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF">1. Complaint officer. Ask for the final position letter.</text>
+  <rect x="24" y="136" width="600" height="48" rx="6" fill="#0F7A4B"/>
+  <text x="40" y="166" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF">2. Company ombuds. Required to respond. Still the insurer.</text>
+  <rect x="24" y="196" width="500" height="48" rx="6" fill="#128A56"/>
+  <text x="40" y="226" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF">3. GIO or MICO if you want the decision reviewed.</text>
+  <rect x="24" y="256" width="420" height="48" rx="6" fill="#1A1A1A"/>
+  <text x="40" y="286" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF">4. FSRA for conduct. Not a personal rate order.</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Intake goals on that page: 3 business days, 10 business days, 80 percent in 90 days.</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">FSRA cannot settle the contract, order a refund, or pay you compensation.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A correctly filed premium is a shopping problem. Bind a replacement before you cancel.</text>
+</svg>
