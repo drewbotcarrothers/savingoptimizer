@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled two-night city staycation total</title>
+  <desc id="desc">A labelled two-adult, two-night staycation: transport 70 dollars, lodging after tax 476 dollars, food 155 dollars, activities 40 dollars. Total 741 dollars. Lodging assumes a 200 dollar room for two nights, plus 13 percent HST and 6 percent municipal tax on the room. Not a quote.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The room after tax is the weekend</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Two adults, two nights. Labelled. Replace every number with your checkout.</text>
+  <line x1="150" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
+  <rect x="180" y="270" width="70" height="30" fill="#9CA3AF"/>
+  <rect x="290" y="100" width="70" height="200" fill="#0F7A4B"/>
+  <rect x="400" y="235" width="70" height="65" fill="#9CA3AF"/>
+  <rect x="510" y="283" width="70" height="17" fill="#9CA3AF"/>
+  <text x="188" y="262" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">$70</text>
+  <text x="292" y="92" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">$476</text>
+  <text x="408" y="226" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">$155</text>
+  <text x="522" y="274" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">$40</text>
+  <text x="178" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Transport</text>
+  <text x="296" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">Lodging</text>
+  <text x="418" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Food</text>
+  <text x="512" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Activities</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Total $741. Lodging is $400 plus $52 HST plus $24 city tax, if both taxes hit the room.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Three restaurant days would replace the $155 food bar. The sun week is a separate column, in CAD.</text>
+  <text x="24" y="420" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Illustration. Toronto-style 6 percent municipal tax is a planning habit, not every city's checkout.</text>
+</svg>

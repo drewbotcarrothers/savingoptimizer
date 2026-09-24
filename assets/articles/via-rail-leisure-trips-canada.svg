@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Fixed extras a leisure fare quote leaves out</title>
+  <desc id="desc">One adult UP Express PRESTO return between Pearson and Union is 18.50 dollars. Escape seat selection for two corridor segments is 14 dollars. An extra Escape carry-on is 25 dollars plus tax for one direction. A labelled two-night downtown parking stall at 40 dollars a night is 80 dollars. These are add-ons, not live train or flight fares. Read 24 September 2026.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What the fare screen leaves out</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Fixed extras on a vacation. Live fares still come from checkout. Parking is labelled.</text>
+  <line x1="60" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
+  <rect x="100" y="254" width="80" height="46" fill="#0F7A4B"/>
+  <rect x="240" y="265" width="80" height="35" fill="#9CA3AF"/>
+  <rect x="380" y="237" width="80" height="63" fill="#0F7A4B"/>
+  <rect x="520" y="100" width="80" height="200" fill="#9CA3AF"/>
+  <text x="108" y="246" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$18.50</text>
+  <text x="258" y="256" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$14</text>
+  <text x="400" y="228" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$25</text>
+  <text x="538" y="90" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$80</text>
+  <text x="92" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">UP Express</text>
+  <text x="96" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">1 adult back</text>
+  <text x="248" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Seat select</text>
+  <text x="244" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">2 segments</text>
+  <text x="386" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">Extra bag</text>
+  <text x="372" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">1 way, pre-tax</text>
+  <text x="528" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Parking</text>
+  <text x="512" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">2 nights, labelled</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A cheaper flight can lose once the Pearson-Union return is on the sheet.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Corridor fuel math stays on the Transportation guide. This chart is the vacation add-on.</text>
+  <text x="24" y="424" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">UP Express and VIA fare table, read 24 Sep 2026. Parking at $40 a night is an illustration.</text>
+</svg>

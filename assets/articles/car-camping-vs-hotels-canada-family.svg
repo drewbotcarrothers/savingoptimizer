@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Year-one camping versus six hotel nights</title>
+  <desc id="desc">A labelled 700 dollar camping kit plus six nights at 34 dollars and one 11.50 dollar reservation fee is 915.50 dollars. Adding one bailout hotel night at 224.91 dollars brings camping to 1140.41 dollars. Six hotel nights at 224.91 dollars are 1349.46 dollars. Illustrations, not quotes.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One bailout night stays on the camping side</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Six nights. Gear $700 in year one. Hotel bar uses a $224.91 tax-in illustration.</text>
+  <line x1="70" y1="300" x2="660" y2="300" stroke="#E5E7EB"/>
+  <rect x="120" y="164" width="100" height="136" fill="#0F7A4B"/>
+  <rect x="300" y="130" width="100" height="170" fill="#0F7A4B"/>
+  <rect x="480" y="100" width="100" height="200" fill="#9CA3AF"/>
+  <text x="132" y="156" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$915.50</text>
+  <text x="308" y="122" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$1,140</text>
+  <text x="490" y="92" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$1,349</text>
+  <text x="112" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Camp, year one</text>
+  <text x="128" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">no bailout</text>
+  <text x="292" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">Camp plus one</text>
+  <text x="300" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">hotel night</text>
+  <text x="486" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Six hotel nights</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Year three, if the kit is already paid, the camp bar drops to about $215 before any bailout.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Two bailout nights nearly erase the gap. Sleep is a line, not a character test.</text>
+  <text x="24" y="424" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Banff $34 rate from 8 Sep 2026. $189 room plus labelled tax. Not a reservation.</text>
+</svg>

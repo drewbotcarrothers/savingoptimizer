@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Seven days at Pearson: parking versus UP Express</title>
+  <desc id="desc">Value Park Garage is 160 dollars for the first seven days. Two adults on UP Express with PRESTO pay 9.25 dollars each way, 37 dollars return. The gap is 123 dollars. Children 12 and under ride free. Day eight of parking adds 32 dollars. Read 24 September 2026.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A week of parking is the quiet fare</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Pearson, seven days, two adults who can ride UP Express. PRESTO return is 4 times $9.25.</text>
+  <line x1="120" y1="300" x2="640" y2="300" stroke="#E5E7EB"/>
+  <rect x="180" y="100" width="120" height="200" fill="#9CA3AF"/>
+  <rect x="420" y="254" width="120" height="46" fill="#0F7A4B"/>
+  <text x="208" y="90" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">$160</text>
+  <text x="452" y="246" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#0F7A4B">$37</text>
+  <text x="176" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Value Park, 7 days</text>
+  <text x="196" y="344" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">cap, then $32/day</text>
+  <text x="412" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#0F7A4B">UP Express PRESTO</text>
+  <text x="430" y="344" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">two adults, return</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Gap: $123. Day one alone is $32 versus $37. The train wins from day two.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">First weekday train from Union is 4:55 a.m. Earlier flights need another plan.</text>
+  <text x="24" y="428" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Pearson Value Park Garage and UP Express fares, read 24 Sep 2026.</text>
+</svg>
