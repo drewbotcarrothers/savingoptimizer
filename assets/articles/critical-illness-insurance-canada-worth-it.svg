@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Critical illness, disability income, and cash</title>
+  <desc id="desc">Disability pays monthly income if you cannot work. Critical illness pays a lump sum for a listed diagnosis. Emergency cash is money you already hold. They cover different months.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Three tools. Do not buy one to do another's job.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Product boundary. Definitions are contractual. 24 Sep 2026.</text>
+  <rect x="24" y="80" width="210" height="180" rx="8" fill="#0F7A4B"/>
+  <text x="40" y="112" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Disability</text>
+  <text x="40" y="144" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Monthly income.</text>
+  <text x="40" y="168" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">You cannot work,</text>
+  <text x="40" y="192" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">as defined.</text>
+  <text x="40" y="224" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Not a diagnosis</text>
+  <text x="40" y="248" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">payment.</text>
+  <rect x="254" y="80" width="210" height="180" rx="8" fill="#128A56"/>
+  <text x="270" y="112" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Critical illness</text>
+  <text x="270" y="144" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Lump sum.</text>
+  <text x="270" y="168" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Listed condition</text>
+  <text x="270" y="192" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">and survival period.</text>
+  <text x="270" y="224" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">You may still</text>
+  <text x="270" y="248" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">be working.</text>
+  <rect x="484" y="80" width="212" height="180" rx="8" fill="#E7F4EE"/>
+  <text x="500" y="112" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Cash you hold</text>
+  <text x="500" y="144" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Elimination period</text>
+  <text x="500" y="168" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">and one-time bills</text>
+  <text x="500" y="192" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">you would actually</text>
+  <text x="500" y="216" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">spend. Finite.</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Price critical illness for a bill disability will not pay.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">If you cannot name the bill, it is optional.</text>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Assuris health expense: greater of $250,000 or 90 percent. Not a reason to buy.</text>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. No product ranking.</text>
+</svg>

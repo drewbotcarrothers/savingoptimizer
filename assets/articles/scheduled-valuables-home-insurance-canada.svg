@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Contents limit versus a jewellery special limit versus a floater</title>
+  <desc id="desc">A labelled 80000 dollar contents limit does not lift a 6000 dollar jewellery theft special limit. A scheduled floater insures one ring for 18000 dollars. Illustration, not a policy.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The cap is inside the big number</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled sketch. Copy the real special limit from your wordings. 24 Sep 2026.</text>
+  <rect x="180" y="84" width="500" height="40" rx="6" fill="#E7F4EE"/>
+  <text x="196" y="110" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#0F7A4B">Blanket contents $80,000</text>
+  <rect x="180" y="140" width="160" height="40" rx="6" fill="#1A1A1A"/>
+  <text x="196" y="166" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF">Jewellery theft cap $6,000</text>
+  <rect x="180" y="196" width="360" height="40" rx="6" fill="#0F7A4B"/>
+  <text x="196" y="222" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF">Scheduled ring $18,000 on a floater</text>
+  <text x="24" y="276" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Raising contents to $80,000 does not move the $6,000 theft cap.</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Unscheduled, the $18,000 ring is short $12,000 before the deductible, in this sketch.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Fire and mysterious disappearance may use different caps. Read the peril.</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not your form and not an appraisal.</text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Assuris guarantee floors for life and health benefits</title>
+  <desc id="desc">Assuris protects the greater of a dollar floor or 90 percent: death benefit 1000000 dollars, health expense 250000 dollars, monthly income 5000 dollars, cash value 100000 dollars.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Whichever is higher: the floor or 90 percent</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Assuris public page, read 24 Sep 2026. Not a top-up of a smaller policy.</text>
+  <rect x="24" y="78" width="520" height="44" rx="6" fill="#0F7A4B"/>
+  <text x="40" y="106" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF">Death benefit: $1,000,000 or 90%</text>
+  <rect x="24" y="134" width="360" height="44" rx="6" fill="#0F7A4B"/>
+  <text x="40" y="162" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF">Health expense: $250,000 or 90%</text>
+  <rect x="24" y="190" width="300" height="44" rx="6" fill="#128A56"/>
+  <text x="40" y="218" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF">Monthly income: $5,000 or 90%</text>
+  <rect x="24" y="246" width="250" height="44" rx="6" fill="#128A56"/>
+  <text x="40" y="274" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF">Cash value: $100,000 or 90%</text>
+  <text x="24" y="322" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A $600,000 term policy is protected for $600,000, not grossed up.</text>
+  <text x="24" y="346" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A $2,000,000 death benefit at one member is protected at $1,800,000.</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Group and individual products are protected separately. Keep paying if a member fails.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not CDIC. Not PACICC. Education only.</text>
+</svg>
