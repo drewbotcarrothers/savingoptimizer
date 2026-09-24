@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Two quotes compared on limits, not on the monthly price alone</title>
+  <desc id="desc">A labelled sheet where quote A is 148 dollars a month and quote B is 171 dollars. Quote A omitted sewer backup, so quote B is the same-shape price.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The low monthly price lost the column test</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled home quotes. Not a market survey. 24 Sep 2026.</text>
+  <rect x="24" y="78" width="672" height="36" rx="6" fill="#0F7A4B"/>
+  <text x="36" y="101" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Column</text>
+  <text x="250" y="101" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Quote A</text>
+  <text x="470" y="101" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Quote B</text>
+  <rect x="24" y="122" width="672" height="32" fill="#F4F7F5"/>
+  <text x="36" y="143" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Monthly premium</text>
+  <text x="250" y="143" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$148</text>
+  <text x="470" y="143" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$171</text>
+  <rect x="24" y="154" width="672" height="32" fill="#FFFFFF"/>
+  <text x="36" y="175" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Liability</text>
+  <text x="250" y="175" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$2 million</text>
+  <text x="470" y="175" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$2 million</text>
+  <rect x="24" y="186" width="672" height="32" fill="#F4F7F5"/>
+  <text x="36" y="207" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Dwelling basis</text>
+  <text x="250" y="207" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Replacement cost</text>
+  <text x="470" y="207" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Replacement cost</text>
+  <rect x="24" y="218" width="672" height="32" fill="#FFFFFF"/>
+  <text x="36" y="239" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Sewer backup</text>
+  <text x="250" y="239" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Not included</text>
+  <text x="470" y="239" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#0F7A4B">$50,000 limit</text>
+  <rect x="24" y="250" width="672" height="32" fill="#F4F7F5"/>
+  <text x="36" y="271" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Overland flood</text>
+  <text x="250" y="271" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Declined</text>
+  <text x="470" y="271" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#0F7A4B">$50,000 limit</text>
+  <rect x="24" y="282" width="672" height="32" fill="#FFFFFF"/>
+  <text x="36" y="303" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">All-perils deductible</text>
+  <text x="250" y="303" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$2,500</text>
+  <text x="470" y="303" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$1,000</text>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Quote A is $23 a month lower and a different policy. The sheet rejects it.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Lock liability, deductibles, water, rental, and glass before you ask for a number.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ontario accident-benefits columns are a separate block. Do not force Quebec or ICBC into them.</text>
+  <text x="24" y="422" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Service notes sit in remarks. A star rating does not replace a missing endorsement.</text>
+</svg>
