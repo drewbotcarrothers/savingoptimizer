@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title desc">
+  <title id="title">Primary, secondary, and seasonal occupancy change cottage insurance</title>
+  <desc id="desc">Three occupancy labels. A seasonal dwelling often needs a winter vacancy or closure plan, a woodstove inspection, and written permission before any rental week. City-home assumptions do not transfer.</desc>
+  <rect width="720" height="460" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Name the occupancy before you bind</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Contract definitions, not a national cottage statute. 24 Sep 2026.</text>
+  <rect x="24" y="80" width="214" height="200" rx="8" fill="#0F7A4B"/>
+  <text x="36" y="110" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Primary</text>
+  <text x="36" y="140" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">You live there.</text>
+  <text x="36" y="162" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">City-home wording</text>
+  <text x="36" y="184" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">may fit if that</text>
+  <text x="36" y="206" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">is actually true.</text>
+  <text x="36" y="236" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Calling a cottage</text>
+  <text x="36" y="254" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">primary is a risk.</text>
+  <rect x="254" y="80" width="214" height="200" rx="8" fill="#1A1A1A"/>
+  <text x="266" y="110" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Secondary</text>
+  <text x="266" y="140" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Regular use, not</text>
+  <text x="266" y="162" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">your main home.</text>
+  <text x="266" y="184" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Heat and checks</text>
+  <text x="266" y="206" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">in the wording</text>
+  <text x="266" y="228" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">still apply when</text>
+  <text x="266" y="250" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">you are in the city.</text>
+  <rect x="484" y="80" width="212" height="200" rx="8" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="496" y="110" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Seasonal</text>
+  <text x="496" y="140" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Occupied part of</text>
+  <text x="496" y="162" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">the year. Winter</text>
+  <text x="496" y="184" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">closure is expected.</text>
+  <text x="496" y="206" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Drain, heat, or a</text>
+  <text x="496" y="228" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">vacancy permit as</text>
+  <text x="496" y="250" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">the form requires.</text>
+  <text x="24" y="316" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Ask before you assume the city policy covers them</text>
+  <rect x="24" y="332" width="160" height="48" rx="6" fill="#0F7A4B"/>
+  <text x="36" y="361" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Woodstove / WETT</text>
+  <rect x="200" y="332" width="150" height="48" rx="6" fill="#0F7A4B"/>
+  <text x="212" y="361" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Oil tank age</text>
+  <rect x="366" y="332" width="150" height="48" rx="6" fill="#0F7A4B"/>
+  <text x="378" y="361" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Boat and dock</text>
+  <rect x="532" y="332" width="164" height="48" rx="6" fill="#0F7A4B"/>
+  <text x="544" y="361" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Rental weeks</text>
+  <text x="24" y="412" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Price a stand-alone cottage quote before you take a multi-policy discount on a weaker form.</text>
+  <text x="24" y="440" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Theft and freezing limits often differ from the house you live in all year.</text>
+</svg>

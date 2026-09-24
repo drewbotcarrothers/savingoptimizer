@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title desc">
+  <title id="title">Factual appeal ladder after a Canadian insurance denial</title>
+  <desc id="desc">The sequence is the denial letter, evidence that matches the cited wording, the insurer complaint officer, then GIO or OLHI, with the regulator and a lawsuit deadline kept in view. Mitigation continues in parallel.</desc>
+  <rect width="720" height="460" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Appeal the reason they wrote down</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Education only. Clocks from GIO, OLHI, and FSRA pages used 24 Sep 2026.</text>
+  <rect x="24" y="78" width="430" height="36" rx="6" fill="#0F7A4B"/>
+  <text x="36" y="101" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">1. Denial letter: policy section, exclusion, facts they used</text>
+  <rect x="24" y="124" width="430" height="36" rx="6" fill="#0F7A4B"/>
+  <text x="36" y="147" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">2. Evidence from the time of the loss, matched to that section</text>
+  <rect x="24" y="170" width="430" height="36" rx="6" fill="#0F7A4B"/>
+  <text x="36" y="193" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">3. Insurer complaint officer, then a final position letter</text>
+  <rect x="24" y="216" width="430" height="52" rx="6" fill="#1A1A1A"/>
+  <text x="36" y="237" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">4. P&amp;C: GIO (45 / 60 / 90 day stage aims)</text>
+  <text x="36" y="255" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Life and health: OLHI (120 day review aim)</text>
+  <rect x="24" y="278" width="430" height="36" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="36" y="301" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#0F7A4B">5. Regulator for conduct. Lawsuit deadline stays on your calendar.</text>
+  <rect x="474" y="78" width="222" height="236" rx="8" fill="#F4F7F5"/>
+  <text x="488" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">In parallel</text>
+  <text x="488" y="132" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Stop further damage.</text>
+  <text x="488" y="152" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Keep receipts.</text>
+  <text x="488" y="180" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Mitigation is not</text>
+  <text x="488" y="198" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">an admission that</text>
+  <text x="488" y="216" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">the denial was fair.</text>
+  <text x="488" y="244" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Assuris and PACICC</text>
+  <text x="488" y="262" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">are insolvency</text>
+  <text x="488" y="280" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">schemes, not appeals.</text>
+  <text x="24" y="350" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">GIO stage aims run after you enter that stage. They are not one 45-day promise.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Recommendations are non-binding. A complaint file does not pause a lawsuit deadline</text>
+  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">unless a signed suspension actually does that in your province. Quebec does not allow</text>
+  <text x="24" y="416" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">OLHI to suspend the limitation period.</text>
+  <text x="24" y="444" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a claims-mill path. No public-adjuster recommendation.</text>
+</svg>

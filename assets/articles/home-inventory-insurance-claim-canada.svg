@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Home inventory copies that survive a fire or theft</title>
+  <desc id="desc">Room photos and serial numbers are stored in a cloud copy and a separate offline copy, with receipts for scheduled items, and the set is updated at each annual insurance review.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One inventory, two places it can survive</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Method sketch. Not an app ranking. 24 Sep 2026.</text>
+  <rect x="24" y="84" width="200" height="150" rx="8" fill="#0F7A4B"/>
+  <text x="36" y="116" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Capture</text>
+  <text x="36" y="142" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Room video, drawers open</text>
+  <text x="36" y="162" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Serial numbers</text>
+  <text x="36" y="182" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Rough replacement cost</text>
+  <text x="36" y="202" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Date of the pass</text>
+  <rect x="260" y="84" width="200" height="150" rx="8" fill="#0F7A4B"/>
+  <text x="272" y="116" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Cloud copy</text>
+  <text x="272" y="142" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Account you can open</text>
+  <text x="272" y="162" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">from another device</text>
+  <text x="272" y="182" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Shared with one</text>
+  <text x="272" y="202" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">trusted adult</text>
+  <rect x="496" y="84" width="200" height="150" rx="8" fill="#1A1A1A"/>
+  <text x="508" y="116" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Offline copy</text>
+  <text x="508" y="142" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Drive or prints kept</text>
+  <text x="508" y="162" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">outside the house</text>
+  <text x="508" y="182" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Appraisals for</text>
+  <text x="508" y="202" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">scheduled items</text>
+  <text x="24" y="270" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Update triggers</text>
+  <rect x="24" y="286" width="210" height="64" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="36" y="314" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#0F7A4B">Major purchase</text>
+  <text x="36" y="334" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Appliance, bike, jewellery</text>
+  <rect x="254" y="286" width="210" height="64" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="266" y="314" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#0F7A4B">Annual review</text>
+  <text x="266" y="334" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Same sitting as the policies</text>
+  <rect x="484" y="286" width="212" height="64" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="496" y="314" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#0F7A4B">After a claim</text>
+  <text x="496" y="334" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Replace what the list lost</text>
+  <text x="24" y="386" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A list that lives only on a laptop in the living room does not survive the living room.</text>
+  <text x="24" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Replacement-cost figures on the list are estimates for the proof of loss, not a quote.</text>
+</svg>
