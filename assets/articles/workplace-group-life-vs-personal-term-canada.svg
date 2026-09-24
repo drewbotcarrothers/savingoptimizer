@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Group life of one or two times salary beside a larger household need</title>
+  <desc id="desc">Labelled bars for one times and two times a ninety thousand dollar salary, next to a placeholder household need. Not a needs analysis.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One or two times salary is the group benefit</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Shape of the gap only. Use the needs worksheet for your number. 24 Sep 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="104">1 x $90,000 group</text>
+    <rect x="200" y="86" width="90" height="26" rx="4" fill="#0F7A4B"/>
+    <text x="208" y="104" fill="#FFFFFF">$90,000</text>
+    <text x="24" y="154">2 x $90,000 group</text>
+    <rect x="200" y="136" width="180" height="26" rx="4" fill="#0F7A4B"/>
+    <text x="208" y="154" fill="#FFFFFF">$180,000</text>
+    <text x="24" y="204">A mortgage-sized need</text>
+    <rect x="200" y="186" width="470" height="26" rx="4" fill="#0F7A4B"/>
+    <text x="208" y="204" fill="#FFFFFF">Placeholder. Your worksheet, not this bar.</text>
+  </g>
+  <text x="24" y="260" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The group contract ends when the job ends. Personal term is the amount you still want the next morning.</text>
+  <text x="24" y="292" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Employer-paid group term premiums are generally a T4 code 40 taxable benefit. That is the premium, not the face amount.</text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Assuris: greater of $1,000,000 or 90% if a member insurer fails. It does not enlarge a 1x benefit.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Group continuation after a failure runs to the next renewal or six months, whichever is earlier.</text>
+</svg>

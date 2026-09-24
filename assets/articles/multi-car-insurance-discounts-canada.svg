@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Compare one insurer for both cars with two insurers</title>
+  <desc id="desc">A labelled comparison. A multi-vehicle discount on one insurer can still lose to buying each car in a cheaper market. Not a quote and not a standard percent.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The discount is not the decision</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Same liability limits. Illustration only. No national multi-car percent. 24 Sep 2026.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">One insurer, discount on</text>
+  <rect x="24" y="112" width="280" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="131" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Car A + car B, after the filed discount</text>
+  <text x="400" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Two insurers, no discount</text>
+  <rect x="400" y="112" width="200" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="412" y="131" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Best market, car A</text>
+  <rect x="400" y="148" width="120" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="412" y="167" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Best market, car B</text>
+  <text x="24" y="230" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Add each column. Keep the lower total. A young driver can make the left column the expensive one.</text>
+  <text x="24" y="258" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The second car still carries liability and accident benefits. The discount does not delete them.</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Ask for the schedule in dollars. A forum percent is not your filing.</text>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">ICBC, MPI, and SGI basic coverage is per vehicle in the public system. Do not paste this sketch onto those premiums.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not a brokerage quote.</text>
+</svg>

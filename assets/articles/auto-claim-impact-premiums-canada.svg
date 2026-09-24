@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Planning sketch of an at-fault surcharge stepping down over several years</title>
+  <desc id="desc">Bars decline across a three-to-six-year planning window. There is no national statute. Replace the picture with the insurer's filed years.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A planning window, not a law</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ask the insurer for years and percent. 24 Sep 2026. Not a quote.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="70" y="250">Year 1</text>
+    <rect x="64" y="100" width="48" height="140" rx="4" fill="#0F7A4B"/>
+    <text x="150" y="270">Year 2</text>
+    <rect x="148" y="130" width="48" height="110" rx="4" fill="#0F7A4B"/>
+    <text x="230" y="290">Year 3</text>
+    <rect x="232" y="160" width="48" height="80" rx="4" fill="#0F7A4B"/>
+    <text x="310" y="300">Year 4</text>
+    <rect x="316" y="190" width="48" height="50" rx="4" fill="#0F7A4B"/>
+    <text x="400" y="310">Year 5 to 6</text>
+    <rect x="420" y="214" width="48" height="26" rx="4" fill="#0F7A4B"/>
+  </g>
+  <text x="24" y="350" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Convictions often age off on a different date. Shop the renewal after the last year they name.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Glass and wildlife are usually comprehensive. Confirm the loss code before you assume a surcharge.</text>
+</svg>

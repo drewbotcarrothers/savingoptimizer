@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario accident benefits after 1 July 2026, mandatory and optional</title>
+  <desc id="desc">Medical, rehabilitation, and attendant care stay mandatory. Income replacement and other non-medical accident benefits are optional on new policies and must be offered.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What is still on a new Ontario policy</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Policies entered into on or after 1 July 2026. FSRA summary used 24 Sep 2026.</text>
+  <text x="24" y="96" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Mandatory medical layer</text>
+  <rect x="24" y="108" width="320" height="52" rx="6" fill="#0F7A4B"/>
+  <text x="36" y="130" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Medical, rehabilitation, attendant care</text>
+  <text x="36" y="148" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">$65,000 non-catastrophic / $1,000,000 catastrophic</text>
+  <text x="380" y="96" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Optional, must be offered</text>
+  <rect x="380" y="108" width="316" height="22" rx="4" fill="#0F7A4B"/>
+  <text x="392" y="124" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Income replacement, if you add it</text>
+  <rect x="380" y="136" width="250" height="22" rx="4" fill="#0F7A4B"/>
+  <text x="392" y="152" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Caregiver and housekeeping</text>
+  <rect x="380" y="164" width="210" height="22" rx="4" fill="#0F7A4B"/>
+  <text x="392" y="180" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Death, funeral, indexation</text>
+  <text x="24" y="230" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Renewals keep prior optional amounts unless you sign a change.</text>
+  <text x="24" y="254" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Minor-injury medical cap: $3,500 plus HST (s. 18, accidents on or after 3 June 2019).</text>
+  <text x="24" y="278" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Income replacement design: 70% of gross, up to $400 a week, or $600, $800, $1,000 if offered and bought.</text>
+  <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">OPCF 49 is a vehicle-damage opt-out. It is not an accident-benefits decline.</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">FSRA says its table is a summary of O. Reg. 34/10. Read the regulation and the certificate before you sign.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Buy-ups exist: non-catastrophic to $130,000 or $1,000,000; catastrophic to $2,000,000.</text>
+</svg>
