@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Insurance steps before a teen drives in Canada</title>
+  <desc id="desc">Tell the insurer before the first drive, match the licence class and any training certificate, assign a vehicle honestly, allow only listed drivers, budget the premium, and re-quote when the licence class changes. Not a quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Before the keys, then at each new class</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Sequence only. Premium dollars come from a quote. 24 Sep 2026.</text>
+  <rect x="24" y="84" width="672" height="32" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="105" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">1. Notify the insurer before the teen drives</text>
+  <rect x="24" y="126" width="580" height="32" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="147" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">2. Licence class and training certificate, as printed</text>
+  <rect x="24" y="168" width="490" height="32" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="189" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">3. Assign the vehicle they will actually use</text>
+  <rect x="24" y="210" width="400" height="32" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="231" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">4. Keys only for listed drivers</text>
+  <rect x="24" y="252" width="310" height="32" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="273" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">5. Put the premium in the month's plan</text>
+  <text x="24" y="322" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Re-quote at the next class: G2 or full G in Ontario, or the probationary step in your province.</text>
+  <text x="24" y="358" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A learner's licence is not permission to drive alone. Confirm conditions on the provincial ministry page.</text>
+  <text x="24" y="386" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">The young-driver guide is the rating math. This chart is the order of the phone calls.</text>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Who insures a Canadian rideshare trip by period</title>
+  <desc id="desc">App off is the personal policy. Waiting for a request and the engaged trip are platform commercial layers, with different limits by province. Ontario Uber figures from Uber's driver insurance page, used 24 Sep 2026. Contingent collision needs collision on the personal policy.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario Uber example: which layer responds</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Uber driver insurance page, Economical policy, used 24 Sep 2026. Other provinces differ.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">App off, personal use</text>
+  <rect x="250" y="82" width="200" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="460" y="100" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Your policy</text>
+  <text x="24" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Period 1, waiting</text>
+  <rect x="250" y="130" width="280" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="540" y="148" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$1M liability</text>
+  <text x="24" y="196" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Periods 2 and 3, trip on</text>
+  <rect x="250" y="178" width="420" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="250" y="230" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$2M third-party liability on Uber's Ontario commercial policy</text>
+  <text x="24" y="270" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Collision and comprehensive on that commercial policy are contingent.</text>
+  <text x="24" y="296" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">They respond only if your personal policy already carries them. Ontario deductible on Uber's page: $2,500.</text>
+  <text x="24" y="334" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Alberta and Nova Scotia: personal policy is first in Period 1, with commercial backup.</text>
+  <text x="24" y="358" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">British Columbia: personal policy until you accept. Then Uber's $2M layer.</text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Lyft in Ontario, Aviva page: Phase 1 is $1M, Phases 2 and 3 are $2M, contingent physical damage deductible $1,000.</text>
+  <text x="24" y="414" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Tell your own insurer before you go online. The certificate in the app is the contract.</text>
+</svg>

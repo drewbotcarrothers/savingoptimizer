@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">First steps after a collision in Canada</title>
+  <desc id="desc">Make the scene safe, exchange information, report to police when the provincial threshold or an injury requires it, notify the insurer, then protect injury-benefit deadlines. Fault percentage is confirmed in writing before renewal. Not legal advice.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The first day, in order</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Clocks differ by province. Figures used 24 Sep 2026. Not a quote.</text>
+  <rect x="24" y="80" width="672" height="36" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="103" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">1. Safety. Do not admit fault. Exchange names, plates, and insurers.</text>
+  <rect x="24" y="128" width="560" height="36" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="151" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">2. Police if someone is hurt, or damage meets the provincial amount.</text>
+  <rect x="24" y="176" width="470" height="36" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="199" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">3. Tell your insurer. Ontario injury notice: 7 days.</text>
+  <rect x="24" y="224" width="390" height="36" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="247" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">4. Return the accident-benefits application on time.</text>
+  <rect x="24" y="272" width="300" height="36" rx="4" fill="#0F7A4B"/>
+  <text x="36" y="295" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">5. Fault percent, in writing, before renewal.</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Ontario property-damage report: combined damage over $5,000 (Reg. 596).</text>
+  <text x="24" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Alberta: $5,000 combined, unchanged for 2026. B.C. police written report: $10,000.</text>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Quebec injury claims: SAAQ, file promptly, three-year maximum. Vehicle damage: your insurer.</text>
+</svg>

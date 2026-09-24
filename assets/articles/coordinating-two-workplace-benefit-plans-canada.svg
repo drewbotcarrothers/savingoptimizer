@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Order for coordinating two Canadian workplace benefit plans</title>
+  <desc id="desc">Your own plan pays your claim first. A child's claim follows the birthday rule, then the second plan with the explanation of benefits. A health spending account is last. Combined payment cannot exceed 100 percent of the eligible expense. Not a quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Who pays, and in what order</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CLHIA coordination order. Not a way to pick the richer plan first. 24 Sep 2026.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">1. Your own employee plan, for your claim</text>
+  <rect x="340" y="82" width="340" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="146" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2. Child: earlier birthday in the year</text>
+  <rect x="340" y="128" width="280" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="192" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">3. Second plan, with the first EOB</text>
+  <rect x="340" y="174" width="210" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="238" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">4. Health spending account, if the booklet pays after both insured plans</text>
+  <rect x="340" y="220" width="150" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="286" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Stop at 100 percent of the eligible expense. A billed fee above reasonable and customary can stay unpaid.</text>
+  <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Joint custody uses the biological parents' birthdays first. A step-parent plan does not jump ahead.</text>
+  <text x="24" y="356" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Quebec RAMQ-eligible student drug claims are an exception: the parent's plan pays those first.</text>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Same month and day: first names in alphabetical order. Year of birth does not decide.</text>
+</svg>

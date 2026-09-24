@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Home claim sequence before a rate decision</title>
+  <desc id="desc">Stop further damage, give written notice, keep photos and samples, then compare the cheque above the deductible with later premium years. Appraisal and the ombuds path come after a proof of loss. Illustration, not a quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Claim sequence, then the rate question</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Safety and notice come before the surcharge arithmetic. 24 Sep 2026.</text>
+  <rect x="24" y="84" width="150" height="64" rx="6" fill="#0F7A4B"/>
+  <text x="36" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">1. Make safe</text>
+  <text x="36" y="130" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">Water off, tarp</text>
+  <rect x="190" y="84" width="150" height="64" rx="6" fill="#0F7A4B"/>
+  <text x="202" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">2. Written notice</text>
+  <text x="202" y="130" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">Ontario: forthwith</text>
+  <rect x="356" y="84" width="150" height="64" rx="6" fill="#0F7A4B"/>
+  <text x="368" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">3. Inventory</text>
+  <text x="368" y="130" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">Photos, samples</text>
+  <rect x="522" y="84" width="174" height="64" rx="6" fill="#0F7A4B"/>
+  <text x="534" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">4. Proof of loss</text>
+  <text x="534" y="130" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">Then 60-day pay clock</text>
+  <text x="24" y="190" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Only then, if nobody is injured and liability is not in dispute</text>
+  <text x="24" y="230" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Cheque above the deductible, this year</text>
+  <rect x="320" y="212" width="120" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="276" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Later premium years the insurer puts in writing</text>
+  <rect x="320" y="258" width="280" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="330" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">If you cannot cash-flow the repair, the policy is what you bought.</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Bar lengths are a method, not a Canadian average and not a surcharge statute.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Dispute path after the proof of loss: appraisal, insurer complaint, then GIO or the regulator.</text>
+</svg>
