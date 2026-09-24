@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Compare an individual health plan premium with cash plus a partial tax credit</title>
+  <desc id="desc">A method sketch. Compare the annual premium with eligible claims after waiting periods. The medical expense tax credit returns only a fraction of expenses above a threshold, not the whole bill.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Premium versus the care the plan will actually pay</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled method. 2025 federal threshold used. 24 Nov 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="100">Annual premium</text>
+    <rect x="220" y="82" width="220" height="26" rx="4" fill="#0F7A4B"/>
+    <text x="230" y="100" fill="#FFFFFF">Your quote</text>
+    <text x="24" y="150">Claims eligible this year</text>
+    <rect x="220" y="132" width="160" height="26" rx="4" fill="#0F7A4B"/>
+    <text x="230" y="150" fill="#FFFFFF">After the wait</text>
+    <text x="24" y="200">Care still inside a wait</text>
+    <rect x="220" y="182" width="120" height="26" rx="4" fill="#6B7280"/>
+    <text x="230" y="200" fill="#FFFFFF">Cash</text>
+    <text x="24" y="250">Tax credit on the cash</text>
+    <rect x="220" y="232" width="90" height="26" rx="4" fill="#0F7A4B"/>
+    <text x="230" y="250" fill="#FFFFFF">A fraction</text>
+  </g>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2025 federal credit: 15 percent of expenses above the lesser of $2,834 or 3 percent of net income.</text>
+  <text x="24" y="338" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A provincial credit adds more. A plan reimbursement cannot also be claimed.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">If the premium is close to the annual maximum, cash usually wins.</text>
+</svg>

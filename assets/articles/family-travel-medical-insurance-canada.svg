@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">How to compare a family annual multi-trip plan with single-trip quotes</title>
+  <desc id="desc">Four steps. List real trips. Compare the longest trip with the annual day cap. Add single-trip quotes on the same medical terms. Keep cancellation and sports off that comparison.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Annual is cheaper only if every trip fits</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">A method. Put your quotes in the boxes. 23 Nov 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">
+    <rect x="24" y="80" width="150" height="64" rx="6" fill="#0F7A4B"/>
+    <text x="36" y="106" fill="#FFFFFF">1. List trips</text>
+    <text x="36" y="126" fill="#FFFFFF">you will take</text>
+    <rect x="198" y="80" width="150" height="64" rx="6" fill="#0F7A4B"/>
+    <text x="210" y="106" fill="#FFFFFF">2. Longest trip</text>
+    <text x="210" y="126" fill="#FFFFFF">versus day cap</text>
+    <rect x="372" y="80" width="150" height="64" rx="6" fill="#0F7A4B"/>
+    <text x="384" y="106" fill="#FFFFFF">3. Add single</text>
+    <text x="384" y="126" fill="#FFFFFF">trip quotes</text>
+    <rect x="546" y="80" width="150" height="64" rx="6" fill="#0F7A4B"/>
+    <text x="558" y="106" fill="#FFFFFF">4. Compare with</text>
+    <text x="558" y="126" fill="#FFFFFF">annual premium</text>
+  </g>
+  <text x="24" y="190" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Same terms on every quote</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="220">Medical maximum matches</text>
+    <text x="24" y="246">Deductible wording matches (per person or per family)</text>
+    <text x="24" y="272">Stability period matches</text>
+    <text x="24" y="298">Oldest traveller and child bands match</text>
+    <text x="24" y="324">Cancellation, sports, and rental cars stay off this total</text>
+  </g>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">A 15-day annual cap does not cover an 18-day trip. Price that trip alone.</text>
+</svg>
