@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Order for shopping a Canadian family week</title>
+  <desc id="desc">Plan the school-break week last. A PD-day weekend, a February gap, and late April come first. Bar length is priority, not a fare index.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Move the week before you shop the crowd.</text>
+  <text x="24" y="58" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Priority order, not a dollar chart. Your board calendar decides which weeks exist.</text>
+  <text x="24" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">1. PD-day weekend</text>
+  <rect x="200" y="94" width="300" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="160" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2. February gap</text>
+  <rect x="200" y="142" width="340" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="208" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">3. Late April</text>
+  <rect x="200" y="190" width="380" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="256" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">4. Break week</text>
+  <rect x="200" y="238" width="160" height="26" rx="4" fill="#E5E7EB"/>
+  <text x="208" y="256" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">only if it cannot move</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">If it cannot move, set a CAD ceiling and shop about 10 to 11 months out.</text>
+  <text x="24" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Compare package and do-it-yourself for the same off-peak week. Include the bag and the transfer.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Expedia 2026 windows are for ordinary weeks. School peaks can leave them behind.</text>
+</svg>

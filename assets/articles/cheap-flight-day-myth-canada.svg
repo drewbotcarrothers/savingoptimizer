@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Weekday fare gap versus booking window</title>
+  <desc id="desc">Expedia Canada 2026: Monday versus Saturday is about 3 percent. The domestic booking window is about 185 dollars and the international window about 190 dollars versus booking 180 or more days out.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The weekday is the small bar.</text>
+  <text x="24" y="58" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Expedia.ca 2026 Air Hacks, February 2026. Averages, not your route.</text>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Monday vs Saturday</text>
+  <rect x="210" y="100" width="48" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="266" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">about 3 percent</text>
+  <text x="24" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Domestic window</text>
+  <rect x="210" y="158" width="370" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="222" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">about $185 CAD</text>
+  <text x="24" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">International window</text>
+  <rect x="210" y="216" width="390" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="222" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">about $190 CAD</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Tuesday in this report is the least busy day to fly, not the cheapest day to book.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Thursday international and Friday domestic are departure tests, not a reason to wait.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Window dollars are versus bookings made 180 or more days out. Domestic 31 to 45 days. International 15 to 30 days.</text>
+</svg>

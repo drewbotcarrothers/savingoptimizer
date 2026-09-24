@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Equal household split of a shared pot</title>
+  <desc id="desc">An illustration of a 6000 dollar shared pot split equally across three households at 2000 dollars each. Room-based and income-based rules change those amounts on purpose.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Equal by household is the simple bar.</text>
+  <text x="24" y="58" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustration: $6,000 shared pot, three households. Not a quote.</text>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Grandparents</text>
+  <rect x="180" y="100" width="200" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="192" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$2,000</text>
+  <text x="24" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Parents</text>
+  <rect x="180" y="158" width="200" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="192" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$2,000</text>
+  <text x="24" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Adult sibling</text>
+  <rect x="180" y="216" width="200" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="192" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$2,000</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Room-based and income-based splits move these bars. Write the rule before the deposit.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Flights from different cities stay out of the pot. Children do not pay in.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A single grandparent paying a full household share is the case that usually needs a different rule.</text>
+</svg>
