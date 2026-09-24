@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">What a late Parks Canada cancellation keeps</title>
+  <desc id="desc">Three nights at 34 dollars plus an 11.50 dollar online reservation fee is 113.50 dollars paid at booking. Cancelling at least three days ahead forfeits 23 dollars in the worked example: the reservation fee and an 11.50 dollar cancellation fee. Cancelling inside three days also forfeits the first night, 57 dollars kept.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The three-day window is a $34 decision</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Three nights at the $34 shower-site rate. Online fees. Front-country example.</text>
+  <line x1="80" y1="300" x2="640" y2="300" stroke="#E5E7EB"/>
+  <rect x="140" y="259" width="90" height="41" fill="#9CA3AF"/>
+  <rect x="310" y="199" width="90" height="101" fill="#0F7A4B"/>
+  <rect x="480" y="100" width="90" height="200" fill="#1A1A1A"/>
+  <text x="152" y="250" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$23</text>
+  <text x="322" y="190" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$57</text>
+  <text x="488" y="92" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$113.50</text>
+  <text x="130" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Cancel in time</text>
+  <text x="148" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">kept</text>
+  <text x="300" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">Cancel late</text>
+  <text x="330" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#0F7A4B">kept</text>
+  <text x="478" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Paid at booking</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">In time means before 11:59 p.m. local park time, at least three days prior. Late also keeps night one.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$23 is $11.50 reservation fee plus $11.50 cancellation fee. The rest of the camping fees come back.</text>
+  <text x="24" y="424" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Parks Canada reservation terms, front-country example, read 24 Sep 2026.</text>
+</svg>

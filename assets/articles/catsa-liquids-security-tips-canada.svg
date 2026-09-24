@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">What to remove at a CATSA lane</title>
+  <desc id="desc">On a traditional lane, remove the 1 litre liquids bag and the laptop. On a CT lane with a sign, liquids of 100 millilitres or less and the laptop may stay in the carry-on. Liquids over 100 millilitres, such as declared medication, still come out on both lanes. Read 24 September 2026.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The sign decides what leaves the bag</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">100 ml is still the limit. CT only changes whether the small liquids stay packed.</text>
+  <rect x="24" y="78" width="320" height="250" rx="8" fill="#F4F7F5" stroke="#0F7A4B"/>
+  <rect x="376" y="78" width="320" height="250" rx="8" fill="#F4F7F5" stroke="#9CA3AF"/>
+  <text x="40" y="108" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#0F7A4B">Traditional lane</text>
+  <text x="40" y="140" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Pull out the 1 L bag</text>
+  <text x="40" y="166" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Pull out the laptop</text>
+  <text x="40" y="192" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Declare medicine over 100 ml</text>
+  <text x="40" y="230" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">No CT sign means the old bins.</text>
+  <text x="40" y="254" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">One bag per person. It has to close.</text>
+  <text x="392" y="108" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">CT lane, sign posted</text>
+  <text x="392" y="140" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Small liquids may stay in</text>
+  <text x="392" y="166" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Laptop may stay in</text>
+  <text x="392" y="192" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Over 100 ml still comes out</text>
+  <text x="392" y="230" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Duty-free still goes in a bin,</text>
+  <text x="392" y="254" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">seal intact, receipt visible.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Empty the water bottle before the belt. Fill it after screening.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A missed non-changeable fare costs more than the tube you meant to check.</text>
+  <text x="24" y="420" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CATSA liquids, CT X-ray, and bins pages, read 24 Sep 2026.</text>
+</svg>

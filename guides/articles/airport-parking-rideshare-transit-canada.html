@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Getting to Canadian Airports Cheaply: Parking, Transit, and Rideshare Math — Saving Optimizer</title>
+  <meta name="description" content="Airport parking versus transit and rideshare in Canada: Pearson’s weekly cap, UP Express, the Canada Line AddFare, and Calgary Transit fares.">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/styles.css">
+  
+  <link rel="canonical" href="https://savingoptimizer.com/guides/articles/airport-parking-rideshare-transit-canada.html">
+  <meta name="author" content="Saving Optimizer">
+  <meta name="theme-color" content="#0F7A4B">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Saving Optimizer">
+  <meta property="og:title" content="Getting to Canadian Airports Cheaply: Parking, Transit, and Rideshare Math — Saving Optimizer">
+  <meta property="og:description" content="Airport parking versus transit and rideshare in Canada: Pearson’s weekly cap, UP Express, the Canada Line AddFare, and Calgary Transit fares.">
+  <meta property="og:url" content="https://savingoptimizer.com/guides/articles/airport-parking-rideshare-transit-canada.html">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Getting to Canadian Airports Cheaply: Parking, Transit, and Rideshare Math — Saving Optimizer">
+  <meta name="twitter:description" content="Airport parking versus transit and rideshare in Canada: Pearson’s weekly cap, UP Express, the Canada Line AddFare, and Calgary Transit fares.">
+  <meta name="twitter:image" content="https://savingoptimizer.com/assets/logo-primary.png">
+  <link rel="alternate" type="text/plain" title="LLMs" href="/llms.txt">
+  <meta name="article:section" content="Travel">
+  <meta name="article:published_time" content="2026-11-23">
+  <meta name="article:modified_time" content="2026-11-23">
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Getting to Canadian Airports Cheaply: Parking, Transit, and Rideshare Math",
+  "description": "Airport parking versus transit and rideshare in Canada: Pearson’s weekly cap, UP Express, the Canada Line AddFare, and Calgary Transit fares.",
+  "datePublished": "2026-11-23",
+  "dateModified": "2026-11-23",
+  "inLanguage": "en-CA",
+  "author": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "url": "https://savingoptimizer.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Saving Optimizer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://savingoptimizer.com/assets/logo-primary.png"
+    },
+    "url": "https://savingoptimizer.com/"
+  },
+  "image": "https://savingoptimizer.com/assets/logo-primary.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://savingoptimizer.com/guides/articles/airport-parking-rideshare-transit-canada.html"
+  },
+  "url": "https://savingoptimizer.com/guides/articles/airport-parking-rideshare-transit-canada.html",
+  "articleSection": "Travel",
+  "about": {
+    "@type": "Thing",
+    "name": "Travel savings in Canada",
+    "description": "Practical travel decisions for Canadian households."
+  }
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://savingoptimizer.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://savingoptimizer.com/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Travel",
+      "item": "https://savingoptimizer.com/guides/travel.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Getting to Canadian Airports Cheaply: Parking, Transit, and Rideshare Math",
+      "item": "https://savingoptimizer.com/guides/articles/airport-parking-rideshare-transit-canada.html"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is a week of parking at Pearson?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Value Park Garage, without a reservation, was $32 a day on the page read 24 Sep 2026, with a $160 maximum for the first seven days only. Day eight adds another $32, so eight days is $192. The height limit is 2.2 metres. A cancellation inside 24 hours costs $32 for that garage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When does UP Express beat parking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two adults with PRESTO pay $9.25 each way, $37 return, and children 12 and under ride free. Against a $32 daily rate, parking is $5 cheaper on day one and more expensive from day two. A seven-day cap of $160 does not catch a $37 train fare. The first weekday train from Union is 4:55 a.m., which is too late for many early departures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the Canada Line cost from YVR?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "From 1 July 2026 TransLink adds $6.50 when the trip starts at the airport stations. The trip to the airport does not add it. Using the $4.20 adult two-zone stored-value fare, one adult’s return is about $14.90 and two adults are about $29.80. Monthly passes are exempt from the AddFare. The airport’s own page has shown the older $5 figure; use TransLink."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a drop-off cheaper than parking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The stall fee is zero and the driver makes two airport trips. For a week at Pearson that can beat $160 of parking and still lose to a $37 train if the train runs when you fly. Price rideshare at the hour you would leave, not in the middle of the day. A $20 saving that misses the flight costs the ticket."
+      }
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="../../index.html">
+        <img src="../../assets/logo-primary.png" width="203" height="42" alt="Saving Optimizer">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="sr-only">Menu</span>
+        <svg class="icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary">
+        <ul>
+          <li><a href="../../guides/index.html">Guides</a></li>
+          <li class="nav-item has-mega">
+            <button type="button" class="nav-mega-toggle" aria-expanded="false" aria-controls="nav-categories">Categories</button>
+          </li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="nav-mega" id="nav-categories" hidden>
+      <div class="wrap nav-mega-inner">
+        <div class="nav-mega-top">
+          <span class="nav-mega-label">Browse by category</span>
+          <a class="nav-mega-all" href="../../guides/index.html">View all guides</a>
+        </div>
+        <ul class="nav-mega-list">
+          <li><a href="../food-groceries.html">Food &amp; Groceries</a></li>
+          <li><a href="../transportation.html">Transportation</a></li>
+          <li><a href="../housing.html">Housing</a></li>
+          <li><a href="../utilities.html">Utilities</a></li>
+          <li><a href="../kids.html">Kids</a></li>
+          <li><a href="../clothing.html">Clothing</a></li>
+          <li><a href="../personal-care.html">Personal Care</a></li>
+          <li><a href="../travel.html">Travel</a></li>
+          <li><a href="../personal-finance.html">Personal Finance</a></li>
+          <li><a href="../insurance.html">Insurance</a></li>
+          <li><a href="../healthcare.html">Healthcare</a></li>
+          <li><a href="../household-items.html">Household Items and Supplies</a></li>
+          <li><a href="../pets.html">Pets</a></li>
+          <li><a href="../subscriptions.html">Subscriptions</a></li>
+          <li><a href="../entertainment.html">Entertainment</a></li>
+          <li><a href="../students.html">Students</a></li>
+          <li><a href="../weddings.html">Weddings</a></li>
+          <li><a href="../events.html">Events</a></li>
+          <li><a href="../education.html">Education</a></li>
+          <li><a href="../technology.html">Technology</a></li>
+          <li><a href="../internet.html">Internet</a></li>
+          <li><a href="../sports.html">Sports</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+
+  <main id="main">
+  <article class="article-wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="../../index.html">Home</a></li>
+      <li><a href="../index.html">Guides</a></li>
+      <li><a href="../travel.html">Travel</a></li>
+      <li aria-current="page">Getting to Canadian Airports Cheaply: Parking, Transit, and Rideshare Math</li>
+    </ol>
+    </nav>
+    <p class="kicker">Travel · Canada</p>
+    <h1>Getting to Canadian Airports Cheaply: Parking, Transit, and Rideshare Math</h1>
+    <p class="article-meta">The week of parking the fare forgot · About 16 minutes · 23 Nov 2026</p>
+    
+    <div class="prose">
+
+
+      <p>A week of airport parking is a second fare that never shows up on the flight receipt. At Toronto Pearson’s Value Park Garage, the published drive-up rate read 24 Sep 2026 is <strong>$32 a day</strong>, with a <strong>$160 maximum for the first seven days</strong> and $32 again after that. Two adults on UP Express with PRESTO, Pearson to Union and back, are <strong>$37</strong>. The week-long gap is about <strong>$123</strong> before anyone calls the flight cheap. This page is that comparison for the big Canadian airports, plus the mornings when transit is the wrong saving.</p>
+      <div class="disclosure">
+        <p><strong>Disclosure:</strong> Airport-parking comparison sites are an offer type. Saving Optimizer does not claim a partnership with a parking broker, an airline, or a rideshare company. Rates below were read 24 Sep 2026 from the airport, transit, and UP Express pages named in the sources. A rideshare price is a quote at the hour you leave, not a tariff. Education only.</p>
+      </div>
+      <div class="takeaways">
+        <h2>Key takeaways</h2>
+        <ul>
+          <li>Pearson Value Park Garage, without a reservation: <strong>$32 a day</strong>, <strong>$160 for the first seven days</strong>, then $32 a day. Height limit <strong>2.2 metres</strong>. A reservation cancelled inside 24 hours has a published fee ($32 for this garage, $30 for the Value Park Lot, $42 for Daily Park).</li>
+          <li>UP Express, Pearson–Union: adult <strong>$12.35</strong> one way, PRESTO adult <strong>$9.25</strong>. Children 12 and under are free. Two adults, PRESTO, return: <strong>$37</strong>. Weekday first train from Union toward Pearson is 4:55 a.m.</li>
+          <li>Canada Line from YVR: TransLink’s YVR AddFare is <strong>$6.50</strong> as of 1 Jul 2026 on trips that start at the airport stations, on top of the zone fare. There is no AddFare on the way to the airport. Adult Compass stored value is <strong>$4.20</strong> for two zones on this site’s 1 Jul 2026 fare note. One adult return is about <strong>$14.90</strong> if downtown is a two-zone trip.</li>
+          <li>Calgary Transit 2026 adult cash fare is <strong>$4.00</strong>, valid 90 minutes. Children 12 and under are free. Routes 100 and 300 serve YYC. There is no LRT to the terminal. Two adults, return, is <strong>$16</strong> if each ride is a new fare.</li>
+          <li>For two PRESTO adults, Pearson parking at $32 beats transit on a single day by $5, and loses on day two. A weekly cap does not make a seven-day stay cheaper than the train.</li>
+          <li>A $20 transit saving that misses the flight costs the fare. Winter, a first bus that does not exist, and a Basic ticket you cannot change are reasons to buy the buffer. Security timing is the <a href="catsa-liquids-security-tips-canada.html">CATSA guide</a>.</li>
+        </ul>
+      </div>
+
+      <h2>Compare on-airport vs off-airport parking for trip length</h2>
+      <p>On-airport parking is the stall you can walk or train to without a shuttle company’s clock. Off-airport parking is a private lot plus a shuttle, often cheaper on a long trip and often worse at 11 p.m. when the shuttle is every 30 minutes and you still have to clear security. Compare three numbers: the all-in rate for your dates, the shuttle ride at both ends, and the cancellation fee if the flight moves.</p>
+      <p>Pearson’s own Value Park Garage page, read 24 Sep 2026, is the on-airport anchor for a long stay. Drive-up: <strong>$32 a day</strong>. The weekly maximum is <strong>$160 for the first seven days only</strong>. Day eight is another $32, so eight days is $192, not a second capped week. The rooftop is uncovered. Vehicles taller than <strong>2.2 metres</strong> need a different lot. The terminal link train from Viscount is the connection, and Pearson describes it as about 6 to 12 minutes, every few minutes. That train is not UP Express. It only joins the garage to the terminals.</p>
+      <p>Reservations are how you lock a stall and sometimes a lower rate. Pearson’s parking page says changes are allowed until 24 hours before arrival, at the price then in effect, and that a booking already started cannot be extended online. Cancellations inside 24 hours have published fees, including <strong>$42</strong> for Daily Park, <strong>$32</strong> for Value Park Garage, <strong>$30</strong> for the Value Park Lot, <strong>$32</strong> for Viscount Station Reserved, <strong>$45</strong> for Park and Ride, <strong>$46</strong> for Preferred, <strong>$53</strong> for Fast Track, and <strong>$76</strong> for Valet Care. The same page describes a one-hour grace period around the reservation. Outside that hour you pay for the extra time. Read the rule for cancellations made more than 24 hours ahead on that page before you assume they are free. The text in front of the fee list is the contract.</p>
+      <p>Off-airport lots are a quote, not a rate card this page can stamp. Use a comparison site if you want several lots on one screen. Then read the shuttle hours against your landing time, the walk with a bag, and whether the lot is staffed. A lot that is $40 cheaper and closes its shuttle before you land is not cheaper. Add the shuttle time to the security buffer. Do not add it to your optimism.</p>
+
+      <h2>UP Express, Canada Line, and city transit options that beat taxis</h2>
+      <p>Transit beats a taxi when it runs at the hour you travel, you can handle the bags, and the fare for your party is under the ride you would otherwise book. Three systems cover the pattern. Your city still needs its own first-and-last trip check.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Published fares read 24 Sep 2026. YVR zone fare uses the adult Compass stored-value figure already dated on this site’s Compass guide for 1 Jul 2026 ($4.20 for two zones). Confirm the zone your station actually is.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Airport</th>
+              <th scope="col">Transit product</th>
+              <th scope="col">Return, two adults</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">YYZ Pearson</th>
+              <td>UP Express to Union. PRESTO adult $9.25 one way. Standard adult $12.35. Children 12 and under free. Senior standard $6.20 one way.</td>
+              <td>$37 on PRESTO. $49.40 at the standard adult fare.</td>
+            </tr>
+            <tr>
+              <th scope="row">YVR</th>
+              <td>Canada Line. AddFare $6.50 from 1 Jul 2026 only when the trip starts at YVR–Airport, Sea Island Centre, or Templeton. No AddFare toward the airport. Two-zone stored value $4.20 each way in the Compass note.</td>
+              <td>About $29.80. Each adult pays $4.20 + $6.50 leaving, and $4.20 returning.</td>
+            </tr>
+            <tr>
+              <th scope="row">YYC Calgary</th>
+              <td>Routes 100 and 300. Adult cash $4.00, 90 minutes. Children 12 and under free. No LRT to the terminal. Tickets from the machines at the stops.</td>
+              <td>$16 if each direction is outside the 90-minute window, which a flight is.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>UP Express also sells a family fare and a group pass on its fare table. Use those if the party matches the rule, instead of buying four adult tickets out of habit. Trains run about every 15 minutes. Weekday service from Union toward Pearson starts at <strong>4:55 a.m.</strong>; the first weekday train from Pearson toward Union is <strong>5:27 a.m.</strong> Weekend first trains are later (6:00 a.m. from Union, 6:27 a.m. from Pearson). A 6 a.m. departure is not an UP Express plan if you still need to clear security. Pearson’s separate “park and ride the UP” offer, $45 for a family on weekdays after 5 p.m. and on weekends, is a downtown day trip with a seven-hour return limit. It is not a substitute for a week of parking.</p>
+      <p>At YVR, TransLink’s page says the AddFare rose from $5 to <strong>$6.50 on 1 Jul 2026</strong>. It is charged on single-use tickets, DayPasses bought at those stations, Compass stored value, and tap-to-pay. Monthly passes and several other products are exempt. TransLink collects it. The airport’s own passenger page has lagged behind that increase in the past and still described a $5 add-on. Use the TransLink figure for any trip after 1 Jul 2026, and tap out so a two-zone trip is not charged as something worse. The return to the airport does not add a second $6.50.</p>
+      <p>At YYC, Calgary Transit’s 2026 adult cash fare is $4.00 and the monthly pass is $126. A monthly pass is a commute product. A vacation uses single rides unless you already hold the pass. There is no train into the terminal. Route 300 is the limited-stop bus toward downtown. Route 100 connects toward the Blue Line at Saddletowne. Check the first trip. An early departure that misses the first bus is a rideshare or a car, not a $4 story.</p>
+
+      <h2>Rideshare surge timing for early departures</h2>
+      <p>Rideshare apps do not publish a Canadian airport tariff you can put in a spreadsheet for next March. They publish a quote for the next few minutes. The quote at 2 p.m. on a Tuesday is not the quote at 4:30 a.m. on a Friday, and it is not the quote when everyone in the terminal lands at once.</p>
+      <p>The method: open the app at the hour you would leave, on a weekday that looks like your travel day, for both the departure and a typical return. Screenshot it. Add a tip if you tip, and add the walk from the pickup point the airport assigns, which is not always the door you hoped. If that round trip is under the parking total for your length of stay, and a car will actually be available at that hour, rideshare wins on dollars. If the quote is a surge you would not pay, the comparison is transit or the stall, not the happy-hour price.</p>
+      <p>A return ride is the one people forget. You can control the departure quote the night before. You cannot control the arrival quote if the flight is late and the curb is full. If that risk bothers you, the capped parking stay is the product that does not reprice at the curb. Off-airport shuttles have the same late-night question. Ask what time the last shuttle runs before you take the cheaper lot.</p>
+
+      <h2>Two-car households: drop-off vs parking break-even days</h2>
+      <p>A drop-off feels free because no stall ticket prints. It is two trips for the driver: out with the traveller, and back to the airport on the return, or one trip each way if someone else does the pickup. Fuel for those trips is real and usually small next to a week of parking. Time is the cost. If the driver would have used those hours on something you would otherwise pay for, write it down. If the driver is available and willing, the drop-off can beat $160 of parking without beating a $37 train fare. The train is still the cheap line when it runs.</p>
+      <p>Break-even against Value Park’s $32 day, for a party that can use UP Express:</p>
+      <ul>
+        <li>One adult, PRESTO return <strong>$18.50</strong>. Parking at $32 is already higher on day one.</li>
+        <li>Two adults, PRESTO return <strong>$37</strong>. Day one of parking is $5 cheaper than the train. Day two of parking is $64 against a train fare that does not grow. Transit wins from the second day.</li>
+        <li>The seven-day cap is $160. Two adults on the train remain $37. The cap saves you versus 7 × $32 = $224, and it does not catch the train.</li>
+      </ul>
+      <p>Children 12 and under do not change the PRESTO adult math if the adults are the ones paying. A party of two adults and two young children is still $37 on PRESTO, not $74. That makes parking lose even earlier. A party that cannot manage bags and children on the train should stop running the dollar line and price the rideshare or the drop-off instead. Mobility is a constraint, not a failure of thrift.</p>
+      <figure class="article-figure">
+        <img src="../../assets/articles/airport-parking-rideshare-transit-canada.svg" width="720" height="420" alt="Bar chart for a seven-day Toronto trip. Value Park Garage is 160 dollars for the first seven days. Two adults on UP Express with PRESTO are 37 dollars return. The gap is 123 dollars.">
+        <figcaption>Pearson, seven days, two adults who can ride UP Express. The $160 cap is the first week only. PRESTO return is 4 × $9.25. Read 24 Sep 2026.</figcaption>
+      </figure>
+
+      <h2>Winter reliability and buffer time worth more than $20 saved</h2>
+      <p>A storm, a stalled train, or a bus that is not running at 5 a.m. turns a $20 saving into a new ticket. CATSA’s buffer is about two hours domestic and three hours for US and international flights, and that clock starts when you are at the airport, not when you leave the house. Winter adds the ride. Leave a margin you would be willing to spend $20 to protect.</p>
+      <p>If the fare cannot be changed, the margin is worth more. Air Canada’s Basic brand is the example on <a href="air-canada-basic-vs-standard-when-to-pay-up.html">Basic versus Standard</a>. A same-day replacement fare is the real price of a tight connection to the airport. Airline refunds and compensation, when the airline causes the delay, are <a href="flight-cancellation-refund-vs-voucher-canada-appr.html">a different guide</a>. They do not cover a bus you missed.</p>
+      <p>Practical winter rules: check the first transit trip the night before; if it does not clear security with the buffer, book the stall or a drop-off. Prefer the covered garage when freezing rain is the forecast and the cheaper lot is a walk. Do not switch plans at the curb. The reservation grace period is one hour, not a snow day.</p>
+
+      <h2>Template: cost per day parked vs round-trip transit for two</h2>
+      <p>One row per airport you actually use. Transit is a round trip, so it does not fall as the trip gets longer. Parking does, until a weekly cap flattens it.</p>
+      <div class="table-wrap">
+        <table>
+          <caption>Template. Pearson numbers are the Value Park Garage drive-up rate and UP Express PRESTO, two adults. YVR and YYC transit figures are the return fares from the table above. Parking at YVR and YYC is a blank on purpose: pull the quote for your dates. Rideshare stays a screenshot, not a cell you copy from a friend.</caption>
+          <thead>
+            <tr>
+              <th scope="col">Length</th>
+              <th scope="col">YYZ park</th>
+              <th scope="col">YYZ transit, 2 adults</th>
+              <th scope="col">YVR transit, 2 adults</th>
+              <th scope="col">YYC transit, 2 adults</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1 day</th>
+              <td>$32</td>
+              <td>$37</td>
+              <td>About $29.80</td>
+              <td>$16</td>
+            </tr>
+            <tr>
+              <th scope="row">3 days</th>
+              <td>$96</td>
+              <td>$37</td>
+              <td>About $29.80</td>
+              <td>$16</td>
+            </tr>
+            <tr>
+              <th scope="row">7 days</th>
+              <td>$160 cap</td>
+              <td>$37</td>
+              <td>About $29.80</td>
+              <td>$16</td>
+            </tr>
+            <tr>
+              <th scope="row">8 days</th>
+              <td>$192</td>
+              <td>$37</td>
+              <td>About $29.80</td>
+              <td>$16</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Fill a rideshare column with your screenshots and a drop-off column with the driver’s real constraint. The winner is the lowest figure that still gets you to security inside the buffer, with bags you can carry and a return that exists when the flight lands. For a week at Pearson, two adults who can ride the train should not pay $160 to avoid a $37 fare. They should pay it if the flight leaves before the train, the party cannot use the train, or the winter margin is the thing they are buying. That is the whole decision.</p>
+      <div class="sources">
+        <h2>Sources &amp; date stamps</h2>
+        <ul>
+          <li>Toronto Pearson, Value Park Garage — $32 daily, $160 weekly maximum for the first seven days, then $32, height 2.2 m. Parking page — cancellation fees inside 24 hours and the one-hour grace period. Read 24 Sep 2026.</li>
+          <li>UP Express fare table and Pearson UP Express page — adult $12.35, PRESTO $9.25, children 12 and under free, first-train times. Read 24 Sep 2026.</li>
+          <li>TransLink, Transferring and AddFare — YVR AddFare $6.50 from 1 Jul 2026, not charged toward the airport. Adult two-zone Compass stored value $4.20 as dated on this site’s Compass guide for 1 Jul 2026.</li>
+          <li>YYC public transit page — routes 100 and 300, no LRT to the terminal. Calgary Transit 2026 adult cash fare $4.00, 90 minutes, children 12 and under free. Read 24 Sep 2026.</li>
+        </ul>
+      </div>
+
+    </div>
+    
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Frequently asked questions</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3>How much is a week of parking at Pearson?</h3>
+          <p>Value Park Garage, without a reservation, was $32 a day on the page read 24 Sep 2026, with a $160 maximum for the first seven days only. Day eight adds another $32, so eight days is $192. The height limit is 2.2 metres. A cancellation inside 24 hours costs $32 for that garage.</p>
+        </div>
+        <div class="faq-item">
+          <h3>When does UP Express beat parking?</h3>
+          <p>Two adults with PRESTO pay $9.25 each way, $37 return, and children 12 and under ride free. Against a $32 daily rate, parking is $5 cheaper on day one and more expensive from day two. A seven-day cap of $160 does not catch a $37 train fare. The first weekday train from Union is 4:55 a.m., which is too late for many early departures.</p>
+        </div>
+        <div class="faq-item">
+          <h3>What does the Canada Line cost from YVR?</h3>
+          <p>From 1 July 2026 TransLink adds $6.50 when the trip starts at the airport stations. The trip to the airport does not add it. Using the $4.20 adult two-zone stored-value fare, one adult’s return is about $14.90 and two adults are about $29.80. Monthly passes are exempt from the AddFare. The airport’s own page has shown the older $5 figure; use TransLink.</p>
+        </div>
+        <div class="faq-item">
+          <h3>Is a drop-off cheaper than parking?</h3>
+          <p>The stall fee is zero and the driver makes two airport trips. For a week at Pearson that can beat $160 of parking and still lose to a $37 train if the train runs when you fly. Price rideshare at the hour you would leave, not in the middle of the day. A $20 saving that misses the flight costs the ticket.</p>
+        </div>
+      </div>
+    </section>
+    <section class="related-guides" aria-labelledby="related-heading">
+      <h2 id="related-heading">Keep going</h2>
+      <ul class="related-list">
+        <li><a href="catsa-liquids-security-tips-canada.html">Security timing<span>Two hours domestic, three hours for US and international.</span></a></li>
+        <li><a href="how-to-avoid-checked-bag-fees-air-canada-westjet.html">Bag fees<span>The other line a cheap fare hides.</span></a></li>
+        <li><a href="via-rail-leisure-trips-canada.html">Skip the airport<span>When the train station is the weekend.</span></a></li>
+        <li><a href="../travel.html">Travel hub<span>Fares, parks, and weekends.</span></a></li>
+      </ul>
+    </section>
+    <div class="article-cta">
+      <p><a class="btn btn-primary" href="../travel.html">More Travel guides</a>
+      <a class="btn btn-ghost" href="when-to-book-flights-canada-domestic-international.html">Next: when to book flights</a></p>
+    </div>
+  </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid footer-grid-simple">
+      <div class="footer-brand">
+        <a class="footer-wordmark" href="../../index.html">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#0F7A4B"/><text x="16" y="21.5" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700" font-family="Inter, Arial, sans-serif">$</text></svg>
+          Saving Optimizer
+        </a>
+        <p>Practical guides for Canadians who want to keep more of what they earn — without the jargon.</p>
+      </div>
+      <div class="footer-col">
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="../index.html">All guides &amp; categories</a></li>
+          <li><a href="../../about.html">About</a></li>
+          <li><a href="../../contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>More Canadian tools</h2>
+        <ul>
+          <li><a href="https://canadiancreditcardfinder.com/">Canadian Credit Card Finder</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© 2026 Saving Optimizer. Written for Canadian households.</p>
+    </div>
+  </footer>
+  <script src="../../js/main.js?v=3" defer></script>
+</body>
+</html>
