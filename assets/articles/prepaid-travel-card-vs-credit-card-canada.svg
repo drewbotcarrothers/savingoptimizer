@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Which payment type does which job abroad</title>
+  <desc id="desc">Credit cards for hotels and larger purchases. Debit or a multi-currency account for ATMs inside the fee-free limit. Prepaid for a daily cap. No brand is ranked.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Split the wallet by job.</text>
+  <text x="24" y="58" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Product types. No brand ranking. Re-read fees the week you fly.</text>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Hotels, rentals, large buys</text>
+  <rect x="250" y="100" width="420" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Credit card</text>
+  <text x="24" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">ATM cash, inside the cap</text>
+  <rect x="250" y="158" width="360" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Debit or multi-currency</text>
+  <text x="24" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Daily cap, teen stipend</text>
+  <rect x="250" y="216" width="240" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="262" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Prepaid balance</text>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A hotel hold needs the credit card, or a prepaid balance that covers the buffer.</text>
+  <text x="24" y="334" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Pack Visa and Mastercard from different issuers. Store them apart.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Wise ATM figures, when you use that account, are dated in the FX guide. They are not a ranking.</text>
+</svg>

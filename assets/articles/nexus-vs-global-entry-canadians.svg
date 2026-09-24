@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">NEXUS versus a separate Global Entry application</title>
+  <desc id="desc">NEXUS costs 120 US dollars and is the application Canadian citizens and permanent residents file. It includes Global Entry kiosk benefits. Standalone Global Entry is the same fee and is not a second Canadian application.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One fee. Canadian citizens file NEXUS.</text>
+  <text x="24" y="58" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CBSA and CBP pages read 24 Sep 2026. Not a second program.</text>
+  <text x="24" y="110" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">NEXUS, five years</text>
+  <rect x="220" y="92" width="420" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="232" y="111" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$120 USD, air, land, marine, kiosks</text>
+  <text x="24" y="168" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Global Entry fee</text>
+  <rect x="220" y="150" width="210" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="232" y="169" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$120, if you qualify</text>
+  <text x="24" y="226" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Second GE file</text>
+  <rect x="220" y="208" width="420" height="28" rx="4" fill="#E5E7EB"/>
+  <text x="232" y="227" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Not the Canadian-citizen path. Do not pay twice.</text>
+  <text x="24" y="290" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Under 18: fee waived when a parent applies or is already a member.</text>
+  <text x="24" y="314" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Each person still needs an appointment. The card follows the interview by about 4 to 6 weeks.</text>
+  <text x="24" y="338" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">CBSA: 30 business days excludes the interview. New applicants face a significant backlog.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Canada receives Global Entry benefits through NEXUS. CBP international arrangements, last modified 1 Jun 2026.</text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">What actually changes a teen trip budget</title>
+  <desc id="desc">Parks Canada youth admission is free. Banff adult daily admission is 12.25 dollars from 8 September 2026. A second hotel room is the household's own large cost.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Youth admission is not the expensive line.</text>
+  <text x="24" y="58" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Parks Canada fees read 24 Sep 2026. The room bar is a placeholder you replace.</text>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Youth 17 and under</text>
+  <rect x="210" y="100" width="36" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="254" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$0 admission</text>
+  <text x="24" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Adult, Banff day</text>
+  <rect x="210" y="158" width="90" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="308" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$12.25 from 8 Sep 2026</text>
+  <text x="24" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Second hotel room</text>
+  <rect x="210" y="216" width="420" height="26" rx="4" fill="#E5E7EB"/>
+  <text x="222" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">your quote, often the real trip</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Family or group daily at Banff: $24.50, up to seven people in one vehicle.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Camping, hot springs, and Lake Louise parking are not included. Provincial parks differ.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Canada Strong Pass free admission for everyone ended 7 Sep 2026. Youth free admission is the standing rule.</text>
+</svg>

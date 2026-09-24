@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrated dynamic currency conversion gap</title>
+  <desc id="desc">Illustration only. Eighty euros at an assumed 1.50 Canadian dollars per euro is 120 dollars. A terminal offer of 129 dollars is nine dollars higher. Use the rate on the day you pay.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Write both amounts before you tap.</text>
+  <text x="24" y="58" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustration. 1 euro = 1.50 CAD is assumed, not a live Bank of Canada rate.</text>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Local, at 1.50</text>
+  <rect x="190" y="100" width="300" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="202" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">80 euros = $120 CAD</text>
+  <text x="24" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Terminal in CAD</text>
+  <rect x="190" y="158" width="360" height="26" rx="4" fill="#E5E7EB"/>
+  <text x="202" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$129 offered</text>
+  <text x="24" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Gap</text>
+  <rect x="190" y="216" width="70" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="202" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$9</text>
+  <text x="270" y="234" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">7.5 percent above the assumed rate</text>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Travel.gc.ca: choose the currency of the country you are in.</text>
+  <text x="24" y="334" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The card's own foreign fee is a second layer. Decline conversion first.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Replace 1.50 with the converter rate on the day. There is no single official DCC percent.</text>
+</svg>
