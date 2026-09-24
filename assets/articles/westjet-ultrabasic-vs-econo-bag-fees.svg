@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">WestJet first checked bag, prepaid versus the airport</title>
+  <desc id="desc">Before tax, tickets from 23 April 2026 within Canada and the United States. UltraBasic first bag is 55 dollars prepaid, 70 at online check-in, and 80 at the airport. Econo is 45, 60, and 70.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Prepay the first bag. The airport is the markup.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canada and U.S., tickets purchased on or after 23 Apr 2026. Before tax.</text>
+  <line x1="70" y1="300" x2="690" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="90" x2="70" y2="300" stroke="#E5E7EB"/>
+  <rect x="110" y="155" width="36" height="145" fill="#0F7A4B"/>
+  <rect x="152" y="116" width="36" height="184" fill="#9CA3AF"/>
+  <rect x="194" y="90" width="36" height="210" fill="#6B7280"/>
+  <text x="112" y="148" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">$55</text>
+  <text x="154" y="108" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#6B7280">$70</text>
+  <text x="196" y="82" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#6B7280">$80</text>
+  <text x="128" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">UltraBasic</text>
+  <text x="118" y="338" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">prepay / online / agent</text>
+  <rect x="390" y="181" width="36" height="119" fill="#0F7A4B"/>
+  <rect x="432" y="142" width="36" height="158" fill="#9CA3AF"/>
+  <rect x="474" y="116" width="36" height="184" fill="#6B7280"/>
+  <text x="392" y="174" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">$45</text>
+  <text x="434" y="134" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#6B7280">$60</text>
+  <text x="476" y="108" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#6B7280">$70</text>
+  <text x="430" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Econo</text>
+  <text x="400" y="338" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">prepay / online / agent</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Green is the prepaid price. GST or HST on a Canada-origin fee sits on top.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">WestJet flight terms updated 28 Apr 2026, read 24 Sep 2026. Not a quote for an older ticket.</text>
+</svg>
