@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Same Aeroplan points price, two different taxes lines</title>
+  <desc id="desc">On a labelled 700 dollar fare at 32500 points, 90 dollars of reward taxes is about 1.9 cents per point. 400 dollars of taxes and fees is about 0.9 cents, under a 2 cent cash-back line.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The taxes line can erase the chart price</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled $700 cash fare, 32,500 points. Not a live seat.</text>
+  <line x1="80" y1="280" x2="660" y2="280" stroke="#E5E7EB"/>
+  <line x1="80" y1="100" x2="80" y2="280" stroke="#E5E7EB"/>
+  <line x1="80" y1="136" x2="640" y2="136" stroke="#0F7A4B" stroke-dasharray="6 4"/>
+  <text x="250" y="88" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Dashed line: 2.0 cent cash-back alternative</text>
+  <rect x="180" y="128" width="90" height="152" fill="#0F7A4B"/>
+  <text x="196" y="120" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">1.9 c</text>
+  <text x="186" y="304" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">$90 fees</text>
+  <text x="178" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">points can win</text>
+  <rect x="420" y="208" width="90" height="72" fill="#9CA3AF"/>
+  <text x="440" y="200" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#6B7280">0.9 c</text>
+  <text x="426" y="304" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">$400 fees</text>
+  <text x="430" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">buy cash</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Value = cash fare minus what you still pay on the reward. Then divide by the points.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Illustration only. Air Canada chart PDF marked 2026-08, read 24 Sep 2026. Not a card ranking.</text>
+</svg>

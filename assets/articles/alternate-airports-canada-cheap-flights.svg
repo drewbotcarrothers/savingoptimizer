@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Fare gap after ground transfer</title>
+  <desc id="desc">A labelled 140 dollar fare gap shrinks to 90 dollars after a more expensive downtown rideshare, and the return ride can erase what is left.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A fare gap is not a saving until the ride is in it</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled two-adult sketch. Your address replaces the dollars.</text>
+  <line x1="80" y1="280" x2="680" y2="280" stroke="#E5E7EB"/>
+  <rect x="120" y="100" width="100" height="180" fill="#0F7A4B"/>
+  <text x="148" y="92" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$140</text>
+  <text x="138" y="304" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Fare gap</text>
+  <text x="132" y="320" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">two tickets</text>
+  <rect x="300" y="164" width="100" height="116" fill="#0F7A4B"/>
+  <text x="328" y="156" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$90</text>
+  <text x="308" y="304" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">After one ride</text>
+  <text x="312" y="320" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">downtown, labelled</text>
+  <rect x="480" y="250" width="100" height="30" fill="#9CA3AF"/>
+  <text x="512" y="242" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#6B7280">$0</text>
+  <text x="488" y="304" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">After the ride home</text>
+  <text x="500" y="320" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">gap gone</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Four people in one car can still win. Four people in two rideshares usually do not.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Illustration only. Price the hour you will actually leave. Education only.</text>
+</svg>

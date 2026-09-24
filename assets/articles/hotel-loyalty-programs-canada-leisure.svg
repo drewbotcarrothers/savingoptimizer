@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">One hotel program or cash</title>
+  <desc id="desc">If most nights are already in one chain, keep that program. If you redeem nothing, pay cash. A five-night award is a different test from a one-night dynamic price.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One chain you already sleep in, or cash</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Leisure nights in Canada. Not a status race and not a card ranking.</text>
+  <rect x="40" y="88" width="200" height="200" rx="8" fill="#E8F6EF" stroke="#0F7A4B"/>
+  <text x="56" y="124" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Most nights, one chain</text>
+  <text x="56" y="156" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Keep that program.</text>
+  <text x="56" y="180" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Book direct.</text>
+  <text x="56" y="204" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Ignore the other three.</text>
+  <rect x="260" y="88" width="200" height="200" rx="8" fill="#F9FAFB" stroke="#D1D5DB"/>
+  <text x="276" y="124" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">No redemption last year</text>
+  <text x="276" y="156" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Pay cash.</text>
+  <text x="276" y="180" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Stop splitting points.</text>
+  <text x="276" y="204" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Do not add a fee.</text>
+  <rect x="480" y="88" width="200" height="200" rx="8" fill="#E8F6EF" stroke="#0F7A4B"/>
+  <text x="496" y="124" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Five-night award</text>
+  <text x="496" y="156" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Price the free night.</text>
+  <text x="496" y="180" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A one-night spike</text>
+  <text x="496" y="204" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">usually fails the test.</text>
+  <text x="24" y="332" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Confirm fifth-night and fourth-night rules on the booking page. Tiers differ.</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Program descriptions used 24 Sep 2026. Education only. No card ranking.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A portal rate often earns nothing. Direct versus portal is a separate decision.</text>
+</svg>

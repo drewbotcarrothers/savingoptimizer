@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled 200 dollar room after Canadian lodging taxes</title>
+  <desc id="desc">A 200 dollar room sketches to about 240 dollars in Toronto, 238 in Vancouver, 238 in Quebec, and 222 in Alberta after the local levy and sales tax. Fees are not included.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same $200 room, four different tax stacks</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Room only. No cleaning fee, resort fee, or breakfast. Rates read 24 Sep 2026.</text>
+  <line x1="56" y1="290" x2="690" y2="290" stroke="#E5E7EB"/>
+  <rect x="90" y="168" width="70" height="122" fill="#E5E7EB"/>
+  <rect x="90" y="118" width="70" height="50" fill="#0F7A4B"/>
+  <text x="100" y="110" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$240</text>
+  <text x="96" y="312" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Toronto</text>
+  <text x="88" y="328" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">6% MAT + HST</text>
+  <rect x="230" y="168" width="70" height="122" fill="#E5E7EB"/>
+  <rect x="230" y="122" width="70" height="46" fill="#0F7A4B"/>
+  <text x="240" y="114" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$238</text>
+  <text x="226" y="312" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Vancouver</text>
+  <text x="214" y="328" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">PST + MRDT + 2.5%</text>
+  <rect x="370" y="168" width="70" height="122" fill="#E5E7EB"/>
+  <rect x="370" y="122" width="70" height="46" fill="#0F7A4B"/>
+  <text x="380" y="114" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$238</text>
+  <text x="376" y="312" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Quebec</text>
+  <text x="360" y="328" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">3.5% + GST + QST</text>
+  <rect x="510" y="168" width="70" height="122" fill="#E5E7EB"/>
+  <rect x="510" y="146" width="70" height="22" fill="#0F7A4B"/>
+  <text x="520" y="138" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$222</text>
+  <text x="516" y="312" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Alberta</text>
+  <text x="500" y="328" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">6% levy + GST</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Grey is the $200 room. Green is the tax stack on that sketch. The folio wins.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Toronto MAT 6% from 1 Aug 2026. Alberta levy 6% on bookings after 31 Mar 2026. Education only.</text>
+</svg>

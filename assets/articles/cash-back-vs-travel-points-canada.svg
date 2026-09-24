@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Effective rebate versus flat cash back</title>
+  <desc id="desc">On a labelled 18000 dollar spend year, 2 percent cash back is 360 dollars. One 220 dollar redemption is about 1.2 percent. Two redemptions worth 500 dollars are about 2.8 percent before any annual fee.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Score what you redeemed, not the sticker earn rate</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled $18,000 of spend. Fee not subtracted yet. Not a card.</text>
+  <line x1="70" y1="280" x2="680" y2="280" stroke="#E5E7EB"/>
+  <rect x="110" y="100" width="90" height="180" fill="#0F7A4B"/>
+  <text x="128" y="92" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$360</text>
+  <text x="122" y="304" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">2% cash</text>
+  <text x="128" y="320" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">the alternative</text>
+  <rect x="300" y="170" width="90" height="110" fill="#9CA3AF"/>
+  <text x="318" y="162" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#6B7280">$220</text>
+  <text x="304" y="304" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">One award</text>
+  <text x="318" y="320" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">about 1.2%</text>
+  <rect x="490" y="80" width="90" height="200" fill="#0F7A4B"/>
+  <text x="508" y="72" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$500</text>
+  <text x="492" y="304" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Two awards</text>
+  <text x="500" y="320" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">about 2.8%</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Subtract the annual fee after this. If you redeemed nothing, the bar is zero.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Illustration only. Education only. No card ranking.</text>
+</svg>
