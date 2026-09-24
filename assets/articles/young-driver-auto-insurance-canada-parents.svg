@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Why a young driver premium is high, and which levers are legal</title>
+  <desc id="desc">Inexperience is the base. A conviction or at-fault claim stacks. The vehicle rate group stacks. Honest principal-operator status and documented kilometres are the legal levers. Not a quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What actually stacks on a new driver</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Order of the problem. Not a percent and not a province-wide table. 24 Sep 2026.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Inexperience, thin claims-free history</text>
+  <rect x="280" y="82" width="360" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="146" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Plus a conviction or at-fault claim</text>
+  <rect x="280" y="128" width="250" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="192" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Plus an expensive rate-group VIN</text>
+  <rect x="280" y="174" width="180" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="250" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Legal levers: truthful principal driver, a VIN priced before you buy, kilometres you can show, a second quote.</text>
+  <text x="24" y="290" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Listing a parent as principal on the teen's daily car is not one of the levers.</text>
+  <text x="24" y="334" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">ICBC, MPI, and SGI use their own driver scales. This stack is the household question, not their formula.</text>
+  <text x="24" y="362" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Do not cut liability or Ontario medical benefits to pay for inexperience.</text>
+</svg>

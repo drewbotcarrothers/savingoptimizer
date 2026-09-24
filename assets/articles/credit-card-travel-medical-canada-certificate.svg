@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Four gates on a credit card travel medical certificate</title>
+  <desc id="desc">Age, trip length, stability, and the pay-with-card rule all have to pass. A large medical maximum does not open a closed gate. No card is named.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">All four gates, from the PDF</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">No card names. No rankings. The certificate you hold is the only source. 24 Sep 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">
+    <rect x="24" y="84" width="150" height="64" rx="8" fill="#0F7A4B"/>
+    <text x="48" y="122">Age</text>
+    <rect x="190" y="84" width="150" height="64" rx="8" fill="#0F7A4B"/>
+    <text x="214" y="122">Trip days</text>
+    <rect x="356" y="84" width="150" height="64" rx="8" fill="#0F7A4B"/>
+    <text x="378" y="122">Stability</text>
+    <rect x="522" y="84" width="174" height="64" rx="8" fill="#0F7A4B"/>
+    <text x="548" y="122">Who paid</text>
+  </g>
+  <text x="24" y="190" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A closed gate means the medical maximum is irrelevant for that trip.</text>
+  <text x="24" y="218" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Short, healthy, under the age line, fare rule met: the certificate can be the policy.</text>
+  <text x="24" y="246" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Snowbird length, unstable condition, or a birthday the PDF excludes: buy standalone coverage.</text>
+  <text x="24" y="290" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Primary versus excess is a fifth read. Maximums do not automatically add.</text>
+  <text x="24" y="334" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Provincial daily caps are not this certificate. They are on the provincial travel-medical guide.</text>
+  <text x="24" y="362" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not a card recommendation.</text>
+</svg>
