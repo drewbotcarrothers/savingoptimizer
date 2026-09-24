@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Gross billings versus net business income for a disability benefit</title>
+  <desc id="desc">A labelled illustration. Gross billings of 180,000 dollars are reduced by 70,000 dollars of expenses to 110,000 dollars of net business income. The insurable monthly benefit is whatever the contract allows on that net figure, not on gross billings.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Insure the net, not the invoice total</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled sketch. Not a quote. Not a tax filing. 21 Nov 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="100">Gross billings</text>
+    <rect x="210" y="82" width="470" height="26" rx="4" fill="#0F7A4B"/>
+    <text x="220" y="100" fill="#FFFFFF">$180,000</text>
+    <text x="24" y="150">Expenses claimed</text>
+    <rect x="210" y="132" width="183" height="26" rx="4" fill="#6B7280"/>
+    <text x="220" y="150" fill="#FFFFFF">$70,000</text>
+    <text x="24" y="200">Net business income</text>
+    <rect x="210" y="182" width="287" height="26" rx="4" fill="#0F7A4B"/>
+    <text x="220" y="200" fill="#FFFFFF">$110,000 about $9,167 a month</text>
+    <text x="24" y="250">Benefit the contract will issue</text>
+    <rect x="210" y="232" width="200" height="26" rx="4" fill="#0F7A4B"/>
+    <text x="220" y="250" fill="#FFFFFF">Ask, in writing</text>
+  </g>
+  <text x="24" y="310" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Dividends and retained earnings are not automatically earned income. Salary on a T4 often is.</text>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">There is no statute that sets one percentage of income for every personal policy.</text>
+</svg>

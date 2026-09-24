@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">What a provincial health card covers on a trip inside Canada, and what it often does not</title>
+  <desc id="desc">Two columns. Physician and public hospital services are the portable core. Ambulance, pharmacy drugs, and private clinics are the usual bills a health card does not pay.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Buy the column the card leaves blank</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario exclusions are explicit. Other provinces differ. 22 Nov 2026.</text>
+  <rect x="24" y="78" width="320" height="250" rx="8" fill="#F3F4F6"/>
+  <rect x="376" y="78" width="320" height="250" rx="8" fill="#E8F6EF"/>
+  <text x="40" y="108" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Card is built for</text>
+  <text x="392" y="108" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Often still your bill</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="40" y="146">Medically necessary physician care</text>
+    <text x="40" y="176">Public hospital services</text>
+    <text x="40" y="206">Quebec physician bills may</text>
+    <text x="40" y="226">still be paid by you first</text>
+    <text x="40" y="266">Reimbursement at home-plan rates</text>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#0F7A4B">
+    <text x="392" y="146">Ambulance, ground or air</text>
+    <text x="392" y="176">Pharmacy drugs outside hospital</text>
+    <text x="392" y="206">Private clinics and outside labs</text>
+    <text x="392" y="236">Home care and devices</text>
+    <text x="392" y="266">Trip home, if the certificate says so</text>
+  </g>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Hospital reciprocal billing includes every province. Physician reciprocal billing excludes Quebec.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">A second hospital policy is redundant. An ambulance exclusion is not.</text>
+</svg>

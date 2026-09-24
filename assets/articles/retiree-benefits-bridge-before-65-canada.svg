@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Separate end dates for workplace benefits before age 65</title>
+  <desc id="desc">A timeline from the last day of work to the month after a 65th birthday. Drugs, dental, travel medical, and life conversion each have their own date. Provincial seniors drug plans do not start on the retirement date.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Age 65 is not one switch</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario drug start shown as an example. Your province differs. 26 Nov 2026.</text>
+  <line x1="40" y1="110" x2="680" y2="110" stroke="#0F7A4B" stroke-width="3"/>
+  <circle cx="80" cy="110" r="7" fill="#0F7A4B"/>
+  <circle cx="360" cy="110" r="7" fill="#0F7A4B"/>
+  <circle cx="640" cy="110" r="7" fill="#0F7A4B"/>
+  <g font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="40" y="140">Last day of work</text>
+    <text x="300" y="140">Election windows close</text>
+    <text x="560" y="140">Month after 65</text>
+    <text x="24" y="190">Drugs: may end that day. Ontario Drug Benefit starts the first of the next month after 65.</text>
+    <text x="24" y="220">Dental: often no provincial replacement. Waiting periods apply on a new individual plan.</text>
+    <text x="24" y="250">Travel medical: usually ends with the job, including a trip already booked.</text>
+    <text x="24" y="280">Life: conversion is a short contractual window, not the drug-plan date.</text>
+    <text x="24" y="310">LTD: not portable just because a retiree health plan exists.</text>
+  </g>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Write five end dates. A pension start date is a sixth page, not this one.</text>
+</svg>
