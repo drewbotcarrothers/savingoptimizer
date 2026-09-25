@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">When Spotify Premium actually ends</title>
+  <desc id="desc">A paid cancel keeps Premium until the next billing date. A zero-price trial cancel ends Premium immediately and cannot be reactivated.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Cancel timing, paid plan versus a free trial</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Spotify Canada cancel page, read 25 Sep 2026. Not a refund of days left.</text>
+  <rect x="80" y="110" width="220" height="160" rx="6" fill="#0F7A4B"/>
+  <text x="118" y="180" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Paid cancel</text>
+  <text x="100" y="206" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Premium until the</text>
+  <text x="108" y="226" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">next billing date</text>
+  <rect x="400" y="110" width="220" height="160" rx="6" fill="#1A1A1A"/>
+  <text x="430" y="180" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Trial cancel</text>
+  <text x="448" y="206" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Free immediately</text>
+  <text x="436" y="226" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">Cannot restart trial</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Playlists stay either way. Offline downloads need the paid period.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The Canada help page we read describes cancel, not a pause button.</text>
+  <text x="24" y="398" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">If Apple or Google bills you, cancel there too. The Spotify screen alone may not see that charge.</text>
+</svg>
