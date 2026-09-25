@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Prime annual versus twelve monthly payments, Ontario HST illustration</title>
+  <desc id="desc">On Amazon fee-page prices, annual Prime is 99 dollars before tax and twelve monthly payments are 119.88. With a labelled 13 percent Ontario HST, the totals are about 112 and 135 dollars.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Annual versus twelve months, after a labelled HST</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Amazon.ca fee page: $99 or $9.99, taxes extra. Ontario 13 percent is the illustration.</text>
+  <rect x="150" y="150" width="150" height="160" rx="6" fill="#0F7A4B"/>
+  <text x="186" y="140" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$112</text>
+  <text x="186" y="334" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Annual</text>
+  <text x="176" y="352" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$111.87</text>
+  <rect x="420" y="110" width="150" height="200" rx="6" fill="#1A1A1A"/>
+  <text x="456" y="100" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$135</text>
+  <text x="436" y="334" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">12 x monthly</text>
+  <text x="450" y="352" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$135.46</text>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The gap is worth it only if you keep Prime all year. Otherwise pay monthly and end it.</text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Fee page used 24 Sep 2026. Your province changes the tax.</text>
+</svg>

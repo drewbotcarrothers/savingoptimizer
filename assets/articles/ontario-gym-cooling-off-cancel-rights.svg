@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario gym contract timeline</title>
+  <desc id="desc">Cooling-off is 10 days from the written contract. The contract ends after one year. Renewal notice must arrive 30 to 90 days before that end.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario: three clocks on one contract</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">ontario.ca gym page, updated 12 Aug 2021, used 24 Sep 2026.</text>
+  <line x1="50" y1="170" x2="670" y2="170" stroke="#0F7A4B" stroke-width="4"/>
+  <circle cx="70" cy="170" r="12" fill="#0F7A4B"/>
+  <circle cx="230" cy="170" r="12" fill="#0F7A4B"/>
+  <circle cx="470" cy="170" r="12" fill="#1A1A1A"/>
+  <circle cx="660" cy="170" r="12" fill="#1A1A1A"/>
+  <text x="40" y="130" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Written</text>
+  <text x="36" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">contract</text>
+  <text x="36" y="210" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Day 0</text>
+  <text x="188" y="130" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Day 10</text>
+  <text x="176" y="210" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Cooling-off</text>
+  <text x="188" y="226" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">ends</text>
+  <text x="400" y="130" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">30 to 90</text>
+  <text x="412" y="148" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">days out</text>
+  <text x="404" y="210" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Renewal</text>
+  <text x="408" y="226" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">notice</text>
+  <text x="620" y="140" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">1 year</text>
+  <text x="628" y="210" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Contract</text>
+  <text x="644" y="226" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">ends</text>
+  <text x="24" y="290" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$50 or more prepaid. Not a YMCA, a co-op, or a municipal facility.</text>
+  <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Send notice in writing and keep proof. A waiver in the contract does not remove the 10 days.</text>
+  <text x="24" y="366" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not legal advice.</text>
+</svg>
