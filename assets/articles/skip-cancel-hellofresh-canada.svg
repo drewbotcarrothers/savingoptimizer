@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">HelloFresh Canada skip deadline four days before delivery</title>
+  <desc id="desc">HelloFresh.ca how-it-works page, used 25 September 2026: skip or cancel by 11:59 p.m. Pacific Time, four days before the scheduled delivery. A later holiday delivery does not move that deadline.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The deadline does not move when the box does</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">hellofresh.ca/about/how-it-works, used 25 Sep 2026. Pacific time.</text>
+  <line x1="48" y1="180" x2="672" y2="180" stroke="#E5E7EB" stroke-width="4"/>
+  <circle cx="120" cy="180" r="12" fill="#0F7A4B"/>
+  <text x="70" y="150" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Skip or cancel</text>
+  <text x="78" y="214" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">11:59 p.m. PT</text>
+  <text x="86" y="232" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">4 days prior</text>
+  <circle cx="360" cy="180" r="12" fill="#374151"/>
+  <text x="318" y="150" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">After this</text>
+  <text x="300" y="214" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">the box is ordered</text>
+  <text x="292" y="232" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">you are charged</text>
+  <circle cx="600" cy="180" r="12" fill="#1A1A1A"/>
+  <text x="548" y="150" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Delivery day</text>
+  <text x="548" y="214" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">8 a.m. to 8 p.m.</text>
+  <text x="530" y="232" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">may shift on holidays</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A long weekend can push the delivery later. HelloFresh says the order deadline stays the same.</text>
+  <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The US site's five-day line is not the Canadian how-it-works page. Your account clock wins if they differ.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Put the cutoff on a shared calendar the week you travel, not the morning of the delivery.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Save the confirmation email. A skipped week is not a cancelled plan.</text>
+</svg>

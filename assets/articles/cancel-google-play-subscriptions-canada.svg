@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Google Play cancel versus uninstall</title>
+  <desc id="desc">Uninstalling an app does not cancel a Google Play subscription. Cancel in Payments and subscriptions. Access usually lasts until the end of the period already paid.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Uninstall is not a cancel</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Google Play Help, read 25 Sep 2026. The subscription keeps its billing date.</text>
+  <rect x="48" y="100" width="280" height="150" rx="8" fill="#F3F4F6" stroke="#6B7280" stroke-width="2"/>
+  <text x="72" y="140" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Delete the app</text>
+  <text x="72" y="172" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Icon gone.</text>
+  <text x="72" y="196" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Next renewal still scheduled.</text>
+  <text x="72" y="220" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#6B7280">This does not stop billing.</text>
+  <rect x="380" y="100" width="290" height="150" rx="8" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="404" y="140" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#0F7A4B">Cancel in Play</text>
+  <text x="404" y="172" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Payments and subscriptions.</text>
+  <text x="404" y="196" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Access until the period ends.</text>
+  <text x="404" y="220" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#0F7A4B">Save the confirmation.</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Then check the bank for merchants that never went through Play at all.</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">25 Sep 2026. A Google One or Play family plan can keep billing the manager after a member is removed.</text>
+</svg>

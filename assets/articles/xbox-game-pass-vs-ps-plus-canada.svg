@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Yearly cost of Game Pass and PS Plus Essential</title>
+  <desc id="desc">Twelve months of Xbox Game Pass Essential is 167 dollars 88 cents, Premium 215 dollars 88 cents, and Ultimate 311 dollars 88 cents. PlayStation Plus Essential for new customers is 179 dollars 88 cents if paid monthly or 109 dollars 99 cents for 12 months.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A year on the prices we could verify</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Xbox store CAD, 25 Sep 2026. PS Plus Essential annual from PlayStation Canada via MobileSyrup, 19 May 2026.</text>
+  <line x1="40" y1="300" x2="700" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="48" y="204" width="100" height="96" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="62" y="196" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$167.88</text>
+  <text x="58" y="324" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">GP Essential</text>
+  <rect x="168" y="174" width="100" height="126" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="182" y="166" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$215.88</text>
+  <text x="178" y="324" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">GP Premium</text>
+  <rect x="288" y="120" width="100" height="180" rx="6" fill="#1A1A1A"/>
+  <text x="302" y="112" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$311.88</text>
+  <text x="300" y="324" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">GP Ultimate</text>
+  <rect x="408" y="196" width="110" height="104" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="424" y="188" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$179.88</text>
+  <text x="418" y="324" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">PS+ mo. x 12</text>
+  <rect x="548" y="236" width="110" height="64" rx="6" fill="#0F7A4B"/>
+  <text x="568" y="228" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">$109.99</text>
+  <text x="562" y="324" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">PS+ 12-month</text>
+  <text x="24" y="364" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Essential annual saves $69.89 versus 12 payments of $14.99. Extra and Premium: read the store.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Before tax. Game Pass store pages showed monthly prices, not a 12-month discount. 25 Sep 2026.</text>
+</svg>

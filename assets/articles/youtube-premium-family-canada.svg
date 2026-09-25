@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">YouTube Premium Family seat test using published Canadian figures</title>
+  <desc id="desc">MobileSyrup reported Canadian individual Premium at 13.99 dollars on 6 March 2025. Google confirmed a Canadian Family price of 22.99 dollars effective November 2022. Two individual plans would be 27.98. One watcher paying Family would pay 9 dollars more than one individual. Confirm the live Canadian checkout.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Family pays off at two watchers. Not at one.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Published CAD figures, not a 25 Sep 2026 checkout. Confirm on a Canadian account.</text>
+  <rect x="70" y="176" width="140" height="120" rx="6" fill="#0F7A4B"/>
+  <text x="108" y="166" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$13.99</text>
+  <text x="96" y="318" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">One person</text>
+  <text x="88" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Mar 2025 report</text>
+  <rect x="280" y="100" width="140" height="196" rx="6" fill="#0F7A4B"/>
+  <text x="318" y="90" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$22.99</text>
+  <text x="318" y="318" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Family</text>
+  <text x="300" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">from Nov 2022</text>
+  <rect x="490" y="56" width="140" height="240" rx="6" fill="#1A1A1A"/>
+  <text x="528" y="46" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$27.98</text>
+  <text x="508" y="318" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Two individuals</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">If those figures are still on your screen, Family beats two plans by $4.99 and loses to one plan by $9.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">US stickers ($15.99 / $26.99) are a different country. Do not use them for a Canadian card.</text>
+</svg>
