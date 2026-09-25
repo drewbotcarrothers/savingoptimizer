@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">iCloud plus shared cost per person</title>
+  <desc id="desc">A 200 gigabyte iCloud plus plan at 3 dollars 99 cents is about 2 dollars per person for two people and about 67 cents for six. A 2 terabyte plan at 12 dollars 99 cents is 6 dollars 50 cents for two people and about 2 dollars 17 cents for six.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">iCloud+ divided by people who actually store files</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Apple Canada table, published 16 Sep 2026. Empty seats do not lower the bill.</text>
+  <line x1="48" y1="300" x2="690" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="60" y="210" width="120" height="90" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="88" y="202" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$2.00</text>
+  <text x="78" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">200 GB / 2</text>
+  <rect x="220" y="270" width="120" height="30" rx="6" fill="#0F7A4B"/>
+  <text x="248" y="262" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$0.67</text>
+  <text x="238" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">200 GB / 6</text>
+  <rect x="390" y="120" width="120" height="180" rx="6" fill="#1A1A1A"/>
+  <text x="414" y="112" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$6.50</text>
+  <text x="408" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2 TB / 2</text>
+  <rect x="550" y="204" width="120" height="96" rx="6" fill="#0F7A4B"/>
+  <text x="576" y="196" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$2.17</text>
+  <text x="568" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2 TB / 6</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Google One Canada lists 200 GB as Standard. Read the CAD price at checkout. Do not copy a US dollar.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">25 Sep 2026. $3.99 divided by 2 is $2.00. $3.99 divided by 6 is $0.67. $12.99 divided by 2 is $6.50.</text>
+</svg>

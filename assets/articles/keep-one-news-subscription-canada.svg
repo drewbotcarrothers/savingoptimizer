@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Three paid news apps or one</title>
+  <desc id="desc">A labelled audit counts three paid news apps against one kept subscription. The chart counts sources. Prices stay on the household statement.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">How many news apps are you actually paying?</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">A count, not a bill. Your statement has the dollars. 25 Sep 2026.</text>
+  <rect x="150" y="90" width="150" height="230" rx="6" fill="#1A1A1A"/>
+  <text x="208" y="80" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">3</text>
+  <text x="168" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Paid news apps</text>
+  <text x="186" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">on the card</text>
+  <rect x="430" y="244" width="150" height="76" rx="6" fill="#0F7A4B"/>
+  <text x="492" y="234" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">1</text>
+  <text x="456" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The one you</text>
+  <text x="470" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">still open</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Same scale: the kept source is one third the height. Library apps can make the kept count zero.</text>
+  <text x="24" y="422" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Work-reimbursed seats stay only when the expense report is real and separate.</text>
+</svg>

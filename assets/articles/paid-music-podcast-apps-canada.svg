@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Twelve weeks of listening, labelled</title>
+  <desc id="desc">In a labelled twelve-week tally, nine weeks were podcasts or free tiers and three weeks needed paid offline music. Nine of twelve is the cancel side of the rule.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Mostly free is a cancel, in this labelled quarter</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustration. Your map replaces the bars. Not a survey.</text>
+  <rect x="140" y="90" width="150" height="230" rx="6" fill="#0F7A4B"/>
+  <text x="188" y="80" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">9 weeks</text>
+  <text x="156" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Podcasts and</text>
+  <text x="168" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">free tiers</text>
+  <rect x="420" y="243" width="150" height="77" rx="6" fill="#1A1A1A"/>
+  <text x="460" y="233" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">3 weeks</text>
+  <text x="448" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Needed paid</text>
+  <text x="436" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">offline music</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Nine of twelve weeks on the free stack: cancel the paid music plan and book travel months on purpose.</text>
+  <text x="24" y="422" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Heights are 9 and 3, same scale. 25 Sep 2026.</text>
+</svg>

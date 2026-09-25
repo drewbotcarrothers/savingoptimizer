@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Cancel proof before a card dispute</title>
+  <desc id="desc">Order of steps: cancel in the app or in writing, save the confirmation, ask the merchant to reverse a later charge, then talk to the card issuer if the charge remains. A gym in Ontario may also have a 10-day cooling-off.</desc>
+  <rect width="720" height="400" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Proof first, issuer second</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Education only. Not a dispute script and not legal advice.</text>
+  <rect x="36" y="90" width="150" height="88" rx="8" fill="#0F7A4B"/>
+  <text x="56" y="128" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">1. Cancel</text>
+  <text x="56" y="150" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">In-app or in writing</text>
+  <rect x="206" y="90" width="150" height="88" rx="8" fill="#0F7A4B"/>
+  <text x="226" y="128" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">2. Save proof</text>
+  <text x="226" y="150" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Date, amount, number</text>
+  <rect x="376" y="90" width="150" height="88" rx="8" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="396" y="128" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">3. Merchant</text>
+  <text x="396" y="150" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Ask for the reversal</text>
+  <rect x="546" y="90" width="150" height="88" rx="8" fill="#1A1A1A"/>
+  <text x="566" y="128" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">4. Card issuer</text>
+  <text x="566" y="150" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">If it still posts</text>
+  <text x="24" y="220" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Ontario prepaid gyms of $50 or more: 10 days from the written contract. Digital apps are a different path.</text>
+  <text x="24" y="252" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Stopping the card does not end a contract. A pause button is not a cancel.</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Labelled Adobe example, not a list price: half of $480 remaining is $240. Read your own screen.</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">25 Sep 2026. Ontario page updated 12 Aug 2021. Adobe terms updated 17 Apr 2026.</text>
+</svg>
