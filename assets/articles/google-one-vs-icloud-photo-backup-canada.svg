@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Monthly price of a 2 TB iCloud plan versus a 2 TB Google One plan in Canada</title>
+  <desc id="desc">Apple lists iCloud Plus 2 TB at 12.99 dollars a month. A Canada-priced Google One view listed Google AI Plus 2 TB at 13.99 dollars a month. Pick one ecosystem.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">2 TB a month: pick one, not both</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">iCloud+ published 16 Sep 2026. Google One Canada-priced view captured 25 Sep 2026.</text>
+  <rect x="140" y="150" width="160" height="130" rx="6" fill="#0F7A4B"/>
+  <text x="176" y="140" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$12.99</text>
+  <text x="176" y="304" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">iCloud+ 2 TB</text>
+  <text x="158" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Apple photos and backup</text>
+  <rect x="420" y="140" width="160" height="140" rx="6" fill="#1A1A1A"/>
+  <text x="456" y="130" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$13.99</text>
+  <text x="430" y="304" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Google AI Plus 2 TB</text>
+  <text x="436" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Gmail, Drive, Photos</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The dollar gap is small. Paying both for the same photos is the expensive choice.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Confirm Google's currency on your screen. The plans URL can show US dollars outside Canada.</text>
+</svg>

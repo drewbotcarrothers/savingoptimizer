@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Two reminders before a subscription renewal</title>
+  <desc id="desc">Thirty days before renewal, decide keep or cancel. Seven days before renewal, cancel if the decision was to leave. The charge date is not the day you decide.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Decide at 30 days. Act at 7 days.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">One renewal. Two reminders. The charge is the last mark, not the first.</text>
+  <line x1="48" y1="200" x2="672" y2="200" stroke="#E5E7EB" stroke-width="4"/>
+  <circle cx="120" cy="200" r="16" fill="#0F7A4B"/>
+  <text x="78" y="170" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">30 days</text>
+  <text x="86" y="240" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Decide</text>
+  <circle cx="360" cy="200" r="16" fill="#0F7A4B"/>
+  <text x="318" y="170" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">7 days</text>
+  <text x="300" y="240" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Cancel if needed</text>
+  <circle cx="600" cy="200" r="16" fill="#1A1A1A"/>
+  <text x="556" y="170" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Renewal</text>
+  <text x="548" y="240" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Charge posts</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Colour the event: must-keep, flexible, or seasonal.</text>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">After you cancel, move it to an archive with the confirmation link.</text>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Pair this with the January bill review. A reminder on the charge date is already late.</text>
+</svg>

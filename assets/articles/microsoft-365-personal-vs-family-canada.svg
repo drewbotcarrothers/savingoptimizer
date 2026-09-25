@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Two Microsoft 365 Personal plans versus one Family plan, annual list prices</title>
+  <desc id="desc">Two Personal annual plans list at 230 dollars. One Family annual plan lists at 145 dollars. Family for a single user lists at 30 dollars more than Personal.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Two people, one bill: Family versus two Personal plans</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Microsoft Canada store list prices, annual, before the tax on your checkout. 25 Sep 2026.</text>
+  <rect x="120" y="100" width="160" height="200" rx="6" fill="#1A1A1A"/>
+  <text x="156" y="90" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$230</text>
+  <text x="132" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2 x Personal</text>
+  <text x="158" y="342" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$115 + $115</text>
+  <rect x="420" y="174" width="160" height="126" rx="6" fill="#0F7A4B"/>
+  <text x="464" y="164" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$145</text>
+  <text x="448" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">1 x Family</text>
+  <text x="436" y="342" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">up to 6 people</text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The $85 gap appears only when a second person actually uses a seat.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">One idle Family plan costs $30 more per year than Personal on these annual list prices.</text>
+</svg>
