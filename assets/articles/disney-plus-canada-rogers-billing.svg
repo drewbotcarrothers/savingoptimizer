@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Four months of Disney Plus Standard versus annual</title>
+  <desc id="desc">Four months at 15.99 dollars is 63.96 dollars. Annual Standard is 159.99 dollars.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A kids season is not the annual plan</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Disney+ Help Centre prices as of 20 May 2026. Before tax.</text>
+  <rect x="140" y="212" width="150" height="88" rx="6" fill="#0F7A4B"/>
+  <text x="215.0" y="200" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$63.96</text>
+  <text x="215.0" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Four months</text>
+  <text x="215.0" y="342" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">4 x $15.99</text>
+  <rect x="420" y="80" width="150" height="220" rx="6" fill="#1A1A1A"/>
+  <text x="495.0" y="68" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$159.99</text>
+  <text x="495.0" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Annual Standard</text>
+  <text x="495.0" y="342" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">if you stay all year</text>
+  <text x="24" y="386" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Match the Rogers tier or the direct plan keeps billing.</text>
+  <text x="24" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Save both cancel emails. 25 Sep 2026.</text>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">A year of Netflix Canada before tax</title>
+  <desc id="desc">Standard with ads 95.88 dollars, Standard 227.88 dollars, Premium 287.88 dollars, before tax.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">A year on each Netflix Canada tier</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">netflix.com/ca prices, 25 Sep 2026. Before tax.</text>
+  <rect x="70" y="232" width="140" height="68" rx="6" fill="#0F7A4B"/>
+  <text x="140.0" y="220" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$95.88</text>
+  <text x="140.0" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">With ads</text>
+  <text x="140.0" y="342" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$7.99 x 12</text>
+  <rect x="280" y="126" width="140" height="174" rx="6" fill="#1A1A1A"/>
+  <text x="350.0" y="114" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$227.88</text>
+  <text x="350.0" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Standard</text>
+  <text x="350.0" y="342" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$18.99 x 12</text>
+  <rect x="490" y="80" width="140" height="220" rx="6" fill="#1A1A1A"/>
+  <text x="560.0" y="68" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$287.88</text>
+  <text x="560.0" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Premium</text>
+  <text x="560.0" y="342" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$23.99 x 12</text>
+  <text x="24" y="386" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Premium is $192 a year more than the ads plan, before tax.</text>
+  <text x="24" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A quiet month off beats a forever downgrade. 25 Sep 2026.</text>
+</svg>
