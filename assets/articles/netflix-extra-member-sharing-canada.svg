@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Netflix Canada household cost comparison</title>
+  <desc id="desc">Two Standard with ads plans cost 15 dollars 98 cents. One Standard plan plus a 7 dollar 99 cent extra member costs 26 dollars 98 cents. Premium plus two extra members at that add-on price costs 39 dollars 97 cents.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Two households: own ads plans versus extra members</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Plan prices from the 23 Mar 2026 Canada report. Extra member uses the $7.99 figure left unchanged in Jan 2025.</text>
+  <line x1="48" y1="300" x2="690" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="70" y="228" width="140" height="72" rx="6" fill="#0F7A4B"/>
+  <text x="100" y="220" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$15.98</text>
+  <text x="88" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Two ads plans</text>
+  <rect x="280" y="178" width="140" height="122" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="310" y="170" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$26.98</text>
+  <text x="292" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Standard + 1 extra</text>
+  <rect x="490" y="120" width="140" height="180" rx="6" fill="#1A1A1A"/>
+  <text x="520" y="112" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$39.97</text>
+  <text x="500" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Premium + 2 extras</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Read the extra-member price on your Netflix account before you add a seat. Tax may be extra.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">25 Sep 2026. Standard with ads cannot add an extra member. A second home needs its own plan or a paid slot.</text>
+</svg>
