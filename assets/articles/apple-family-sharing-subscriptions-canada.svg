@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Apple Music and iCloud plus shared monthly cost</title>
+  <desc id="desc">Apple Music Family is 19 dollars 99 cents a month versus 71 dollars 94 cents for six Individual plans. iCloud plus 200 gigabytes is 3 dollars 99 cents and 2 terabytes is 12 dollars 99 cents, shared.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One shared Apple plan versus six separate bills</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Apple Canada list prices. Music page and iCloud+ table published 16 Sep 2026.</text>
+  <line x1="48" y1="300" x2="690" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="60" y="248" width="120" height="52" rx="6" fill="#0F7A4B"/>
+  <text x="86" y="240" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$19.99</text>
+  <text x="72" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Music Family</text>
+  <rect x="220" y="120" width="120" height="180" rx="6" fill="#1A1A1A"/>
+  <text x="246" y="112" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$71.94</text>
+  <text x="228" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">6 x Music</text>
+  <rect x="390" y="276" width="120" height="24" rx="6" fill="#0F7A4B"/>
+  <text x="418" y="268" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$3.99</text>
+  <text x="410" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">200 GB pool</text>
+  <rect x="550" y="252" width="120" height="48" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="578" y="244" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$12.99</text>
+  <text x="578" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2 TB pool</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Same country, not the same street. Cancel each person's old Music or iCloud+ plan.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">25 Sep 2026. Six Individual Music plans are 6 times $11.99. Storage figures are the shared plan, not per person.</text>
+</svg>

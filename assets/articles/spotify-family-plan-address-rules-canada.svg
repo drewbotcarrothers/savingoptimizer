@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Spotify Family versus Individual monthly cost</title>
+  <desc id="desc">Monthly cost before tax: two Individual plans 27 dollars 98 cents, one Family plan 23 dollars 99 cents, three Individual plans 41 dollars 97 cents, six Individual plans 83 dollars 94 cents.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Family versus paying Individual for each person</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Spotify Canada prices on the Premium page, 25 Sep 2026. Before tax.</text>
+  <line x1="48" y1="300" x2="690" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="70" y="240" width="110" height="60" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="88" y="232" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$27.98</text>
+  <text x="86" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2 Individual</text>
+  <rect x="220" y="248" width="110" height="52" rx="6" fill="#0F7A4B"/>
+  <text x="242" y="240" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$23.99</text>
+  <text x="248" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">1 Family</text>
+  <rect x="370" y="210" width="110" height="90" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="390" y="202" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$41.97</text>
+  <text x="386" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">3 Individual</text>
+  <rect x="520" y="120" width="110" height="180" rx="6" fill="#1A1A1A"/>
+  <text x="540" y="112" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$83.94</text>
+  <text x="536" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">6 Individual</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Family is one bill of $23.99 even with empty seats. It still requires one address.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Duo for two people at the same address is $19.99. Different cities need a different product.</text>
+</svg>
