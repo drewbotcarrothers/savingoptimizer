@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Delivery and frozen fees that sit on the box</title>
+  <desc id="desc">Chef's Plate delivery is 9.99 dollars. Goodfood urban delivery is 10.99. Goodfood rural delivery plus the rural fee is 14.98. A missed frozen-fee waiver adds 10.99.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Fees the promo often leaves on the bill</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Published amounts read 25 Sep 2026. Not a meal price. Not your checkout.</text>
+  <rect x="48" y="168" width="120" height="152" rx="6" fill="#0F7A4B"/>
+  <text x="78" y="158" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$9.99</text>
+  <text x="70" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Chef's Plate</text>
+  <text x="78" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">delivery</text>
+  <rect x="210" y="156" width="120" height="164" rx="6" fill="#0F7A4B"/>
+  <text x="236" y="146" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$10.99</text>
+  <text x="236" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Goodfood</text>
+  <text x="250" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">urban</text>
+  <rect x="372" y="100" width="120" height="220" rx="6" fill="#1A1A1A"/>
+  <text x="400" y="90" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$14.98</text>
+  <text x="398" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Goodfood</text>
+  <text x="406" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">rural</text>
+  <rect x="534" y="156" width="120" height="164" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="560" y="146" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$10.99</text>
+  <text x="560" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Frozen fee</text>
+  <text x="548" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">if under waiver</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Rural bar is $3.99 plus $10.99 delivery. Frozen fee is extra, not instead of delivery.</text>
+  <text x="24" y="422" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: Chef's Plate delivery-areas page and Goodfood FAQ and purchase terms.</text>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled week after the promo</title>
+  <desc id="desc">A labelled 70 dollar food line becomes 80.99 with Goodfood urban delivery, and 91.98 if a 10.99 frozen fee is also charged.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The food line is not the week</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">$70 is an illustration. Delivery and frozen fee read 25 Sep 2026.</text>
+  <rect x="70" y="150" width="140" height="170" rx="6" fill="#E7F4EE" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="112" y="140" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$70</text>
+  <text x="100" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Food line</text>
+  <text x="88" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">you remember</text>
+  <rect x="290" y="124" width="140" height="196" rx="6" fill="#0F7A4B"/>
+  <text x="326" y="114" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$80.99</text>
+  <text x="312" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Plus urban</text>
+  <text x="318" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">delivery</text>
+  <rect x="510" y="98" width="140" height="222" rx="6" fill="#1A1A1A"/>
+  <text x="546" y="88" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$91.98</text>
+  <text x="522" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Plus a frozen</text>
+  <text x="548" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">fee</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">$70 + $10.99 = $80.99. Add $10.99 frozen fee, $91.98. Rural would add $3.99 instead of the frozen bar.</text>
+  <text x="24" y="422" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Replace $70 with the undiscounted basket on your account. 25 Sep 2026.</text>
+</svg>

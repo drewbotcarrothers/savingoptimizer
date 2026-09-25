@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">News Plus versus Apple One plans</title>
+  <desc id="desc">Apple News Plus is 16.99 dollars a month. Apple One Individual is 22.95 and does not include News Plus. Apple One Premier is 46.95 and does include News Plus. Prices read 25 September 2026.</desc>
+  <rect width="720" height="440" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">News+ is not inside the cheaper Apple One plans</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Monthly list prices, read 25 Sep 2026. Before tax on the account.</text>
+  <rect x="70" y="237" width="140" height="83" rx="6" fill="#0F7A4B"/>
+  <text x="108" y="227" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$16.99</text>
+  <text x="100" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">News+ alone</text>
+  <text x="96" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">includes News+</text>
+  <rect x="290" y="208" width="140" height="112" rx="6" fill="#1A1A1A"/>
+  <text x="326" y="198" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$22.95</text>
+  <text x="318" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">One Individual</text>
+  <text x="314" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">no News+</text>
+  <rect x="510" y="90" width="140" height="230" rx="6" fill="#0F7A4B"/>
+  <text x="546" y="80" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$46.95</text>
+  <text x="538" y="344" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">One Premier</text>
+  <text x="530" y="362" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">includes News+</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Scale: $46.95 is the tall bar. Family One is $30.95 and also does not include News+.</text>
+  <text x="24" y="422" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Premier is not a magazine discount unless you already needed the rest of that plan.</text>
+</svg>
