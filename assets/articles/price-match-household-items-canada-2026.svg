@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Match at checkout, claim later, or buy elsewhere</title>
+  <desc id="desc">If a lower price is found before purchase, ask for a price match at checkout when the policy allows it. If you already bought, use the after-purchase adjustment window. If neither applies, buy the identical item from the seller that is already cheaper. Green boxes are the actions.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Three exits, one lower price</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Policies checked or retrieved 26 Sep 2026. Exclusions still apply.</text>
+  <rect x="250" y="72" width="220" height="40" rx="8" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+  <text x="360" y="97" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Lower price found</text>
+  <line x1="360" y1="112" x2="360" y2="136" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="210" y="136" width="300" height="44" rx="8" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+  <text x="360" y="163" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Have you already paid?</text>
+  <line x1="250" y1="180" x2="130" y2="220" stroke="#E5E7EB" stroke-width="2"/>
+  <line x1="470" y1="180" x2="590" y2="220" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="150" y="208" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No</text>
+  <text x="540" y="208" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Yes</text>
+  <rect x="36" y="220" width="200" height="64" rx="8" fill="#0F7A4B"/>
+  <text x="136" y="246" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Match at checkout</text>
+  <text x="136" y="266" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">if the policy allows</text>
+  <rect x="484" y="220" width="200" height="64" rx="8" fill="#0F7A4B"/>
+  <text x="584" y="246" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Adjustment window</text>
+  <text x="584" y="266" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">same retailer, dated</text>
+  <line x1="136" y1="284" x2="136" y2="320" stroke="#E5E7EB" stroke-width="2"/>
+  <line x1="584" y1="284" x2="584" y2="320" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="160" y="320" width="400" height="56" rx="8" fill="#0F7A4B"/>
+  <text x="360" y="344" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Else buy at the cheaper seller</text>
+  <text x="360" y="362" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#FFFFFF">Add delivery. Skip marketplace tiles the policy excludes.</text>
+</svg>
