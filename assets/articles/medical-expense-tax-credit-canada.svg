@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Medical expense threshold versus net income, capped at 2,834 dollars</title>
+  <desc>The threshold rises at 3 percent of net income until 3 percent exceeds 2,834 dollars, which is above 94,466.67 dollars of net income. After that the threshold stays at 2,834 dollars. Illustrative arithmetic from the CRA figure for 2025 amounts. Checked 26 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Threshold: lesser of 3% of net income or $2,834</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Illustrative arithmetic from the CRA lines page. Not a credit rate.</text>
+  <line x1="90" y1="80" x2="90" y2="310" stroke="#E5E7EB"/>
+  <line x1="90" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
+  <line x1="90" y1="115" x2="680" y2="115" stroke="#E5E7EB"/>
+  <text x="82" y="314" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="82" y="119" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$2,834</text>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="90,310 488,115 680,115"/>
+  <circle cx="259" cy="228" r="5" fill="#0F7A4B"/>
+  <circle cx="343" cy="186" r="5" fill="#0F7A4B"/>
+  <circle cx="488" cy="115" r="5" fill="#0F7A4B"/>
+  <circle cx="596" cy="115" r="5" fill="#1A1A1A"/>
+  <text x="259" y="216" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$40k → $1,200</text>
+  <text x="343" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$60k → $1,800</text>
+  <text x="476" y="100" text-anchor="end" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$94,500 → $2,834</text>
+  <text x="640" y="148" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$120k stays $2,834</text>
+  <text x="259" y="334" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$40,000</text>
+  <text x="343" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$60,000</text>
+  <text x="488" y="334" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$94,500</text>
+  <text x="596" y="350" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$120,000</text>
+  <text x="24" y="388" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">At $94,500, 3% is $2,835, so the lesser amount is the $2,834 cap.</text>
+  <text x="24" y="410" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">CRA lines 33099 and 33199, opened 26 Sep 2026. Education only.</text>
+</svg>

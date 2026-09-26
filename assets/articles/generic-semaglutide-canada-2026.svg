@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Generic semaglutide authorizations, April to September 2026</title>
+  <desc>Timeline markers for Dr. Reddy's on 28 April 2026, Apo-Semaglutide on 1 May 2026, Sevmia on 29 June 2026, and Sandoz on 18 September 2026. No prices.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Authorizations, not shelf prices</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Dates from Health Canada and the Sandoz release. Checked 26 Sep 2026.</text>
+  <line x1="48" y1="210" x2="680" y2="210" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="48" y="232" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Apr</text>
+  <text x="250" y="232" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Jun</text>
+  <text x="450" y="232" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Aug</text>
+  <text x="640" y="232" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Sep</text>
+  <circle cx="152" cy="210" r="8" fill="#0F7A4B"/>
+  <circle cx="162" cy="210" r="8" fill="#0F7A4B"/>
+  <circle cx="363" cy="210" r="8" fill="#0F7A4B"/>
+  <circle cx="639" cy="210" r="8" fill="#0F7A4B"/>
+  <text x="152" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">28 Apr</text>
+  <text x="152" y="138" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Dr. Reddy's</text>
+  <text x="152" y="154" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ozempic generic</text>
+  <text x="152" y="170" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">type 2 diabetes</text>
+  <text x="200" y="280" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1 May</text>
+  <text x="200" y="298" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Apo-Semaglutide</text>
+  <text x="200" y="314" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">type 2 diabetes</text>
+  <text x="363" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">29 Jun</text>
+  <text x="363" y="138" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Sevmia</text>
+  <text x="363" y="154" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Wegovy generic</text>
+  <text x="363" y="170" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">weight management</text>
+  <text x="600" y="280" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">18 Sep</text>
+  <text x="600" y="298" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Sandoz Semaglutide</text>
+  <text x="600" y="314" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">type 2 diabetes</text>
+  <text x="24" y="390" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not medical advice. No cash prices plotted. Sources checked 26 Sep 2026.</text>
+</svg>

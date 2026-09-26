@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Which dental program an Ontario senior asks about first</title>
+  <desc>Questions in order: 65 and in Ontario, income under the OSDCP limit, any dental benefit other than the CDCP, then CDCP eligibility. Not a payment-order chart.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">Ask in this order. It is not a pay-first rule.</text>
+  <rect x="250" y="48" width="220" height="44" rx="6" fill="#0F7A4B"/>
+  <text x="360" y="75" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">65+ and living in Ontario?</text>
+  <rect x="40" y="120" width="200" height="52" rx="6" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="140" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No: CDCP rules only</text>
+  <rect x="460" y="120" width="220" height="52" rx="6" fill="#E8F6EF" stroke="#0F7A4B"/>
+  <text x="570" y="142" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Yes: income at or under</text>
+  <text x="570" y="158" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$25,480 / $42,290?</text>
+  <rect x="250" y="200" width="220" height="44" rx="6" fill="#E8F6EF" stroke="#0F7A4B"/>
+  <text x="360" y="226" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Other dental benefits?</text>
+  <text x="40" y="280" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Private, OW, ODSP, or NIHB: OSDCP blocked. CDCP also blocked if that cover is private access.</text>
+  <text x="40" y="308" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CDCP only, or no other cover: you may have both. Ontario allows the CDCP.</text>
+  <text x="40" y="348" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Over the OSDCP income test: skip OSDCP. CDCP still possible under $90,000 if you have no private dental.</text>
+  <text x="40" y="388" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Book the clinic that bills the card you hold. Phones: 1-833-207-4435 and 1-888-888-8110.</text>
+  <text x="24" y="410" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">ontario.ca updated 31 Jul 2026. canada.ca opened 26 Sep 2026.</text>
+</svg>

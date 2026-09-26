@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Where a national pharmacare agreement was listed on 24 April 2026</title>
+  <desc>Thirteen tiles. British Columbia, Manitoba, Prince Edward Island, and Yukon are green. Alberta, Saskatchewan, Ontario, Quebec, New Brunswick, Nova Scotia, Newfoundland and Labrador, the Northwest Territories, and Nunavut are grey.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">Agreements listed on 24 Apr 2026</text>
+  <text x="24" y="48" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Green: agreement in place. Grey: not listed. Checked 26 Sep 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700">
+    <rect x="24" y="70" width="210" height="48" fill="#0F7A4B"/><text x="129" y="99" text-anchor="middle" fill="#FFFFFF">Yukon</text>
+    <rect x="244" y="70" width="210" height="48" fill="#F3F4F6" stroke="#E5E7EB"/><text x="349" y="99" text-anchor="middle" fill="#1A1A1A">N.W.T.</text>
+    <rect x="464" y="70" width="210" height="48" fill="#F3F4F6" stroke="#E5E7EB"/><text x="569" y="99" text-anchor="middle" fill="#1A1A1A">Nunavut</text>
+    <rect x="24" y="132" width="160" height="48" fill="#0F7A4B"/><text x="104" y="161" text-anchor="middle" fill="#FFFFFF">B.C.</text>
+    <rect x="194" y="132" width="160" height="48" fill="#F3F4F6" stroke="#E5E7EB"/><text x="274" y="161" text-anchor="middle" fill="#1A1A1A">Alberta</text>
+    <rect x="364" y="132" width="160" height="48" fill="#F3F4F6" stroke="#E5E7EB"/><text x="444" y="161" text-anchor="middle" fill="#1A1A1A">Saskatchewan</text>
+    <rect x="534" y="132" width="160" height="48" fill="#0F7A4B"/><text x="614" y="161" text-anchor="middle" fill="#FFFFFF">Manitoba</text>
+    <rect x="24" y="194" width="330" height="48" fill="#F3F4F6" stroke="#E5E7EB"/><text x="189" y="223" text-anchor="middle" fill="#1A1A1A">Ontario</text>
+    <rect x="364" y="194" width="330" height="48" fill="#F3F4F6" stroke="#E5E7EB"/><text x="529" y="223" text-anchor="middle" fill="#1A1A1A">Quebec</text>
+    <rect x="24" y="256" width="160" height="48" fill="#F3F4F6" stroke="#E5E7EB"/><text x="104" y="285" text-anchor="middle" fill="#1A1A1A">New Brunswick</text>
+    <rect x="194" y="256" width="160" height="48" fill="#0F7A4B"/><text x="274" y="285" text-anchor="middle" fill="#FFFFFF">P.E.I.</text>
+    <rect x="364" y="256" width="160" height="48" fill="#F3F4F6" stroke="#E5E7EB"/><text x="444" y="285" text-anchor="middle" fill="#1A1A1A">Nova Scotia</text>
+    <rect x="534" y="256" width="160" height="48" fill="#F3F4F6" stroke="#E5E7EB"/><text x="614" y="285" text-anchor="middle" fill="#1A1A1A">Newfoundland</text>
+  </g>
+  <text x="24" y="360" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Yukon is green because it is listed. The agreement's start window was 15 Apr to 5 May 2026. The single day was not opened.</text>
+  <text x="24" y="400" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Who's covered page dated 24 Apr 2026. Not a forecast.</text>
+</svg>

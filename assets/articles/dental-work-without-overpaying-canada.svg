@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>How to compare a dental quote in Canada</title>
+  <desc>Five steps: get procedure codes, compare any fee guide you were shown, get a second quote, check a public program, then phase treatment across benefit years only if the dentist agrees.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Compare the quote before you book</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No fees on this chart. The dollars come from the clinic's paper.</text>
+  <rect x="24" y="80" width="120" height="70" rx="6" fill="#E8F6EF" stroke="#0F7A4B"/>
+  <text x="84" y="110" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. Get codes</text>
+  <text x="84" y="128" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">One row each</text>
+  <rect x="168" y="80" width="120" height="70" rx="6" fill="#E8F6EF" stroke="#0F7A4B"/>
+  <text x="228" y="110" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Fee guide</text>
+  <text x="228" y="128" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Only if shown</text>
+  <rect x="312" y="80" width="120" height="70" rx="6" fill="#E8F6EF" stroke="#0F7A4B"/>
+  <text x="372" y="110" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3. Second quote</text>
+  <text x="372" y="128" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Same codes</text>
+  <rect x="456" y="80" width="120" height="70" rx="6" fill="#E8F6EF" stroke="#0F7A4B"/>
+  <text x="516" y="110" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. Public plan</text>
+  <text x="516" y="128" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">CDCP or OSDCP</text>
+  <rect x="250" y="230" width="220" height="70" rx="6" fill="#0F7A4B"/>
+  <text x="360" y="260" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">5. Phase across years</text>
+  <text x="360" y="278" text-anchor="middle" font-size="11" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Only if the dentist agrees</text>
+  <text x="24" y="360" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CDCP period ends 30 June. A workplace plan year may not. A coverage gap is not reimbursed later.</text>
+  <text x="24" y="400" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">canada.ca provider page, page details 2 Jun 2026. Checked 26 Sep 2026.</text>
+</svg>
