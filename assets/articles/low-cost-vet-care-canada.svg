@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Veterinary colleges by province</title>
+  <desc>Five tiles for the Ontario Veterinary College in Ontario, the Western College of Veterinary Medicine in Saskatchewan, the Atlantic Veterinary College in Prince Edward Island, the Universite de Montreal veterinary hospital in Quebec, and the University of Calgary Faculty of Veterinary Medicine in Alberta. No fees are shown.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Veterinary colleges to confirm</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Province of the faculty. Not a discount map. Fees were not on the pages opened 26 Sep 2026.</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="24" y="78" width="210" height="88" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <text x="36" y="104" font-size="13" font-weight="700" fill="#0F7A4B">Ontario</text>
+    <text x="36" y="126" font-size="13" fill="#1A1A1A">OVC, University of Guelph</text>
+    <text x="36" y="146" font-size="11" fill="#6B7280">Mostly referral. 12,000+ animals.</text>
+    <rect x="250" y="78" width="220" height="88" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <text x="262" y="104" font-size="13" font-weight="700" fill="#0F7A4B">Saskatchewan</text>
+    <text x="262" y="126" font-size="13" fill="#1A1A1A">WCVM Veterinary Medical Centre</text>
+    <text x="262" y="146" font-size="11" fill="#6B7280">Primary, referral, emergency link.</text>
+    <rect x="486" y="78" width="210" height="88" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <text x="498" y="104" font-size="13" font-weight="700" fill="#0F7A4B">Prince Edward Island</text>
+    <text x="498" y="126" font-size="13" fill="#1A1A1A">AVC, University of PEI</text>
+    <text x="498" y="146" font-size="11" fill="#6B7280">8 a.m. to 11 p.m. No fee printed.</text>
+    <rect x="24" y="184" width="320" height="88" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <text x="36" y="210" font-size="13" font-weight="700" fill="#0F7A4B">Quebec</text>
+    <text x="36" y="232" font-size="13" fill="#1A1A1A">UdeM FMV, CHUV</text>
+    <text x="36" y="252" font-size="11" fill="#6B7280">Hospital site opened. No public fee schedule captured.</text>
+    <rect x="360" y="184" width="336" height="88" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <text x="372" y="210" font-size="13" font-weight="700" fill="#0F7A4B">Alberta</text>
+    <text x="372" y="232" font-size="13" fill="#1A1A1A">UCVM, University of Calgary</text>
+    <text x="372" y="252" font-size="11" fill="#6B7280">Clinical-services URL did not return a fee list.</text>
+  </g>
+  <text x="24" y="310" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The Ontario SPCA wellness exam at 60 dollars is a charity-clinic price. It is not these hospitals' price.</text>
+  <text x="24" y="334" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario SPCA clinics do not treat emergencies. AVC publishes an emergency phone until 11 p.m.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Confirm hours and fees on the hospital's own page.</text>
+</svg>
