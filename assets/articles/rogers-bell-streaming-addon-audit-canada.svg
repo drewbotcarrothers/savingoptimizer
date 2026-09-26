@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Four months of Disney Plus direct versus a full year of an add-on you do not watch</title>
+  <desc id="desc">Four months of Disney Plus Standard at 15.99 dollars is 63.96 dollars before tax. Twelve months is 191.88. A carrier line that bills every month charges the empty months too.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Direct Disney+ for the months you watch</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Standard list price $15.99 a month, before tax. Your carrier line may be a bundle, not this price.</text>
+  <rect x="140" y="210" width="160" height="70" rx="6" fill="#0F7A4B"/>
+  <text x="176" y="200" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$64</text>
+  <text x="168" y="306" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">4 months direct</text>
+  <text x="184" y="324" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$63.96</text>
+  <rect x="420" y="100" width="160" height="180" rx="6" fill="#1A1A1A"/>
+  <text x="456" y="90" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$192</text>
+  <text x="448" y="306" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">12 months direct</text>
+  <text x="464" y="324" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$191.88</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Read the Rogers or Bell line. Compare it with the months you will open.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Disney+ Standard, new-subscription price as of 20 May 2026. Not a carrier quote. 25 Sep 2026.</text>
+</svg>
