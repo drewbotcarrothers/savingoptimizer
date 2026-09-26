@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative price path for one household item around Prime Big Deal Days</title>
+  <desc>An illustrative line, not a tracker reading. A suggested list price stays flat, a typical low sits below it, and an event price lands between them. The drawing shows why a percent off the list price can still be above the usual low.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Illustrative only: list, usual low, event price</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Not a CamelCamelCamel or Amazon.ca reading. Dollars are a teaching sketch.</text>
+  <line x1="70" y1="80" x2="70" y2="330" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="70" y1="330" x2="680" y2="330" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="62" y="148" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$80</text>
+  <text x="62" y="248" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$55</text>
+  <text x="62" y="208" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$62</text>
+  <line x1="70" y1="140" x2="680" y2="140" stroke="#E5E7EB" stroke-width="1" stroke-dasharray="4 4"/>
+  <line x1="70" y1="240" x2="680" y2="240" stroke="#E5E7EB" stroke-width="1" stroke-dasharray="4 4"/>
+  <polyline fill="none" stroke="#6B7280" stroke-width="2" points="110,140 250,140 390,140 530,140 640,140"/>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="110,230 250,250 390,240 530,200 640,245"/>
+  <circle cx="530" cy="200" r="6" fill="#0F7A4B"/>
+  <text x="110" y="354" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Earlier</text>
+  <text x="500" y="354" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Event day</text>
+  <text x="90" y="128" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">List price, flat (illustrative $80)</text>
+  <text x="250" y="188" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Event price $62, still above the usual low</text>
+  <text x="110" y="390" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Green line: prices you might actually pay. Grey line: the suggested list price.</text>
+</svg>

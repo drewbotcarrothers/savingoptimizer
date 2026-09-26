@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>EPRA environmental handling fee on a 30 to 45 inch display, 1 September 2026 schedule</title>
+  <desc>Green bars show the EPRA fee for display devices 30 to 45 inches, including all-in-one computers, from the 1 September 2026 steward schedule. British Columbia 6.80 dollars, Saskatchewan 3.10, Manitoba 3.10, Quebec 8.50, New Brunswick 7.05, Nova Scotia 5.50, Prince Edward Island 5.50, Newfoundland and Labrador 9.05. Ontario and Alberta are dashes on that schedule and are omitted. Yukon is 24 dollars and the Northwest Territories 24.50, stated in the caption because they use a much higher scale.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">EHF on a 30-45 in. display, EPRA 1 Sep 2026</text>
+  <text x="24" y="48" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ontario and Alberta are dashes on this schedule. YT $24.00 and NT $24.50 are off this scale.</text>
+  <line x1="48" y1="300" x2="690" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="48" y1="200" x2="690" y2="200" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="48" y1="100" x2="690" y2="100" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="40" y="304" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$0</text>
+  <text x="40" y="204" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$4.53</text>
+  <text x="40" y="104" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$9.05</text>
+  <rect x="70" y="150" width="52" height="150" fill="#0F7A4B"/>
+  <rect x="146" y="232" width="52" height="68" fill="#0F7A4B"/>
+  <rect x="222" y="232" width="52" height="68" fill="#0F7A4B"/>
+  <rect x="298" y="112" width="52" height="188" fill="#0F7A4B"/>
+  <rect x="374" y="144" width="52" height="156" fill="#0F7A4B"/>
+  <rect x="450" y="178" width="52" height="122" fill="#0F7A4B"/>
+  <rect x="526" y="178" width="52" height="122" fill="#0F7A4B"/>
+  <rect x="602" y="100" width="52" height="200" fill="#0F7A4B"/>
+  <text x="96" y="142" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">$6.80</text>
+  <text x="172" y="224" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">$3.10</text>
+  <text x="248" y="224" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">$3.10</text>
+  <text x="324" y="104" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">$8.50</text>
+  <text x="400" y="136" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">$7.05</text>
+  <text x="476" y="170" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">$5.50</text>
+  <text x="552" y="170" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">$5.50</text>
+  <text x="628" y="92" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">$9.05</text>
+  <text x="96" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">BC</text>
+  <text x="172" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">SK</text>
+  <text x="248" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">MB</text>
+  <text x="324" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">QC</text>
+  <text x="400" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">NB</text>
+  <text x="476" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">NS</text>
+  <text x="552" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">PE</text>
+  <text x="628" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">NL</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Same EPRA row: Yukon $24.00, Northwest Territories $24.50. Alberta and Ontario: no dollar on this schedule.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Display devices 30-45 in. and all-in-one computers. Schedule listing 1 Sep 2026. Not a tax.</text>
+</svg>

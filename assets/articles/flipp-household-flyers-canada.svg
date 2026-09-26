@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>A weekly household flyer routine in four steps</title>
+  <desc>Four green steps: watch list, clip the ad, compare the model and the unit, then price-match or wait. The routine is a decision order, not a measured time study.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Watch list, then the flyer</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Household aisles. Grocery matching stays on the grocery guides.</text>
+  <line x1="70" y1="210" x2="650" y2="210" stroke="#E5E7EB" stroke-width="3"/>
+  <circle cx="110" cy="210" r="16" fill="#0F7A4B"/>
+  <circle cx="270" cy="210" r="16" fill="#0F7A4B"/>
+  <circle cx="430" cy="210" r="16" fill="#0F7A4B"/>
+  <circle cx="600" cy="210" r="16" fill="#0F7A4B"/>
+  <text x="110" y="215" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">1</text>
+  <text x="270" y="215" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">2</text>
+  <text x="430" y="215" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">3</text>
+  <text x="600" y="215" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">4</text>
+  <text x="110" y="250" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Watch list</text>
+  <text x="110" y="270" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Only planned items</text>
+  <text x="270" y="250" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Clip</text>
+  <text x="270" y="270" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Seller, model, dates</text>
+  <text x="430" y="250" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Compare</text>
+  <text x="430" y="270" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Same item, in stock</text>
+  <text x="600" y="250" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Match or wait</text>
+  <text x="600" y="270" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Only if the policy allows</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">If the item was not on the list before you opened the flyer, stop at step 1.</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A Flipp screen is proof only when that retailer's page accepts a flyer, an ad, or a photo.</text>
+</svg>

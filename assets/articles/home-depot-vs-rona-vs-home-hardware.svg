@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>No verified household basket was priced at all four hardware retailers</title>
+  <desc>Four retailer names with empty columns. Bars are omitted because a bulb, furnace filter, caulk, and mop were not priced at Home Depot, RONA, Home Hardware, and Canadian Tire on the same date.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Bars only when all four prices exist</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">No matched basket on 26 Sep 2026. Empty columns are the result, not a tie.</text>
+  <line x1="48" y1="300" x2="680" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="70" y="120" width="110" height="180" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <rect x="220" y="120" width="110" height="180" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <rect x="370" y="120" width="110" height="180" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <rect x="520" y="120" width="110" height="180" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="125" y="210" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No price</text>
+  <text x="275" y="210" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No price</text>
+  <text x="425" y="210" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No price</text>
+  <text x="575" y="210" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No price</text>
+  <text x="125" y="328" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Home Depot</text>
+  <text x="275" y="328" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">RONA</text>
+  <text x="425" y="328" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Home Hardware</text>
+  <text x="575" y="328" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Canadian Tire</text>
+  <rect x="48" y="360" width="16" height="16" fill="#0F7A4B"/>
+  <text x="72" y="373" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A green bar belongs here only after the same four items are priced, with the store and the date.</text>
+</svg>

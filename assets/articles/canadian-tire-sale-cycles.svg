@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative Canadian Tire price path: regular tag versus repeated lower prices</title>
+  <desc>An illustrative chart, not a flyer archive. A grey regular tag stays high while green marks show lower prices on later weeks. No percent-off cycle was verified.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Illustrative: a regular tag is not the only price</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Not a dated flyer reading. Do not treat the gap as a real percent.</text>
+  <line x1="64" y1="300" x2="680" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="80" y1="120" x2="660" y2="120" stroke="#6B7280" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="80" y="112" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Regular tag on the sign (illustrative)</text>
+  <rect x="120" y="200" width="36" height="100" fill="#0F7A4B"/>
+  <rect x="230" y="230" width="36" height="70" fill="#0F7A4B"/>
+  <rect x="340" y="180" width="36" height="120" fill="#0F7A4B"/>
+  <rect x="450" y="210" width="36" height="90" fill="#0F7A4B"/>
+  <rect x="560" y="160" width="36" height="140" fill="#0F7A4B"/>
+  <text x="138" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Wk 1</text>
+  <text x="248" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Wk 2</text>
+  <text x="358" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Wk 3</text>
+  <text x="468" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Wk 4</text>
+  <text x="578" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Wk 5</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Green bars are a sketch of sale prices you would write down from flyers you actually open.</text>
+  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Canadian Tire's pricing policy does not state a fixed every-N-weeks cycle.</text>
+</svg>
