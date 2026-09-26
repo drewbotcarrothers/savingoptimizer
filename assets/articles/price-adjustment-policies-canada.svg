@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Price checks after a household purchase</title>
+  <desc id="desc">Timeline from day 0 purchase to checks on days 7, 14, and 28. Staples electronics close at 14 days in text retrieved 26 September 2026. Costco, Best Buy non-members, Canadian Tire competitors, and Home Depot major appliances close at 30 days. My Best Buy is 60 days on the retrieved Best Buy page.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Check before the window closes</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Windows checked or retrieved 26 Sep 2026. Not a promise a store will pay.</text>
+  <line x1="48" y1="150" x2="672" y2="150" stroke="#E5E7EB" stroke-width="4"/>
+  <circle cx="70" cy="150" r="12" fill="#1A1A1A"/>
+  <text x="48" y="188" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Day 0</text>
+  <text x="40" y="206" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Buy</text>
+  <circle cx="200" cy="150" r="12" fill="#0F7A4B"/>
+  <text x="176" y="188" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Day 7</text>
+  <text x="168" y="206" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Check</text>
+  <circle cx="340" cy="150" r="12" fill="#0F7A4B"/>
+  <text x="312" y="188" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Day 14</text>
+  <text x="300" y="206" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Check</text>
+  <circle cx="520" cy="150" r="12" fill="#0F7A4B"/>
+  <text x="492" y="188" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Day 28</text>
+  <text x="488" y="206" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Check</text>
+  <circle cx="640" cy="150" r="12" fill="#1A1A1A"/>
+  <text x="612" y="188" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Day 30</text>
+  <text x="600" y="206" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Many close</text>
+  <text x="24" y="250" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Staples electronics, retrieved policy: 14 days from receipt. Day 28 is late.</text>
+  <text x="24" y="274" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Costco warehouse and Costco.ca: 30 days. Home Depot major appliances: 30 days, own price.</text>
+  <text x="24" y="298" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Best Buy: 30 days, or 60 with My Best Buy, on the text retrieved 26 Sep 2026.</text>
+  <text x="24" y="322" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Canadian Tire: 30 days, or 14 if the lower price is another Canadian Tire.</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Black Friday prices are excluded at Best Buy and Staples on the texts retrieved the same day.</text>
+  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Walmart competitor Ad Match ended 15 Oct 2020. No new day-count was opened on 26 Sep 2026.</text>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">October to January household deal calendar</title>
+  <desc id="desc">Rows for major appliances, small appliances and vacuums, televisions, furniture, bedding, and cleaning supplies, from October through January. Green blocks mark Prime Big Deal Days on 6 to 7 October 2026 for small appliances and vacuums, Black Friday on 27 November for major appliances, televisions, and furniture, and Boxing Day on 26 December as a calendar date without a sourced appliance window.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Deal calendar, Oct 2026 to Jan 2027</text>
+  <text x="24" y="48" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Green = a sourced date. Grey = no discount percent opened for this draft.</text>
+  <text x="200" y="78" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Oct</text>
+  <text x="330" y="78" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Nov</text>
+  <text x="455" y="78" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Dec</text>
+  <text x="580" y="78" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Jan</text>
+  <line x1="180" y1="88" x2="680" y2="88" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Major appliances</text>
+  <rect x="310" y="102" width="70" height="22" fill="#0F7A4B"/>
+  <text x="345" y="117" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#FFFFFF">27 Nov</text>
+  <text x="24" y="158" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Small appliances</text>
+  <rect x="190" y="142" width="36" height="22" fill="#0F7A4B"/>
+  <text x="208" y="157" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="9" fill="#FFFFFF">6-7</text>
+  <rect x="310" y="142" width="70" height="22" fill="#0F7A4B"/>
+  <text x="345" y="157" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#FFFFFF">27 Nov</text>
+  <text x="24" y="198" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Televisions</text>
+  <rect x="310" y="182" width="70" height="22" fill="#0F7A4B"/>
+  <text x="345" y="197" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#FFFFFF">27 Nov</text>
+  <text x="24" y="238" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Furniture</text>
+  <rect x="310" y="222" width="70" height="22" fill="#0F7A4B"/>
+  <text x="345" y="237" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#FFFFFF">27 Nov</text>
+  <text x="24" y="278" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Bedding</text>
+  <rect x="180" y="262" width="500" height="22" fill="#E5E7EB"/>
+  <text x="430" y="277" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">No sourced window</text>
+  <text x="24" y="318" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Cleaning supplies</text>
+  <rect x="180" y="302" width="500" height="22" fill="#E5E7EB"/>
+  <text x="430" y="317" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">No sourced event percent</text>
+  <rect x="455" y="348" width="70" height="22" fill="#0F7A4B"/>
+  <text x="490" y="363" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#FFFFFF">26 Dec</text>
+  <text x="535" y="363" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Boxing Day, calendar date</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">6-7 Oct block is Prime Big Deal Days (Amazon, 14 Sep 2026). 27 Nov is the calendar date, tied to categories by Neo Financial, 24 Nov 2025.</text>
+</svg>
