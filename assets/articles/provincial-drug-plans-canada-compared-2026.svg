@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>How three provincial drug plans are built</title>
+  <desc>Ontario Trillium is an income share then a small co-pay. B.C. Fair PharmaCare is a deductible, then 70 or 75 percent, then 100 percent after a family maximum. Quebec RAMQ is mandatory coverage. No dollar ranking, because the Quebec rates page did not open.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Same prescription, three different structures</text>
+  <text x="24" y="50" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a ranking. Quebec dollars are omitted because the rates page did not open.</text>
+  <rect x="24" y="78" width="210" height="230" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="129" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ontario Trillium</text>
+  <text x="36" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If you are not already</text>
+  <text x="36" y="158" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">on the Drug Benefit.</text>
+  <text x="36" y="186" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Deductible: usually about</text>
+  <text x="36" y="204" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4 percent of net income.</text>
+  <text x="36" y="232" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Then up to $2 a fill.</text>
+  <text x="36" y="260" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Year: 1 Aug to 31 Jul.</text>
+  <rect x="254" y="78" width="210" height="230" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="359" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">B.C. Fair PharmaCare</text>
+  <text x="266" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Deductible from income.</text>
+  <text x="266" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Then 70 percent, or</text>
+  <text x="266" y="186" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">75 percent if born</text>
+  <text x="266" y="204" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">before 1940.</text>
+  <text x="266" y="232" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">100 percent after the</text>
+  <text x="266" y="250" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">family maximum.</text>
+  <text x="266" y="278" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Default deductible $10,000.</text>
+  <rect x="484" y="78" width="210" height="230" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="589" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Quebec RAMQ</text>
+  <text x="496" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Coverage is mandatory.</text>
+  <text x="496" y="168" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Group plan if you</text>
+  <text x="496" y="186" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">have access to one.</text>
+  <text x="496" y="214" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Otherwise the public</text>
+  <text x="496" y="232" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">plan.</text>
+  <text x="496" y="260" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">2026-27 rates not</text>
+  <text x="496" y="278" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">opened. No dollars here.</text>
+  <text x="24" y="360" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One verified B.C. band, not plotted as a race: $58,333.01 to $61,667, deductible $1,800, maximum $2,400.</text>
+  <text x="24" y="400" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Pages opened 26 Sep 2026. Education only.</text>
+</svg>

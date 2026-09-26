@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative annual drug out-of-pocket, standard ODB versus the Seniors Co-Payment Program</title>
+  <desc>Ceiling bars for 4 and 8 monthly prescriptions. Standard ODB adds a 100 dollar deductible and 6.11 dollars per fill. The co-payment program is 2 dollars per fill with no deductible. Illustrative arithmetic from ontario.ca amounts checked 26 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative annual ceiling, program year 1 Aug-31 Jul</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Standard bars add $100 and then the $6.11 maximum on every fill. A real receipt can be lower.</text>
+  <line x1="70" y1="80" x2="70" y2="320" stroke="#E5E7EB"/>
+  <line x1="70" y1="320" x2="690" y2="320" stroke="#E5E7EB"/>
+  <text x="62" y="324" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>
+  <text x="62" y="204" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$343</text>
+  <text x="62" y="88" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$687</text>
+  <rect x="120" y="182" width="70" height="138" fill="#6B7280"/>
+  <rect x="200" y="286" width="70" height="34" fill="#0F7A4B"/>
+  <rect x="400" y="80" width="70" height="240" fill="#6B7280"/>
+  <rect x="480" y="253" width="70" height="67" fill="#0F7A4B"/>
+  <text x="155" y="172" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$393</text>
+  <text x="235" y="278" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$96</text>
+  <text x="435" y="72" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$687</text>
+  <text x="515" y="245" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$192</text>
+  <text x="195" y="346" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4 fills a month</text>
+  <text x="475" y="346" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">8 fills a month</text>
+  <rect x="24" y="372" width="14" height="14" fill="#6B7280"/>
+  <text x="44" y="384" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Standard ODB ceiling</text>
+  <rect x="220" y="372" width="14" height="14" fill="#0F7A4B"/>
+  <text x="240" y="384" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Co-payment program, up to $2</text>
+  <text x="24" y="410" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Illustrative arithmetic. ontario.ca checked 26 Sep 2026. Not a pharmacy receipt.</text>
+</svg>

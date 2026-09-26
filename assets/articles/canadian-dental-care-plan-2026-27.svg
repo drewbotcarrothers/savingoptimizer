@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Your share of an illustrative 1000 dollar CDCP fee by income tier</title>
+  <desc>Three bars: 0 dollars under 70000, 400 dollars from 70000 to 79999, and 600 dollars from 80000 to 89999. Illustrative arithmetic on the CDCP fee only.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Your share of an illustrative $1,000 CDCP fee</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Before any charge above the CDCP fee. Checked 26 Sep 2026.</text>
+  <line x1="80" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
+  <line x1="80" y1="80" x2="80" y2="300" stroke="#E5E7EB"/>
+  <rect x="140" y="300" width="90" height="0" fill="#0F7A4B"/>
+  <text x="185" y="292" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$0</text>
+  <rect x="310" y="140" width="90" height="160" fill="#0F7A4B"/>
+  <text x="355" y="132" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$400</text>
+  <rect x="480" y="60" width="90" height="240" fill="#0F7A4B"/>
+  <text x="525" y="52" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$600</text>
+  <text x="185" y="328" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Under $70,000</text>
+  <text x="185" y="346" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0 percent</text>
+  <text x="355" y="328" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$70,000-$79,999</text>
+  <text x="355" y="346" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">40 percent</text>
+  <text x="525" y="328" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$80,000-$89,999</text>
+  <text x="525" y="346" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">60 percent</text>
+  <text x="24" y="390" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A $0 co-pay can still leave a charge if the clinic bills more than the CDCP fee.</text>
+  <text x="24" y="410" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Illustrative arithmetic. canada.ca coverage page, checked 26 Sep 2026.</text>
+</svg>
