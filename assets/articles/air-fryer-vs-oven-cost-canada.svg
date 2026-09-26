@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative cook cost at three provincial electricity rates</title>
+  <desc>Grouped bars for an illustrative 0.5 kilowatt-hour cook and an illustrative 1.5 kilowatt-hour cook. Rates are Ontario time-of-use off-peak 9.8 cents, BC Hydro Step 1 11.87 cents, and Hydro-Quebec Rate D first tier 7.065 cents. Cook sizes are not nameplate ratings. Delivery is excluded.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Commodity cost of two illustrative cooks</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">0.5 kWh and 1.5 kWh are placeholders. Replace them with watts times hours from the nameplate.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12">
+    <rect x="24" y="68" width="12" height="12" fill="#0F7A4B"/>
+    <text x="42" y="78" fill="#1A1A1A">0.5 kWh cook</text>
+    <rect x="160" y="68" width="12" height="12" fill="#9CA3AF"/>
+    <text x="178" y="78" fill="#1A1A1A">1.5 kWh cook</text>
+  </g>
+  <line x1="200" y1="100" x2="200" y2="340" stroke="#E5E7EB"/>
+  <line x1="200" y1="340" x2="680" y2="340" stroke="#E5E7EB"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
+    <text x="192" y="344" text-anchor="end">0</text>
+    <text x="440" y="358" text-anchor="middle">10 cents</text>
+    <text x="680" y="358" text-anchor="end">20 cents</text>
+    <line x1="440" y1="340" x2="440" y2="346" stroke="#E5E7EB"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="24" y="150">Quebec, 7.065 cents</text>
+    <rect x="200" y="128" width="85" height="16" fill="#0F7A4B"/>
+    <text x="292" y="141">3.53</text>
+    <rect x="200" y="148" width="254" height="16" fill="#9CA3AF"/>
+    <text x="460" y="161">10.60</text>
+    <text x="24" y="220">Ontario off-peak, 9.8</text>
+    <rect x="200" y="198" width="118" height="16" fill="#0F7A4B"/>
+    <text x="324" y="211">4.90</text>
+    <rect x="200" y="218" width="353" height="16" fill="#9CA3AF"/>
+    <text x="560" y="231">14.70</text>
+    <text x="24" y="290">B.C. Step 1, 11.87</text>
+    <rect x="200" y="268" width="142" height="16" fill="#0F7A4B"/>
+    <text x="348" y="281">5.94</text>
+    <rect x="200" y="288" width="427" height="16" fill="#9CA3AF"/>
+    <text x="634" y="301">17.81</text>
+  </g>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: 24 px per cent. Delivery, riders, and the daily basic are excluded. Saving Optimizer, 26 Sep 2026.</text>
+</svg>

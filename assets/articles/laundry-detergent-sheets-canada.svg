@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Cents per laundry load, sheets versus Kirkland liquid and pacs</title>
+  <desc>Bars of cents per regular load. Tru Earth 64-count and 32-count strips at one strip per regular load from Well.ca prices checked 26 September 2026, beside Kirkland liquid and Kirkland pacs from the Costco East list posted 10 June 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Cents per regular load</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">One Tru Earth strip equals one regular load, from the Well.ca directions. Kirkland uses advertised loads.</text>
+  <line x1="230" y1="80" x2="230" y2="350" stroke="#E5E7EB"/>
+  <line x1="230" y1="350" x2="690" y2="350" stroke="#E5E7EB"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
+    <text x="230" y="368" text-anchor="middle">0</text>
+    <text x="338" y="368" text-anchor="middle">12 cents</text>
+    <text x="446" y="368" text-anchor="middle">24 cents</text>
+    <text x="554" y="368" text-anchor="middle">36 cents</text>
+    <text x="662" y="368" text-anchor="middle">48 cents</text>
+    <line x1="338" y1="350" x2="338" y2="356" stroke="#E5E7EB"/>
+    <line x1="446" y1="350" x2="446" y2="356" stroke="#E5E7EB"/>
+    <line x1="554" y1="350" x2="554" y2="356" stroke="#E5E7EB"/>
+    <line x1="662" y1="350" x2="662" y2="356" stroke="#E5E7EB"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="24" y="118">Kirkland liquid, 146</text>
+    <rect x="230" y="104" width="123" height="18" fill="#0F7A4B"/>
+    <text x="360" y="118">13.69 cents</text>
+    <text x="24" y="178">Kirkland pacs, 152</text>
+    <rect x="230" y="164" width="160" height="18" fill="#9CA3AF"/>
+    <text x="398" y="178">17.76 cents</text>
+    <text x="24" y="238">Tru Earth, 64 strips</text>
+    <rect x="230" y="224" width="422" height="18" fill="#D1D5DB"/>
+    <text x="460" y="238" fill="#1A1A1A">46.86 cents</text>
+    <text x="24" y="298">Tru Earth, 32 strips</text>
+    <rect x="230" y="284" width="450" height="18" fill="#D1D5DB"/>
+    <text x="480" y="298" fill="#1A1A1A">49.97 cents</text>
+  </g>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: 9 px per cent. Well.ca 26 Sep 2026 and Costco East 10 Jun 2026. Shipping under 35 dollars at Well.ca is not in the cents.</text>
+</svg>
