@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>How to read an illustrative Amazon.ca price-history chart</title>
+  <desc>An annotated illustrative chart. A grey band marks a typical low, a high dashed line marks an inflated list price, and a green dip marks an event price. No tracker was read for these dollars.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Read the band, not the percentage</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative sketch. ca.camelcamelcamel.com did not load on 26 Sep 2026.</text>
+  <rect x="70" y="200" width="610" height="70" fill="#E5E7EB"/>
+  <text x="80" y="192" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Typical-low band (illustrative)</text>
+  <line x1="70" y1="110" x2="680" y2="110" stroke="#6B7280" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="80" y="102" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Inflated list price</text>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="90,180 180,210 270,230 360,220 450,240 540,150 630,235"/>
+  <circle cx="540" cy="150" r="6" fill="#0F7A4B"/>
+  <text x="430" y="142" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Event dip</text>
+  <line x1="70" y1="320" x2="680" y2="320" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="70" y="348" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A real discount crosses into the band you have already seen, or beats another Canadian seller.</text>
+  <text x="70" y="372" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Write the date, the seller, and whether the line is Was Price or a third-party chart.</text>
+  <text x="70" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Amazon.ca Was Price and 30-day featured-offer lines are defined on the strike-through help page.</text>
+</svg>
