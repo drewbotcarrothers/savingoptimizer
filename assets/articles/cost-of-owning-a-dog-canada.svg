@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>OVMA 2025 puppy and adult dog costs by category</title>
+  <desc>Stacked bars from the Ontario Veterinary Medical Association 2025 canine PDF. Puppy bar uses the neuter line and category sums of 2206, 910, 394, and 1982 dollars, totalling 5492. The sheet prints 5493. Adult sums 2137, 1418, 136, and 1427, totalling the printed 5118. Spay is 102 dollars more and is not a third bar. Grooming and boarding are absent.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">OVMA 2025 canine sheet, category sums</text>
+  <text x="24" y="56" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Scale: 460 px equals $6,000. Puppy bar is the neuter path. 26 Sep 2026.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <rect x="24" y="78" width="12" height="12" fill="#0F7A4B"/>
+    <text x="40" y="89">Veterinary care</text>
+    <rect x="170" y="78" width="12" height="12" fill="#6B7280"/>
+    <text x="186" y="89">Food and bowls</text>
+    <rect x="310" y="78" width="12" height="12" fill="#E5E7EB" stroke="#6B7280"/>
+    <text x="326" y="89">Supplies</text>
+    <rect x="420" y="78" width="12" height="12" fill="#1A1A1A"/>
+    <text x="436" y="89">Other, including insurance estimate</text>
+  </g>
+  <text x="24" y="150" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Puppy, neuter path</text>
+  <text x="24" y="166" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Sheet prints $5,493</text>
+  <rect x="200.0" y="136" width="169.1" height="22" fill="#0F7A4B"/>
+  <rect x="369.1" y="136" width="69.8" height="22" fill="#6B7280"/>
+  <rect x="438.9" y="136" width="30.2" height="22" fill="#E5E7EB"/>
+  <rect x="469.1" y="136" width="152.0" height="22" fill="#1A1A1A"/>
+  <text x="629.1" y="150" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$5,492</text>
+  <text x="24" y="230" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Adult dog</text>
+  <text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Sheet prints $5,118</text>
+  <rect x="200.0" y="216" width="163.8" height="22" fill="#0F7A4B"/>
+  <rect x="363.8" y="216" width="108.7" height="22" fill="#6B7280"/>
+  <rect x="472.5" y="216" width="10.4" height="22" fill="#E5E7EB"/>
+  <rect x="483.0" y="216" width="109.4" height="22" fill="#1A1A1A"/>
+  <text x="600.4" y="230" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$5,118</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Insurance estimate is inside the black segment: $1,402 on both pages. Supplies are the light segment. Not a size or city split.</text>
+</svg>

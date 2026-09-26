@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>From a veterinary prescription to a compared fill</title>
+  <desc>Flow: veterinarian prescribes, client asks for a written prescription under Ontario Regulation 1093 section 26, compare the clinic price with a pharmacy and an online pharmacy including any writing fee, fill the unchanged prescription, then use only the refills the prescription allows. Checked 26 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Prescription, then price</text>
+  <text x="24" y="56" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario request rule. Do not change the drug to win the comparison. 26 Sep 2026.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <rect x="40" y="90" width="150" height="64" fill="#0F7A4B"/>
+    <text x="115" y="118" text-anchor="middle" fill="#FFFFFF">Vet prescribes</text>
+    <text x="115" y="136" text-anchor="middle" fill="#FFFFFF" font-size="11">the drug</text>
+    <text x="198" y="126" fill="#6B7280">→</text>
+    <rect x="220" y="90" width="170" height="64" fill="#0F7A4B"/>
+    <text x="305" y="118" text-anchor="middle" fill="#FFFFFF">Ask for a written</text>
+    <text x="305" y="136" text-anchor="middle" fill="#FFFFFF" font-size="11">prescription</text>
+    <text x="398" y="126" fill="#6B7280">→</text>
+    <rect x="420" y="80" width="250" height="84" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+    <text x="545" y="104" text-anchor="middle">Compare three totals</text>
+    <text x="545" y="124" text-anchor="middle" font-size="11" fill="#6B7280">Clinic dispense</text>
+    <text x="545" y="140" text-anchor="middle" font-size="11" fill="#6B7280">Pharmacy plus writing fee</text>
+    <text x="545" y="156" text-anchor="middle" font-size="11" fill="#6B7280">Online, same drug only</text>
+    <rect x="160" y="230" width="160" height="56" fill="#1A1A1A"/>
+    <text x="240" y="254" text-anchor="middle" fill="#FFFFFF">Fill what was</text>
+    <text x="240" y="272" text-anchor="middle" fill="#FFFFFF">written</text>
+    <text x="330" y="262" fill="#6B7280">→</text>
+    <rect x="360" y="230" width="180" height="56" fill="#1A1A1A"/>
+    <text x="450" y="254" text-anchor="middle" fill="#FFFFFF">Refills only as</text>
+    <text x="450" y="272" text-anchor="middle" fill="#FFFFFF">the prescription allows</text>
+  </g>
+  <text x="24" y="340" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">If the pharmacy cannot obtain the product, the comparison stops. Section 33(2)(d) is not a wholesale order.</text>
+  <text x="24" y="364" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Bill 171's main sections were not proclaimed on the e-Laws currency date of 26 Aug 2026.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">No seller is named. A site that skips the prescription fails the flow.</text>
+
+</svg>

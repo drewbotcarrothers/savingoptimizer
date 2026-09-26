@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Canadian veterinary spending and the estimate questions</title>
+  <desc>The Competition Bureau page dated 30 Oct 2024 states that Canadians spent 9.3 billion dollars on veterinary services in 2023. The 2019 figure on that page is described as almost 4 billion dollars and is not drawn as an exact bar. The four steps are questions to ask, not a statute.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">$9.3 billion in veterinary services, 2023</text>
+  <text x="24" y="56" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Competition Bureau, 30 Oct 2024. The 2019 line on that page says almost $4 billion and is not drawn.</text>
+  <rect x="24" y="88" width="420" height="36" fill="#0F7A4B"/>
+  <text x="454" y="112" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">$9.3B</text>
+  <text x="24" y="160" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Questions, in order</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <rect x="24" y="180" width="28" height="28" fill="#0F7A4B"/>
+    <text x="33" y="199" fill="#FFFFFF" font-weight="700">1</text>
+    <text x="64" y="199">Ask for an itemized account</text>
+    <rect x="24" y="220" width="28" height="28" fill="#0F7A4B"/>
+    <text x="33" y="239" fill="#FFFFFF" font-weight="700">2</text>
+    <text x="64" y="239">Drug charges separate from the professional fee</text>
+    <rect x="24" y="260" width="28" height="28" fill="#0F7A4B"/>
+    <text x="33" y="279" fill="#FFFFFF" font-weight="700">3</text>
+    <text x="64" y="279">Written prescription if you want to compare a fill</text>
+    <rect x="24" y="300" width="28" height="28" fill="#1A1A1A"/>
+    <text x="33" y="319" fill="#FFFFFF" font-weight="700">4</text>
+    <text x="64" y="319">Follow the plan you accept. A missing option is not a discount.</text>
+  </g>
+  <text x="24" y="370" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario rules opened 26 Sep 2026: Regulation 1093 itemized account on request, and section 26 for the prescription.</text>
+  <text x="24" y="392" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Bar length is illustrative of one stated figure, not a time series. No second bar for an imprecise 2019 number.</text>
+
+</svg>
