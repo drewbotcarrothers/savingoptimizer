@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ontario Home Renovation Savings appliance rebate amounts</title>
+  <desc id="desc">Amounts from the Home Renovation Savings appliance page read 26 September 2026. Heat-pump clothes dryer 200 dollars, induction cooktop or range 150 dollars, washing machine 75 dollars, fridge 50 dollars, freezer 50 dollars, dishwasher 25 dollars. Models must be eligible ENERGY STAR Most Efficient appliances, and the receipt is due within 60 days.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario appliance rebates, 26 Sep 2026</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Home Renovation Savings. Most Efficient rules and a 60-day receipt still apply.</text>
+  <text x="24" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Heat-pump dryer</text>
+  <rect x="180" y="82" width="400" height="24" fill="#0F7A4B"/>
+  <text x="590" y="99" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$200</text>
+  <text x="24" y="144" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Induction</text>
+  <rect x="180" y="126" width="300" height="24" fill="#0F7A4B"/>
+  <text x="490" y="143" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$150</text>
+  <text x="24" y="188" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Washer</text>
+  <rect x="180" y="170" width="150" height="24" fill="#0F7A4B"/>
+  <text x="340" y="187" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$75</text>
+  <text x="24" y="232" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Fridge</text>
+  <rect x="180" y="214" width="100" height="24" fill="#0F7A4B"/>
+  <text x="290" y="231" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$50</text>
+  <text x="24" y="276" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Freezer</text>
+  <rect x="180" y="258" width="100" height="24" fill="#0F7A4B"/>
+  <text x="290" y="275" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$50</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Dishwasher</text>
+  <rect x="180" y="302" width="50" height="24" fill="#0F7A4B"/>
+  <text x="240" y="319" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$25</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Scale: $50 is 100 pixels. New Brunswick and B.C. use different amounts and are not on this chart.</text>
+  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Cornwall Electric customers are excluded on the Ontario page. Used appliances do not qualify.</text>
+</svg>
