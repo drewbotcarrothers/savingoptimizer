@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Cost per litre of three ready-to-use cleaners</title>
+  <desc>Horizontal bars of shelf cost per litre for Mr. Clean, Pine-Sol, and Lysol toilet bowl cleaner from the Costco East list posted 10 June 2026. No concentrate dilution was printed on that list.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Ready-to-use cost per litre</text>
+  <text x="24" y="56" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Price divided by labelled litres. Costco East, posted 10 Jun 2026. A concentrate pair is omitted: no dilution rate was on that list.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="118">Mr. Clean, 5.2 L, $13.49</text>
+    <rect x="250" y="100" width="345" height="26" rx="4" fill="#0F7A4B"/>
+    <text x="470" y="118" fill="#FFFFFF">$2.59 / L</text>
+    <text x="24" y="178">Pine-Sol, 5.18 L, $13.79</text>
+    <rect x="250" y="160" width="354" height="26" rx="4" fill="#9CA3AF"/>
+    <text x="480" y="178" fill="#1A1A1A">$2.66 / L</text>
+    <text x="24" y="238">Lysol bowl, 4 x 946 mL, $10.99</text>
+    <rect x="250" y="220" width="386" height="26" rx="4" fill="#D1D5DB"/>
+    <text x="500" y="238" fill="#1A1A1A">$2.90 / L</text>
+  </g>
+  <text x="24" y="290" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Lysol line: 4 times 946 mL = 3.784 L. $10.99 divided by 3.784 L = $2.90 per litre.</text>
+  <text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">These are different jobs. A lower price per litre does not mean the product can replace the others.</text>
+  <text x="24" y="338" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">For a concentrate, divide the bottle price by the litres the label says it makes, then compare to these bars.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Green bar is the lowest of these three ready-to-use jugs.</text>
+</svg>
