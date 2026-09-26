@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Cost ladder from free counselling to private therapy</title>
+  <desc>Five steps. Free public options include Ontario Structured Psychotherapy and the 9-8-8 Suicide Crisis Helpline. An employee assistance program is a workplace session limit, not a diagnosis on your file that your manager sees. Benefit plans pay by provider type up to a maximum in the booklet. Sliding-scale and training clinics set their own fees. Private hourly fees are not quoted for 2026. A 2023 Canadian Psychological Association survey is the only dated band on this chart.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Use the lowest step that fits the care you need</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No 2026 session price. The private band is a 2023 survey, checked 26 Sep 2026.</text>
+  <rect x="24" y="78" width="130" height="150" rx="6" fill="#0F7A4B"/>
+  <text x="89" y="110" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">1. Free</text>
+  <text x="89" y="132" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">OSP in Ontario</text>
+  <text x="89" y="150" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">9-8-8 anytime</text>
+  <text x="89" y="168" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">Community</text>
+  <text x="89" y="186" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">programs</text>
+  <rect x="166" y="78" width="130" height="150" rx="6" fill="#0F7A4B"/>
+  <text x="231" y="110" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">2. EAP</text>
+  <text x="231" y="132" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">Session cap</text>
+  <text x="231" y="150" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">in the booklet</text>
+  <text x="231" y="168" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">Call the vendor</text>
+  <text x="231" y="186" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">not your boss</text>
+  <rect x="308" y="78" width="130" height="150" rx="6" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="373" y="110" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">3. Benefits</text>
+  <text x="373" y="132" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Provider type</text>
+  <text x="373" y="150" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">matters</text>
+  <text x="373" y="168" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Annual maximum</text>
+  <text x="373" y="186" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">is the cap</text>
+  <rect x="450" y="78" width="130" height="150" rx="6" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="515" y="110" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">4. Scale</text>
+  <text x="515" y="132" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Clinic sets</text>
+  <text x="515" y="150" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">the fee</text>
+  <text x="515" y="168" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Training clinics</text>
+  <text x="515" y="186" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">ask income</text>
+  <rect x="592" y="78" width="104" height="150" rx="6" fill="#1A1A1A"/>
+  <text x="644" y="110" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">5. Private</text>
+  <text x="644" y="132" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">2023 survey</text>
+  <text x="644" y="150" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">42% at</text>
+  <text x="644" y="168" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">$190-$225</text>
+  <text x="644" y="186" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">Not a 2026 fee</text>
+  <text x="24" y="260" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">If you are in crisis, call or text 9-8-8. If you are in immediate danger, call 9-1-1.</text>
+  <text x="24" y="284" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A benefit that pays a psychologist may not pay a registered psychotherapist. Read the booklet.</text>
+  <text x="24" y="308" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">CRA therapy wages need disability-tax-credit eligibility and a listed prescriber. That is separate from a plan.</text>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Canadian Psychological Association, 2023 Public Policy Survey, hourly treatment, N=1,222.</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">13% at $190 or less; 17% at $225 to $250; 5% over $250; 23% not applicable. Education only.</text>
+</svg>

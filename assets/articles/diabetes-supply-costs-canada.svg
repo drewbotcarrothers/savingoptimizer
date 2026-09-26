@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Coverage status for diabetes supplies in Ontario and under national pharmacare</title>
+  <desc>A status grid, not a price chart. Ontario Drug Benefit covers test strips up to a yearly maximum. It does not cover lancets. Real-time continuous glucose monitors and insulin pumps can be fully funded through the Assistive Devices Program for eligible type 1 diabetes. Intermittently scanned monitors are not funded by that program. Listed diabetes drugs are generally free at the counter in British Columbia, Manitoba, Prince Edward Island, and Yukon. Device coverage in those agreements is a separate stream to confirm locally.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Coverage status, not a price</text>
+  <text x="24" y="50" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Checked 26 Sep 2026. Green is covered on the rule shown. Grey is not. Tint is partial.</text>
+  <rect x="250" y="68" width="220" height="22" fill="#E5E7EB"/>
+  <rect x="474" y="68" width="222" height="22" fill="#E5E7EB"/>
+  <text x="360" y="83" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">Ontario</text>
+  <text x="585" y="83" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">Pharmacare: BC, MB, PEI, YT</text>
+  <text x="24" y="104" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Test strips</text>
+  <rect x="250" y="90" width="220" height="22" fill="#E7F4EE" stroke="#E5E7EB"/>
+  <text x="360" y="105" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">ODB yearly cap</text>
+  <rect x="474" y="90" width="222" height="22" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="585" y="105" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Device stream: confirm</text>
+  <text x="24" y="130" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Lancets</text>
+  <rect x="250" y="116" width="220" height="22" fill="#E5E7EB"/>
+  <text x="360" y="131" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Not an ODB benefit</text>
+  <rect x="474" y="116" width="222" height="22" fill="#E7F4EE" stroke="#E5E7EB"/>
+  <text x="585" y="131" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Named in the B.C. agreement</text>
+  <text x="24" y="156" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Syringes, needles</text>
+  <rect x="250" y="142" width="220" height="22" fill="#E7F4EE" stroke="#E5E7EB"/>
+  <text x="360" y="157" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">$170 grant at 65+, if eligible</text>
+  <rect x="474" y="142" width="222" height="22" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="585" y="157" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Confirm the supply list</text>
+  <text x="24" y="182" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Real-time CGM</text>
+  <rect x="250" y="168" width="220" height="22" fill="#0F7A4B"/>
+  <text x="360" y="183" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">ADP, type 1 criteria</text>
+  <rect x="474" y="168" width="222" height="22" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="585" y="183" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Device stream: confirm</text>
+  <text x="24" y="208" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Scanned CGM</text>
+  <rect x="250" y="194" width="220" height="22" fill="#E5E7EB"/>
+  <text x="360" y="209" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Not ADP-funded</text>
+  <rect x="474" y="194" width="222" height="22" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="585" y="209" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Confirm locally</text>
+  <text x="24" y="234" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Insulin pump</text>
+  <rect x="250" y="220" width="220" height="22" fill="#0F7A4B"/>
+  <text x="360" y="235" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">100% of ADP price, if eligible</text>
+  <rect x="474" y="220" width="222" height="22" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="585" y="235" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Device stream: confirm</text>
+  <text x="24" y="260" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Insulin</text>
+  <rect x="250" y="246" width="220" height="22" fill="#E7F4EE" stroke="#E5E7EB"/>
+  <text x="360" y="261" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">ODB deductible and co-pay</text>
+  <rect x="474" y="246" width="222" height="22" fill="#0F7A4B"/>
+  <text x="585" y="261" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#FFFFFF">Listed drugs, generally free</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">No dollar total is drawn. A $3,000-a-year household figure was not on a page opened for this draft.</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Health Canada examples, page dated 26 Jan 2026: metformin about $100 a year; insulin $900 to $1,700.</text>
+  <text x="24" y="352" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Buy nothing through ADP before the application steps are done. Otherwise you pay the full cost.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not medical advice. Confirm the product with your prescriber, pharmacist, and the program.</text>
+</svg>
