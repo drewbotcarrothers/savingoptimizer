@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Labelled gym visit cost versus a basic home kit</title>
+  <desc id="desc">Labelled example: 80 dollars true monthly gym cost is 20 dollars a visit at 4 visits, 10 dollars at 8, and about 6.67 dollars at 12. A 240 dollar home kit is 20 dollars a month over a year.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Cost per visit falls only if you actually go</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled example. $80 is not a club price. It is dues plus the extras you counted.</text>
+  <rect x="70" y="96" width="110" height="200" rx="6" fill="#1A1A1A"/>
+  <text x="100" y="86" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$20</text>
+  <text x="88" y="318" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">4 visits</text>
+  <rect x="220" y="196" width="110" height="100" rx="6" fill="#374151"/>
+  <text x="250" y="186" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$10</text>
+  <text x="238" y="318" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">8 visits</text>
+  <rect x="370" y="229" width="110" height="67" rx="6" fill="#0F7A4B"/>
+  <text x="396" y="219" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$6.67</text>
+  <text x="388" y="318" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">12 visits</text>
+  <rect x="520" y="96" width="110" height="200" rx="6" fill="#0F7A4B"/>
+  <text x="550" y="86" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$20</text>
+  <text x="532" y="318" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Home kit</text>
+  <text x="528" y="336" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$240 / 12 mo</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Four visits makes the gym the same monthly cost as the kit, at $20 a visit. Eight visits is the gym's case.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Count last month's check-ins, not the plan you had in January. 25 Sep 2026.</text>
+</svg>
