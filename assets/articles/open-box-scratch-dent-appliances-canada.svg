@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Open-box decision matrix: no return, cosmetic only, warranty intact</title>
+  <desc>A three-column matrix. Green means that condition is satisfied and the unit can still be a candidate. Grey means that condition fails and the unit is not a clear win. No discount percent is shown.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">When open-box is a clear win</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">All three must be green. A stated percent does not replace a missing cell. Checked 26 Sep 2026.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">
+    <text x="250" y="92" text-anchor="middle">No return</text>
+    <text x="420" y="92" text-anchor="middle">Cosmetic only</text>
+    <text x="590" y="92" text-anchor="middle">Warranty intact</text>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="24" y="148">You accept final sale</text>
+    <rect x="180" y="120" width="140" height="52" rx="6" fill="#0F7A4B"/>
+    <text x="250" y="150" text-anchor="middle" fill="#FFFFFF">Accepted</text>
+    <rect x="350" y="120" width="140" height="52" rx="6" fill="#E5E7EB"/>
+    <text x="420" y="150" text-anchor="middle" fill="#6B7280">Not this row</text>
+    <rect x="520" y="120" width="140" height="52" rx="6" fill="#E5E7EB"/>
+    <text x="590" y="150" text-anchor="middle" fill="#6B7280">Not this row</text>
+    <text x="24" y="228">You saw the marks</text>
+    <rect x="180" y="200" width="140" height="52" rx="6" fill="#E5E7EB"/>
+    <text x="250" y="230" text-anchor="middle" fill="#6B7280">Not this row</text>
+    <rect x="350" y="200" width="140" height="52" rx="6" fill="#0F7A4B"/>
+    <text x="420" y="230" text-anchor="middle" fill="#FFFFFF">Seen and accepted</text>
+    <rect x="520" y="200" width="140" height="52" rx="6" fill="#E5E7EB"/>
+    <text x="590" y="230" text-anchor="middle" fill="#6B7280">Not this row</text>
+    <text x="24" y="308">Written warranty</text>
+    <rect x="180" y="280" width="140" height="52" rx="6" fill="#E5E7EB"/>
+    <text x="250" y="310" text-anchor="middle" fill="#6B7280">Not this row</text>
+    <rect x="350" y="280" width="140" height="52" rx="6" fill="#E5E7EB"/>
+    <text x="420" y="310" text-anchor="middle" fill="#6B7280">Not this row</text>
+    <rect x="520" y="280" width="140" height="52" rx="6" fill="#0F7A4B"/>
+    <text x="590" y="310" text-anchor="middle" fill="#FFFFFF">Named in writing</text>
+  </g>
+  <text x="24" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Clear win: every green cell is true for that serial. Any grey unknown is a walk.</text>
+  <text x="24" y="392" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Best Buy stated no typical percent. Coast stated up to 70 percent as a claim. Trail stated from-prices, not a percent.</text>
+</svg>

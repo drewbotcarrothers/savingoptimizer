@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative Marketplace cash versus IKEA store credit</title>
+  <desc>Two bars using illustrative inputs that are not an IKEA quote and not a Marketplace listing: 120 dollars cash and 70 dollars of store credit. IKEA did not publish a sell-back percent.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative comparison, not a quote</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Replace both numbers with your buyer and your IKEA approval. Credit is not cash. Checked 26 Sep 2026.</text>
+  <line x1="80" y1="80" x2="80" y2="300" stroke="#E5E7EB"/>
+  <line x1="80" y1="300" x2="660" y2="300" stroke="#E5E7EB"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
+    <text x="74" y="304" text-anchor="end">$0</text>
+    <text x="74" y="194" text-anchor="end">$60</text>
+    <text x="74" y="84" text-anchor="end">$120</text>
+  </g>
+  <rect x="180" y="80" width="120" height="220" fill="#6B7280"/>
+  <rect x="400" y="172" width="120" height="128" fill="#0F7A4B"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="240" y="70" text-anchor="middle" font-weight="700">$120 cash</text>
+    <text x="240" y="328" text-anchor="middle">Marketplace</text>
+    <text x="240" y="346" text-anchor="middle" font-size="11" fill="#6B7280">illustrative</text>
+    <text x="460" y="162" text-anchor="middle" font-weight="700" fill="#0F7A4B">$70 credit</text>
+    <text x="460" y="328" text-anchor="middle">IKEA Sell-back</text>
+    <text x="460" y="346" text-anchor="middle" font-size="11" fill="#6B7280">illustrative</text>
+  </g>
+  <text x="24" y="388" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">IKEA's pages did not state a percent of original price. These dollars are a worksheet so the comparison has a shape. They are not an offer.</text>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Ontario appliance rebates, not payback years</title>
+  <desc>Bars show Ontario Home Renovation Savings rebate dollars read 26 September 2026: 200 dollars for a heat-pump dryer, 75 for a washer, 50 for a fridge, and 25 for a dishwasher. Payback years are not plotted.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Ontario rebate dollars, not payback years</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Home Renovation Savings, read 26 Sep 2026. Most Efficient and eligibility still apply. No price premium was verified.</text>
+  <line x1="70" y1="80" x2="70" y2="320" stroke="#E5E7EB"/>
+  <line x1="70" y1="320" x2="680" y2="320" stroke="#E5E7EB"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
+    <text x="64" y="324" text-anchor="end">$0</text>
+    <text x="64" y="204" text-anchor="end">$100</text>
+    <text x="64" y="84" text-anchor="end">$200</text>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <rect x="120" y="80" width="90" height="240" fill="#0F7A4B"/>
+    <text x="165" y="72" text-anchor="middle" font-weight="700" fill="#0F7A4B">$200</text>
+    <text x="165" y="344" text-anchor="middle">Heat-pump dryer</text>
+    <rect x="270" y="230" width="90" height="90" fill="#0F7A4B"/>
+    <text x="315" y="222" text-anchor="middle" font-weight="700" fill="#0F7A4B">$75</text>
+    <text x="315" y="344" text-anchor="middle">Washer</text>
+    <rect x="420" y="260" width="90" height="60" fill="#0F7A4B"/>
+    <text x="465" y="252" text-anchor="middle" font-weight="700" fill="#0F7A4B">$50</text>
+    <text x="465" y="344" text-anchor="middle">Fridge</text>
+    <rect x="570" y="290" width="90" height="30" fill="#0F7A4B"/>
+    <text x="615" y="282" text-anchor="middle" font-weight="700" fill="#0F7A4B">$25</text>
+    <text x="615" y="344" text-anchor="middle">Dishwasher</text>
+  </g>
+  <text x="24" y="384" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Payback years are omitted. They need a verified price gap and a verified EnerGuide kWh gap. Ontario off-peak is 9.8 cents and on-peak is 20.3 cents on the OEB page opened the same day.</text>
+</svg>
