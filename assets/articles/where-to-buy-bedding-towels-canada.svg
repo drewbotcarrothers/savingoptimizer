@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Bedding sale windows checked 26 September 2026</title>
+  <desc>January white sales and spring events are grey because no dated retailer window was opened. October is green because Linen Chest's homepage linked October flyer deals that day. 27 November 2026 is marked as a calendar date with no discount percent.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Bedding windows with a page behind them</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Green means a page opened 26 Sep 2026 named the window. Grey means it did not. No percent is drawn.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="100">January white sale</text>
+    <rect x="220" y="78" width="360" height="32" rx="4" fill="#E5E7EB"/>
+    <text x="232" y="99" fill="#6B7280">No dated retailer window opened</text>
+    <text x="24" y="156">Spring bedding event</text>
+    <rect x="220" y="134" width="360" height="32" rx="4" fill="#E5E7EB"/>
+    <text x="232" y="155" fill="#6B7280">No dated retailer window opened</text>
+    <text x="24" y="212">October flyer</text>
+    <rect x="220" y="190" width="360" height="32" rx="4" fill="#0F7A4B"/>
+    <text x="232" y="211" fill="#FFFFFF">Linen Chest homepage linked October flyer deals</text>
+    <text x="24" y="268">27 Nov 2026</text>
+    <rect x="220" y="246" width="360" height="32" rx="4" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+    <text x="232" y="267" fill="#1A1A1A">Black Friday calendar date. No percent attached.</text>
+    <text x="24" y="324">26 Dec 2026</text>
+    <rect x="220" y="302" width="360" height="32" rx="4" fill="#E5E7EB"/>
+    <text x="232" y="323" fill="#6B7280">Boxing Day is a calendar date only</text>
+  </g>
+  <text x="24" y="380" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The "up to 60 percent" banner on that homepage had no end date in the extract. It is not drawn as a rate.</text>
+</svg>

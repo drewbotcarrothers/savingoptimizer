@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Monthly thrift route without invented prices</title>
+  <desc>Four green steps for one planned trip: name the category, confirm hours on that store's page, inspect on site, and skip a second trip unless that chain printed a discount day.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">One planned thrift trip</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">No dollar ranges. Habitat and Salvation Army pages opened 26 Sep 2026 did not publish a national price list.</text>
+  <g font-family="Inter, Arial, sans-serif" fill="#FFFFFF">
+    <rect x="40" y="90" width="150" height="180" rx="8" fill="#0F7A4B"/>
+    <text x="115" y="150" text-anchor="middle" font-size="28" font-weight="700">1</text>
+    <text x="115" y="184" text-anchor="middle" font-size="13">Name the</text>
+    <text x="115" y="204" text-anchor="middle" font-size="13">category</text>
+    <rect x="206" y="90" width="150" height="180" rx="8" fill="#0F7A4B"/>
+    <text x="281" y="150" text-anchor="middle" font-size="28" font-weight="700">2</text>
+    <text x="281" y="184" text-anchor="middle" font-size="13">Confirm hours</text>
+    <text x="281" y="204" text-anchor="middle" font-size="13">on their page</text>
+    <rect x="372" y="90" width="150" height="180" rx="8" fill="#0F7A4B"/>
+    <text x="447" y="150" text-anchor="middle" font-size="28" font-weight="700">3</text>
+    <text x="447" y="184" text-anchor="middle" font-size="13">Inspect</text>
+    <text x="447" y="204" text-anchor="middle" font-size="13">on site</text>
+    <rect x="538" y="90" width="150" height="180" rx="8" fill="#0F7A4B"/>
+    <text x="613" y="150" text-anchor="middle" font-size="28" font-weight="700">4</text>
+    <text x="613" y="184" text-anchor="middle" font-size="13">One trip</text>
+    <text x="613" y="204" text-anchor="middle" font-size="13">unless a sale</text>
+    <text x="613" y="224" text-anchor="middle" font-size="13">is printed</text>
+  </g>
+  <text x="24" y="312" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Salvation Army FAQ: 10 percent for guests 60 and older, 15 percent for SPC, at participating stores.</text>
+  <text x="24" y="334" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">That is a standing discount, not a colour-tag calendar.</text>
+  <text x="24" y="360" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">ReStore hours, returns, and pickup rules vary by location. The national page says to confirm with that store.</text>
+</svg>

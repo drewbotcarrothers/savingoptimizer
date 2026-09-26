@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Repair ladder from diagnose to a professional</title>
+  <desc>Five green steps in order: diagnose the symptom, open the manual, identify the part, try a repair cafe for a small appliance, and call a professional for gas, refrigerant, or mains wiring.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Stop at the step that matches the failure</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Gas, sealed refrigerant, and mains wiring skip to the last step. Not a wiring diagram.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">
+    <rect x="40" y="80" width="640" height="48" rx="6" fill="#0F7A4B"/>
+    <text x="56" y="109">1. Diagnose. Unplug. Write the symptom and the model number.</text>
+    <rect x="40" y="140" width="640" height="48" rx="6" fill="#0F7A4B"/>
+    <text x="56" y="169">2. Manual. Manufacturer page first. Match the diagram to the frame.</text>
+    <rect x="40" y="200" width="640" height="48" rx="6" fill="#0F7A4B"/>
+    <text x="56" y="229">3. Part. Order the number on the diagram. No price is printed here.</text>
+    <rect x="40" y="260" width="640" height="48" rx="6" fill="#0F7A4B"/>
+    <text x="56" y="289">4. Repair cafe. Small appliances, with the volunteer's right to refuse.</text>
+    <rect x="40" y="320" width="640" height="48" rx="6" fill="#6B7280"/>
+    <text x="56" y="349">5. Professional. Gas, refrigerant circuit, or mains wiring.</text>
+  </g>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Green steps are household or community. The grey step is licensed work. Saving Optimizer, 26 Sep 2026.</text>
+</svg>
