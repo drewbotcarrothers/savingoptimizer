@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Cost of a 500 millilitre vinegar-water batch versus two brand sprays</title>
+  <desc>Bars for a 500 millilitre half-vinegar batch using No Name vinegar at 99 cents a litre, 500 millilitres of Mr. Clean, and 500 millilitres of Dawn Powerwash at the unit prices opened for this guide. The jobs are not the same.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Cost of 500 mL, different jobs</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The green bar is cheaper. It is also not a disinfectant and not a substitute for the other two products.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="110">Vinegar and water, half and half</text>
+    <rect x="280" y="92" width="30" height="24" rx="3" fill="#0F7A4B"/>
+    <text x="318" y="109">$0.25</text>
+    <text x="24" y="170">Mr. Clean all-purpose, same volume</text>
+    <rect x="280" y="152" width="152" height="24" rx="3" fill="#9CA3AF"/>
+    <text x="444" y="169">$1.30</text>
+    <text x="24" y="230">Dawn Powerwash, same volume</text>
+    <rect x="280" y="212" width="400" height="24" rx="3" fill="#D1D5DB"/>
+    <text x="560" y="229">$3.41</text>
+  </g>
+  <text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Vinegar: No Name 1 L at $0.99 on the No Frills flyer 24-30 Sep 2026, Toronto Pacific. 250 mL is $0.25.</text>
+  <text x="24" y="304" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Mr. Clean: $13.49 for 5.2 L on the Costco East list posted 10 Jun 2026. Half a litre is $1.30.</text>
+  <text x="24" y="328" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Dawn Powerwash: 3 x 635 mL at $12.99 on that list, after a $3.50 saving the list said expired 21 Jun 2026.</text>
+  <text x="24" y="352" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Scale: $3.50 = 410 px. A soap-and-water batch is under one cent of PC dish soap and is not drawn.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Do not mix any of these with bleach.</text>
+</svg>

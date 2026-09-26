@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative cumulative cost of repair-and-keep versus replace-now</title>
+  <desc>Step chart using labelled illustrative inputs, not a Canadian price survey: a replacement of 800 dollars at year 0, and repairs of 300 dollars at years 0, 3, and 6.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Cumulative cost, illustrative inputs</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Not a quote. Replacement $800 once. Each repair $300. Plug in the numbers from your invoice.</text>
+  <line x1="80" y1="80" x2="80" y2="330" stroke="#E5E7EB"/>
+  <line x1="80" y1="330" x2="680" y2="330" stroke="#E5E7EB"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
+    <text x="74" y="334" text-anchor="end">$0</text>
+    <text x="74" y="214" text-anchor="end">$600</text>
+    <text x="74" y="94" text-anchor="end">$1,200</text>
+    <text x="80" y="352">Year 0</text>
+    <text x="280" y="352">Year 3</text>
+    <text x="480" y="352">Year 6</text>
+  </g>
+  <polyline fill="none" stroke="#9CA3AF" stroke-width="3" points="80,163 680,163"/>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="80,267 280,267 280,205 480,205 480,142 680,142"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="12">
+    <rect x="500" y="148" width="12" height="12" fill="#9CA3AF"/>
+    <text x="518" y="159" fill="#1A1A1A">Replace now, stays at $800</text>
+    <rect x="500" y="252" width="12" height="12" fill="#0F7A4B"/>
+    <text x="518" y="263" fill="#1A1A1A">Repair path: $300, $600, $900</text>
+  </g>
+  <text x="24" y="384" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">On these inputs the third repair crosses the replacement. A real quote can cross sooner, or never. Saving Optimizer, 26 Sep 2026.</text>
+</svg>

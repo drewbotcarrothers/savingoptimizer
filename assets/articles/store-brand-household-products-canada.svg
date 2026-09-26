@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative annual savings from five store-brand switches</title>
+  <desc>Bars of calculated annual savings for five household staples using dated prices and labelled usage assumptions. The total bar is green. Pods are excluded from the total so detergent is not counted twice.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Annual gap on five switches</text>
+  <text x="24" y="50" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Usage is illustrative. Prices are from the 10 Jun 2026 Costco East list. Do not add a pod row on top of liquid.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="24" y="86">Liquid detergent, 8 loads/week</text>
+    <rect x="280" y="72" width="28" height="18" fill="#9CA3AF"/>
+    <text x="314" y="86">$11.40</text>
+    <text x="24" y="122">Paper towels, 2 sheets/day</text>
+    <rect x="280" y="108" width="30" height="18" fill="#9CA3AF"/>
+    <text x="316" y="122">$12.22</text>
+    <text x="24" y="158">Dish pacs, 1 per day</text>
+    <rect x="280" y="144" width="31" height="18" fill="#9CA3AF"/>
+    <text x="317" y="158">$12.70</text>
+    <text x="24" y="194">Large freezer bags, 150 a year</text>
+    <rect x="280" y="180" width="16" height="18" fill="#9CA3AF"/>
+    <text x="302" y="194">$6.37</text>
+    <text x="24" y="230">Toilet paper, 100 sheets/day</text>
+    <rect x="280" y="216" width="296" height="18" fill="#9CA3AF"/>
+    <text x="470" y="230" fill="#FFFFFF">$120.84</text>
+    <text x="24" y="278" font-weight="700">Total of those five</text>
+    <rect x="280" y="262" width="400" height="22" fill="#0F7A4B"/>
+    <text x="520" y="278" fill="#FFFFFF" font-weight="700">$163.53</text>
+  </g>
+  <text x="24" y="320" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Kirkland pacs versus Tide Pods 152-count would be another $30.11 at 8 loads a week. Leave it out if you already counted liquid.</text>
+  <text x="24" y="344" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Kirkland dish liquid was not cheaper than Palmolive on that list, so dish liquid is not in this total.</text>
+  <text x="24" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Bar width: $163.53 = 400 px. Toilet paper is most of the total because Charmin had fewer sheets per roll.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Change the usage and the dollars change. The unit prices do not.</text>
+</svg>
