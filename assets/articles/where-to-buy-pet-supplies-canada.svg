@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative discount on a labelled 100 dollar order</title>
+  <desc>Bars show the published discount on a labelled 100 dollars of eligible pre-tax merchandise. Chewy first Autoship is 20 dollars because 20 percent meets the 20 dollar cap. Pet Valu pickup first order is 10 dollars. A 5 percent recurring or ship-to-home discount is 5 dollars. PetSmart Treats base earning is 2 dollars, because 1,000 points equal 2 dollars. This is not a shopped basket and not a ranking.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Discount on a labelled $100, not a basket</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Rules opened 26 Sep 2026. A longer bar is a larger published discount on this example only.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="96">Chewy first Autoship, cap</text>
+    <rect x="250" y="80" width="400" height="22" fill="#0F7A4B"/>
+    <text x="620" y="96" fill="#FFFFFF" font-weight="700">$20</text>
+    <text x="24" y="142">Pet Valu pickup, first order</text>
+    <rect x="250" y="126" width="200" height="22" fill="#0F7A4B"/>
+    <text x="410" y="142" fill="#FFFFFF" font-weight="700">$10</text>
+    <text x="24" y="188">Pet Valu 5 percent line</text>
+    <rect x="250" y="172" width="100" height="22" fill="#0F7A4B"/>
+    <text x="286" y="188" fill="#FFFFFF" font-weight="700">$5</text>
+    <text x="24" y="234">PetSmart base points</text>
+    <rect x="250" y="218" width="40" height="22" fill="#0F7A4B"/>
+    <text x="298" y="234">$2</text>
+  </g>
+  <line x1="250" y1="68" x2="250" y2="256" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="24" y="286" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Scale: $20 = 400 px. Chewy 20 percent of $100 is $20, which meets the CA $20 cap. On $150 the cap still holds at $20.</text>
+  <text x="24" y="308" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The 5 percent bar is Pet Valu ship-to-home, or a later select-brand or recurring discount. It is not 5 percent of a mixed cart.</text>
+  <text x="24" y="330" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">PetSmart: 10 points per $1 is 1,000 points, and 1,000 points equal $2 on a later purchase. Bestie and VIPP are not drawn.</text>
+  <text x="24" y="352" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Costco, Walmart, and Amazon.ca are off the chart. No comparable program percent was opened for them. Not a ranking.</text>
+  <text x="24" y="392" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Illustrative arithmetic. The shelf price you write down is the price.</text>
+</svg>

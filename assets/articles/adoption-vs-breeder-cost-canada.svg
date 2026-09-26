@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Dated Ontario shelter adoption fees</title>
+  <desc>Bars of dog and puppy adoption fees from Ontario SPCA and Toronto Humane Society pages opened 26 September 2026. Ontario SPCA puppy under 5 months is 685 dollars, dog 585 dollars, senior dog 200 dollars. Toronto Humane Society local adult dog is 550 dollars, local puppy 600 dollars, transfer puppy 700 dollars. The OVMA puppy care total of 5,493 dollars is noted and is not drawn as a bar. No breeder price is shown.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Shelter fees opened 26 Sep 2026</text>
+  <text x="24" y="50" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Scale: $700 = 340 px. The OVMA puppy sheet ($5,493) is care, not a bar on this axis. No breeder price.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="24" y="88">OSPCA puppy, under 5 months</text>
+    <rect x="250" y="74" width="333" height="18" fill="#0F7A4B"/>
+    <text x="590" y="88" fill="#FFFFFF" font-weight="700">$685</text>
+    <text x="24" y="124">OSPCA dog</text>
+    <rect x="250" y="110" width="284" height="18" fill="#0F7A4B"/>
+    <text x="542" y="124" fill="#FFFFFF" font-weight="700">$585</text>
+    <text x="24" y="160">OSPCA senior dog, 8+</text>
+    <rect x="250" y="146" width="97" height="18" fill="#0F7A4B"/>
+    <text x="354" y="160" fill="#1A1A1A" font-weight="700">$200</text>
+    <text x="24" y="196">THS local adult dog</text>
+    <rect x="250" y="182" width="267" height="18" fill="#6B7280"/>
+    <text x="526" y="196" fill="#FFFFFF" font-weight="700">$550</text>
+    <text x="24" y="232">THS local puppy</text>
+    <rect x="250" y="218" width="291" height="18" fill="#6B7280"/>
+    <text x="550" y="232" fill="#FFFFFF" font-weight="700">$600</text>
+    <text x="24" y="268">THS transfer puppy</text>
+    <rect x="250" y="254" width="340" height="18" fill="#6B7280"/>
+    <text x="598" y="268" fill="#FFFFFF" font-weight="700">$700</text>
+  </g>
+  <text x="24" y="308" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Green bars: Ontario SPCA. Grey bars: Toronto Humane Society. Transfer adult ($650) and Northwest fees are in the table, not on the chart.</text>
+  <text x="24" y="332" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">THS says there is no tax on the fee. The $100 gap between local and transfer is inside the fee, not a separate flight quote.</text>
+  <text x="24" y="356" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">OVMA 2025 puppy total, Ontario average, including an insurance estimate: $5,493 with neuter, $5,595 with spay. Not added to these bars.</text>
+  <text x="24" y="392" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. BC SPCA fee pages returned 404, so no B.C. fee is drawn.</text>
+</svg>
