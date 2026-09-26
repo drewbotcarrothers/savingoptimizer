@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Ontario SPCA 2026 spay and neuter fees</title>
+  <desc>Bars for four Ontario SPCA 2026 fees: cat neuter 227 dollars, cat spay 282 dollars, dog neuter 416 dollars, and dog spay 500 dollars. The 75 dollar surcharge for dogs over 34 kilograms is not inside the bars.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Ontario SPCA 2026 surgery fees</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Published rates. Dogs over 34 kg add 75 dollars, not drawn inside the dog bars.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="100">Cat neuter</text>
+    <rect x="160" y="84" width="182" height="22" fill="#0F7A4B"/>
+    <text x="350" y="100">$227</text>
+    <text x="24" y="140">Cat spay</text>
+    <rect x="160" y="124" width="226" height="22" fill="#0F7A4B"/>
+    <text x="394" y="140">$282</text>
+    <text x="24" y="180">Dog neuter</text>
+    <rect x="160" y="164" width="333" height="22" fill="#0F7A4B"/>
+    <text x="502" y="180" fill="#1A1A1A">$416</text>
+    <text x="24" y="220">Dog spay</text>
+    <rect x="160" y="204" width="400" height="22" fill="#0F7A4B"/>
+    <text x="500" y="220" fill="#FFFFFF">$500</text>
+  </g>
+  <text x="24" y="270" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Scale: 500 dollars = 400 px. Cat neuter 227/500 is 182 px. Cat spay 282/500 is 226 px. Dog neuter 416/500 is 333 px.</text>
+  <text x="24" y="294" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Vaccines are 33 dollars each. Microchip is 36 dollars. Bloodwork costs vary. Those extras are not in the bars.</text>
+  <text x="24" y="318" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A 35 kg dog spay is 500 plus 75, which is 575 dollars, before vaccines. That sum is arithmetic on the table.</text>
+  <text x="24" y="360" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The 17 Jun 2026 subsidised cat event was 152 and 123 dollars, tax included. That date is past and is not charted.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Ontario SPCA veterinary services fee table.</text>
+</svg>

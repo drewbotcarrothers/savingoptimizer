@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Prevention months are not on the federal Lyme community list</title>
+  <desc>A calendar-style chart for regions that appear on the Public Health Agency of Canada Lyme risk community list. Months are labelled ask your veterinarian because the federal page does not publish a season.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Prevention months: not on the PHAC list</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Typical months were not published. Ask your veterinarian. Communities below are examples from the list, not a complete map.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <rect x="24" y="78" width="200" height="28" fill="#E5E7EB"/>
+    <text x="32" y="97" font-weight="700">Place named on the list</text>
+    <rect x="230" y="78" width="466" height="28" fill="#E5E7EB"/>
+    <text x="238" y="97" font-weight="700">Months of prevention</text>
+    <text x="32" y="132">Abbotsford, British Columbia</text>
+    <text x="238" y="132" fill="#6B7280">Not stated. Ask your veterinarian.</text>
+    <line x1="24" y1="146" x2="696" y2="146" stroke="#E5E7EB"/>
+    <text x="32" y="170">Ajax and Barrie, Ontario</text>
+    <text x="238" y="170" fill="#6B7280">Not stated. Ask your veterinarian.</text>
+    <line x1="24" y1="184" x2="696" y2="184" stroke="#E5E7EB"/>
+    <text x="32" y="208">Beauharnois, Quebec</text>
+    <text x="238" y="208" fill="#6B7280">Not stated. Ask your veterinarian.</text>
+    <line x1="24" y1="222" x2="696" y2="222" stroke="#E5E7EB"/>
+    <text x="32" y="246">Amherst and Antigonish, Nova Scotia</text>
+    <text x="238" y="246" fill="#6B7280">Not stated. Ask your veterinarian.</text>
+    <line x1="24" y1="260" x2="696" y2="260" stroke="#E5E7EB"/>
+    <text x="32" y="284">Your municipality, if it is on the list</text>
+    <text x="238" y="284" fill="#0F7A4B" font-weight="700">Search the PHAC page, then ask your vet.</text>
+  </g>
+  <text x="24" y="330" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Lyme risk areas are not the same decision as heartworm prevention. The OVMA 2025 adult test line is 125 dollars.</text>
+  <text x="24" y="354" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">No product price was opened, so this chart has no dollar bars. Monthly cost is dose price times the months your veterinarian names.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Labelled typical only in the sense that months must be confirmed. None are invented.</text>
+</svg>

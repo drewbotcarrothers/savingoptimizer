@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Emergency intake flow from the call to follow-up care</title>
+  <desc>A five-step flow chart: emergency, triage, written estimate, payment decision, and follow-up at the regular veterinarian. No dollar amounts are drawn because a line-item emergency fee schedule was not opened.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Emergency path: ask before the next step</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">No exam, imaging, surgery, or hospitalisation fee was on a clinic page opened 26 Sep 2026.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <rect x="36" y="84" width="120" height="64" rx="8" fill="#0F7A4B"/>
+    <text x="96" y="112" text-anchor="middle" fill="#FFFFFF" font-weight="700">Emergency</text>
+    <text x="96" y="130" text-anchor="middle" fill="#FFFFFF" font-size="11">Call a hospital</text>
+    <polygon points="164,116 188,116 188,108 204,116 188,124 188,116" fill="#6B7280"/>
+    <rect x="212" y="84" width="120" height="64" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="272" y="112" text-anchor="middle" font-weight="700">Triage</text>
+    <text x="272" y="130" text-anchor="middle" font-size="11" fill="#6B7280">Stabilise first</text>
+    <polygon points="340,116 364,116 364,108 380,116 364,124 364,116" fill="#6B7280"/>
+    <rect x="388" y="84" width="140" height="64" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="458" y="112" text-anchor="middle" font-weight="700">Written estimate</text>
+    <text x="458" y="130" text-anchor="middle" font-size="11" fill="#6B7280">Next step only</text>
+    <polygon points="536,116 560,116 560,108 576,116 560,124 560,116" fill="#6B7280"/>
+    <rect x="250" y="196" width="220" height="72" rx="8" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+    <text x="360" y="224" text-anchor="middle" font-weight="700">Payment decision</text>
+    <text x="360" y="244" text-anchor="middle" font-size="11" fill="#6B7280">Clinic plan, financing, card, or charity</text>
+    <polygon points="360,276 360,300 352,300 360,316 368,300 360,300" fill="#6B7280"/>
+    <rect x="210" y="324" width="300" height="64" rx="8" fill="#0F7A4B"/>
+    <text x="360" y="350" text-anchor="middle" fill="#FFFFFF" font-weight="700">Follow-up at your regular vet</text>
+    <text x="360" y="370" text-anchor="middle" fill="#FFFFFF" font-size="11">When the emergency hospital says it is safe</text>
+  </g>
+  <text x="24" y="408" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Verify every term. No lender is named.</text>
+</svg>

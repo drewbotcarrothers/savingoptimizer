@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>AAHA canine vaccine timeline with the Ontario rabies start</title>
+  <desc>A timeline for dogs drawn from the 2022 AAHA canine vaccination table: combination doses between 6 and 16 weeks, leptospirosis from 12 weeks, a dose within one year, then three-year combination boosters and annual leptospirosis. Ontario rabies duty starts at three months and follows the certificate date.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Dog vaccine timeline to year 3</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">AAHA 2022 canine table, 2024 leptospirosis note. Ontario rabies from Regulation 567. Not a cat schedule.</text>
+  <line x1="48" y1="200" x2="680" y2="200" stroke="#E5E7EB" stroke-width="3"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+    <circle cx="80" cy="200" r="8" fill="#0F7A4B"/>
+    <text x="80" y="176" text-anchor="middle" font-weight="700">6 weeks</text>
+    <text x="80" y="230" text-anchor="middle">DAP series</text>
+    <text x="80" y="246" text-anchor="middle">can start</text>
+    <circle cx="230" cy="200" r="8" fill="#0F7A4B"/>
+    <text x="230" y="160" text-anchor="middle" font-weight="700">12 weeks</text>
+    <text x="230" y="230" text-anchor="middle">Lepto: dose 1</text>
+    <text x="230" y="246" text-anchor="middle">of two</text>
+    <circle cx="380" cy="200" r="8" fill="#0F7A4B"/>
+    <text x="380" y="176" text-anchor="middle" font-weight="700">3 months</text>
+    <text x="380" y="230" text-anchor="middle">Ontario rabies</text>
+    <text x="380" y="246" text-anchor="middle">duty begins</text>
+    <circle cx="520" cy="200" r="8" fill="#0F7A4B"/>
+    <text x="520" y="160" text-anchor="middle" font-weight="700">16 weeks</text>
+    <text x="520" y="230" text-anchor="middle">At least 3 DAP</text>
+    <text x="520" y="246" text-anchor="middle">doses by here</text>
+    <circle cx="660" cy="200" r="8" fill="#1A1A1A"/>
+    <text x="660" y="176" text-anchor="middle" font-weight="700">Year 1 to 3</text>
+    <text x="660" y="230" text-anchor="middle">DAP about</text>
+    <text x="660" y="246" text-anchor="middle">every 3 years</text>
+  </g>
+  <text x="24" y="290" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Leptospirosis boosters on the AAHA table are annual after the initial series. Rabies follows the certificate, not this drawing.</text>
+  <text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">DAP means distemper, adenovirus, and parvovirus, with or without parainfluenza. Doses are 2 to 4 weeks apart.</text>
+  <text x="24" y="338" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario SPCA lists DA2PP, leptospirosis, and rabies at 33 dollars a dose. That price is not drawn, because dose counts differ.</text>
+  <text x="24" y="362" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Your veterinarian applies the interval. A titre is not, on the CVMA statement, a replacement for vaccination.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Confirm the certificate date for rabies.</text>
+</svg>

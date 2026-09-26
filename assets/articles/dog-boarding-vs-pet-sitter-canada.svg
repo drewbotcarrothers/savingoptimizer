@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Seven-night pet-care totals from dated nightly rates</title>
+  <desc>Bars for seven-night totals: Dogs Reformed mid suite 280 dollars, Rover Toronto boarding 350 dollars, Rover Toronto house sitting about 371 dollars, and Kamp K-9 Mississauga 406 dollars before HST.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Seven nights, before a holiday add-on</text>
+  <text x="24" y="50" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Nightly rate times 7. Kamp K-9 is before HST. Rover house sitting is about 53 dollars times 7.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="24" y="90">Dogs Reformed mid suite, Stoney Creek</text>
+    <rect x="280" y="76" width="261" height="18" fill="#9CA3AF"/>
+    <text x="548" y="90">$280</text>
+    <text x="24" y="126">Rover boarding, Toronto, median</text>
+    <rect x="280" y="112" width="327" height="18" fill="#0F7A4B"/>
+    <text x="560" y="126" fill="#FFFFFF">$350</text>
+    <text x="24" y="162">Rover house sitting, Toronto</text>
+    <rect x="280" y="148" width="346" height="18" fill="#0F7A4B"/>
+    <text x="560" y="162" fill="#FFFFFF">~$371</text>
+    <text x="24" y="198">Kamp K-9, 7-night band, before tax</text>
+    <rect x="280" y="184" width="379" height="18" fill="#9CA3AF"/>
+    <text x="560" y="198" fill="#FFFFFF">$406</text>
+  </g>
+  <text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Scale: 406 dollars = 379 px. 280/406 times 379 is 261 px. 350/406 times 379 is 327 px. 371/406 times 379 is 346 px.</text>
+  <text x="24" y="270" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Rover boarding as of Aug 2025, 50 dollars including service fees. The page also says one week is typically 350 dollars.</text>
+  <text x="24" y="294" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">House sitting as of Jun 2026, about 53 dollars after fees. Do not add the 11 percent booking fee a second time.</text>
+  <text x="24" y="318" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Kamp K-9 prints plus HST. At 13 percent, seven nights are 458.78 dollars. That tax total is not the bar.</text>
+  <text x="24" y="342" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A statutory holiday at Kamp K-9 is 10 dollars plus HST for that day. It is not included above.</text>
+  <text x="24" y="366" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Drop-in visits are 25 dollars median per visit, not per night, so they are not a bar.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Recheck the checkout screen. A median is not your sitter's price.</text>
+</svg>

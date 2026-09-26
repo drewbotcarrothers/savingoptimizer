@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Price per kilogram for one verified dog food, cost per day not computed</title>
+  <desc>A single bar for Kirkland Signature chicken, rice and vegetable dog food at 3.07 dollars per kilogram from a Costco same-day price of 55.60 dollars for 18.14 kilograms. Cost per day for a 25 kilogram dog is marked not computed because kilocalories and a feeding line were not on that page.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Price per kilogram, not cost per day</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Costco same-day, opened 26 Sep 2026. 55.60 divided by 18.14 kg rounds to 3.07 dollars.</text>
+  <line x1="250" y1="80" x2="250" y2="250" stroke="#E5E7EB" stroke-width="1"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="118">Kirkland chicken, rice and vegetable</text>
+    <text x="24" y="136" font-size="12" fill="#6B7280">18.14 kg at 55.60 dollars. Out of stock on that page.</text>
+    <rect x="250" y="108" width="246" height="22" fill="#0F7A4B"/>
+    <text x="504" y="124" fill="#1A1A1A">$3.07/kg</text>
+    <text x="24" y="178">Walmart.ca house brand</text>
+    <rect x="250" y="164" width="8" height="22" fill="#E5E7EB"/>
+    <text x="266" y="180" fill="#6B7280">Page did not load</text>
+    <text x="24" y="218">Pet Valu house brand</text>
+    <rect x="250" y="204" width="8" height="22" fill="#E5E7EB"/>
+    <text x="266" y="220" fill="#6B7280">Page did not load</text>
+    <text x="24" y="258">Cost per day, 25 kg dog</text>
+    <rect x="250" y="244" width="8" height="22" fill="#E5E7EB"/>
+    <text x="266" y="260" fill="#6B7280">Not computed. No kcal or feeding line.</text>
+  </g>
+  <text x="24" y="310" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Bar scale: 5.00 dollars per kg would be 400 px. 3.07 dollars is 246 px. Grey stubs are missing data, not zero prices.</text>
+  <text x="24" y="334" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Cost per day needs cups per day times grams per cup, from the same bag. Those lines were not on the priced listing.</text>
+  <text x="24" y="358" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Province was not named on the same-day listing. The Costco.ca item page said the product was not available.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Recheck the tag. An out-of-stock price is not the next bag.</text>
+</svg>
