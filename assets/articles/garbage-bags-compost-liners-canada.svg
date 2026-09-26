@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Toronto 2026 annual garbage bin fees by size</title>
+  <desc>Horizontal bars of City of Toronto 2026 annual garbage bin fees: small 317.85 dollars, medium 385.86, large 524.06, extra-large 607.86. A garbage tag is 6.81 dollars and is not a bar.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Toronto bin fee for 2026</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Annual rate by bin size. City of Toronto garbage bin fees page, 2026 budget. Smallest bin is green.</text>
+  <line x1="200" y1="80" x2="200" y2="340" stroke="#E5E7EB"/>
+  <line x1="200" y1="340" x2="690" y2="340" stroke="#E5E7EB"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
+    <text x="200" y="356" text-anchor="middle">$0</text>
+    <text x="322" y="356" text-anchor="middle">$200</text>
+    <text x="444" y="356" text-anchor="middle">$400</text>
+    <text x="566" y="356" text-anchor="middle">$600</text>
+    <line x1="322" y1="340" x2="322" y2="346" stroke="#E5E7EB"/>
+    <line x1="444" y1="340" x2="444" y2="346" stroke="#E5E7EB"/>
+    <line x1="566" y1="340" x2="566" y2="346" stroke="#E5E7EB"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="24" y="118">Small, 75 L</text>
+    <rect x="200" y="104" width="191" height="18" fill="#0F7A4B"/>
+    <text x="398" y="118">$317.85</text>
+    <text x="24" y="178">Medium, 120 L</text>
+    <rect x="200" y="164" width="232" height="18" fill="#9CA3AF"/>
+    <text x="440" y="178">$385.86</text>
+    <text x="24" y="238">Large, 240 L</text>
+    <rect x="200" y="224" width="314" height="18" fill="#D1D5DB"/>
+    <text x="522" y="238">$524.06</text>
+    <text x="24" y="298">Extra-large, 360 L</text>
+    <rect x="200" y="284" width="365" height="18" fill="#D1D5DB"/>
+    <text x="572" y="298">$607.86</text>
+  </g>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: 0.60 px per dollar. A garbage tag is $6.81 and is not drawn. Checked 26 Sep 2026.</text>
+</svg>

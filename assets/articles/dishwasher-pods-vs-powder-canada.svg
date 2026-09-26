@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Cents per dishwasher wash from a Costco East list</title>
+  <desc>Horizontal bars of cents per wash for five dishwasher detergents on the Costco East cleaning list posted 10 June 2026. Kirkland Ultra Shine pacs are the lowest at 13.90 cents. Powder and gel prices were not on that list.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Cents per wash, one dated list</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Price divided by count. Costco East list posted 10 Jun 2026. Lowest bar is green.</text>
+  <line x1="250" y1="78" x2="250" y2="360" stroke="#E5E7EB"/>
+  <line x1="250" y1="360" x2="690" y2="360" stroke="#E5E7EB"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
+    <text x="250" y="376" text-anchor="middle">0</text>
+    <text x="370" y="376" text-anchor="middle">10 cents</text>
+    <text x="490" y="376" text-anchor="middle">20 cents</text>
+    <text x="610" y="376" text-anchor="middle">30 cents</text>
+    <line x1="370" y1="360" x2="370" y2="366" stroke="#E5E7EB"/>
+    <line x1="490" y1="360" x2="490" y2="366" stroke="#E5E7EB"/>
+    <line x1="610" y1="360" x2="610" y2="366" stroke="#E5E7EB"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="24" y="112">Kirkland Ultra Shine, 115</text>
+    <rect x="250" y="98" width="167" height="18" fill="#0F7A4B"/>
+    <text x="424" y="112">13.90 cents</text>
+    <text x="24" y="162">Finish Powerball, 176</text>
+    <rect x="250" y="148" width="184" height="18" fill="#9CA3AF"/>
+    <text x="442" y="162">15.34 cents</text>
+    <text x="24" y="212">Cascade Power Clean, 115</text>
+    <rect x="250" y="198" width="209" height="18" fill="#D1D5DB"/>
+    <text x="466" y="212">17.38 cents</text>
+    <text x="24" y="262">Finish Quantum+, 96</text>
+    <rect x="250" y="248" width="300" height="18" fill="#D1D5DB"/>
+    <text x="558" y="262">24.99 cents</text>
+    <text x="24" y="312">Cascade Platinum Plus, 81</text>
+    <rect x="250" y="298" width="444" height="18" fill="#D1D5DB"/>
+    <text x="500" y="312" fill="#1A1A1A">37.02 cents</text>
+  </g>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: 12 px per cent. Two Cascade and Finish rows include instant savings the list said had expiry dates. Checked 26 Sep 2026.</text>
+</svg>

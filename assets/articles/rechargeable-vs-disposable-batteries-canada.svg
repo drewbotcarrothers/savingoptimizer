@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Call2Recycle environmental handling fee per single-use AA battery</title>
+  <desc>Horizontal bars of the single-use AA environmental handling fee effective 1 July 2026 on Call2Recycle's schedule that excludes Ontario. Manitoba is 4 cents. Yukon is 10 cents. A shelf-price break-even is not drawn because pack prices did not load.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Fee per single-use AA, 1 July 2026</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Call2Recycle schedule. Ontario is not in this table. Lowest fee is green. This is not a pack price.</text>
+  <line x1="70" y1="68" x2="70" y2="360" stroke="#E5E7EB"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <text x="24" y="92">MB</text>
+    <rect x="70" y="78" width="160" height="16" fill="#0F7A4B"/>
+    <text x="236" y="91">4 cents</text>
+    <text x="24" y="122">NS</text>
+    <rect x="70" y="108" width="200" height="16" fill="#9CA3AF"/>
+    <text x="276" y="121">5 cents</text>
+    <text x="24" y="152">NB</text>
+    <rect x="70" y="138" width="200" height="16" fill="#9CA3AF"/>
+    <text x="276" y="151">5 cents</text>
+    <text x="24" y="182">BC</text>
+    <rect x="70" y="168" width="240" height="16" fill="#D1D5DB"/>
+    <text x="316" y="181">6 cents</text>
+    <text x="24" y="212">SK</text>
+    <rect x="70" y="198" width="240" height="16" fill="#D1D5DB"/>
+    <text x="316" y="211">6 cents</text>
+    <text x="24" y="242">QC</text>
+    <rect x="70" y="228" width="240" height="16" fill="#D1D5DB"/>
+    <text x="316" y="241">6 cents</text>
+    <text x="24" y="272">PEI</text>
+    <rect x="70" y="258" width="240" height="16" fill="#D1D5DB"/>
+    <text x="316" y="271">6 cents</text>
+    <text x="24" y="302">AB</text>
+    <rect x="70" y="288" width="280" height="16" fill="#D1D5DB"/>
+    <text x="356" y="301">7 cents</text>
+    <text x="24" y="332">YT</text>
+    <rect x="70" y="318" width="400" height="16" fill="#D1D5DB"/>
+    <text x="478" y="331">10 cents</text>
+  </g>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: 40 px per cent. Sellers may show the fee or hide it. Saving Optimizer, 26 Sep 2026.</text>
+</svg>
