@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative washer plus Best Buy fees and a B.C. MARR fee</title>
+  <desc>An illustrative 800 dollar sticker, Best Buy scheduled delivery of 79.99 dollars, Best Buy haul-away of 29.99 dollars, and a 5 dollar MARR clothes-washer fee. The total is 914.98 dollars. Stacking installation is not included.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One washer, out the door, before tax</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative $800 sticker. Best Buy non-Quebec rates. B.C. MARR washer fee. 26 Sep 2026.</text>
+  <line x1="36" y1="214" x2="685" y2="214" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="36" y="150" width="567" height="64" fill="#1A1A1A"/>
+  <rect x="603" y="150" width="57" height="64" fill="#0F7A4B"/>
+  <rect x="660" y="150" width="21" height="64" fill="#0B5C38"/>
+  <rect x="681" y="150" width="4" height="64" fill="#6B7280"/>
+  <text x="250" y="188" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Sticker $800</text>
+  <text x="608" y="140" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">$79.99</text>
+  <text x="640" y="248" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0B5C38">$29.99</text>
+  <line x1="685" y1="150" x2="685" y2="118" stroke="#6B7280" stroke-width="1"/>
+  <text x="560" y="110" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">MARR $5</text>
+  <text x="36" y="250" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Delivery</text>
+  <rect x="100" y="238" width="14" height="14" fill="#0F7A4B"/>
+  <text x="180" y="250" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Haul-away</text>
+  <rect x="260" y="238" width="14" height="14" fill="#0B5C38"/>
+  <text x="290" y="250" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">B.C. MARR</text>
+  <rect x="360" y="238" width="14" height="14" fill="#6B7280"/>
+  <text x="36" y="278" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">B.C. address. Quebec delivery and haul-away are $0 on these Best Buy pages.</text>
+  <text x="24" y="308" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#1A1A1A">Add-ons: $79.99 + $29.99 + $5 = $114.98. With the illustrative sticker: $914.98.</text>
+  <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Best Buy stacking or a pedestal starts at $199.99 and is not in this stack.</text>
+  <text x="24" y="366" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">The $800 is not a live model. Swap in the sticker you are actually buying.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: Best Buy delivery and haul-away help pages. MARR products page, fees effective 1 Apr 2025.</text>
+</svg>

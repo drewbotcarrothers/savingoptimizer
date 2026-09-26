@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative furniture cost per year</title>
+  <desc>Three illustrative scenarios. Flat-pack is 29.80 dollars a year using a 120 dollar shelf price, IKEA Family doorstep starting at 29 dollars, and 5 years. Used wood is 16.67 dollars a year using a 200 dollar price, a 50 dollar pickup, and 15 years. Mid-range new is 90 dollars a year using 900 dollars over 10 years. Item prices, pickup, and years are illustrative. The 29 dollars is IKEA's published starting fee.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Illustrative cost per year</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Only the $29 IKEA Family doorstep starting fee is a verified input. 26 Sep 2026.</text>
+  <line x1="80" y1="300" x2="680" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="80" y1="212" x2="680" y2="212" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="80" y1="124" x2="680" y2="124" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="24" y="304" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$0</text>
+  <text x="24" y="216" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$50</text>
+  <text x="24" y="128" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$100</text>
+  <rect x="140" y="248" width="100" height="52" rx="4" fill="#0F7A4B"/>
+  <text x="158" y="238" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$29.80</text>
+  <text x="152" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Flat-pack</text>
+  <text x="148" y="342" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$120+$29 / 5 yr</text>
+  <rect x="320" y="271" width="100" height="29" rx="4" fill="#0F7A4B"/>
+  <text x="342" y="262" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">$16.67</text>
+  <text x="318" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Used wood</text>
+  <text x="310" y="342" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$200+$50 / 15 yr</text>
+  <rect x="500" y="142" width="100" height="158" rx="4" fill="#1A1A1A"/>
+  <text x="522" y="132" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$90</text>
+  <text x="498" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Mid-range</text>
+  <text x="508" y="342" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$900 / 10 yr</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Change the price or the years and the winner changes. The $29 is a starting fee, not your invoice.</text>
+  <text x="24" y="402" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">IKEA Canada delivery page. Item prices, the $50 pickup, and the year counts are illustrative.</text>
+</svg>
