@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Mattress trial lengths in nights</title>
+  <desc>Endy, Douglas, and Silk and Snow show 365-night trials. IKEA shows 90 days. A marker at 21 nights is Douglas's minimum on its sleep-trial page. A marker at 30 nights is Silk and Snow's minimum. Endy's trial page states no minimum.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Trial length in nights</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Brand pages checked 26 Sep 2026. Markers are minimum nights, not a second trial.</text>
+  <line x1="160" y1="80" x2="160" y2="320" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="297" y1="80" x2="297" y2="320" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="434" y1="80" x2="434" y2="320" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="571" y1="80" x2="571" y2="320" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="660" y1="80" x2="660" y2="320" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="150" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">0</text>
+  <text x="280" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">100</text>
+  <text x="416" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">200</text>
+  <text x="554" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">300</text>
+  <text x="646" y="340" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">365</text>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Endy</text>
+  <rect x="160" y="100" width="500" height="26" rx="4" fill="#0F7A4B"/>
+  <text x="24" y="178" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Douglas</text>
+  <rect x="160" y="160" width="500" height="26" rx="4" fill="#0F7A4B"/>
+  <line x1="189" y1="154" x2="189" y2="192" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="24" y="238" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Silk &amp; Snow</text>
+  <rect x="160" y="220" width="500" height="26" rx="4" fill="#0F7A4B"/>
+  <line x1="201" y1="214" x2="201" y2="252" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="24" y="298" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">IKEA</text>
+  <rect x="160" y="280" width="123" height="26" rx="4" fill="#1A1A1A"/>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Black ticks: Douglas 21 nights, Silk &amp; Snow 30 nights. Endy states no minimum. IKEA is 90 days.</text>
+  <text x="24" y="402" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Another Douglas page says night 30. Costco and Walmart have no single night-count, so they are not bars.</text>
+</svg>
