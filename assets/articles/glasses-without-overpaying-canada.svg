@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative glasses cost-stack template by channel</title>
+  <desc>Three equal-height stacks labelled clinic, warehouse optical, and online. Each stack is split into frame, lens, and coatings. No dollar amounts are shown because no shelf price was verified.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ask for three lines, not one total</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative template. Equal heights are not prices and not a ranking. 26 Sep 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF" text-anchor="middle">
+    <rect x="80" y="90" width="140" height="70" fill="#6B7280"/>
+    <text x="150" y="130">Coatings</text>
+    <rect x="80" y="160" width="140" height="80" fill="#1A1A1A"/>
+    <text x="150" y="206">Lens</text>
+    <rect x="80" y="240" width="140" height="70" fill="#0F7A4B"/>
+    <text x="150" y="280">Frame</text>
+    <rect x="290" y="90" width="140" height="70" fill="#6B7280"/>
+    <text x="360" y="130">Coatings</text>
+    <rect x="290" y="160" width="140" height="80" fill="#1A1A1A"/>
+    <text x="360" y="206">Lens</text>
+    <rect x="290" y="240" width="140" height="70" fill="#0F7A4B"/>
+    <text x="360" y="280">Frame</text>
+    <rect x="500" y="90" width="140" height="70" fill="#6B7280"/>
+    <text x="570" y="130">Coatings</text>
+    <rect x="500" y="160" width="140" height="80" fill="#1A1A1A"/>
+    <text x="570" y="206">Lens</text>
+    <rect x="500" y="240" width="140" height="70" fill="#0F7A4B"/>
+    <text x="570" y="280">Frame</text>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A" text-anchor="middle">
+    <text x="150" y="340">Clinic dispensary</text>
+    <text x="360" y="340">Warehouse optical</text>
+    <text x="570" y="340">Online, ships to Canada</text>
+  </g>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Progressives, pupillary distance, and segment height are extra questions, not extra bars.</text>
+  <text x="24" y="398" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No clinic, Costco Optical, or online price was opened. Write your quotes beside these labels.</text>
+
+</svg>

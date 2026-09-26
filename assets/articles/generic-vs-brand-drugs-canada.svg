@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>pCPA generic price tiers as a percentage of the brand reference price</title>
+  <desc>Bars show pan-Canadian tiered pricing framework price points: brand reference at 100, a single-source generic at 55 after three months when a pricing agreement exists, a dual-source generic at 50, and a multi-source oral solid at 25.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Public-plan price index, not your receipt</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">pCPA tiered pricing framework, as a percent of the brand reference price. 26 Sep 2026.</text>
+  <line x1="64" y1="300" x2="690" y2="300" stroke="#E5E7EB"/>
+  <rect x="90" y="80" width="100" height="220" fill="#6B7280"/>
+  <rect x="240" y="179" width="100" height="121" fill="#0F7A4B"/>
+  <rect x="390" y="190" width="100" height="110" fill="#0F7A4B"/>
+  <rect x="540" y="245" width="100" height="55" fill="#0F7A4B"/>
+  <g font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A" text-anchor="middle">
+    <text x="140" y="72">100</text>
+    <text x="290" y="171">55</text>
+    <text x="440" y="182">50</text>
+    <text x="590" y="237">25</text>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">
+    <text x="140" y="324">Brand</text>
+    <text x="140" y="342">reference</text>
+    <text x="290" y="324">Single source</text>
+    <text x="290" y="342">after 3 months</text>
+    <text x="440" y="324">Dual source</text>
+    <text x="440" y="342">two makers</text>
+    <text x="590" y="324">Multi-source</text>
+    <text x="590" y="342">oral solid</text>
+  </g>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Single source with no past pricing agreement can be 85, not 55. Non-oral multi-source is 35, not 25.</text>
+  <text x="24" y="398" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">These are framework price points for participating public plans. A cash receipt can differ.</text>
+
+</svg>
