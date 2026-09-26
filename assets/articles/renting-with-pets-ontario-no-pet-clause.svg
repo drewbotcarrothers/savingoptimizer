@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Reading order when an Ontario landlord objects to a pet</title>
+  <desc>Flow chart. Start when a landlord objects. If the only objection is a no-pet clause in the tenancy agreement, Residential Tenancies Act section 14 makes that clause void, where the Act applies. A condo declaration, by-law, or rule is a separate document and can restrict pets. An application grounded on the animal under section 76 uses a notice under section 64, 65, or 66, and the Board must be satisfied. Damage notices are sections 62 and 63. The Landlord and Tenant Board decides. This chart is not a ruling.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">If a landlord objects, read in this order</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario only. Not a Board order. Checked 26 Sep 2026.</text>
+  <rect x="150" y="62" width="420" height="40" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="360" y="87" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Landlord objects to the pet</text>
+  <line x1="360" y1="102" x2="360" y2="118" stroke="#6B7280"/>
+  <rect x="70" y="118" width="580" height="48" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+  <text x="360" y="138" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Lease clause only? RTA s.14: that no-pet provision is void</text>
+  <text x="360" y="156" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Only if the Act applies. Shared kitchen or bathroom with the owner can be s.5.</text>
+  <line x1="360" y1="166" x2="360" y2="182" stroke="#6B7280"/>
+  <rect x="70" y="182" width="580" height="48" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+  <text x="360" y="202" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Condo declaration, by-law, or rule? Read it. s.14 does not erase it.</text>
+  <text x="360" y="220" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">CAO guide: those documents may limit pets. The tribunal is a separate filing.</text>
+  <line x1="360" y1="230" x2="360" y2="246" stroke="#6B7280"/>
+  <rect x="70" y="246" width="580" height="48" rx="6" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+  <text x="360" y="266" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Notice under s.64, s.65, or s.66, grounded on the animal?</text>
+  <text x="360" y="284" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">s.76: the Board must be satisfied. Damage notices are s.62 and s.63.</text>
+  <line x1="360" y1="294" x2="360" y2="310" stroke="#6B7280"/>
+  <rect x="150" y="310" width="420" height="40" rx="6" fill="#0F7A4B"/>
+  <text x="360" y="335" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">The Landlord and Tenant Board decides</text>
+  <text x="24" y="376" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A yes in one box does not answer the next box. A pet deposit is not on this chart. It is s.105 and s.106, not a second deposit.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Education only. Confirm with the statute and the Board.</text>
+</svg>

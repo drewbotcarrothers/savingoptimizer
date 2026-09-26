@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative senior-pet buffer over 24 months</title>
+  <desc>Two straight lines of illustrative savings. One reaches 305 dollars at month 24, which is Toronto Humane Society consult 85 dollars plus procedure 100 dollars plus canine communal cremation 120 dollars, with no HST. The other reaches 610 dollars at month 24, the Mobile Hospice Vet in-home starting price before tax and before aftercare. Monthly amounts are 12.71 dollars and 25.42 dollars. Not a prepaid plan.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">A buffer, not a prepaid goodbye</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Illustrative. Divide one published total by 24 months. Do not add the lines together.</text>
+  <line x1="90" y1="80" x2="660" y2="80" stroke="#E5E7EB"/>
+  <line x1="90" y1="180" x2="660" y2="180" stroke="#E5E7EB"/>
+  <line x1="90" y1="280" x2="660" y2="280" stroke="#E5E7EB"/>
+  <text x="28" y="84" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$610</text>
+  <text x="28" y="184" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$305</text>
+  <text x="48" y="284" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$0</text>
+  <polyline fill="none" stroke="#6B7280" stroke-width="2.5" points="90,280 375,180 660,80"/>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="2.5" points="90,280 375,230 660,180"/>
+  <circle cx="660" cy="80" r="4" fill="#6B7280"/>
+  <circle cx="660" cy="180" r="4" fill="#0F7A4B"/>
+  <text x="90" y="304" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Month 0</text>
+  <text x="350" y="304" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">12</text>
+  <text x="630" y="304" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">24</text>
+  <text x="470" y="168" font-family="Inter, Arial, sans-serif" font-size="12" fill="#0F7A4B">Clinic path, $305 ($12.71/mo)</text>
+  <text x="400" y="70" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Home start, $610 ($25.42/mo)</text>
+  <text x="24" y="340" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Green: THS standard dog total, prices effective 11 Nov 2025, no HST, communal ashes not returned.</text>
+  <text x="24" y="360" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Grey: Mobile Hospice Vet starting price, before 13 percent HST and before cremation. Aftercare is a separate row.</text>
+  <text x="24" y="380" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Over 12 months the same totals are $25.42 and $50.83 a month. Bridging prices are lower and are not drawn.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. If you need help now, call or text 9-8-8.</text>
+</svg>
