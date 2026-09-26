@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>What to do when a clinic asks you to pay</title>
+  <desc>A five-step path. Ask whether the service is insured. If it is uninsured, ask whether the fee was disclosed before the service. A block fee is optional, lasts 3 to 12 months, and pay-per-service must still be offered. You have a week to change your mind and get the block fee back. Concerns about an Ontario physician go to the College of Physicians and Surgeons of Ontario. No dollar amounts are shown because no official fee list was opened.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Asked to pay? Walk this before you do</text>
+  <text x="24" y="50" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CPSO policy and Ontario ESA guide. No fee amounts. Checked 26 Sep 2026.</text>
+  <rect x="210" y="68" width="300" height="40" rx="6" fill="#0F7A4B"/>
+  <text x="360" y="93" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">1. Asked to pay</text>
+  <line x1="360" y1="108" x2="360" y2="122" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="160" y="122" width="400" height="40" rx="6" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="360" y="147" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">2. Is it an insured service? If yes, a fee for it is the issue.</text>
+  <line x1="360" y1="162" x2="360" y2="176" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="140" y="176" width="440" height="40" rx="6" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="360" y="201" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">3. Was the uninsured fee disclosed before the service?</text>
+  <line x1="360" y1="216" x2="360" y2="230" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="110" y="230" width="500" height="48" rx="6" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="360" y="250" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">4. Block fee? Optional. 3 to 12 months. Pay-per-service must exist.</text>
+  <text x="360" y="268" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">One week to rescind, then a refund before itemized charges.</text>
+  <line x1="360" y1="278" x2="360" y2="292" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="130" y="292" width="460" height="40" rx="6" fill="#1A1A1A"/>
+  <text x="360" y="317" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">5. Concern: the college named on the invoice</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Ontario ESA sick leave: up to 3 unpaid days. Since 28 Oct 2024 a medical note cannot be required for that leave.</text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A greater contract can replace the ESA standard. Accommodation notes are a different request. Not legal advice.</text>
+</svg>

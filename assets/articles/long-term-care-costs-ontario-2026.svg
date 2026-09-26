@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Ontario long-term care monthly co-payments by room type</title>
+  <desc>Maximum monthly co-payments effective 1 July 2026. Long-stay basic is $2,129.17. Long-stay semi-private is $2,567.17. Long-stay private is $3,041.97. The rate reduction applies to basic accommodation, not to regular semi-private or private rooms. Care level does not change with the room.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Monthly co-payment, effective 1 July 2026</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">ontario.ca maximums. Same care in every room. Checked 26 Sep 2026.</text>
+  <line x1="80" y1="300" x2="680" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="80" y1="80" x2="680" y2="80" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="80" y1="190" x2="680" y2="190" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="72" y="84" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$3,042</text>
+  <text x="72" y="194" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$1,521</text>
+  <text x="72" y="304" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$0</text>
+  <rect x="140" y="146" width="110" height="154" fill="#0F7A4B"/>
+  <text x="195" y="168" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$2,129.17</text>
+  <text x="195" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Basic</text>
+  <text x="195" y="342" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$70.00 a day</text>
+  <rect x="310" y="114" width="110" height="186" fill="#0F7A4B"/>
+  <text x="365" y="150" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$2,567.17</text>
+  <text x="365" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Semi-private</text>
+  <text x="365" y="342" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$84.40 a day</text>
+  <rect x="480" y="80" width="110" height="220" fill="#0F7A4B"/>
+  <text x="535" y="120" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$3,041.97</text>
+  <text x="535" y="324" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Private</text>
+  <text x="535" y="342" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$100.01 a day</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Rate reduction is for basic rooms, and for some redesignated two-bed rooms. Not regular semi-private or private.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Short-stay is $45.31 a day, with no monthly rate on the same table. Retirement-home prices are not on this chart.</text>
+</svg>

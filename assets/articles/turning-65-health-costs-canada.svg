@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Tasks from three months before a 65th birthday to three months after</title>
+  <desc>A seven-step Ontario-first timeline. About three months before 65, read the Ontario Drug Benefit letter and apply for the Seniors Co-Payment Program if income fits. Before the birthday, confirm the drug list and, in Quebec, contact RAMQ if choosing a private plan only. On the first day of the next month, confirm coverage at an Ontario pharmacy before cancelling a retiree drug plan. In the following months, compare dental programs, book the eye-exam interval that applies, and apply to the Assistive Devices Program before buying a hearing aid.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">65th-birthday health tasks, Ontario first</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Apply, confirm, cancel, compare. Dates from ontario.ca and RAMQ, checked 26 Sep 2026.</text>
+  <line x1="36" y1="118" x2="684" y2="118" stroke="#E5E7EB" stroke-width="4"/>
+  <circle cx="48" cy="118" r="8" fill="#0F7A4B"/>
+  <circle cx="156" cy="118" r="8" fill="#0F7A4B"/>
+  <circle cx="264" cy="118" r="8" fill="#0F7A4B"/>
+  <circle cx="372" cy="118" r="8" fill="#1A1A1A"/>
+  <circle cx="480" cy="118" r="8" fill="#0F7A4B"/>
+  <circle cx="588" cy="118" r="8" fill="#0F7A4B"/>
+  <circle cx="684" cy="118" r="8" fill="#0F7A4B"/>
+  <text x="48" y="88" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#0F7A4B">-3 months</text>
+  <text x="156" y="88" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#0F7A4B">-1 month</text>
+  <text x="264" y="88" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#0F7A4B">Before 65</text>
+  <text x="372" y="88" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">Start date</text>
+  <text x="480" y="88" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#0F7A4B">+1 month</text>
+  <text x="588" y="88" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#0F7A4B">+2 months</text>
+  <text x="684" y="88" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#0F7A4B">+3 months</text>
+  <text x="48" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Apply</text>
+  <text x="48" y="164" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">ODB letter.</text>
+  <text x="48" y="178" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">SCP if income</text>
+  <text x="48" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">fits.</text>
+  <text x="156" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Confirm</text>
+  <text x="156" y="164" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">Formulary</text>
+  <text x="156" y="178" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">with the</text>
+  <text x="156" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">pharmacist.</text>
+  <text x="264" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Compare</text>
+  <text x="264" y="164" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">Quebec:</text>
+  <text x="264" y="178" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">call RAMQ if</text>
+  <text x="264" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">private only.</text>
+  <text x="372" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Confirm</text>
+  <text x="372" y="164" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">Ontario: 1st</text>
+  <text x="372" y="178" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">of the month</text>
+  <text x="372" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">after 65.</text>
+  <text x="480" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Cancel</text>
+  <text x="480" y="164" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">Retiree drugs</text>
+  <text x="480" y="178" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">only after the</text>
+  <text x="480" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">start date.</text>
+  <text x="588" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Apply</text>
+  <text x="588" y="164" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">CDCP and</text>
+  <text x="588" y="178" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">OSDCP if</text>
+  <text x="588" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">you qualify.</text>
+  <text x="684" y="148" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#1A1A1A">Compare</text>
+  <text x="684" y="164" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">Eye interval.</text>
+  <text x="684" y="178" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">ADP before</text>
+  <text x="684" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#6B7280">a hearing aid.</text>
+  <text x="24" y="240" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Ontario Drug Benefit does not start on the birthday. It starts on the first day of the next month.</text>
+  <text x="24" y="262" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">A June birthday has an $8.33 first-year deductible. A July birthday has the full $100.</text>
+  <text x="24" y="284" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Hearing-aid help through the Assistive Devices Program is not an age-65 switch. Apply before you buy.</text>
+  <text x="24" y="320" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Seniors Co-Payment Program can be filed up to 3 months before 65. It is an application, not automatic.</text>
+  <text x="24" y="342" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Fair PharmaCare in B.C. is income-based at any adult age. It is not this timeline.</text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Confirm with the program, your pharmacist, and the CRA where tax is involved.</text>
+</svg>
