@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Snowbird dog paperwork timeline</title>
+  <desc>Planning order, not a CDC deadline. Eight weeks: age, microchip scan, rabies dates. Four weeks: free CDC Dog Import Form. One week: receipt on the phone and any airline health-certificate request. Border day: receipt, healthy dog, chip, declare to CBP. Return to Canada: CFIA rabies certificate. Checked 26 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Planning order for a dog that has stayed in Canada</text>
+  <text x="24" y="56" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Not a legal deadline. CDC says the form may be completed on the day of travel. 26 Sep 2026.</text>
+  <line x1="70" y1="110" x2="650" y2="110" stroke="#E5E7EB" stroke-width="4"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <circle cx="70" cy="110" r="10" fill="#0F7A4B"/>
+    <text x="70" y="90" text-anchor="middle" font-weight="700">8 weeks</text>
+    <text x="70" y="150" text-anchor="middle" font-size="11" fill="#6B7280">Age 6 months</text>
+    <text x="70" y="166" text-anchor="middle" font-size="11" fill="#6B7280">Scan the chip</text>
+    <text x="70" y="182" text-anchor="middle" font-size="11" fill="#6B7280">Rabies dates</text>
+    <circle cx="215" cy="110" r="10" fill="#0F7A4B"/>
+    <text x="215" y="90" text-anchor="middle" font-weight="700">4 weeks</text>
+    <text x="215" y="150" text-anchor="middle" font-size="11" fill="#6B7280">Free CDC form</text>
+    <text x="215" y="166" text-anchor="middle" font-size="11" fill="#6B7280">Save receipt</text>
+    <text x="215" y="182" text-anchor="middle" font-size="11" fill="#6B7280">6-month life</text>
+    <circle cx="360" cy="110" r="10" fill="#0F7A4B"/>
+    <text x="360" y="90" text-anchor="middle" font-weight="700">1 week</text>
+    <text x="360" y="150" text-anchor="middle" font-size="11" fill="#6B7280">Phone and paper</text>
+    <text x="360" y="166" text-anchor="middle" font-size="11" fill="#6B7280">Ask the airline</text>
+    <text x="360" y="182" text-anchor="middle" font-size="11" fill="#6B7280">Vet quote if needed</text>
+    <circle cx="505" cy="110" r="10" fill="#0F7A4B"/>
+    <text x="505" y="90" text-anchor="middle" font-weight="700">Border day</text>
+    <text x="505" y="150" text-anchor="middle" font-size="11" fill="#6B7280">Receipt</text>
+    <text x="505" y="166" text-anchor="middle" font-size="11" fill="#6B7280">Healthy, chip scans</text>
+    <text x="505" y="182" text-anchor="middle" font-size="11" fill="#6B7280">Declare to CBP</text>
+    <circle cx="650" cy="110" r="10" fill="#1A1A1A"/>
+    <text x="650" y="90" text-anchor="middle" font-weight="700">Return</text>
+    <text x="650" y="150" text-anchor="middle" font-size="11" fill="#6B7280">CFIA rabies</text>
+    <text x="650" y="166" text-anchor="middle" font-size="11" fill="#6B7280">certificate</text>
+    <text x="650" y="182" text-anchor="middle" font-size="11" fill="#6B7280">English or French</text>
+  </g>
+  <text x="24" y="250" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">What the pages actually require</text>
+  <text x="24" y="278" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">U.S. low-risk path (CDC, 22 Jul 2024): form receipt, healthy, at least 6 months old, universal-scanner microchip. Form is free.</text>
+  <text x="24" y="300" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Canada return (CFIA reference, amended 8 Oct 2025): rabies certificate for a dog over 3 months from a non-designated country.</text>
+  <text x="24" y="322" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Airlines may still want a health certificate (CBP page, modified 8 Jun 2026). That fee is a vet quote, not a published price.</text>
+  <text x="24" y="390" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Green dots are preparation. The black dot is the Canadian border. A second U.S. entry needs an unexpired receipt.</text>
+
+</svg>

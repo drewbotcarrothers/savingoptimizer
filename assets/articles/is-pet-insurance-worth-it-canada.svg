@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative cumulative pet insurance premiums versus savings</title>
+  <desc>Line chart. Cumulative dog accident-and-illness premiums starting at 1176 Canadian dollars if the 2025 increase of 9.9 percent repeated for ten years, versus depositing 1176 dollars a year with no interest. Labelled illustrative. Not a forecast. Checked 26 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative 10-year dog premium vs saving the first year</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Starts at the 2025 average of $1,176. The 9.9 percent rise is repeated only as an illustration. No interest on savings.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <line x1="24" y1="78" x2="48" y2="78" stroke="#0F7A4B" stroke-width="3"/>
+    <text x="54" y="82">Cumulative premiums if 9.9 percent repeats</text>
+    <line x1="360" y1="78" x2="384" y2="78" stroke="#6B7280" stroke-width="3"/>
+    <text x="390" y="82">Savings at $1,176 a year, no interest</text>
+  </g>
+  <line x1="80" y1="100" x2="80" y2="340" stroke="#E5E7EB"/>
+  <line x1="80" y1="340" x2="660" y2="340" stroke="#E5E7EB"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
+    <text x="74" y="344" text-anchor="end">$0</text>
+    <text x="74" y="224" text-anchor="end">$10k</text>
+    <text x="74" y="104" text-anchor="end">$20k</text>
+    <line x1="80" y1="220" x2="660" y2="220" stroke="#E5E7EB"/>
+    <line x1="80" y1="100" x2="660" y2="100" stroke="#E5E7EB"/>
+    <text x="80.0" y="358" text-anchor="middle">1</text>
+    <text x="142.2" y="358" text-anchor="middle">2</text>
+    <text x="204.4" y="358" text-anchor="middle">3</text>
+    <text x="266.7" y="358" text-anchor="middle">4</text>
+    <text x="328.9" y="358" text-anchor="middle">5</text>
+    <text x="391.1" y="358" text-anchor="middle">6</text>
+    <text x="453.3" y="358" text-anchor="middle">7</text>
+    <text x="515.6" y="358" text-anchor="middle">8</text>
+    <text x="577.8" y="358" text-anchor="middle">9</text>
+    <text x="640.0" y="358" text-anchor="middle">10</text>
+    <text x="370" y="376" text-anchor="middle">Year</text>
+  </g>
+  <polyline fill="none" stroke="#6B7280" stroke-width="3" points="80.0,325.9 142.2,311.8 204.4,297.7 266.7,283.6 328.9,269.4 391.1,255.3 453.3,241.2 515.6,227.1 577.8,213.0 640.0,198.9"/>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="80.0,325.9 142.2,310.4 204.4,293.3 266.7,274.6 328.9,254.0 391.1,231.4 453.3,206.5 515.6,179.2 577.8,149.2 640.0,116.2"/>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Year 10 illustration: premiums about $18,653, savings $11,760. Not a forecast. Cat average is not drawn. 26 Sep 2026.</text>
+
+</svg>

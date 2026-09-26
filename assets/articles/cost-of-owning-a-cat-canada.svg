@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>OVMA 2025 kitten and adult cat costs by category</title>
+  <desc>Stacked bars from the Ontario Veterinary Medical Association 2025 feline PDF. Kitten bar uses the neuter line and category sums of 1922, 718, 568, and 719 dollars, totalling 3927. The sheet prints 3928. Adult sums 1905, 773, 330, and 719, totalling 3727. The sheet prints 3726. A sitter is not included.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">OVMA 2025 feline sheet, category sums</text>
+  <text x="24" y="56" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Scale: 460 px equals $4,500. Kitten bar is the neuter path. 26 Sep 2026.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <rect x="24" y="78" width="12" height="12" fill="#0F7A4B"/>
+    <text x="40" y="89">Veterinary care</text>
+    <rect x="170" y="78" width="12" height="12" fill="#6B7280"/>
+    <text x="186" y="89">Food and bowls</text>
+    <rect x="310" y="78" width="12" height="12" fill="#E5E7EB" stroke="#6B7280"/>
+    <text x="326" y="89">Supplies</text>
+    <rect x="420" y="78" width="12" height="12" fill="#1A1A1A"/>
+    <text x="436" y="89">Other, including insurance estimate</text>
+  </g>
+  <text x="24" y="150" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Kitten, neuter path</text>
+  <text x="24" y="166" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Sheet prints $3,928</text>
+  <rect x="200.0" y="136" width="196.5" height="22" fill="#0F7A4B"/>
+  <rect x="396.5" y="136" width="73.4" height="22" fill="#6B7280"/>
+  <rect x="469.9" y="136" width="58.1" height="22" fill="#E5E7EB"/>
+  <rect x="527.9" y="136" width="73.5" height="22" fill="#1A1A1A"/>
+  <text x="609.4" y="150" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$3,927</text>
+  <text x="24" y="230" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Adult cat</text>
+  <text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Sheet prints $3,726</text>
+  <rect x="200.0" y="216" width="194.7" height="22" fill="#0F7A4B"/>
+  <rect x="394.7" y="216" width="79.0" height="22" fill="#6B7280"/>
+  <rect x="473.8" y="216" width="33.7" height="22" fill="#E5E7EB"/>
+  <rect x="507.5" y="216" width="73.5" height="22" fill="#1A1A1A"/>
+  <text x="589.0" y="230" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$3,727</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Dental care, $1,320, sits inside the adult green segment. Insurance estimate $704 is inside the black segment. Not an indoor discount.</text>
+</svg>

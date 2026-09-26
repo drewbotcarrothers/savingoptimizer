@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative pet food cost per day at two prices</title>
+  <desc>Illustrative bars. At 3500 kilocalories per kilogram, five dollars per kilogram costs 0.71, 1.43, 2.14, and 0.36 dollars a day for round daily intakes of 500, 1000, 1500, and 250 kilocalories. Ten dollars per kilogram doubles those amounts. Not a retailer price and not a feeding guide. 26 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative cost per day, not a shelf price</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">3,500 kcal/kg. Green is $5/kg. Grey is $10/kg. Daily kcal are 500, 1,000, 1,500, and 250. Not feeding guides.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <rect x="24" y="70" width="12" height="12" fill="#0F7A4B"/>
+    <text x="40" y="81">$5 per kg, illustrative</text>
+    <rect x="220" y="70" width="12" height="12" fill="#6B7280"/>
+    <text x="236" y="81">$10 per kg, illustrative</text>
+  </g>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="24" y="130" font-size="13" fill="#1A1A1A">10 kg dog</text>
+    <rect x="140" y="114" width="56.8" height="16" fill="#0F7A4B"/>
+    <text x="204.8" y="127" font-size="11" fill="#1A1A1A">$0.71</text>
+    <rect x="140" y="134" width="114.4" height="16" fill="#6B7280"/>
+    <text x="262.4" y="146" font-size="11" fill="#1A1A1A">$1.43</text>
+    <text x="24" y="192" font-size="13" fill="#1A1A1A">25 kg dog</text>
+    <rect x="140" y="176" width="114.4" height="16" fill="#0F7A4B"/>
+    <text x="262.4" y="189" font-size="11" fill="#1A1A1A">$1.43</text>
+    <rect x="140" y="196" width="228.8" height="16" fill="#6B7280"/>
+    <text x="376.8" y="208" font-size="11" fill="#1A1A1A">$2.86</text>
+    <text x="24" y="254" font-size="13" fill="#1A1A1A">40 kg dog</text>
+    <rect x="140" y="238" width="171.2" height="16" fill="#0F7A4B"/>
+    <text x="319.2" y="251" font-size="11" fill="#1A1A1A">$2.14</text>
+    <rect x="140" y="258" width="343.2" height="16" fill="#6B7280"/>
+    <text x="491.2" y="270" font-size="11" fill="#1A1A1A">$4.29</text>
+    <text x="24" y="316" font-size="13" fill="#1A1A1A">Adult cat</text>
+    <rect x="140" y="300" width="28.8" height="16" fill="#0F7A4B"/>
+    <text x="176.8" y="313" font-size="11" fill="#1A1A1A">$0.36</text>
+    <rect x="140" y="320" width="56.8" height="16" fill="#6B7280"/>
+    <text x="204.8" y="332" font-size="11" fill="#1A1A1A">$0.71</text>
+  </g>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: 80 px per dollar. Formula: (price per kg ÷ kcal per kg) × daily kcal. 26 Sep 2026.</text>
+
+</svg>

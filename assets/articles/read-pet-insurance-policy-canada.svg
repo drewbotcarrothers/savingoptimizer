@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative pet insurance claim waterfall</title>
+  <desc>Illustrative arithmetic. A 2000 dollar vet bill, minus a 250 dollar deductible, leaves 1750. Eighty percent reimbursement leaves 1400. An excluded 100 dollar exam fee leaves a 1300 dollar payout. Not a Canadian average and not a policy. 26 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative claim, not a policy</text>
+  <text x="24" y="56" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">$2,000 bill, $250 deductible, 80 percent reimbursement, $100 exam excluded. Every input is made up for the arithmetic.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <text x="24" y="110">Vet bill</text>
+    <rect x="180" y="94" width="400" height="22" fill="#6B7280"/>
+    <text x="590" y="110">$2,000</text>
+    <text x="24" y="160">After $250 deductible</text>
+    <rect x="180" y="144" width="350" height="22" fill="#6B7280"/>
+    <text x="540" y="160">$1,750</text>
+    <text x="24" y="210">Times 80 percent</text>
+    <rect x="180" y="194" width="280" height="22" fill="#0F7A4B"/>
+    <text x="470" y="210">$1,400</text>
+    <text x="24" y="260">Minus excluded exam</text>
+    <rect x="180" y="244" width="260" height="22" fill="#0F7A4B"/>
+    <text x="450" y="260">$1,300 payout</text>
+  </g>
+  <text x="24" y="320" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">NAPHIA did not publish a Canadian average deductible or reimbursement percent. Do not treat 80 percent or $250 as typical.</text>
+  <text x="24" y="344" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">If the exam fee is eligible, the last subtraction does not happen. The wording decides.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: 200 px per $1,000. 26 Sep 2026.</text>
+
+</svg>
