@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative Trillium annual deductible at three household incomes</title>
+  <desc>Bars show illustrative annual deductibles of 2400, 3600, and 4800 dollars at household net incomes of 60000, 90000, and 120000 dollars, using four percent. The confirmation letter is the real deductible.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">About 4 percent, as arithmetic</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative. Ontario says the deductible is usually about 4 percent of after-tax income. 26 Sep 2026.</text>
+  <line x1="70" y1="310" x2="680" y2="310" stroke="#E5E7EB"/>
+  <rect x="130" y="190" width="120" height="120" fill="#0F7A4B"/>
+  <rect x="310" y="130" width="120" height="180" fill="#0F7A4B"/>
+  <rect x="490" y="70" width="120" height="240" fill="#0F7A4B"/>
+  <g font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A" text-anchor="middle">
+    <text x="190" y="180">$2,400</text>
+    <text x="370" y="120">$3,600</text>
+    <text x="550" y="60">$4,800</text>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A" text-anchor="middle">
+    <text x="190" y="336">$60,000 income</text>
+    <text x="190" y="356">$600 a quarter</text>
+    <text x="370" y="336">$90,000 income</text>
+    <text x="370" y="356">$900 a quarter</text>
+    <text x="550" y="336">$120,000 income</text>
+    <text x="550" y="356">$1,200 a quarter</text>
+  </g>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Income here is a round household net figure. Your letter uses line 23600 minus registered disability savings plan withdrawals.</text>
+
+</svg>

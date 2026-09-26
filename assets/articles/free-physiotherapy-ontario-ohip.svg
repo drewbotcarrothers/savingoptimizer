@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Flow to government-funded physiotherapy in Ontario</title>
+  <desc>A flow chart asks whether the person is in an eligible group, then points to the ontario.ca clinic directory, then self-referral, then an assessment, then either a funded plan or private options using benefits and receipts.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Funded clinic path in Ontario</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Eligibility from ontario.ca, updated 3 February 2026. A referral is not required.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" text-anchor="middle">
+    <rect x="40" y="80" width="150" height="72" rx="6" fill="#0F7A4B"/>
+    <text x="115" y="110" fill="#FFFFFF">Eligible group?</text>
+    <text x="115" y="130" fill="#FFFFFF">card or OW/ODSP</text>
+    <rect x="220" y="80" width="150" height="72" rx="6" fill="#0F7A4B"/>
+    <text x="295" y="110" fill="#FFFFFF">Find a clinic</text>
+    <text x="295" y="130" fill="#FFFFFF">ontario.ca directory</text>
+    <rect x="400" y="80" width="130" height="72" rx="6" fill="#0F7A4B"/>
+    <text x="465" y="110" fill="#FFFFFF">Self-refer</text>
+    <text x="465" y="130" fill="#FFFFFF">call the clinic</text>
+    <rect x="560" y="80" width="130" height="72" rx="6" fill="#0F7A4B"/>
+    <text x="625" y="110" fill="#FFFFFF">Assessment</text>
+    <text x="625" y="130" fill="#FFFFFF">one to one</text>
+    <rect x="150" y="200" width="180" height="80" rx="6" fill="#0F7A4B"/>
+    <text x="240" y="234" fill="#FFFFFF">Funded plan</text>
+    <text x="240" y="254" fill="#FFFFFF">no fee if eligible</text>
+    <rect x="390" y="200" width="200" height="80" rx="6" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+    <text x="490" y="234" fill="#1A1A1A">Private options</text>
+    <text x="490" y="254" fill="#6B7280">benefits and receipts</text>
+  </g>
+  <text x="24" y="330" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Groups: 65 and older, 19 and under, post-hospital or day surgery within 12 months, Ontario Works, ODSP.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The visit is for a recent decline or a flare-up that reduced function, not a maintenance plan this page can promise.</text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Private session prices were not opened. 26 Sep 2026.</text>
+
+</svg>

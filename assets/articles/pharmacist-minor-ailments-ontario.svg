@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Flow from symptom to a funded pharmacist assessment or a referral</title>
+  <desc>A flow chart: symptom, then whether it is an eligible minor ailment, then a pharmacist assessment that is publicly funded with a valid Ontario health number, then either a prescription or a referral, then payment for the medication through a plan, the Ontario Drug Benefit, or cash.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Assessment and medication are different bills</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario minor ailment path. The medication is not free. 26 Sep 2026.</text>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#FFFFFF">
+    <rect x="36" y="84" width="140" height="64" rx="6" fill="#0F7A4B"/>
+    <text x="106" y="112" text-anchor="middle">Symptom</text>
+    <text x="106" y="130" text-anchor="middle">you can describe</text>
+    <rect x="210" y="84" width="160" height="64" rx="6" fill="#0F7A4B"/>
+    <text x="290" y="112" text-anchor="middle">Eligible minor</text>
+    <text x="290" y="130" text-anchor="middle">ailment?</text>
+    <rect x="404" y="84" width="170" height="64" rx="6" fill="#0F7A4B"/>
+    <text x="489" y="112" text-anchor="middle">Pharmacist assessment</text>
+    <text x="489" y="130" text-anchor="middle">funded with OHIP</text>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13">
+    <rect x="120" y="190" width="200" height="70" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+    <text x="220" y="218" text-anchor="middle" fill="#1A1A1A">Prescription, if appropriate</text>
+    <text x="220" y="238" text-anchor="middle" fill="#6B7280">or no prescription</text>
+    <rect x="400" y="190" width="200" height="70" rx="6" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+    <text x="500" y="218" text-anchor="middle" fill="#1A1A1A">Referral</text>
+    <text x="500" y="238" text-anchor="middle" fill="#6B7280">red flag or judgement</text>
+    <rect x="180" y="300" width="360" height="64" rx="6" fill="#1A1A1A"/>
+    <text x="360" y="328" text-anchor="middle" fill="#FFFFFF">You pay for the medication</text>
+    <text x="360" y="348" text-anchor="middle" fill="#FFFFFF">plan, Ontario Drug Benefit, or cash</text>
+  </g>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">$19 in person and $15 virtual, in the 18 Nov 2024 notice, are payments to the pharmacy, not a patient charge for an eligible person.</text>
+
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Ontario OHIP eye-exam coverage by age band</title>
+  <desc>Three tiles: people 19 and younger are covered for a routine major exam every 12 months; adults 20 to 64 are covered only with an eligible eye condition; people 65 and older are covered every 18 months, or every 12 months with an eligible condition.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Ontario eye exams by age</text>
+  <text x="24" y="58" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">OHIP rules opened 26 Sep 2026. Not a fee schedule. Other provinces are in the article.</text>
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="36" y="88" width="200" height="220" rx="8" fill="#0F7A4B"/>
+    <text x="136" y="130" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="700">19 and younger</text>
+    <text x="136" y="170" text-anchor="middle" fill="#FFFFFF" font-size="14">Covered</text>
+    <text x="136" y="198" text-anchor="middle" fill="#FFFFFF" font-size="13">Major exam</text>
+    <text x="136" y="218" text-anchor="middle" fill="#FFFFFF" font-size="13">every 12 months</text>
+    <rect x="260" y="88" width="200" height="220" rx="8" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="3"/>
+    <text x="360" y="130" text-anchor="middle" fill="#1A1A1A" font-size="16" font-weight="700">Ages 20 to 64</text>
+    <text x="360" y="170" text-anchor="middle" fill="#0F7A4B" font-size="14" font-weight="700">Conditional</text>
+    <text x="360" y="198" text-anchor="middle" fill="#1A1A1A" font-size="13">Insured only with</text>
+    <text x="360" y="218" text-anchor="middle" fill="#1A1A1A" font-size="13">an eligible condition</text>
+    <rect x="484" y="88" width="200" height="220" rx="8" fill="#0F7A4B"/>
+    <text x="584" y="130" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="700">65 and older</text>
+    <text x="584" y="170" text-anchor="middle" fill="#FFFFFF" font-size="14">Covered</text>
+    <text x="584" y="198" text-anchor="middle" fill="#FFFFFF" font-size="13">Every 18 months</text>
+    <text x="584" y="218" text-anchor="middle" fill="#FFFFFF" font-size="13">or 12 with a condition</text>
+  </g>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Adults 20 to 64 without an eligible condition pay for the exam. OHIP does not cover eyeglasses.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Amounts OHIP pays an optometrist are not patient prices. No uninsured exam fee was opened.</text>
+
+</svg>

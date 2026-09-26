@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative Ontario ADP share of a hearing-aid pair</title>
+  <desc>Two stacked bars use illustrative pair prices of 1200 and 3000 dollars. At 1200 dollars ADP pays 900 and the buyer pays 300. At 3000 dollars ADP pays 1000 and the buyer pays 2000. The cap is 75 percent up to 500 dollars per aid.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">ADP share on two illustrative pairs</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Not clinic prices. 75 percent up to $500 per aid. 26 Sep 2026.</text>
+  <line x1="80" y1="300" x2="660" y2="300" stroke="#E5E7EB"/>
+  <rect x="160" y="228" width="140" height="72" fill="#0F7A4B"/>
+  <rect x="160" y="204" width="140" height="24" fill="#6B7280"/>
+  <rect x="420" y="220" width="140" height="80" fill="#0F7A4B"/>
+  <rect x="420" y="60" width="140" height="160" fill="#6B7280"/>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">
+    <text x="230" y="270">ADP $900</text>
+    <text x="230" y="198" fill="#1A1A1A">You $300</text>
+    <text x="490" y="268">ADP $1,000</text>
+    <text x="490" y="146">You $2,000</text>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A" text-anchor="middle">
+    <text x="230" y="328">Illustrative pair $1,200</text>
+    <text x="230" y="348">$600 per aid</text>
+    <text x="490" y="328">Illustrative pair $3,000</text>
+    <text x="490" y="348">$1,500 per aid</text>
+  </g>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Per aid, ADP pays the lesser of 75 percent of that aid and $500. Ontario Works or ODSP can be up to 100 percent, subject to the manual.</text>
+
+</svg>

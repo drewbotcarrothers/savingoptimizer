@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative annual dispensing fees at a ten-dollar fee</title>
+  <desc>Three bars compare an illustrative ten-dollar dispensing fee: one hundred twenty dollars for twelve monthly fills, forty dollars for four ninety-day fills, and thirty dollars for three one-hundred-day fills.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Illustrative fees, one chronic medicine</text>
+  <text x="24" y="58" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">$10 per fill is a labelled example, not a pharmacy quote. 26 Sep 2026.</text>
+  <line x1="80" y1="300" x2="680" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="80" y1="80" x2="80" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <g font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">
+    <text x="72" y="304" text-anchor="end">$0</text>
+    <text x="72" y="194" text-anchor="end">$60</text>
+    <text x="72" y="84" text-anchor="end">$120</text>
+  </g>
+  <rect x="140" y="84" width="110" height="216" fill="#0F7A4B"/>
+  <rect x="310" y="228" width="110" height="72" fill="#0F7A4B"/>
+  <rect x="480" y="246" width="110" height="54" fill="#0F7A4B"/>
+  <g font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A" text-anchor="middle">
+    <text x="195" y="74">$120</text>
+    <text x="365" y="218">$40</text>
+    <text x="535" y="236">$30</text>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A" text-anchor="middle">
+    <text x="195" y="328">Every 30 days</text>
+    <text x="195" y="348">12 fills</text>
+    <text x="365" y="328">Every 90 days</text>
+    <text x="365" y="348">4 fills, 360 days</text>
+    <text x="535" y="328">Every 100 days</text>
+    <text x="535" y="348">3 fills, 300 days</text>
+  </g>
+  <text x="24" y="390" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A fourth 100-day fill can fall inside a calendar year. The Ontario Drug Benefit $8.83 figure is not drawn.</text>
+
+</svg>
