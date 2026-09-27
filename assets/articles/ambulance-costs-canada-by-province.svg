@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Ontario resident ambulance co-payment of 45 dollars</title>
+  <desc>One bar. The Ontario co-payment for an insured ambulance service is 45 dollars, from Ontario Regulation 365/19 and the City of Toronto ambulance-fees page. Other provinces are not plotted because an official fee page for them was not opened.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Resident ambulance co-payment, sourced provinces only</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ontario only. Other provincial fee pages were not opened, so they are not estimated.</text>
+  <line x1="160" y1="90" x2="160" y2="280" stroke="#E5E7EB"/>
+  <line x1="160" y1="280" x2="660" y2="280" stroke="#E5E7EB"/>
+  <text x="148" y="284" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$0</text>
+  <text x="410" y="304" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$45</text>
+  <text x="148" y="188" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Ontario</text>
+  <rect x="160" y="164" width="250" height="40" fill="#0F7A4B"/>
+  <text x="176" y="189" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$45</text>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Insured person, co-payment of $45, Ontario Regulation 365/19 under the Health Insurance Act.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Toronto.ca: resident, valid health card, medically necessary, trip starts and ends in Ontario, no exemption.</text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Checked 27 Sep 2026. A higher charge for a non-resident was not copied from a hospital webpage.</text>
+</svg>

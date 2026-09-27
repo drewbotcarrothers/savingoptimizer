@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Distance ladder for medical travel claims: under 40 km, 40 to 79 km, and 80 km or more</title>
+  <desc>Three steps. Under 40 kilometres one way, travel is not a medical expense. From 40 kilometres, public transportation or vehicle expenses may qualify. From 80 kilometres, meals, lodging, and parking may be added. Guide RC4065, Medical Expenses 2025, and Income Tax Folio S1-F1-C1. Checked 27 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">One-way distance from home, and what can be claimed</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Substantially equivalent care must be unavailable nearer home. Direct route. Reasonable in the circumstances.</text>
+  <rect x="24" y="78" width="210" height="250" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="24" y="78" width="210" height="8" fill="#6B7280"/>
+  <text x="36" y="110" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Under 40 km</text>
+  <text x="36" y="140" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Travel expenses</text>
+  <text x="36" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">cannot be claimed.</text>
+  <text x="36" y="190" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A trip only to pick up</text>
+  <text x="36" y="206" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">a device or medication</text>
+  <text x="36" y="222" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">is also excluded,</text>
+  <text x="36" y="238" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">at any distance.</text>
+  <rect x="254" y="78" width="210" height="250" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="254" y="78" width="210" height="8" fill="#0F7A4B"/>
+  <text x="266" y="110" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">40 to 79 km</text>
+  <text x="266" y="140" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Public transportation,</text>
+  <text x="266" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">or vehicle expenses if</text>
+  <text x="266" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">transit is not readily</text>
+  <text x="266" y="194" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">available.</text>
+  <text x="266" y="226" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not meals, lodging,</text>
+  <text x="266" y="242" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">or parking.</text>
+  <rect x="484" y="78" width="212" height="250" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="484" y="78" width="212" height="8" fill="#0F7A4B"/>
+  <text x="496" y="110" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">80 km or more</text>
+  <text x="496" y="140" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Transportation, plus</text>
+  <text x="496" y="158" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">meals, lodging, and</text>
+  <text x="496" y="176" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">parking.</text>
+  <text x="496" y="208" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Lodging and parking</text>
+  <text x="496" y="224" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">need receipts. Meals</text>
+  <text x="496" y="240" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">and vehicle: detailed</text>
+  <text x="496" y="256" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">or simplified method.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">One attendant's same kind of costs can be added only with a medical practitioner's written certification.</text>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Claim only the part that is not reimbursed, unless the reimbursement is in income and not deducted elsewhere.</text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">RC4065 (2025) and folio S1-F1-C1, paragraphs 1.65 to 1.72. Checked 27 Sep 2026. Education only.</text>
+</svg>
