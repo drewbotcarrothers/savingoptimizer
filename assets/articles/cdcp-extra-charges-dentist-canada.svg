@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Illustrative CDCP payment split by co-pay tier</title>
-  <desc>Stacked bars for one illustrative procedure with a CDCP established fee of 100 dollars and a provider fee of 130 dollars. At a zero co-pay the plan pays 100 and you pay the 30 dollars above the grid. At 40 percent you pay 40 plus 30. At 60 percent you pay 60 plus 30. Not a real procedure code.</desc>
+  <title>Example with made-up inputs: CDCP payment split by co-pay tier</title>
+  <desc>Example with made-up inputs, not real prices; the reader should plug in their own quotes. Stacked bars for one illustrative procedure with a CDCP established fee of 100 dollars and a provider fee of 130 dollars. At a zero co-pay the plan pays 100 and you pay the 30 dollars above the grid. At 40 percent you pay 40 plus 30. At 60 percent you pay 60 plus 30. Not a real procedure code.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">One illustrative procedure, three co-pay tiers</text>
-  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CDCP fee $100. Provider fee $130. Arithmetic only. Not a fee-grid line.</text>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example procedure, three co-pay tiers</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Example with made-up fees ($100 CDCP fee, $130 provider fee). Plug in the fees on your own estimate.</text>
   <line x1="70" y1="80" x2="70" y2="320" stroke="#E5E7EB"/>
   <line x1="70" y1="320" x2="680" y2="320" stroke="#E5E7EB"/>
   <text x="60" y="324" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$0</text>

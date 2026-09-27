@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Illustrative yearly cost of a buy-12-get-1 card versus a lower shelf price</title>
-  <desc>Illustrative bars. A 60 dollar bag, twelve paid and one free, costs 720 dollars for 13 bags. A 54 dollar shelf price times 13 is 702 dollars. The lower shelf wins this example by 18 dollars. Not a Pet Valu or PetSmart price. 27 Sep 2026.</desc>
+  <title>Example with made-up inputs: yearly cost of a buy-12-get-1 card versus a lower shelf price</title>
+  <desc>Example with made-up inputs, not real prices; the reader should plug in their own quotes. Illustrative bars. A 60 dollar bag, twelve paid and one free, costs 720 dollars for 13 bags. A 54 dollar shelf price times 13 is 702 dollars. The lower shelf wins this example by 18 dollars. Not a Pet Valu or PetSmart price. 27 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative 13 bags: free-bag card vs a lower price</text>
-  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">$60 with a 13th bag free, versus $54 and no free bag. Example only.</text>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example, 13 bags: free-bag card vs a lower price</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up bag prices ($60 with a free 13th bag vs $54). Plug in yours.</text>
   <text x="24" y="96" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Buy 12, get 1, at $60</text>
   <rect x="250" y="80" width="360" height="26" fill="#E5E7EB"/>
   <rect x="250" y="80" width="324.0" height="26" fill="#0F7A4B"/>
