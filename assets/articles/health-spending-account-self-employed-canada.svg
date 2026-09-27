@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative after-tax cost of 3,000 dollars of health expenses by HSA and by the medical expense tax credit</title>
+  <desc>Illustrative bars. Three thousand dollars of expenses. The medical expense tax credit path, after a 1,800 dollar threshold and a 14.5 percent federal credit on the remaining 1,200 dollars, leaves an after-tax cost of 2,826 dollars. A full deduction at an illustrative 25 percent marginal rate leaves 2,250 dollars. The same deduction at an illustrative 40 percent marginal rate leaves 1,800 dollars. Provider admin fees are not subtracted.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">After-tax cost of the same $3,000 (illustrative)</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Federal credit only. Admin fee not subtracted. Not a tax assessment.</text>
+  <line x1="200" y1="80" x2="200" y2="300" stroke="#E5E7EB"/>
+  <line x1="200" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
+  <text x="188" y="304" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$0</text>
+  <text x="680" y="304" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$3,000</text>
+  <text x="188" y="118" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Credit path</text>
+  <text x="188" y="134" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">14.5% of $1,200</text>
+  <rect x="200" y="100" width="452" height="32" fill="#6B7280"/>
+  <text x="210" y="121" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$2,826</text>
+  <text x="188" y="188" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Deduction</text>
+  <text x="188" y="204" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">illustrative 25%</text>
+  <rect x="200" y="170" width="360" height="32" fill="#0F7A4B"/>
+  <text x="210" y="191" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$2,250</text>
+  <text x="188" y="258" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Deduction</text>
+  <text x="188" y="274" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">illustrative 40%</text>
+  <rect x="200" y="240" width="288" height="32" fill="#0F7A4B"/>
+  <text x="210" y="261" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$1,800</text>
+  <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Threshold at $60,000 net income: 3% is $1,800, which is under the 2025 ceiling of $2,834.</text>
+  <text x="24" y="370" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Credit: ($3,000 minus $1,800) times 14.5% is $174. After-tax cost $3,000 minus $174.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">A real PHSP deduction is only the part the return allows. Provincial tax is not in these bars.</text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Illustrative arithmetic. Checked 27 Sep 2026. Education only.</text>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Matrix of virtual-care option types by cost and continuity, with no prices</title>
+  <desc>Four option types and no dollar amounts. A provincial insured virtual visit and a workplace or employee-assistance virtual visit sit toward higher continuity when the same clinician or the same plan chart is used. A paid per-visit app and a paid subscription app are paid options. Continuity is low when each visit is a new clinician. Nurse lines such as Health811 are free and are not a substitute for a chart.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Cost against continuity: option types, no prices</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No brand and no fee. Continuity means the same chart, not a promise a clinic made.</text>
+  <line x1="120" y1="80" x2="120" y2="320" stroke="#E5E7EB"/>
+  <line x1="120" y1="320" x2="680" y2="320" stroke="#E5E7EB"/>
+  <text x="112" y="90" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Higher</text>
+  <text x="112" y="106" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">continuity</text>
+  <text x="112" y="310" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Lower</text>
+  <text x="112" y="326" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">continuity</text>
+  <text x="200" y="348" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Free public</text>
+  <text x="560" y="348" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Paid</text>
+  <rect x="150" y="120" width="200" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="250" y="142" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Insured virtual visit</text>
+  <text x="250" y="158" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Same clinician, if you have one</text>
+  <rect x="430" y="120" width="210" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="535" y="142" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Workplace or EAP visit</text>
+  <text x="535" y="158" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">The plan's own network</text>
+  <rect x="150" y="230" width="200" height="52" rx="6" fill="#FFFFFF" stroke="#6B7280"/>
+  <text x="250" y="252" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Nurse line, such as 811</text>
+  <text x="250" y="268" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Advice, not your chart</text>
+  <rect x="430" y="230" width="210" height="52" rx="6" fill="#FFFFFF" stroke="#6B7280"/>
+  <text x="535" y="252" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Paid app, per visit or plan</text>
+  <text x="535" y="268" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Often a new clinician</text>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Ontario virtual urgent care and Health811 were the public pages opened. Other provinces are not placed on a price.</text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">No subscription fee is printed because none was opened on a dated official page. Checked 27 Sep 2026.</text>
+</svg>

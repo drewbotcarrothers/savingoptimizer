@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Timeline from a Northern Health Travel Grant referral to payment</title>
+  <desc>Four steps. A referral for an eligible specialist or facility service. The appointment, at least 100 kilometres one way. A claim with the specialty-service provider section and original receipts, within 12 months of treatment. Payment within six weeks of a correctly completed application, by direct deposit or cheque.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Northern Health Travel Grant: referral to payment</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ontario Ministry of Health program page, updated 14 Jan 2026. One application per round trip.</text>
+  <line x1="70" y1="150" x2="650" y2="150" stroke="#E5E7EB" stroke-width="4"/>
+  <circle cx="90" cy="150" r="14" fill="#0F7A4B"/>
+  <circle cx="270" cy="150" r="14" fill="#0F7A4B"/>
+  <circle cx="450" cy="150" r="14" fill="#0F7A4B"/>
+  <circle cx="630" cy="150" r="14" fill="#1A1A1A"/>
+  <text x="90" y="155" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">1</text>
+  <text x="270" y="155" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">2</text>
+  <text x="450" y="155" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">3</text>
+  <text x="630" y="155" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">4</text>
+  <text x="90" y="190" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Referral</text>
+  <text x="90" y="214" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Northern resident.</text>
+  <text x="90" y="230" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">OHIP-insured care</text>
+  <text x="90" y="246" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">not available locally.</text>
+  <text x="270" y="190" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Appointment</text>
+  <text x="270" y="214" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">At least 100 km</text>
+  <text x="270" y="230" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">one way, Ontario</text>
+  <text x="270" y="246" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">or Manitoba.</text>
+  <text x="450" y="190" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Claim</text>
+  <text x="450" y="214" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Provider completes</text>
+  <text x="450" y="230" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">section 6 or the</text>
+  <text x="450" y="246" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">one-page form.</text>
+  <text x="630" y="190" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Payment</text>
+  <text x="630" y="214" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Within 6 weeks of</text>
+  <text x="630" y="230" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">a correct form.</text>
+  <text x="630" y="246" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Allow the 6 weeks.</text>
+  <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The ministry must receive the application within 12 months of the date of treatment.</text>
+  <text x="24" y="324" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">An incomplete form is returned. That return is what the page names as a cause of delay.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Travel is 41 cents per kilometre on the round trip. Accommodation is a separate allowance, with receipts.</text>
+  <text x="24" y="388" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Meals and taxis are not covered. Keep gas receipts for 12 months in case of audit.</text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">ontario.ca Northern Health Travel Grant program page. Checked 27 Sep 2026.</text>
+</svg>
