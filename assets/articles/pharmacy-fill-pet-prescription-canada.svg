@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Flow from a veterinary prescription to pharmacy dispensing</title>
+  <desc>Four steps: the veterinarian writes the prescription, you choose a pharmacy, the pharmacist verifies it, then the drug is dispensed with counselling. No pharmacy is recommended. Checked 27 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">From the prescription to the counter</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The veterinarian writes. The pharmacist does not start a new drug.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <rect x="36" y="110" width="150" height="88" rx="8" fill="#0F7A4B"/>
+    <text x="111" y="148" text-anchor="middle" fill="#FFFFFF" font-weight="700">Vet writes</text>
+    <text x="111" y="168" text-anchor="middle" fill="#FFFFFF" font-size="11">Drug, strength, directions</text>
+    <polygon points="194,154 218,154 218,146 234,154 218,162 218,154" fill="#6B7280"/>
+    <rect x="242" y="110" width="150" height="88" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="317" y="148" text-anchor="middle" font-weight="700">Choose pharmacy</text>
+    <text x="317" y="168" text-anchor="middle" font-size="11" fill="#6B7280">Call about stock</text>
+    <polygon points="400,154 424,154 424,146 440,154 424,162 424,154" fill="#6B7280"/>
+    <rect x="448" y="110" width="160" height="88" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="528" y="148" text-anchor="middle" font-weight="700">Pharmacist checks</text>
+    <text x="528" y="168" text-anchor="middle" font-size="11" fill="#6B7280">Species and dose</text>
+    <polygon points="528,206 528,234 520,234 528,250 536,234 528,234" fill="#6B7280"/>
+    <rect x="400" y="258" width="256" height="80" rx="8" fill="#0F7A4B"/>
+    <text x="528" y="292" text-anchor="middle" fill="#FFFFFF" font-weight="700">Dispense and counsel</text>
+    <text x="528" y="312" text-anchor="middle" fill="#FFFFFF" font-size="11">Exactly as written</text>
+  </g>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Ontario prescription rule and College FAQ opened 27 Sep 2026. Not veterinary advice.</text>
+</svg>
