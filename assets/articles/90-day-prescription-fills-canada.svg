@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative dispensing fees at 30, 90, and 100 days</title>
+  <desc>Using an illustrative dispensing fee of 10 dollars, 12 fills at 30 days cost 120 dollars, 4 fills at 90 days cost 40 dollars, and 3.65 fills at 100 days cost 36.50 dollars over about a year. The fee is not a pharmacy quote. Ontario Drug Benefit rules on quantity are separate from this arithmetic.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Same illustrative $10 fee, fewer times a year</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Replace $10 with the fee on your receipt. The drug cost is not in these bars.</text>
+  <line x1="70" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
+  <!-- scale $120 = 200px -->
+  <rect x="130" y="100" width="110" height="200" fill="#6B7280"/>
+  <text x="185" y="196" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$120</text>
+  <text x="185" y="324" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">30 days</text>
+  <text x="185" y="342" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">12 fills</text>
+  <rect x="310" y="233" width="110" height="67" fill="#0F7A4B"/>
+  <text x="365" y="272" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$40</text>
+  <text x="365" y="324" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">90 days</text>
+  <text x="365" y="342" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4 fills</text>
+  <rect x="490" y="239" width="110" height="61" fill="#0F7A4B"/>
+  <text x="545" y="274" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$36.50</text>
+  <text x="545" y="324" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">100 days</text>
+  <text x="545" y="342" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">3.65 fills</text>
+  <text x="24" y="378" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">12 times $10 is $120. 4 times $10 is $40. 365 divided by 100, times $10, is $36.50.</text>
+  <text x="24" y="400" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">A plan that caps days' supply, or a drug that should stay on a short fill, can block the shorter bars.</text>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>OHIP+ decision flow for Ontarians 24 and under</title>
+  <desc>Start with age 24 or under and an OHIP card. If a private plan covers the person, OHIP+ does not. If there is no private plan, the pharmacy bills OHIP+ for a drug on the Ontario Drug Benefit formulary. Exceptional Access Program drugs still need their own approval. Coverage stops on the 25th birthday.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Who pays at an Ontario pharmacy counter</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Ontario only. A private plan means you are not eligible for OHIP+.</text>
+  <rect x="250" y="70" width="220" height="52" rx="4" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="360" y="101" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">24 or under, with OHIP?</text>
+  <rect x="40" y="160" width="200" height="64" rx="4" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="140" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No</text>
+  <text x="140" y="206" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">OHIP+ does not apply</text>
+  <rect x="260" y="160" width="200" height="64" rx="4" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="360" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Yes. Private plan?</text>
+  <text x="360" y="206" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Parent's plan counts</text>
+  <rect x="500" y="160" width="190" height="64" rx="4" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="595" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Yes, private plan</text>
+  <text x="595" y="206" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">That plan pays, not OHIP+</text>
+  <rect x="260" y="270" width="200" height="72" rx="4" fill="#0F7A4B"/>
+  <text x="360" y="298" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">No private plan</text>
+  <text x="360" y="318" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">OHIP+ if the drug is covered</text>
+  <path d="M360 122 V160" stroke="#6B7280" fill="none"/>
+  <path d="M260 192 H240" stroke="#6B7280" fill="none"/>
+  <path d="M460 192 H500" stroke="#6B7280" fill="none"/>
+  <path d="M360 224 V270" stroke="#6B7280" fill="none"/>
+  <text x="24" y="378" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">More than 5,900 formulary drugs. Not every drug. Stops on the 25th birthday.</text>
+  <text x="24" y="400" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ontario Works, ODSP, long-term care, and home care can still be no-charge under 24 even with a private plan.</text>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative braces funding waterfall</title>
+  <desc>An illustrative 4500 dollar fee falls by an illustrative 2000 dollars from plan A and 1500 dollars from plan B, leaving 1000 dollars. In a second labelled case, other eligible expenses already in the year put 600 dollars above the 2025 medical expense threshold. That 600 dollars is the amount the credit uses, not a refund, because the CRA lines page does not print a percentage.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative fee, two plans, then the credit base</text>
+  <text x="24" y="50" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a clinic quote. Not a national average. Coordination is not predicted here.</text>
+  <line x1="48" y1="300" x2="690" y2="300" stroke="#E5E7EB"/>
+  <!-- scale: $4500 = 220px, $1 = 0.04889 px -->
+  <rect x="56" y="80" width="90" height="220" fill="#6B7280"/>
+  <text x="101" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$4,500</text>
+  <text x="101" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fee</text>
+  <rect x="176" y="178" width="90" height="122" fill="#0F7A4B" fill-opacity="0.45"/>
+  <text x="221" y="244" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2,500</text>
+  <text x="221" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">After A</text>
+  <text x="221" y="338" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">minus $2,000</text>
+  <rect x="296" y="251" width="90" height="49" fill="#0F7A4B"/>
+  <text x="341" y="280" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$1,000</text>
+  <text x="341" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Your share</text>
+  <text x="341" y="338" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">minus $1,500</text>
+  <rect x="430" y="271" width="100" height="29" fill="#0F7A4B"/>
+  <text x="480" y="290" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$600</text>
+  <text x="480" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Credit base</text>
+  <text x="480" y="338" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">not a refund</text>
+  <text x="24" y="372" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">The $600 appears only if other eligible expenses in the same 12 months already total $800 and net income is $40,000.</text>
+  <text x="24" y="392" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Threshold is the lesser of 3 percent ($1,200) or $2,834. The lines page does not print the federal percentage.</text>
+</svg>
