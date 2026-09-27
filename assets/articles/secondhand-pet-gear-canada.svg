@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Checklist for secondhand pet gear: inspect, recall check, clean, use</title>
+  <desc>Four steps in order. Inspect hardware and soil, search Health Canada recalls, clean, then use only if the earlier steps passed. No prices. 27 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Used pet gear: four steps before it comes inside</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A checklist, not a price. Skip the item if any step fails. 27 Sep 2026.</text>
+  <rect x="24" y="100" width="156" height="200" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="24" y="100" width="156" height="8" fill="#0F7A4B"/>
+  <text x="40" y="148" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F7A4B">1</text>
+  <text x="40" y="180" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Inspect</text>
+  <text x="40" y="210" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Latches, cracks, chew</text>
+  <text x="40" y="228" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">marks, stains</text>
+  <text x="184" y="200" font-family="Inter, Arial, sans-serif" font-size="18" fill="#0F7A4B">›</text>
+  <rect x="200" y="100" width="156" height="200" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="200" y="100" width="156" height="8" fill="#0F7A4B"/>
+  <text x="216" y="148" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F7A4B">2</text>
+  <text x="216" y="180" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Recall check</text>
+  <text x="216" y="210" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Search the brand</text>
+  <text x="216" y="228" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">on the recalls site</text>
+  <text x="360" y="200" font-family="Inter, Arial, sans-serif" font-size="18" fill="#0F7A4B">›</text>
+  <rect x="376" y="100" width="156" height="200" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="376" y="100" width="156" height="8" fill="#0F7A4B"/>
+  <text x="392" y="148" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F7A4B">3</text>
+  <text x="392" y="180" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Clean</text>
+  <text x="392" y="210" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Wash, then follow</text>
+  <text x="392" y="228" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">the disinfectant label</text>
+  <text x="536" y="200" font-family="Inter, Arial, sans-serif" font-size="18" fill="#0F7A4B">›</text>
+  <rect x="552" y="100" width="156" height="200" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="552" y="100" width="156" height="8" fill="#0F7A4B"/>
+  <text x="568" y="148" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F7A4B">4</text>
+  <text x="568" y="180" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Use</text>
+  <text x="568" y="210" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Only if the</text>
+  <text x="568" y="228" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">first three passed</text>
+  <text x="24" y="360" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Health Canada’s recalls search is step 2. A clean crate that is under recall is still a skip.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">No dollar amounts. Checked 27 Sep 2026.</text>
+</svg>

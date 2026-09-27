@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative cost per day for kibble, a topper, and full fresh</title>
+  <desc>Three illustrative bars, not shelf prices. Kibble is 1.43 dollars a day from 5 dollars a kilogram, 3500 kilocalories a kilogram, and 1000 kilocalories a day. Topper is 0.71 dollars of that kibble for 500 kilocalories plus an illustrative 4 dollars of fresh, totalling 4.71. Full fresh is an illustrative 8 dollars for 1000 kilocalories. 27 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative cost per day, not a subscription price</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Kibble uses $5/kg and 3,500 kcal/kg. The $4 and $8 fresh figures are examples, not ads.</text>
+  <text x="24" y="96" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Kibble, 1,000 kcal</text>
+  <rect x="250" y="80" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="80" width="64.3" height="26" fill="#0F7A4B"/>
+  <text x="322.4" y="98" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$1.43</text>
+  <text x="24" y="158" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Topper example</text>
+  <rect x="250" y="142" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="142" width="211.9" height="26" fill="#0F7A4B"/>
+  <text x="469.9" y="160" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$4.71</text>
+  <text x="24" y="220" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Full fresh example</text>
+  <rect x="250" y="204" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="204" width="360.0" height="26" fill="#0F7A4B"/>
+  <text x="618.0" y="222" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$8.00</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: the $8 bar is 360 px. Checked as arithmetic 27 Sep 2026. No company price was opened.</text>
+</svg>

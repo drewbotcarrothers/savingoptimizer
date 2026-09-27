@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative yearly cost of a buy-12-get-1 card versus a lower shelf price</title>
+  <desc>Illustrative bars. A 60 dollar bag, twelve paid and one free, costs 720 dollars for 13 bags. A 54 dollar shelf price times 13 is 702 dollars. The lower shelf wins this example by 18 dollars. Not a Pet Valu or PetSmart price. 27 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative 13 bags: free-bag card vs a lower price</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">$60 with a 13th bag free, versus $54 and no free bag. Example only.</text>
+  <text x="24" y="96" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Buy 12, get 1, at $60</text>
+  <rect x="250" y="80" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="80" width="324.0" height="26" fill="#0F7A4B"/>
+  <text x="582.0" y="98" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$720</text>
+  <text x="24" y="158" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">13 bags at $54</text>
+  <rect x="250" y="142" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="142" width="315.9" height="26" fill="#0F7A4B"/>
+  <text x="573.9" y="160" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$702</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: $800 would be 360 px. Arithmetic on made-up bag prices. Checked 27 Sep 2026.</text>
+</svg>

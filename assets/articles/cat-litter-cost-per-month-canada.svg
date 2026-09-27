@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative monthly cat litter cost for clay, pine, and crystal</title>
+  <desc>Illustrative bars, not shelf prices. Clay 14 dollars lasts 4 weeks, 13 bags a year, 182 dollars, 15.17 dollars a month. Pine 16 dollars lasts 3 weeks, 23.11 dollars a month. Crystal 28 dollars lasts 8 weeks, 15.17 dollars a month. 27 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative monthly cost, not a bag price</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Same month can hide a dearer bag if the bag lasts longer. These dollars are an example.</text>
+  <text x="24" y="96" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Clay example</text>
+  <rect x="250" y="80" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="80" width="218.4" height="26" fill="#0F7A4B"/>
+  <text x="476.4" y="98" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$15.17</text>
+  <text x="24" y="158" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Pine example</text>
+  <rect x="250" y="142" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="142" width="332.8" height="26" fill="#0F7A4B"/>
+  <text x="590.8" y="160" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$23.11</text>
+  <text x="24" y="220" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Crystal example</text>
+  <rect x="250" y="204" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="204" width="218.4" height="26" fill="#0F7A4B"/>
+  <text x="476.4" y="222" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$15.17</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: $25 would be 360 px. Arithmetic only. Checked 27 Sep 2026. No retailer price was opened.</text>
+</svg>
