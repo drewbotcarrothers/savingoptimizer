@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Counts of day-one, later, and skip rows on the puppy and kitten list</title>
+  <desc>Bar counts from the checklist table. Nine rows are need-now, three are later, four are skip. No dollar values. 27 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">How the checklist sorts, not what it costs</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Counts of table rows. OVMA dollars are in the article, not on this chart.</text>
+  <text x="24" y="96" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Need now</text>
+  <rect x="250" y="80" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="80" width="324.0" height="26" fill="#0F7A4B"/>
+  <text x="582.0" y="98" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">9</text>
+  <text x="24" y="158" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Later</text>
+  <rect x="250" y="142" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="142" width="108.0" height="26" fill="#0F7A4B"/>
+  <text x="366.0" y="160" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">3</text>
+  <text x="24" y="220" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Skip</text>
+  <rect x="250" y="204" width="360" height="26" fill="#E5E7EB"/>
+  <rect x="250" y="204" width="144.0" height="26" fill="#0F7A4B"/>
+  <text x="402.0" y="222" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">4</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Nine plus three plus four is 16 rows. No prices on the chart. 27 Sep 2026.</text>
+</svg>
