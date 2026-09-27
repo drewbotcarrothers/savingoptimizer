@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Illustrative cost per dog treat across three formats</title>
-  <desc>Illustrative bars. Biscuits 10 dollars for 50 is 0.20 dollars each. Dental chews 30 dollars for 30 is 1.00 dollar each. A single chew at 4 dollars is 4.00 dollars. Not shelf prices. 27 Sep 2026.</desc>
+  <title>Example with made-up inputs: cost per dog treat across three formats</title>
+  <desc>Example with made-up inputs, not real prices; the reader should plug in their own quotes. Illustrative bars. Biscuits 10 dollars for 50 is 0.20 dollars each. Dental chews 30 dollars for 30 is 1.00 dollar each. A single chew at 4 dollars is 4.00 dollars. Not shelf prices. 27 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative cost per treat, not a shelf price</text>
-  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Per piece, not per bag. Replace every figure with the package you buy.</text>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example cost per treat, not a shelf price</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up package prices. Plug in the packages you actually buy.</text>
   <text x="24" y="96" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Biscuits, $10 / 50</text>
   <rect x="250" y="80" width="360" height="26" fill="#E5E7EB"/>
   <rect x="250" y="80" width="18.0" height="26" fill="#0F7A4B"/>

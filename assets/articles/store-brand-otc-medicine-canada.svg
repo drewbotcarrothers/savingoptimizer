@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Illustrative price per dose, name brand versus a second product</title>
-  <desc>Worked example only. Twenty doses at $12.00 is $0.60 a dose. Forty doses at $10.00 is $0.25 a dose. Not a shelf price.</desc>
+  <title>Example with made-up inputs: price per dose, name brand versus a second product</title>
+  <desc>Example with made-up inputs, not real prices; the reader should plug in their own quotes. Worked example only. Twenty doses at $12.00 is $0.60 a dose. Forty doses at $10.00 is $0.25 a dose. Not a shelf price.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Illustrative price per dose</text>
-  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Stand-in arithmetic. A larger count is cheaper per dose only if you use the doses.</text>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example price per dose</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up shelf prices. Plug in the prices and dose counts you see.</text>
   <text x="24" y="130" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">20 doses at $12.00</text>
   <rect x="220" y="110" width="400" height="28" fill="#6B7280"/>
   <text x="236" y="129" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$0.60</text>

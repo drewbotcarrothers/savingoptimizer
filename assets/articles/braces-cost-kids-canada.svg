@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Illustrative braces funding waterfall</title>
-  <desc>An illustrative 4500 dollar fee falls by an illustrative 2000 dollars from plan A and 1500 dollars from plan B, leaving 1000 dollars. In a second labelled case, other eligible expenses already in the year put 600 dollars above the 2025 medical expense threshold. That 600 dollars is the amount the credit uses, not a refund, because the CRA lines page does not print a percentage.</desc>
+  <title>Example with made-up inputs: braces funding waterfall</title>
+  <desc>Example with made-up inputs, not real prices; the reader should plug in their own quotes. An illustrative 4500 dollar fee falls by an illustrative 2000 dollars from plan A and 1500 dollars from plan B, leaving 1000 dollars. In a second labelled case, other eligible expenses already in the year put 600 dollars above the 2025 medical expense threshold. That 600 dollars is the amount the credit uses, not a refund, because the CRA lines page does not print a percentage.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="30" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative fee, two plans, then the credit base</text>
-  <text x="24" y="50" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a clinic quote. Not a national average. Coordination is not predicted here.</text>
+  <text x="24" y="30" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example fee, two plans, then the credit base</text>
+  <text x="24" y="50" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Example with a made-up fee and plan payouts. Plug in your own quote and plan maximums.</text>
   <line x1="48" y1="300" x2="690" y2="300" stroke="#E5E7EB"/>
   <!-- scale: $4500 = 220px, $1 = 0.04889 px -->
   <rect x="56" y="80" width="90" height="220" fill="#6B7280"/>

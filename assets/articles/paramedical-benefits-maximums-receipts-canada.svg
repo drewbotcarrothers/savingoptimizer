@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Illustrative paramedical maximum still unused</title>
-  <desc>Worked example only. Massage has $260 left, physiotherapy has $0 left, and chiropractic has $300 left. Not a benefits booklet.</desc>
+  <title>Example with made-up inputs: paramedical maximum still unused</title>
+  <desc>Example with made-up inputs, not real prices; the reader should plug in their own quotes. Worked example only. Massage has $260 left, physiotherapy has $0 left, and chiropractic has $300 left. Not a benefits booklet.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Illustrative amount still unused</text>
-  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">A made-up plan. Write your own maximum, per-visit cap, and visits before you book.</text>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example amount still unused</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with a made-up plan. Plug in your own maximums, per-visit caps, and visits.</text>
   <text x="24" y="120" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Massage</text>
   <rect x="160" y="100" width="347" height="28" fill="#0F7A4B"/>
   <text x="176" y="119" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$260 left</text>

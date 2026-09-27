@@ -1,20 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Illustrative stack of three one-dollar budget units</title>
-  <desc>One stacked bar made of three equal parts. Each part is one dollar, an illustrative unit, not a clinic price. Meds plus visits plus diet equals three dollars only if each line the reader enters is one dollar. The 2025 OVMA canine and feline PDFs did not open, so no association total is drawn.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A" text-anchor="start">Add your three lines. These blocks are one dollar each.</text>
-  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Illustrative units so the sum is visible. Replace each dollar with your quote.</text>
-<rect x="250" y="90" width="180" height="70" fill="#0F7A4B"/>
-<rect x="250" y="160" width="180" height="70" fill="#6B7280"/>
-<rect x="250" y="230" width="180" height="70" fill="#E5E7EB" stroke="#6B7280"/>
-  <text x="340" y="132" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Meds, $1</text>
-  <text x="340" y="202" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Visits, $1</text>
-  <text x="340" y="272" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A" text-anchor="middle">Diet, $1</text>
-  <text x="450" y="132" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Your prescription line</text>
-  <text x="450" y="202" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Your visit line</text>
-  <text x="450" y="272" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Your food line</text>
-  <text x="24" y="330" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">1 + 1 + 1 = 3. That three dollars is the arithmetic, not a senior-pet budget.</text>
-  <text x="24" y="352" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">The OVMA 2025 canine and feline PDFs returned an error on 27 Sep 2026 and are not used.</text>
-  <text x="24" y="374" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Lifetime totals, dental, insurance, and medications stay on the guides linked in the article.</text>
-  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="start">Saving Optimizer, 27 Sep 2026. Not veterinary advice.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="t d">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker></defs>
+<title id="t">Monthly senior-pet budget: three lines to fill in, plus separate envelopes</title>
+<desc id="d">A worksheet diagram with no dollar amounts. Three lines are converted to a monthly figure from your own quotes: recurring medications (package price divided by the months it lasts), planned visits and screening (the estimate divided by the months until the next one), and diet (bag price divided by the months a bag lasts). They add to a monthly total. Insurance premiums, the emergency fund, dental work, and end-of-life costs are kept in separate envelopes.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Senior-pet month: three lines from your own quotes</text>
+<text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">No dollar amounts. Each line turns a quote you were given into a monthly figure.</text>
+<rect x="24" y="78" width="210" height="110" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="36" y="100" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">1. Recurring medications</text>
+<text x="36" y="120" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Package price</text>
+<text x="36" y="136" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">÷ months one package lasts</text>
+<text x="36" y="152" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Ask for the written price.</text>
+<rect x="255" y="78" width="210" height="110" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="267" y="100" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">2. Visits and screening</text>
+<text x="267" y="120" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Clinic estimate</text>
+<text x="267" y="136" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">÷ months until the next visit</text>
+<text x="267" y="152" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Only if the clinic named both.</text>
+<rect x="486" y="78" width="210" height="110" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="498" y="100" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">3. Diet</text>
+<text x="498" y="120" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Bag price</text>
+<text x="498" y="136" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">÷ months one bag lasts</text>
+<text x="498" y="152" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">From the feeding amount.</text>
+<line x1="129" y1="190" x2="330" y2="236" stroke="#6B7280" stroke-width="1.5" marker-end="url(#a)"/>
+<line x1="360" y1="190" x2="360" y2="232" stroke="#6B7280" stroke-width="1.5" marker-end="url(#a)"/>
+<line x1="591" y1="190" x2="390" y2="236" stroke="#6B7280" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="230" y="238" width="260" height="62" rx="10" fill="#ECF6F1" stroke="#0F7A4B" stroke-width="1.5"/>
+<text x="242" y="260" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">= Monthly senior-pet line</text>
+<text x="242" y="280" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Add only the lines you filled in.</text>
+<rect x="24" y="312" width="672" height="62" rx="10" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="36" y="334" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Separate envelopes, not in that total</text>
+<text x="36" y="354" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Insurance premium · emergency fund · dental work that is not this month’s visit · end-of-life costs</text>
+<text x="24" y="398" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 27 Sep 2026. Worksheet only, not a price. Not veterinary advice.</text>
+</svg>

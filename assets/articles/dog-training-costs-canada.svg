@@ -1,19 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Three equal bars because no class price was opened</title>
-  <desc>Three bars of equal height labelled group classes, private sessions, and board-and-train. Equal height means no price was opened on 27 Sep 2026. It does not mean the formats cost the same. The total is sessions times the price on the quote.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A" text-anchor="start">Same height on purpose. No format had a price.</text>
-  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Write sessions times the price you were quoted. These bars are not a market comparison.</text>
-<rect x="80" y="150" width="140" height="130" fill="#0F7A4B"/>
-<rect x="290" y="150" width="140" height="130" fill="#6B7280"/>
-<rect x="500" y="150" width="140" height="130" fill="#E5E7EB" stroke="#6B7280"/>
-  <text x="150" y="220" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">Your quote</text>
-  <text x="360" y="220" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">Your quote</text>
-  <text x="570" y="220" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">Your quote</text>
-  <text x="150" y="310" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">Group</text>
-  <text x="360" y="310" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">Private</text>
-  <text x="570" y="310" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">Board-and-train</text>
-  <text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">CCPDT practice-test fee of 105 dollars is an exam product, not a class, and is not a bar.</text>
-  <text x="24" y="370" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">If a package costs less than sessions times the single price, that gap is the only saving to write down.</text>
-  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="start">Saving Optimizer. CCPDT trainer page checked 27 Sep 2026. No Canadian class rate was opened.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="t d">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker></defs>
+<title id="t">Which training format to price first, by goal</title>
+<desc id="d">A decision flow with no prices. Basic manners and puppy socialization point to a group class. A specific problem or a schedule that does not fit a class points to private sessions. Board-and-train means reading the contract for methods, updates, and what you practise at home. Aggression, fear, or a sudden behaviour change points to a veterinarian first, who may refer to a veterinary behaviourist. For every format, ask about certification and methods, and total sessions times the quoted price.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Which format to price first, by goal</text>
+<text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A decision flow, not a price chart. Total = sessions × the price on your quote.</text>
+<rect x="250" y="70" width="220" height="46" rx="10" fill="#ECF6F1" stroke="#0F7A4B" stroke-width="1.5"/>
+<text x="262" y="92" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">What are you trying to change?</text>
+<line x1="360" y1="118" x2="102" y2="150" stroke="#6B7280" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="24" y="152" width="156" height="118" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="36" y="174" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Basic manners</text>
+<text x="36" y="194" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Puppy or new dog,</text>
+<text x="36" y="210" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">socializing, cues</text>
+<text x="36" y="226" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">→ Group class</text>
+<line x1="360" y1="118" x2="274" y2="150" stroke="#6B7280" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="196" y="152" width="156" height="118" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="208" y="174" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">One specific problem</text>
+<text x="208" y="194" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Or a schedule a</text>
+<text x="208" y="210" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">class cannot fit</text>
+<text x="208" y="226" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">→ Private sessions</text>
+<line x1="360" y1="118" x2="446" y2="150" stroke="#6B7280" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="368" y="152" width="156" height="118" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="380" y="174" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Away-from-home</text>
+<text x="380" y="194" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Read the contract:</text>
+<text x="380" y="210" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">methods, updates,</text>
+<text x="380" y="226" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">home practice</text>
+<text x="380" y="242" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">→ Board-and-train</text>
+<line x1="360" y1="118" x2="618" y2="150" stroke="#6B7280" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="540" y="152" width="156" height="118" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="552" y="174" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Fear or aggression</text>
+<text x="552" y="194" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Or a sudden change</text>
+<text x="552" y="210" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">→ Veterinarian first;</text>
+<text x="552" y="226" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">may refer to a</text>
+<text x="552" y="242" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">vet behaviourist</text>
+<rect x="24" y="288" width="672" height="86" rx="10" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="36" y="310" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Before you pay any trainer</text>
+<text x="36" y="330" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Ask which certification they hold and which body issued it, and how they train (methods).</text>
+<text x="36" y="346" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Write sessions × the quoted price for each format. A package only saves money if it costs less than that.</text>
+<text x="36" y="362" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">Ask what happens if the dog is not ready for the next session or class.</text>
+<text x="24" y="398" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 27 Sep 2026. No class price is shown because none was opened. Not veterinary advice.</text>
+</svg>

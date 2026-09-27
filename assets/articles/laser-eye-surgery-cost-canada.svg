@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Illustrative cumulative cost of glasses and contacts versus one surgery</title>
-  <desc>A worked example, not a clinic price. Glasses and contacts cost $450 a year. Surgery is $4,500 in year 0. The lines meet in year 10.</desc>
+  <title>Example with made-up inputs: cumulative cost of glasses and contacts versus one surgery</title>
+  <desc>Example with made-up inputs, not real prices; the reader should plug in their own quotes. A worked example, not a clinic price. Glasses and contacts cost $450 a year. Surgery is $4,500 in year 0. The lines meet in year 10.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Illustrative break-even</text>
-  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">$450 a year of glasses and contacts, and $4,500 of surgery in year 0. Not a quote.</text>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example break-even</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs ($450 a year, $4,500 surgery). Plug in your own quotes.</text>
   <line x1="80" y1="80" x2="80" y2="330" stroke="#E5E7EB"/>
   <line x1="80" y1="330" x2="660" y2="330" stroke="#E5E7EB"/>
   <line x1="80" y1="80" x2="660" y2="80" stroke="#E5E7EB"/>

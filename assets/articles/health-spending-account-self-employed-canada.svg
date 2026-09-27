@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Illustrative after-tax cost of 3,000 dollars of health expenses by HSA and by the medical expense tax credit</title>
-  <desc>Illustrative bars. Three thousand dollars of expenses. The medical expense tax credit path, after a 1,800 dollar threshold and a 14.5 percent federal credit on the remaining 1,200 dollars, leaves an after-tax cost of 2,826 dollars. A full deduction at an illustrative 25 percent marginal rate leaves 2,250 dollars. The same deduction at an illustrative 40 percent marginal rate leaves 1,800 dollars. Provider admin fees are not subtracted.</desc>
+  <title>Example with made-up inputs: after-tax cost of 3,000 dollars of health expenses by HSA and by the medical expense tax credit</title>
+  <desc>Example with made-up inputs, not real prices; the reader should plug in their own quotes. Illustrative bars. Three thousand dollars of expenses. The medical expense tax credit path, after a 1,800 dollar threshold and a 14.5 percent federal credit on the remaining 1,200 dollars, leaves an after-tax cost of 2,826 dollars. A full deduction at an illustrative 25 percent marginal rate leaves 2,250 dollars. The same deduction at an illustrative 40 percent marginal rate leaves 1,800 dollars. Provider admin fees are not subtracted.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">After-tax cost of the same $3,000 (illustrative)</text>
-  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Federal credit only. Admin fee not subtracted. Not a tax assessment.</text>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">After-tax cost of the same $3,000 (example)</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Example with made-up 25% and 40% marginal rates. Federal credit only. Plug in your own rate.</text>
   <line x1="200" y1="80" x2="200" y2="300" stroke="#E5E7EB"/>
   <line x1="200" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
   <text x="188" y="304" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$0</text>

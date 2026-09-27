@@ -1,32 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Twelve-month ring with no toxin assigned to a month</title>
-  <desc>A ring labelled with the twelve months and a centre that says the Pet Poison Helpline top 10 is year-round on the list that opened. The ten items are chocolate, grapes and raisins, garlic and onions, bromethalin, xylitol, ibuprofen, vitamin D3 supplements, marijuana, anticoagulant rodenticides, and acetaminophen. Road salt, antifreeze, and lilies were not on that list and are not placed on a month.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A" text-anchor="start">The top 10 toxins were not assigned to a month</text>
-<circle cx="250" cy="220" r="120" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="28"/>
-<circle cx="250" cy="220" r="78" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
-  <text x="250" y="210" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B" text-anchor="middle">Year-round</text>
-  <text x="250" y="230" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">on the list</text>
-  <text x="250.0" y="72.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Jan</text>
-  <text x="324.0" y="91.8282402399031" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Feb</text>
-  <text x="378.17175976009696" y="146.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Mar</text>
-  <text x="398.0" y="220.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Apr</text>
-  <text x="378.17175976009696" y="294.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">May</text>
-  <text x="324.0" y="348.1717597600969" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Jun</text>
-  <text x="250.0" y="368.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Jul</text>
-  <text x="176.00000000000003" y="348.17175976009696" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Aug</text>
-  <text x="121.82824023990307" y="294.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Sep</text>
-  <text x="102.0" y="220.00000000000003" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Oct</text>
-  <text x="121.8282402399031" y="146.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Nov</text>
-  <text x="175.99999999999994" y="91.82824023990312" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Dec</text>
-  <text x="430" y="110" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="start">Opened list, not a calendar:</text>
-  <text x="430" y="136" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="start">Chocolate, grapes, raisins,</text>
-  <text x="430" y="156" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="start">garlic, onions, bromethalin,</text>
-  <text x="430" y="176" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="start">xylitol, ibuprofen, vitamin D3,</text>
-  <text x="430" y="196" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="start">marijuana, anticoagulant</text>
-  <text x="430" y="216" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="start">rodenticides, acetaminophen.</text>
-  <text x="430" y="248" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Salt, antifreeze, and lilies</text>
-  <text x="430" y="268" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">were not on that list.</text>
-  <text x="24" y="380" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Pet Poison Helpline top 10, checked 27 Sep 2026. A month is not printed beside any item.</text>
-  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="start">Saving Optimizer. Call the helpline or a veterinarian. Not veterinary advice.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="t d">
+<title id="t">Pet-proofing: where the top-10 toxins usually live at home</title>
+<desc id="d">A room-by-room checklist of the ten items on the Pet Poison Helpline top-10 list checked 27 Sep 2026. Kitchen and pantry: chocolate, grapes and raisins, garlic and onions, xylitol in sugar-free products. Medicine cabinet and bags: ibuprofen, acetaminophen, vitamin D3 supplements. Garage, basement, and sheds: bromethalin and anticoagulant rodenticides. Stored anywhere: marijuana. If a pet eats one, call a veterinarian or a poison helpline.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Where the top-10 toxins usually live at home</text>
+<text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Grouping by room is ours. The ten items are Pet Poison Helpline’s top-10 list, checked 27 Sep 2026.</text>
+<rect x="24" y="70" width="330" height="140" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="36" y="92" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Kitchen and pantry</text>
+<text x="36" y="112" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Chocolate</text>
+<text x="36" y="128" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Grapes and raisins (trail mix too)</text>
+<text x="36" y="144" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Garlic and onions</text>
+<text x="36" y="160" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Xylitol: read sugar-free labels</text>
+<text x="36" y="198" font-family="Inter, Arial, sans-serif" font-size="11.5" font-style="italic" fill="#0F7A4B">Closed cupboards; covered bins</text>
+<rect x="366" y="70" width="330" height="140" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="378" y="92" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Medicine cabinet and bags</text>
+<text x="378" y="112" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Ibuprofen</text>
+<text x="378" y="128" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Acetaminophen</text>
+<text x="378" y="144" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Vitamin D3 supplements</text>
+<text x="378" y="198" font-family="Inter, Arial, sans-serif" font-size="11.5" font-style="italic" fill="#0F7A4B">Closed bottles, up high; bags zipped</text>
+<rect x="24" y="220" width="330" height="140" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="36" y="242" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Garage, basement, shed</text>
+<text x="36" y="262" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Bromethalin rodenticides</text>
+<text x="36" y="278" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Anticoagulant rodenticides</text>
+<text x="36" y="348" font-family="Inter, Arial, sans-serif" font-size="11.5" font-style="italic" fill="#0F7A4B">Bait where a pet cannot reach; keep the package</text>
+<rect x="366" y="220" width="330" height="140" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
+<text x="378" y="242" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Anywhere it is stored</text>
+<text x="378" y="262" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Marijuana</text>
+<text x="378" y="348" font-family="Inter, Arial, sans-serif" font-size="11.5" font-style="italic" fill="#0F7A4B">Store like the human medications</text>
+<text x="24" y="388" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">If a pet eats any of these, call your veterinarian or a pet poison helpline now (numbers in the article).</text>
+<text x="24" y="403" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Road salt, antifreeze, and plants were not on that list; that does not make them safe. Not veterinary advice.</text>
+</svg>
