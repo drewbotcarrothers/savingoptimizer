@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative points value against a higher dispensing fee</title>
+  <desc>An illustrative extra dispensing fee of 4 dollars a fill, 12 times a year, is 48 dollars. An illustrative points conversion of 12 dollars does not cover that gap. Neither figure is a PC Optimum rate or a pharmacy quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">A bonus has to beat the extra fee, in dollars</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Both bars are illustrative. This is not a points-per-dollar rate and not a fee survey.</text>
+  <line x1="80" y1="300" x2="660" y2="300" stroke="#E5E7EB"/>
+  <rect x="160" y="100" width="140" height="200" fill="#6B7280"/>
+  <text x="230" y="196" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$48</text>
+  <text x="230" y="324" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Extra fees</text>
+  <text x="230" y="344" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$4 x 12 fills</text>
+  <rect x="400" y="250" width="140" height="50" fill="#0F7A4B"/>
+  <text x="470" y="280" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$12</text>
+  <text x="470" y="324" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Illustrative points</text>
+  <text x="470" y="344" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">if they convert to $12</text>
+  <text x="24" y="382" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$48 minus $12 is $36 still paid for the higher fee. Change either input and the gap changes.</text>
+  <text x="24" y="404" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Where the regulator bans points on prescriptions, the green bar on the prescription itself is $0.</text>
+</svg>

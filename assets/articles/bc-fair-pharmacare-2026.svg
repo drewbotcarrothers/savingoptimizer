@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Fair PharmaCare family share on one verified income band</title>
+  <desc>For net family income from 30000.01 to 31667 dollars, the regular deductible is 650 dollars and the family maximum is 900 dollars. The family pays 100 percent until 650, then 30 percent until spending reaches 900, then nothing. The Garcia example on the plan page uses 2024 income of 30589 dollars, which sits in this band.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">One band: $30,000.01 to $31,667 net income</text>
+  <text x="24" y="50" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Regular assistance. Deductible $650. Family maximum $900. Then PharmaCare pays 100 percent.</text>
+  <line x1="70" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="70" x2="70" y2="300" stroke="#E5E7EB"/>
+  <!-- three steps of family payment rate -->
+  <rect x="90" y="90" width="170" height="210" fill="#6B7280"/>
+  <text x="175" y="180" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">You pay 100%</text>
+  <text x="175" y="202" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">until $650</text>
+  <rect x="270" y="174" width="180" height="126" fill="#0F7A4B" fill-opacity="0.55"/>
+  <text x="360" y="230" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">You pay 30%</text>
+  <text x="360" y="250" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">PharmaCare pays 70%</text>
+  <rect x="460" y="260" width="180" height="40" fill="#0F7A4B"/>
+  <text x="550" y="285" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">You pay 0%</text>
+  <text x="175" y="324" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">To the deductible</text>
+  <text x="360" y="324" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Until you have paid $900</text>
+  <text x="550" y="324" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rest of the year</text>
+  <text x="24" y="364" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">The plan page's Garcia family, 2024 income $30,589, is in this band: deductible $650, maximum $900.</text>
+  <text x="24" y="386" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Born before 1940 uses a different table and 75 percent, not 70. Unregistered families default to a $10,000 deductible.</text>
+</svg>
