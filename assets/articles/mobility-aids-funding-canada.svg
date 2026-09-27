@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Order for paying for a mobility aid</title>
+  <desc>Five steps with no device price: assess the need, apply to the public program before you buy, consider a loan or ownership of used equipment, then benefits, then a tax credit.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Before you pay a retail price</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">No walker or wheelchair price. Ontario ADP pays nothing if you buy first.</text>
+  <rect x="48" y="78" width="624" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="68" y="100" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">1. Needs assessment</text>
+  <text x="68" y="120" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">An ADP-registered therapist in Ontario, or an AADL authorizer in Alberta.</text>
+  <line x1="360" y1="130" x2="360" y2="142" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="48" y="142" width="624" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="68" y="164" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">2. Public program</text>
+  <text x="68" y="184" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Apply and be approved before anyone orders the aid.</text>
+  <line x1="360" y1="194" x2="360" y2="206" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="48" y="206" width="624" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="68" y="228" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">3. Loan or used</text>
+  <text x="68" y="248" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Red Cross is not in Ontario. Do not buy equipment a program still owns.</text>
+  <line x1="360" y1="258" x2="360" y2="270" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="48" y="270" width="624" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="68" y="292" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">4. Benefits and other funders</text>
+  <text x="68" y="312" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Workplace plan or VAC, only for the share you still pay.</text>
+  <line x1="360" y1="322" x2="360" y2="334" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="48" y="334" width="624" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="68" y="356" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">5. Tax credit</text>
+  <text x="68" y="376" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Walking aids need a prescription on the CRA list. Confirm the year you file.</text>
+  <text x="24" y="408" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 27 Sep 2026.</text>
+
+</svg>

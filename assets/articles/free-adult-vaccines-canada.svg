@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Adult vaccine eligibility by age in Ontario and British Columbia</title>
+  <desc>Sourced public programs only. Ontario flu from 6 months, shingles at 65 to 70, pneumococcal at 65, and RSV at 75 or for listed adults 60 to 74. British Columbia funds RSV at 75 and for Indigenous adults 60 and older, and does not fund Shingrix for the general public.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Who the public program names</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario pages opened 27 Sep 2026. B.C. adult sheet dated 10 Sep 2026 and RSV page dated 22 Sep 2026. No cash price.</text>
+  <line x1="48" y1="78" x2="48" y2="340" stroke="#0F7A4B" stroke-width="3"/>
+  <circle cx="48" cy="96" r="6" fill="#0F7A4B"/>
+  <text x="68" y="92" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">6 months, Ontario</text>
+  <text x="68" y="110" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Flu, if you live, work, or go to school in Ontario. General public scheduled from 26 Oct 2026.</text>
+  <circle cx="48" cy="150" r="6" fill="#0F7A4B"/>
+  <text x="68" y="146" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">60</text>
+  <text x="68" y="164" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario RSV if 60 to 74 and on the listed conditions. B.C. RSV for Indigenous adults 60 and older.</text>
+  <circle cx="48" cy="204" r="6" fill="#0F7A4B"/>
+  <text x="68" y="200" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">65</text>
+  <text x="68" y="218" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario: pneumococcal, and shingles only through age 70 if you still qualify. B.C.: PCV20 marked free at 65.</text>
+  <circle cx="48" cy="258" r="6" fill="#0F7A4B"/>
+  <text x="68" y="254" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">75</text>
+  <text x="68" y="272" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario RSV at 75 and older. B.C. RSV at 75 and older. Ontario shingles is not an open offer at 75.</text>
+  <text x="24" y="320" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">B.C. does not fund Shingrix for the general public. First Nations Health Benefits can cover it for Elders 60 and older.</text>
+  <text x="24" y="344" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">B.C. flu was not marked free or paid on a page opened for this chart.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 27 Sep 2026. Eligibility is the program page, not this drawing. Not medical advice.</text>
+
+</svg>

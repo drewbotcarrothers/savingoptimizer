@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative paramedical maximum still unused</title>
+  <desc>Worked example only. Massage has $260 left, physiotherapy has $0 left, and chiropractic has $300 left. Not a benefits booklet.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Illustrative amount still unused</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">A made-up plan. Write your own maximum, per-visit cap, and visits before you book.</text>
+  <text x="24" y="120" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Massage</text>
+  <rect x="160" y="100" width="347" height="28" fill="#0F7A4B"/>
+  <text x="176" y="119" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$260 left</text>
+  <text x="24" y="176" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Physiotherapy</text>
+  <rect x="160" y="156" width="8" height="28" fill="#6B7280"/>
+  <text x="180" y="175" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$0 left</text>
+  <text x="24" y="232" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Chiropractic</text>
+  <rect x="160" y="212" width="400" height="28" fill="#0F7A4B"/>
+  <text x="176" y="231" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$300 left</text>
+  <text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Massage: $500 maximum, 3 visits at the $80 per-visit cap, $240 used.</text>
+  <text x="24" y="304" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Physiotherapy: $750 maximum, 8 visits at a $100 cap, the maximum is used up.</text>
+  <text x="24" y="328" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Chiropractic: $400 maximum, 2 visits at $50, $100 used. Bar length: $300 = 400 px.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 27 Sep 2026. No insurer maximum was opened.</text>
+
+</svg>
