@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Illustrative stack of three one-dollar budget units</title>
+  <desc>One stacked bar made of three equal parts. Each part is one dollar, an illustrative unit, not a clinic price. Meds plus visits plus diet equals three dollars only if each line the reader enters is one dollar. The 2025 OVMA canine and feline PDFs did not open, so no association total is drawn.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A" text-anchor="start">Add your three lines. These blocks are one dollar each.</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Illustrative units so the sum is visible. Replace each dollar with your quote.</text>
+<rect x="250" y="90" width="180" height="70" fill="#0F7A4B"/>
+<rect x="250" y="160" width="180" height="70" fill="#6B7280"/>
+<rect x="250" y="230" width="180" height="70" fill="#E5E7EB" stroke="#6B7280"/>
+  <text x="340" y="132" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Meds, $1</text>
+  <text x="340" y="202" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Visits, $1</text>
+  <text x="340" y="272" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A" text-anchor="middle">Diet, $1</text>
+  <text x="450" y="132" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Your prescription line</text>
+  <text x="450" y="202" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Your visit line</text>
+  <text x="450" y="272" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Your food line</text>
+  <text x="24" y="330" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">1 + 1 + 1 = 3. That three dollars is the arithmetic, not a senior-pet budget.</text>
+  <text x="24" y="352" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">The OVMA 2025 canine and feline PDFs returned an error on 27 Sep 2026 and are not used.</text>
+  <text x="24" y="374" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Lifetime totals, dental, insurance, and medications stay on the guides linked in the article.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="start">Saving Optimizer, 27 Sep 2026. Not veterinary advice.</text></svg>

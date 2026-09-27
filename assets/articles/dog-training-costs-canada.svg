@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Three equal bars because no class price was opened</title>
+  <desc>Three bars of equal height labelled group classes, private sessions, and board-and-train. Equal height means no price was opened on 27 Sep 2026. It does not mean the formats cost the same. The total is sessions times the price on the quote.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A" text-anchor="start">Same height on purpose. No format had a price.</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Write sessions times the price you were quoted. These bars are not a market comparison.</text>
+<rect x="80" y="150" width="140" height="130" fill="#0F7A4B"/>
+<rect x="290" y="150" width="140" height="130" fill="#6B7280"/>
+<rect x="500" y="150" width="140" height="130" fill="#E5E7EB" stroke="#6B7280"/>
+  <text x="150" y="220" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">Your quote</text>
+  <text x="360" y="220" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">Your quote</text>
+  <text x="570" y="220" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">Your quote</text>
+  <text x="150" y="310" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">Group</text>
+  <text x="360" y="310" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">Private</text>
+  <text x="570" y="310" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">Board-and-train</text>
+  <text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">CCPDT practice-test fee of 105 dollars is an exam product, not a class, and is not a bar.</text>
+  <text x="24" y="370" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">If a package costs less than sessions times the single price, that gap is the only saving to write down.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="start">Saving Optimizer. CCPDT trainer page checked 27 Sep 2026. No Canadian class rate was opened.</text></svg>

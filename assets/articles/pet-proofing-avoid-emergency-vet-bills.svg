@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Twelve-month ring with no toxin assigned to a month</title>
+  <desc>A ring labelled with the twelve months and a centre that says the Pet Poison Helpline top 10 is year-round on the list that opened. The ten items are chocolate, grapes and raisins, garlic and onions, bromethalin, xylitol, ibuprofen, vitamin D3 supplements, marijuana, anticoagulant rodenticides, and acetaminophen. Road salt, antifreeze, and lilies were not on that list and are not placed on a month.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A" text-anchor="start">The top 10 toxins were not assigned to a month</text>
+<circle cx="250" cy="220" r="120" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="28"/>
+<circle cx="250" cy="220" r="78" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="250" y="210" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B" text-anchor="middle">Year-round</text>
+  <text x="250" y="230" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">on the list</text>
+  <text x="250.0" y="72.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Jan</text>
+  <text x="324.0" y="91.8282402399031" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Feb</text>
+  <text x="378.17175976009696" y="146.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Mar</text>
+  <text x="398.0" y="220.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Apr</text>
+  <text x="378.17175976009696" y="294.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">May</text>
+  <text x="324.0" y="348.1717597600969" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Jun</text>
+  <text x="250.0" y="368.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Jul</text>
+  <text x="176.00000000000003" y="348.17175976009696" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Aug</text>
+  <text x="121.82824023990307" y="294.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Sep</text>
+  <text x="102.0" y="220.00000000000003" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Oct</text>
+  <text x="121.8282402399031" y="146.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Nov</text>
+  <text x="175.99999999999994" y="91.82824023990312" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#6B7280" text-anchor="middle">Dec</text>
+  <text x="430" y="110" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="start">Opened list, not a calendar:</text>
+  <text x="430" y="136" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="start">Chocolate, grapes, raisins,</text>
+  <text x="430" y="156" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="start">garlic, onions, bromethalin,</text>
+  <text x="430" y="176" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="start">xylitol, ibuprofen, vitamin D3,</text>
+  <text x="430" y="196" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="start">marijuana, anticoagulant</text>
+  <text x="430" y="216" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="start">rodenticides, acetaminophen.</text>
+  <text x="430" y="248" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Salt, antifreeze, and lilies</text>
+  <text x="430" y="268" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">were not on that list.</text>
+  <text x="24" y="380" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Pet Poison Helpline top 10, checked 27 Sep 2026. A month is not printed beside any item.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="start">Saving Optimizer. Call the helpline or a veterinarian. Not veterinary advice.</text></svg>
