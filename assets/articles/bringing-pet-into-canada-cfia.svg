@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Flow from origin check to border inspection</title>
+  <desc>Four steps. Check the country of origin and the animal's age and purpose, obtain the veterinary certificate the Import Reference Document requires for that case, book travel only after the papers match, then be ready for border inspection. Personal pet dogs are not subject to post-import quarantine. Commercial dogs under eight months are a permit path.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A" text-anchor="start">Papers before the ticket</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Import Reference Document, last amended 8 Oct 2025. Fees, if an inspection is charged, are in the table.</text>
+<rect x="36" y="100" width="150" height="100" rx="6" fill="#0F7A4B"/>
+<rect x="206" y="100" width="150" height="100" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+<rect x="376" y="100" width="150" height="100" rx="6" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<rect x="546" y="100" width="140" height="100" rx="6" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+  <text x="111" y="140" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1. Origin</text>
+  <text x="111" y="162" font-family="Inter, Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle">age, purpose</text>
+  <text x="281" y="140" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B" text-anchor="middle">2. Certificate</text>
+  <text x="281" y="162" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">rabies or RNATT</text>
+  <text x="451" y="140" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">3. Travel</text>
+  <text x="451" y="162" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">after the papers</text>
+  <text x="616" y="140" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">4. Border</text>
+  <text x="616" y="162" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">inspection</text>
+  <text x="24" y="240" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">A dog under three months does not need a rabies vaccination for the import rule in that document.</text>
+  <text x="24" y="262" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Pet dogs are not subject to post-import quarantine. Commercial dogs under eight months are excluded</text>
+  <text x="24" y="284" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">from that pet section and need a permit. High-risk commercial dogs have been refused since 28 Sep 2022.</text>
+  <text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Clinic prices for the certificate, and a transporter's quote, were not on the CFIA pages.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="start">Saving Optimizer. CFIA import reference and fees notice, checked 27 Sep 2026.</text></svg>

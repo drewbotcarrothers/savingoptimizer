@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Flow from booking a pet spot to airport check-in</title>
+  <desc>Four steps in order. Book the pet spot with the airline, check the carrier against that airline's printed size, gather documents for the border you will actually cross, then check in with an agent. Fees are in the article table, not in this diagram.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A" text-anchor="start">Book the spot before you argue with the carrier</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Order on the airline pages. Dollars stay in the table.</text>
+<rect x="36" y="90" width="140" height="88" rx="6" fill="#0F7A4B"/>
+<rect x="206" y="90" width="140" height="88" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+<rect x="376" y="90" width="140" height="88" rx="6" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+<rect x="546" y="90" width="140" height="88" rx="6" fill="#FFFFFF" stroke="#6B7280" stroke-width="2"/>
+  <text x="106" y="128" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1. Book</text>
+  <text x="106" y="150" font-family="Inter, Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle">the pet spot</text>
+  <text x="276" y="128" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B" text-anchor="middle">2. Carrier</text>
+  <text x="276" y="150" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">size check</text>
+  <text x="446" y="128" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">3. Documents</text>
+  <text x="446" y="150" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">for that border</text>
+  <text x="616" y="128" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">4. Agent</text>
+  <text x="616" y="150" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">check-in</text>
+  <text x="176" y="140" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#6B7280" text-anchor="middle">→</text>
+  <text x="346" y="140" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#6B7280" text-anchor="middle">→</text>
+  <text x="516" y="140" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#6B7280" text-anchor="middle">→</text>
+  <text x="24" y="220" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Air Canada: register with reservations. Within 24 hours of booking, a pet that cannot be</text>
+  <text x="24" y="240" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">accommodated is the window the page ties to a refund without charge.</text>
+  <text x="24" y="268" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">WestJet: request space as soon as the booking is done, and at least 48 hours before departure.</text>
+  <text x="24" y="296" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Online and kiosk check-in is not available for an Air Canada pet. See an agent.</text>
+  <text x="24" y="324" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">A domestic flight inside Canada is not a CFIA import. Entering Canada is a different checklist.</text>
+  <text x="24" y="352" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="start">Cargo prices were not printed on either airline page opened 27 Sep 2026.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="start">Saving Optimizer. Air Canada pets page and WestJet pets and fees pages, checked 27 Sep 2026.</text></svg>
