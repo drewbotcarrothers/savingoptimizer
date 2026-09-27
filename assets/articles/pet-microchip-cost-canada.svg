@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Flow from a microchip implant to a reunion</title>
+  <desc>Five steps: implant the chip, register it, update contact details, scan the chip, reunite. The chip is not GPS. Checked 27 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Implant, register, update, scan, reunite</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A chip stores a number. It does not broadcast a location.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <rect x="24" y="120" width="120" height="72" rx="8" fill="#0F7A4B"/>
+    <text x="84" y="152" text-anchor="middle" fill="#FFFFFF" font-weight="700">Implant</text>
+    <text x="84" y="170" text-anchor="middle" fill="#FFFFFF" font-size="11">Ask the fee</text>
+    <polygon points="152,156 168,156 168,148 180,156 168,164 168,156" fill="#6B7280"/>
+    <rect x="188" y="120" width="120" height="72" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="248" y="162" text-anchor="middle" font-weight="700">Register</text>
+    <polygon points="316,156 332,156 332,148 344,156 332,164 332,156" fill="#6B7280"/>
+    <rect x="352" y="120" width="120" height="72" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="412" y="162" text-anchor="middle" font-weight="700">Update</text>
+    <polygon points="480,156 496,156 496,148 508,156 496,164 496,156" fill="#6B7280"/>
+    <rect x="516" y="120" width="120" height="72" rx="8" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+    <text x="576" y="152" text-anchor="middle" font-weight="700">Scan</text>
+    <text x="576" y="170" text-anchor="middle" font-size="11" fill="#6B7280">Not GPS</text>
+    <polygon points="576,200 576,228 568,228 576,244 584,228 576,228" fill="#6B7280"/>
+    <rect x="456" y="252" width="240" height="80" rx="8" fill="#0F7A4B"/>
+    <text x="576" y="286" text-anchor="middle" fill="#FFFFFF" font-weight="700">Reunite</text>
+    <text x="576" y="306" text-anchor="middle" fill="#FFFFFF" font-size="11">Registry calls the number on file</text>
+  </g>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Ontario SPCA implant fee and 24Petwatch registry page opened 27 Sep 2026.</text>
+</svg>

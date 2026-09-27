@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Conceptual premium paths for entry-age and age-rated pricing</title>
+  <desc>Two conceptual curves over years on a policy. The entry-age path is nearly flat. The age-rated path rises. The vertical axis has no dollar amounts and no percentages. Not a forecast and not an insurer rule. Checked 27 Sep 2026.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Conceptual premium path, not a quote</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Shapes only. The vertical axis has no dollars and no percents.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <line x1="24" y1="78" x2="48" y2="78" stroke="#6B7280" stroke-width="3"/>
+    <text x="56" y="82">Entry-age pattern (flatter)</text>
+    <line x1="280" y1="78" x2="304" y2="78" stroke="#0F7A4B" stroke-width="3"/>
+    <text x="312" y="82">Age-rated pattern (rises with age)</text>
+  </g>
+  <line x1="80" y1="110" x2="80" y2="330" stroke="#E5E7EB"/>
+  <line x1="80" y1="330" x2="680" y2="330" stroke="#E5E7EB"/>
+  <line x1="80" y1="220" x2="680" y2="220" stroke="#E5E7EB"/>
+  <line x1="80" y1="110" x2="680" y2="110" stroke="#E5E7EB"/>
+  <text x="70" y="114" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Higher</text>
+  <text x="70" y="334" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Lower</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
+    <text x="80" y="350" text-anchor="middle">1</text>
+    <text x="147" y="350" text-anchor="middle">2</text>
+    <text x="213" y="350" text-anchor="middle">3</text>
+    <text x="280" y="350" text-anchor="middle">4</text>
+    <text x="347" y="350" text-anchor="middle">5</text>
+    <text x="413" y="350" text-anchor="middle">6</text>
+    <text x="480" y="350" text-anchor="middle">7</text>
+    <text x="547" y="350" text-anchor="middle">8</text>
+    <text x="613" y="350" text-anchor="middle">9</text>
+    <text x="680" y="350" text-anchor="middle">10</text>
+    <text x="380" y="372" text-anchor="middle">Year on the policy (illustrative spacing)</text>
+  </g>
+  <polyline fill="none" stroke="#6B7280" stroke-width="3" points="80,280 147,278 213,275 280,272 347,268 413,264 480,260 547,255 613,250 680,245"/>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="80,280 147,268 213,252 280,232 347,208 413,182 480,154 547,128 613,108 680,96"/>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">NAPHIA does not assign these shapes to an insurer. Read the contract. Checked 27 Sep 2026.</text>
+</svg>
