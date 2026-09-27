@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Ontario home care from referral to a private top-up</title>
+  <desc>Four steps from the provincial home and community care page: referral, assessment, care plan, then review or a private top-up. No hourly rate.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Funded plan before a private invoice</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Ontario only. Call 1-833-515-1234. No hour entitlement and no hourly rate on this chart.</text>
+  <rect x="48" y="78" width="624" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="68" y="100" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">1. Referral</text>
+  <text x="68" y="120" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">You call, or the hospital team calls, Ontario Health atHome.</text>
+  <line x1="360" y1="130" x2="360" y2="142" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="48" y="142" width="624" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="68" y="164" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">2. Assessment</text>
+  <text x="68" y="184" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">A coordinator reviews your needs and may visit the home.</text>
+  <line x1="360" y1="194" x2="360" y2="206" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="48" y="206" width="624" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="68" y="228" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">3. Care plan</text>
+  <text x="68" y="248" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Eligible services are scheduled. Hours are whatever the plan writes down.</text>
+  <line x1="360" y1="258" x2="360" y2="270" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="48" y="270" width="624" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="68" y="292" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">4. Review or private top-up</text>
+  <text x="68" y="312" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Needs can be reassessed. Private pay is for what the plan does not include.</text>
+  <text x="24" y="360" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Complain to Ontario Health atHome within the deadlines on the provincial page before you treat a refusal as final.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 27 Sep 2026. Page updated 5 May 2026.</text>
+
+</svg>
