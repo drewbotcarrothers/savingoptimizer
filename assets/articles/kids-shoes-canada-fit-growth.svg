@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: shoes in one year</title>
+  <desc>Three made-up pair counts and made-up prices. Example with made-up inputs. 3 x $45 = $135. 2 x $55 = $110. 1 x $70 = $70.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: shoes in one year</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Three made-up pair counts and made-up prices.</text>
+  <text x="24" y="114" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">3 pairs at $45</text>
+  <rect x="250" y="96" width="400" height="28" fill="#6B7280"/>
+  <text x="262" y="115" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$135</text>
+  <text x="24" y="176" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">2 pairs at $55</text>
+  <rect x="250" y="158" width="326" height="28" fill="#F59E0B"/>
+  <text x="262" y="177" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$110</text>
+  <text x="24" y="238" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">1 pair at $70</text>
+  <rect x="250" y="220" width="207" height="28" fill="#0F7A4B"/>
+  <text x="262" y="239" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$70</text>
+  <text x="24" y="318" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs. 3 x $45 = $135. 2 x $55 = $110. 1 x $70 = $70.</text>
+  <text x="24" y="338" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Not the Canadian Paediatric Society growth averages.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+</svg>
