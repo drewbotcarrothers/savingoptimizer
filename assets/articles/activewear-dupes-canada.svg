@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: unnamed premium and budget legging scores</title>
+  <desc>Example with made-up inputs. Scores from 1 to 5 are invented for gusset, seams, opacity, and waistband. They are not a brand test and not a lululemon score.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="34" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example spec scores, two unnamed pairs</text>
+  <text x="24" y="56" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Grey is an imagined premium pair. Green is an imagined budget pair.</text>
+  <text x="200" y="88" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Premium, made up</text>
+  <text x="420" y="88" font-family="Inter, Arial, sans-serif" font-size="12" fill="#0F7A4B">Budget, made up</text>
+  <text x="24" y="124" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Gusset</text>
+  <rect x="160" y="106" width="200" height="18" fill="#6B7280"/>
+  <rect x="380" y="106" width="120" height="18" fill="#0F7A4B"/>
+  <text x="24" y="164" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Seams</text>
+  <rect x="160" y="146" width="160" height="18" fill="#6B7280"/>
+  <rect x="380" y="146" width="120" height="18" fill="#0F7A4B"/>
+  <text x="24" y="204" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Opacity</text>
+  <rect x="160" y="186" width="200" height="18" fill="#6B7280"/>
+  <rect x="380" y="186" width="80" height="18" fill="#0F7A4B"/>
+  <text x="24" y="244" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Waistband</text>
+  <rect x="160" y="226" width="160" height="18" fill="#6B7280"/>
+  <rect x="380" y="226" width="160" height="18" fill="#0F7A4B"/>
+  <text x="24" y="290" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Scale: 5 points is 200 px. Invented scores: premium 5, 4, 5, 4. Budget 3, 3, 2, 4.</text>
+  <text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">A real squat test is pass or fail. Do not treat these bars as a product review.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. No legging was scored. No brand ranking.</text>
+</svg>
