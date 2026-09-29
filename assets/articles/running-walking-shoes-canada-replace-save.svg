@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: cost per 100 kilometres</title>
+  <desc>Example with made-up inputs. A made-up current model at 160 dollars over a made-up 400 kilometres costs 40 dollars per 100 kilometres. A made-up previous-season model at 90 dollars over the same made-up distance costs 22 dollars and 50 cents per 100 kilometres. The distance is not a replacement rule.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: cost per 100 km</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The 400 km lifespan is made up. It is not a rule for when to replace a shoe.</text>
+  <text x="24" y="108" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Current, $160</text>
+  <rect x="180" y="90" width="320" height="28" fill="#6B7280"/>
+  <text x="508" y="110" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$40 / 100 km</text>
+  <text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Previous, $90</text>
+  <rect x="180" y="160" width="180" height="28" fill="#0F7A4B"/>
+  <text x="368" y="180" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$22.50 / 100 km</text>
+  <text x="24" y="240" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$160 over 400 km is $40 per 100 km. $90 over 400 km is $22.50 per 100 km.</text>
+  <text x="24" y="264" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">If the cheaper shoe is abandoned early, redo the division with the wears you got.</text>
+  <text x="24" y="296" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">No model is named. Replace on wear signs, not on this made-up distance.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: cost per formal event</title>
+  <desc>Example with made-up inputs. A made-up rental at 120 dollars for one event is 120 dollars per event. A made-up 300 dollar purchase worn three times is 100 dollars per event. A made-up 75 dollar used purchase worn three times is 25 dollars per event.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: cost per event</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Not a rental quote. Longer bar means a higher cost per event.</text>
+  <text x="24" y="104" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Rental, once</text>
+  <rect x="170" y="86" width="360" height="26" fill="#6B7280"/>
+  <text x="538" y="104" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$120</text>
+  <text x="24" y="160" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Buy new, 3 times</text>
+  <rect x="170" y="142" width="300" height="26" fill="#0F7A4B"/>
+  <text x="478" y="160" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$100</text>
+  <text x="24" y="216" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Buy used, 3 times</text>
+  <rect x="170" y="198" width="75" height="26" fill="#F59E0B"/>
+  <text x="253" y="216" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$25</text>
+  <text x="24" y="270" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$120 once is $120. $300 over 3 events is $100. $75 over 3 events is $25.</text>
+  <text x="24" y="294" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Damage, late fees, and cleaning are not in these bars. Read the contract.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+</svg>

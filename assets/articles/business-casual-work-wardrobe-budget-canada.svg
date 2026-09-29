@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: outfit combinations</title>
+  <desc>Example with made-up inputs. Two tops and three bottoms make 6 outfits. Three tops and four bottoms make 12. Three tops, four bottoms, and one optional layer make 24. The bars show those counts. They are not prices.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: outfit counts</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Piece lists are made up. A combination counts only if you would wear it.</text>
+  <text x="24" y="100" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">2 tops x 3 bottoms</text>
+  <rect x="200" y="82" width="70" height="26" fill="#6B7280"/>
+  <text x="278" y="100" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">6 outfits</text>
+  <text x="24" y="156" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">3 tops x 4 bottoms</text>
+  <rect x="200" y="138" width="140" height="26" fill="#0F7A4B"/>
+  <text x="348" y="156" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">12 outfits</text>
+  <text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">3 x 4, plus a layer</text>
+  <rect x="200" y="194" width="280" height="26" fill="#F59E0B"/>
+  <text x="488" y="212" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">24 outfits</text>
+  <text x="24" y="268" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">2 times 3 is 6. 3 times 4 is 12. With or without one layer, 12 times 2 is 24.</text>
+  <text x="24" y="292" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Drop any piece you will not wear before you multiply. The amber bar is the layer case.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+</svg>

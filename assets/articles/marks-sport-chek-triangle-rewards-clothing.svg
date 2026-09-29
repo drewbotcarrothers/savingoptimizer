@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: bonus CT Money on a boot</title>
+  <desc>Example with made-up inputs. A made-up 200 dollar boot earns a made-up 1 percent base, which is 2 dollars, versus a made-up 5-times bonus added on top, which is 12 dollars in total. Redemption is shown at 1 dollar for 1 dollar. These rates are not the published 0.4 percent Triangle Rewards column.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: a $200 boot</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Made-up 1 percent base. Not the published 0.4 percent rate. Redeemed $1 for $1.</text>
+  <text x="160" y="100" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Base only</text>
+  <rect x="160" y="112" width="40" height="28" fill="#6B7280"/>
+  <text x="208" y="132" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$2</text>
+  <text x="160" y="176" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Base plus made-up 5x bonus</text>
+  <rect x="160" y="188" width="40" height="28" fill="#6B7280"/>
+  <rect x="200" y="188" width="200" height="28" fill="#0F7A4B"/>
+  <text x="408" y="208" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$12</text>
+  <rect x="24" y="250" width="14" height="14" fill="#6B7280"/>
+  <text x="44" y="262" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Made-up base, $2</text>
+  <rect x="200" y="250" width="14" height="14" fill="#0F7A4B"/>
+  <text x="220" y="262" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Made-up bonus, $10, added on top</text>
+  <text x="24" y="300" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Arithmetic: 1 percent of $200 is $2. Five times that base is $10 of bonus.</text>
+  <text x="24" y="320" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$2 plus $10 is $12. The program's real example is different: $8 bonus on $100 at 20 times.</text>
+  <text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Replace the made-up rate with the offer on your account. Gift cards do not qualify.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+</svg>
