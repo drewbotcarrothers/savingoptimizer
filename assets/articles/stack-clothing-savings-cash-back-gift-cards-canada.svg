@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: a clothing stack from $100 to $64.80</title>
+  <desc>Example with made-up inputs. Sticker $100, sale 20 percent leaves $80, code 10 percent of $80 leaves $72, a gift card covering 5 percent of $72 leaves $68.40 to pay, a portal at 4 percent of $72 is $2.88 so the net is $65.52, and points at 1 percent of $72 are $0.72 so the net is $64.80. Every rate is made up.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: one clothing stack</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Every rate below is made up. Not a store price and not a live cash-back rate.</text>
+  <line x1="48" y1="300" x2="680" y2="300" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="56" y="100.0" width="78" height="200.0" fill="#0F7A4B"/>
+  <text x="95.0" y="92.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A" text-anchor="middle">$100</text>
+  <text x="95.0" y="322" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A" text-anchor="middle">Sticker</text>
+  <text x="95.0" y="338" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">made up</text>
+  <rect x="162" y="140.0" width="78" height="160.0" fill="#0F7A4B"/>
+  <text x="201.0" y="132.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A" text-anchor="middle">$80</text>
+  <text x="201.0" y="322" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A" text-anchor="middle">Sale 20%</text>
+  <text x="201.0" y="338" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">made up</text>
+  <rect x="268" y="156.0" width="78" height="144.0" fill="#0F7A4B"/>
+  <text x="307.0" y="148.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A" text-anchor="middle">$72</text>
+  <text x="307.0" y="322" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A" text-anchor="middle">Code 10%</text>
+  <text x="307.0" y="338" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">made up</text>
+  <rect x="374" y="163.2" width="78" height="136.8" fill="#0F7A4B"/>
+  <text x="413.0" y="155.2" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A" text-anchor="middle">$68.40</text>
+  <text x="413.0" y="322" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A" text-anchor="middle">Card 5%</text>
+  <text x="413.0" y="338" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">made up</text>
+  <rect x="480" y="169.0" width="78" height="131.0" fill="#0F7A4B"/>
+  <text x="519.0" y="161.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A" text-anchor="middle">$65.52</text>
+  <text x="519.0" y="322" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A" text-anchor="middle">Portal 4%</text>
+  <text x="519.0" y="338" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">made up</text>
+  <rect x="586" y="170.4" width="78" height="129.6" fill="#0F7A4B"/>
+  <text x="625.0" y="162.4" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A" text-anchor="middle">$64.80</text>
+  <text x="625.0" y="322" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A" text-anchor="middle">Points 1%</text>
+  <text x="625.0" y="338" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">made up</text>
+  <text x="24" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Sale is 20% of $100. Code is 10% of $80. Card covers 5% of $72.</text>
+  <text x="24" y="386" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Portal is 4% of $72. Points are 1% of $72. All five rates are made up.</text>
+  <text x="24" y="408" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+</svg>

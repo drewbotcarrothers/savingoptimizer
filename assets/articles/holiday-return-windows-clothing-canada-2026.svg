@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Holiday calendar from 1 Nov 2026 to 31 Jan 2027</title>
+  <desc>Black Friday is Friday 27 Nov 2026. Boxing Day is Saturday 26 Dec 2026. No retailer return window is drawn. Marks are calendar dates only.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="36" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Holiday calendar: 1 Nov 2026 to 31 Jan 2027</text>
+  <text x="36" y="58" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Calendar dates only. No retailer return window is drawn.</text>
+  <line x1="48" y1="210" x2="680" y2="210" stroke="#E5E7EB" stroke-width="6" stroke-linecap="round"/>
+  <line x1="48" y1="196" x2="48" y2="224" stroke="#1A1A1A" stroke-width="2"/>
+  <circle cx="228.6" cy="210" r="8" fill="#0F7A4B"/>
+  <circle cx="430.0" cy="210" r="8" fill="#F59E0B"/>
+  <line x1="680" y1="196" x2="680" y2="224" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="48" y="248" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">1 Nov 2026</text>
+  <text x="228.6" y="168" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B" text-anchor="middle">Black Friday</text>
+  <text x="228.6" y="188" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">Fri 27 Nov 2026</text>
+  <text x="430.0" y="168" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A" text-anchor="middle">Boxing Day</text>
+  <text x="430.0" y="188" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">Sat 26 Dec 2026</text>
+  <text x="680" y="248" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="end">31 Jan 2027</text>
+  <text x="36" y="300" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">A 2026 purchase range or return-by date is not marked,</text>
+  <text x="36" y="322" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">because no cited retailer page stated one.</text>
+  <text x="36" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Checked 29 Sep 2026.</text>
+</svg>

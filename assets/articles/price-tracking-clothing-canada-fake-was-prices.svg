@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: a 90-day was-price against the selling price</title>
+  <desc>Example with made-up inputs. The was-price stays at $120. The selling price is $120 only on the first days, then $72 for most of the 90 days, and $58 for a short stretch. Not a store history.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="78" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: 90-day price</text>
+  <text x="78" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A was-price the jacket rarely sold at, versus the price on most days.</text>
+  <text x="78" y="64" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Vertical axis: made-up price. Horizontal axis: day.</text>
+  <line x1="78" y1="70" x2="78" y2="300" stroke="#1A1A1A" stroke-width="1.5"/>
+  <line x1="78" y1="300" x2="670" y2="300" stroke="#1A1A1A" stroke-width="1.5"/>
+  <line x1="78" y1="300.0" x2="670" y2="300.0" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="70" y="304.0" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="end">$0</text>
+  <line x1="78" y1="237.1" x2="670" y2="237.1" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="70" y="241.1" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="end">$40</text>
+  <line x1="78" y1="174.3" x2="670" y2="174.3" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="70" y="178.3" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="end">$80</text>
+  <line x1="78" y1="111.4" x2="670" y2="111.4" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="70" y="115.4" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="end">$120</text>
+  <polyline points="78.0,111.4 660.0,111.4" fill="none" stroke="#6B7280" stroke-width="2" stroke-dasharray="6 4"/>
+  <polyline points="78.0,111.4 104.2,111.4 110.7,186.9 561.9,186.9 568.4,208.9 627.3,208.9 633.8,186.9 660.0,186.9" fill="none" stroke="#0F7A4B" stroke-width="3"/>
+  <text x="529.2" y="103.4" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Was $120</text>
+  <text x="333.0" y="176.9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Selling price</text>
+  <text x="594.6" y="224.9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">$58</text>
+  <text x="360" y="328" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Day in a made-up 90-day window</text>
+  <text x="78" y="358" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The was-price is touched only in the first days, then the selling price is $72,</text>
+  <text x="78" y="376" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">with a short stretch at $58. Not a store's history.</text>
+  <text x="78" y="402" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+</svg>
