@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Fit problem, then fix or replace</title>
+  <desc>A fit problem splits into a fixable hem, waist, or sleeve, or a structural shoulder problem. Then compare the written quote with a replacement you would wear. No dollar amounts.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Fit problem, then fix or replace</text>
+  <text x="24" y="50" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">No dollar amounts. The quote is whatever your shop writes down.</text>
+  <rect x="230" y="66" width="260" height="44" fill="#E5E7EB"/>
+  <text x="268" y="93" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Name the fit problem</text>
+  <line x1="360" y1="110" x2="360" y2="128" stroke="#6B7280" stroke-width="2"/>
+  <line x1="175" y1="128" x2="545" y2="128" stroke="#6B7280" stroke-width="2"/>
+  <line x1="175" y1="128" x2="175" y2="146" stroke="#6B7280" stroke-width="2"/>
+  <line x1="545" y1="128" x2="545" y2="146" stroke="#6B7280" stroke-width="2"/>
+  <rect x="36" y="146" width="278" height="70" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="52" y="172" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#0F7A4B">Fixable cut</text>
+  <text x="52" y="194" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Hem, waist, or sleeve</text>
+  <rect x="406" y="146" width="278" height="70" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+  <text x="422" y="172" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Structural</text>
+  <text x="422" y="194" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Shoulders, or the cloth is gone.</text>
+  <line x1="175" y1="216" x2="175" y2="236" stroke="#6B7280" stroke-width="2"/>
+  <line x1="545" y1="216" x2="545" y2="236" stroke="#6B7280" stroke-width="2"/>
+  <line x1="175" y1="236" x2="545" y2="236" stroke="#6B7280" stroke-width="2"/>
+  <line x1="360" y1="236" x2="360" y2="254" stroke="#6B7280" stroke-width="2"/>
+  <rect x="120" y="254" width="480" height="52" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="148" y="276" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Quote versus a replacement you would wear</text>
+  <text x="196" y="294" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Use the written price, not a city average.</text>
+  <line x1="360" y1="306" x2="360" y2="324" stroke="#6B7280" stroke-width="2"/>
+  <line x1="175" y1="324" x2="545" y2="324" stroke="#6B7280" stroke-width="2"/>
+  <line x1="175" y1="324" x2="175" y2="340" stroke="#6B7280" stroke-width="2"/>
+  <line x1="545" y1="324" x2="545" y2="340" stroke="#6B7280" stroke-width="2"/>
+  <rect x="36" y="340" width="278" height="44" fill="#0F7A4B"/>
+  <text x="78" y="367" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Smaller sensible spend: fix</text>
+  <rect x="406" y="340" width="278" height="44" fill="#1A1A1A"/>
+  <text x="448" y="367" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Near a replacement: replace</text>
+  <text x="24" y="408" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Decision flow. Checked 29 Sep 2026.</text>
+</svg>
