@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Seasonal pattern for clothing clearances in Canada, not a price guarantee</title>
+  <desc>A 12-month strip. Outerwear end-of-season is shaded in January and February. Swim and summer are shaded in July and August. Back-to-school is shaded in September. Holiday clothes are shaded in January. The label says seasonal pattern, not a price guarantee. No discount levels.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Seasonal pattern, not a price guarantee</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Shaded months are when that category is typically at the end of its season. Not a percent off.</text>
+  <text x="24" y="92" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Outerwear</text>
+  <text x="24" y="132" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Swim/summer</text>
+  <text x="24" y="172" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Back-to-school</text>
+  <text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Holiday</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
+    <text x="148" y="68">J</text><text x="188" y="68">F</text><text x="228" y="68">M</text><text x="268" y="68">A</text>
+    <text x="308" y="68">M</text><text x="348" y="68">J</text><text x="390" y="68">J</text><text x="428" y="68">A</text>
+    <text x="468" y="68">S</text><text x="508" y="68">O</text><text x="548" y="68">N</text><text x="588" y="68">D</text>
+  </g>
+  <g>
+    <rect x="140" y="78" width="36" height="22" fill="#0F7A4B"/>
+    <rect x="180" y="78" width="36" height="22" fill="#0F7A4B"/>
+    <rect x="220" y="78" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="260" y="78" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="300" y="78" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="340" y="78" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="380" y="78" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="420" y="78" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="460" y="78" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="500" y="78" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="540" y="78" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="580" y="78" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="140" y="118" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="180" y="118" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="220" y="118" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="260" y="118" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="300" y="118" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="340" y="118" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="380" y="118" width="36" height="22" fill="#0F7A4B"/>
+    <rect x="420" y="118" width="36" height="22" fill="#0F7A4B"/>
+    <rect x="460" y="118" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="500" y="118" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="540" y="118" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="580" y="118" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="140" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="180" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="220" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="260" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="300" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="340" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="380" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="420" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="460" y="158" width="36" height="22" fill="#0F7A4B"/>
+    <rect x="500" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="540" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="580" y="158" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="140" y="198" width="36" height="22" fill="#0F7A4B"/>
+    <rect x="180" y="198" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="220" y="198" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="260" y="198" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="300" y="198" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="340" y="198" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="380" y="198" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="420" y="198" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="460" y="198" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="500" y="198" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="540" y="198" width="36" height="22" fill="#E5E7EB"/>
+    <rect x="580" y="198" width="36" height="22" fill="#E5E7EB"/>
+  </g>
+  <rect x="140" y="250" width="16" height="16" fill="#0F7A4B"/>
+  <text x="164" y="263" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Typically end of that season</text>
+  <rect x="360" y="250" width="16" height="16" fill="#E5E7EB"/>
+  <text x="384" y="263" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Not marked as end-of-season here</text>
+  <text x="24" y="310" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">January is shaded for outerwear and for holiday clothes. July and August for swim and summer. September for back-to-school leftovers.</text>
+  <text x="24" y="334" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">November is not shaded. That is when you may need the coat, which is selection, not clearance.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Seasonal pattern, not a price guarantee.</text>
+
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: landed cost of three clothing orders</title>
+  <desc>Example with made-up inputs. A US-made cotton T-shirt with a $35 value for duty sent by courier, an Asia-made jacket with a $120 value for duty shipped by courier from a US warehouse, and a US-made synthetic parka with a $300 value for duty. Each bar splits into item value, surtax at 50 percent of value for duty only when the goods are US-origin and the line is listed, customs duty, and GST at 5 percent of value for tax. Provincial sales tax is not shown.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: three courier orders</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Bar length is Canadian dollars. GST uses the 5 percent rate in Customs Notice 26-23. Provincial tax is not in the bars.</text>
+  <rect x="24" y="68" width="14" height="14" fill="#6B7280"/>
+  <text x="42" y="80" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Item value</text>
+  <rect x="130" y="68" width="14" height="14" fill="#0F7A4B"/>
+  <text x="148" y="80" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Surtax</text>
+  <rect x="210" y="68" width="14" height="14" fill="#E5E7EB" stroke="#6B7280"/>
+  <text x="228" y="80" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">GST 5%</text>
+  <text x="300" y="80" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Customs duty is $0 on all three rows</text>
+  <text x="24" y="118" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$35 T-shirt, US-made</text>
+  <rect x="200" y="102" width="35" height="22" fill="#6B7280"/>
+  <rect x="235" y="102" width="17.5" height="22" fill="#0F7A4B"/>
+  <rect x="252.5" y="102" width="2.6" height="22" fill="#E5E7EB" stroke="#6B7280"/>
+  <text x="264" y="118" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$35 + $17.50 surtax + $0 duty + $2.63 GST</text>
+  <text x="24" y="168" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$120 jacket, Asia-made</text>
+  <rect x="200" y="152" width="120" height="22" fill="#6B7280"/>
+  <rect x="320" y="152" width="6" height="22" fill="#E5E7EB" stroke="#6B7280"/>
+  <text x="334" y="168" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$120 + $0 surtax + $0 duty + $6.00 GST</text>
+  <text x="24" y="218" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$300 parka, US-made</text>
+  <rect x="200" y="202" width="300" height="22" fill="#6B7280"/>
+  <rect x="500" y="202" width="150" height="22" fill="#0F7A4B"/>
+  <text x="520" y="217" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">$150 surtax</text>
+  <text x="24" y="248" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Scale: $1 = 1 px, so the $300 item is 300 px and the $150 surtax is 150 px. The $2.63 GST segment is 2.6 px.</text>
+  <text x="24" y="272" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Parka total on this method: $300 + $150 + $0 + $22.50 GST = $472.50. GST segment sits past the 650 px mark and is labelled here.</text>
+  <text x="24" y="296" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Surtax is 50 percent only on the two US-origin rows, and only if the garment is classified on Schedule 3. The jacket has no surtax.</text>
+  <text x="24" y="320" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The $35 row is under the $40 courier band, which remits ordinary sales tax. How that remission combines with surtax is check with CBSA or your carrier.</text>
+  <text x="24" y="344" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Duty is $0 here because of the courier band or, for US-origin goods, UST Free on these lines. Confirm classification and UST with CBSA.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026. Not a courier invoice.</text>
+
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: coat cost per wear over five winters</title>
+  <desc>Example with made-up inputs. Line chart of cost per wear against winters of use for three coat prices, $180, $360 and $540. Each winter is 50 wears. Cost per wear is price divided by total wears. No repair is included in the lines.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: cost per wear</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Price divided by 50 wears times the number of winters. Not a store price.</text>
+  <line x1="80" y1="80" x2="680" y2="80" stroke="#E5E7EB"/>
+  <line x1="80" y1="166" x2="680" y2="166" stroke="#E5E7EB"/>
+  <line x1="80" y1="253" x2="680" y2="253" stroke="#E5E7EB"/>
+  <line x1="80" y1="340" x2="680" y2="340" stroke="#E5E7EB"/>
+  <text x="24" y="84" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$12</text>
+  <text x="24" y="170" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$8</text>
+  <text x="24" y="257" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$4</text>
+  <text x="24" y="344" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$0</text>
+  <polyline fill="none" stroke="#6B7280" stroke-width="2.5" points="100,262 245,301 390,314 535,320.5 680,324.4"/>
+  <polyline fill="none" stroke="#1A1A1A" stroke-width="2.5" points="100,184 245,262 390,288 535,301 680,308.8"/>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="2.5" points="100,106 245,223 390,262 535,281.5 680,293.2"/>
+  <text x="100" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">1</text>
+  <text x="245" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">2</text>
+  <text x="390" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">3</text>
+  <text x="535" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">4</text>
+  <text x="670" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">5 winters</text>
+  <text x="100" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">$180 ends at $0.72</text>
+  <text x="250" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$360 ends at $1.44</text>
+  <text x="430" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#0F7A4B">$540 ends at $2.16</text>
+
+</svg>

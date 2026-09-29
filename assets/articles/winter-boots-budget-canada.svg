@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: boot cost per winter</title>
+  <desc>Example with made-up inputs. Bars show cost per winter for three boot prices over made-up lifespans. $70 lasting one winter is $70 a winter. $180 lasting four winters is $45 a winter. $300 lasting six winters is $50 a winter. Not store prices or test results.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: cost per winter</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Price divided by a made-up number of winters. Not a shelf price or a lab life.</text>
+  <text x="24" y="110" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$70, 1 winter</text>
+  <rect x="180" y="92" width="400" height="26" fill="#6B7280"/>
+  <text x="190" y="110" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$70 a winter</text>
+  <text x="24" y="170" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$180, 4 winters</text>
+  <rect x="180" y="152" width="257" height="26" fill="#0F7A4B"/>
+  <text x="190" y="170" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$45 a winter</text>
+  <text x="24" y="230" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$300, 6 winters</text>
+  <rect x="180" y="212" width="286" height="26" fill="#1A1A1A"/>
+  <text x="190" y="230" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$50 a winter</text>
+  <text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">$70 / 1 = $70. $180 / 4 = $45. $300 / 6 = $50. Scale: $70 = 400 px.</text>
+  <text x="24" y="304" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">In this fiction the one-winter pair costs more per winter than the other two. The lifespans are made up.</text>
+  <text x="24" y="328" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A car commute may not need the six-winter pair. A walking commute may not survive the one-winter pair.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+
+</svg>
