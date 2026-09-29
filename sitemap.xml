@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>https://savingoptimizer.com/guides/clothing.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3707,6 +3707,62 @@
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+  <!-- clothing:thrift-kids-and-care start -->
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/value-village-thrift-shopping-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/sell-clothes-online-canada-poshmark-depop.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/kids-clothing-budget-canada-sales-tax-rebate.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/work-clothes-tax-deduction-canada-cra.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/costco-clothing-canada-worth-it.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/make-clothes-last-longer-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/activewear-dupes-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/back-to-school-clothing-budget-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/clothing-budget-canada-households.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <!-- clothing:thrift-kids-and-care end -->
   <url>
     <loc>https://savingoptimizer.com/guides/articles/canadian-tire-money-scene-plus-household.html</loc>
     <lastmod>2026-09-26</lastmod>

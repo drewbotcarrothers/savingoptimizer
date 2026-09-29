@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: August full list versus a staged September list</title>
+  <desc>Example with made-up inputs. August full list is $280. September basics are $160 and a later buy is $70, together $230. Not a store price and not a tax rebate calculation.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example: buy it all in August, or stage it</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a recommended budget and not a flyer total.</text>
+  <text x="24" y="120" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">August, full list</text>
+  <rect x="220" y="100" width="420" height="28" fill="#6B7280"/>
+  <text x="236" y="119" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$280</text>
+  <text x="24" y="176" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">September basics</text>
+  <rect x="220" y="156" width="240" height="28" fill="#0F7A4B"/>
+  <text x="236" y="175" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$160</text>
+  <text x="24" y="232" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Later, if needed</text>
+  <rect x="220" y="212" width="105" height="28" fill="#0F7A4B"/>
+  <text x="232" y="231" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$70</text>
+  <text x="24" y="286" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">$160 plus $70 is $230. Bar length: $280 is 420 px. Ontario's 8 percent is not in these bars.</text>
+  <text x="24" y="310" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Replace the dollars with your list. The rebate applies only to qualifying sizes.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Rebate page updated 19 Mar 2025. Prices invented.</text>
+</svg>
