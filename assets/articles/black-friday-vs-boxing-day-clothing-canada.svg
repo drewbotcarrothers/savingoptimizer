@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Clothing sale dates from October 2026 to January 2027</title>
+  <desc>Timeline from October 2026 to January 2027 with Black Friday on 27 November 2026, Cyber Monday on 30 November 2026, Boxing Day on 26 December 2026, and January clearance marked as the month. A shaded band marks peak need for winter gear. Labels are dates only. No discount levels.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">October 2026 to January 2027</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Dates only. The shaded band is when winter gear is in use, not a sale depth.</text>
+  <rect x="70" y="150" width="580" height="36" fill="#E5E7EB"/>
+  <rect x="212" y="150" width="438" height="36" fill="#E5E7EB" stroke="#0F7A4B"/>
+  <text x="220" y="172" font-family="Inter, Arial, sans-serif" font-size="12" fill="#0F7A4B">Peak need: winter gear in use, November through January</text>
+  <line x1="70" y1="186" x2="650" y2="186" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="70" y="214" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">1 Oct</text>
+  <text x="212" y="214" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">1 Nov</text>
+  <text x="355" y="214" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">1 Dec</text>
+  <text x="498" y="214" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">1 Jan</text>
+  <text x="620" y="214" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">31 Jan</text>
+  <line x1="341" y1="150" x2="341" y2="186" stroke="#0F7A4B" stroke-width="3"/>
+  <text x="300" y="140" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Fri 27 Nov</text>
+  <text x="300" y="124" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Black Friday</text>
+  <line x1="355" y1="150" x2="355" y2="186" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="360" y="108" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Mon 30 Nov</text>
+  <text x="360" y="92" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Cyber Monday</text>
+  <line x1="478" y1="150" x2="478" y2="186" stroke="#0F7A4B" stroke-width="3"/>
+  <text x="430" y="250" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Sat 26 Dec</text>
+  <text x="430" y="266" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Boxing Day</text>
+  <rect x="498" y="150" width="152" height="36" fill="#0F7A4B" opacity="0.25"/>
+  <text x="508" y="300" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">January clearance</text>
+  <text x="508" y="316" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The month, not one national day</text>
+  <text x="24" y="360" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Scale: 1 Oct 2026 to 31 Jan 2027 is 123 days across 580 px. 27 Nov is day 58. 26 Dec is day 87.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. No discount percentages.</text>
+
+</svg>
