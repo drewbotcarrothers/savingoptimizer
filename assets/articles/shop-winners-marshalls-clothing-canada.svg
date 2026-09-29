@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>How to decide on an off-price clothing find</title>
+  <desc>Flow chart: find the item, check fabric and seams, compare the price elsewhere, decide, and keep the receipt. No savings figures.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Off-price clothing: decide, then keep the receipt</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A process. No dollar saving is shown.</text>
+  <rect x="220" y="70" width="280" height="40" rx="4" fill="#0F7A4B"/>
+  <text x="360" y="95" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">1. Find the item</text>
+  <line x1="360" y1="110" x2="360" y2="128" stroke="#1A1A1A" stroke-width="2"/>
+  <rect x="180" y="128" width="360" height="40" rx="4" fill="#FFFFFF" stroke="#1A1A1A"/>
+  <text x="360" y="153" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">2. Check fabric and seams</text>
+  <line x1="360" y1="168" x2="360" y2="186" stroke="#1A1A1A" stroke-width="2"/>
+  <rect x="150" y="186" width="420" height="40" rx="4" fill="#FFFFFF" stroke="#1A1A1A"/>
+  <text x="360" y="211" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">3. Compare the price elsewhere</text>
+  <line x1="360" y1="226" x2="360" y2="244" stroke="#1A1A1A" stroke-width="2"/>
+  <rect x="250" y="244" width="220" height="40" rx="4" fill="#1A1A1A"/>
+  <text x="360" y="269" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">4. Decide</text>
+  <line x1="360" y1="284" x2="360" y2="302" stroke="#1A1A1A" stroke-width="2"/>
+  <rect x="190" y="302" width="340" height="40" rx="4" fill="#0F7A4B"/>
+  <text x="360" y="327" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">5. Keep the receipt</text>
+  <text x="24" y="370" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">If the fabric or the seams fail, stop. A compare-at price is not step 3.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. No invented savings.</text>
+
+</svg>
