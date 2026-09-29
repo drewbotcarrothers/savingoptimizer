@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Annual manicure cost</title>
+  <desc>Example with made-up inputs. Not a salon menu.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Annual manicure cost</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs. Not a salon menu.</text>
+  <text x="24" y="86" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Dollars</text>
+  <line x1="70" y1="292.0" x2="690" y2="292.0" stroke="#E5E7EB"/>
+  <text x="64" y="296.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">0</text>
+  <line x1="70" y1="200.0" x2="690" y2="200.0" stroke="#E5E7EB"/>
+  <text x="64" y="204.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">400</text>
+  <line x1="70" y1="108.0" x2="690" y2="108.0" stroke="#E5E7EB"/>
+  <text x="64" y="112.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">800</text>
+  <rect x="190.0" y="131.0" width="100.0" height="161.0" rx="6" fill="#6B7280"/>
+  <text x="240.0" y="123.0" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$700</text>
+  <text x="240.0" y="318" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Salon gel</text>
+  <rect x="470.0" y="262.1" width="100.0" height="29.9" rx="6" fill="#0F7A4B"/>
+  <text x="520.0" y="254.1" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$130</text>
+  <text x="520.0" y="318" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Home kit and refills</text>
+  <text x="24" y="352" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ten salon visits at $70 are $700. A $90 kit plus $40 of refills is $130.</text>
+  <text x="24" y="370" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">La Rouge’s own gel price is not these bars. Saving Optimizer, 29 Sep 2026.</text>
+</svg>

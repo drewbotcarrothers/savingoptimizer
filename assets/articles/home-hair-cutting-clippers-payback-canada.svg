@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Cumulative cost over 24 months</title>
+  <desc>Example with made-up inputs. Barber visits every four weeks at $40 reach $1,040. A clipper kit and two blades end at $130. Not barber prices.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Cumulative cost over 24 months</text>
+  <text x="24" y="50" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs. Not a barber menu.</text>
+  <text x="18" y="200" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" transform="rotate(-90 18 200)">Dollars</text>
+  <line x1="90" y1="300.0" x2="660" y2="300.0" stroke="#E5E7EB"/>
+  <text x="84" y="304.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">0</text>
+  <line x1="90" y1="195.0" x2="660" y2="195.0" stroke="#E5E7EB"/>
+  <text x="84" y="199.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">600</text>
+  <line x1="90" y1="90.0" x2="660" y2="90.0" stroke="#E5E7EB"/>
+  <text x="84" y="94.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">1,200</text>
+  <polyline points="120,300.0 360,209.0 600,118.0" fill="none" stroke="#6B7280" stroke-width="3"/>
+  <polyline points="120,286.0 360,281.6 600,277.2" fill="none" stroke="#0F7A4B" stroke-width="3"/>
+  <text x="120" y="324" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Month 0</text>
+  <text x="360" y="324" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Month 12</text>
+  <text x="600" y="324" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Month 24</text>
+  <text x="360" y="348" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Months</text>
+  <line x1="180" y1="372" x2="220" y2="372" stroke="#6B7280" stroke-width="3"/>
+  <text x="228" y="376" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Barber, to $1,040</text>
+  <line x1="400" y1="372" x2="440" y2="372" stroke="#0F7A4B" stroke-width="3"/>
+  <text x="448" y="376" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Clipper kit, to $130</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">26 visits x $40. Kit $80, blade $25 at month 12 and month 24. Saving Optimizer, 29 Sep 2026.</text>
+</svg>

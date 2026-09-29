@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Two-year whitening cost</title>
+  <desc>Example with made-up inputs. Not a clinic fee.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Two-year whitening cost</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs. Not a clinic fee.</text>
+  <text x="24" y="86" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Dollars</text>
+  <line x1="70" y1="292.0" x2="690" y2="292.0" stroke="#E5E7EB"/>
+  <text x="64" y="296.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">0</text>
+  <line x1="70" y1="200.0" x2="690" y2="200.0" stroke="#E5E7EB"/>
+  <text x="64" y="204.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">500</text>
+  <line x1="70" y1="108.0" x2="690" y2="108.0" stroke="#E5E7EB"/>
+  <text x="64" y="112.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">1000</text>
+  <rect x="143.3" y="262.6" width="100.0" height="29.4" rx="6" fill="#0F7A4B"/>
+  <text x="193.3" y="254.6" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$160</text>
+  <text x="193.3" y="318" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Strips</text>
+  <rect x="330.0" y="231.3" width="100.0" height="60.7" rx="6" fill="#6B7280"/>
+  <text x="380.0" y="223.3" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$330</text>
+  <text x="380.0" y="318" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Trays</text>
+  <rect x="516.7" y="126.4" width="100.0" height="165.6" rx="6" fill="#1A1A1A"/>
+  <text x="566.7" y="118.4" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$900</text>
+  <text x="566.7" y="318" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">In-office</text>
+  <text x="24" y="352" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Strips: 4 x $40. Trays: $250 plus two $40 refills. In-office: $500 plus two $200 touch-ups.</text>
+  <text x="24" y="370" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026.</text>
+</svg>
