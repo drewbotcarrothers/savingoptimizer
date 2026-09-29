@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+
+  <title>Example with made-up inputs: cost per year of a budget dryer versus a premium dryer</title>
+  <desc>Example with made-up inputs. A made-up budget dryer at 60 dollars replaced every year costs 60 dollars a year. A made-up premium dryer at 320 dollars kept eight years costs 40 dollars a year. Not a product test.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example with made-up inputs: cost per year</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Not a shelf price and not a claim about how long a real tool lasts.</text>
+  <text x="24" y="120" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Budget, yearly</text>
+  <rect x="180" y="102" width="400" height="26" fill="#6B7280"/>
+  <text x="590" y="120" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$60</text>
+  <text x="24" y="180" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Premium, 8 years</text>
+  <rect x="180" y="162" width="267" height="26" fill="#0F7A4B"/>
+  <text x="456" y="180" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$40</text>
+  <text x="24" y="240" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Budget: $60 replaced every year for four years is $240, or $60 a year.</text>
+  <text x="24" y="262" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Premium: $320 kept eight years is $40 a year. If it fails sooner, divide again.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+
+</svg>

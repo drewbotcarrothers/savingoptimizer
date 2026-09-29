@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+
+  <title>Example with made-up inputs: percent-off versus a points multiplier on 100 dollars</title>
+  <desc>Example with made-up inputs. A made-up 10 percent off a made-up 100 dollar basket is 10 dollars. A made-up 20-times multiplier on 15 points per dollar is like 30 dollars at 10,000 points like 10 dollars. Not a seniors-day rate.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example with made-up inputs: $100 basket</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">10% and 20 times are made up. Redemption rate is from the benefits table.</text>
+  <text x="24" y="120" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">10% off</text>
+  <rect x="150" y="102" width="133" height="26" fill="#0F7A4B"/>
+  <text x="292" y="120" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$10</text>
+  <text x="24" y="180" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">20x points</text>
+  <rect x="150" y="162" width="400" height="26" fill="#F59E0B"/>
+  <text x="560" y="180" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$30</text>
+  <text x="24" y="240" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">20 times 15 points is 300 points per dollar. On $100 that is 30,000 points.</text>
+  <text x="24" y="262" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">30,000 points at $10 per 10,000 is $30. Not a Shoppers seniors offer.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+
+</svg>
