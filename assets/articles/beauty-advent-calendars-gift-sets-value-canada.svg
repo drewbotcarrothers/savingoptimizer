@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: claimed gift-set value versus pro-rated value you would use</title>
+  <desc>Example with made-up inputs. The claimed value is 400 dollars. The pro-rated value of items marked yes is 51 dollars, from 24 plus 15 plus 12. Not a calendar price.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example claimed value vs value you would use</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. 400 dollars is 360 px. 51 / 400 x 360 = 46 px.</text>
+  <text x="24" y="130" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Claimed value</text>
+  <rect x="200" y="110" width="360" height="28" fill="#6B7280"/>
+  <text x="216" y="129" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$400</text>
+  <text x="24" y="190" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">You would use</text>
+  <rect x="200" y="170" width="46" height="28" fill="#0F7A4B"/>
+  <text x="254" y="189" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$51</text>
+  <text x="24" y="250" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Yes rows: 24 + 15 + 12 = 51. The fragrance row is a no, so its 10 dollars stay out.</text>
+  <text x="24" y="274" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Full-size prices in the example sum to 356 dollars, which is already short of the 400 dollar claim.</text>
+  <text x="24" y="298" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Compare 51 dollars with the price you pay, not with the claim.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. No calendar price was opened.</text>
+</svg>
