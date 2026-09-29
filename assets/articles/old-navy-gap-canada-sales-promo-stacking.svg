@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Seasonal pattern for clothing purchases</title>
+  <desc>A calendar strip of season logic: back-to-school, holiday gifting, and January clearance. No discount percentages. This is not a published Old Navy or Gap sale calendar.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Seasonal pattern, not a sale calendar</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">No discount percentages. Old Navy and Gap did not publish a percent schedule.</text>
+  <rect x="24" y="78" width="210" height="150" rx="4" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="36" y="106" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Late summer</text>
+  <text x="36" y="130" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Back-to-school weight.</text>
+  <text x="36" y="150" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Jeans, tees, sneakers</text>
+  <text x="36" y="170" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">that no longer fit.</text>
+  <text x="36" y="198" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Demand, not a percent.</text>
+  <rect x="254" y="78" width="210" height="150" rx="4" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="266" y="106" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">November to December</text>
+  <text x="266" y="130" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Holiday gifting.</text>
+  <text x="266" y="150" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Buy the size you know.</text>
+  <text x="266" y="170" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Final sale still sticks.</text>
+  <text x="266" y="198" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Read the code's own line.</text>
+  <rect x="484" y="78" width="212" height="150" rx="4" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="496" y="106" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">January</text>
+  <text x="496" y="130" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Winter weight clears</text>
+  <text x="496" y="150" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">for spring receipts.</text>
+  <text x="496" y="170" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Test the was-price.</text>
+  <text x="496" y="198" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Clearance is a label.</text>
+  <line x1="24" y1="260" x2="696" y2="260" stroke="#E5E7EB" stroke-width="8"/>
+  <circle cx="129" cy="260" r="8" fill="#0F7A4B"/>
+  <circle cx="359" cy="260" r="8" fill="#0F7A4B"/>
+  <circle cx="590" cy="260" r="8" fill="#0F7A4B"/>
+  <text x="24" y="300" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Use the strip to decide when you need the clothes, not how many percent off to expect.</text>
+  <text x="24" y="324" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A banner percent still has to match a real reference price. See the ordinary-price tests.</text>
+  <text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Price-adjustment days are not on this strip. See the retailer for that window.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Checked 29 Sep 2026. Seasonal pattern only.</text>
+</svg>
