@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: an $18 mail order and a $60 overseas courier order</title>
+  <desc>Example with made-up inputs. The $18 mail order shows item value only, with duty $0 and GST $0. The $60 courier order, not from the United States or Mexico, stacks item $60, duty $10.80 at 18 percent if the line is 6109.10.00, and GST $3.54. No surtax. No handling-fee bar and no fee amount. Classification: check with CBSA.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">Example with made-up inputs: mail $18 and courier $60</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Non-US origin. No surtax. No handling-fee bar and no fee amount.</text>
+  <line x1="80" y1="310" x2="640" y2="310" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="140" y="265.0" width="100" height="45.0" fill="#0F7A4B"/>
+  <text x="190" y="255.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A" text-anchor="middle">$18 item</text>
+  <text x="190" y="332" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">Mail, under $20</text>
+  <text x="190" y="350" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Duty $0, GST $0</text>
+  <rect x="420" y="160.0" width="100" height="150.0" fill="#0F7A4B"/>
+  <rect x="420" y="133.0" width="100" height="27.0" fill="#F59E0B"/>
+  <rect x="420" y="124.2" width="100" height="8.8" fill="#6B7280"/>
+  <text x="530" y="235.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Item $60</text>
+  <text x="530" y="150.5" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Duty $10.80</text>
+  <text x="530" y="118.2" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">GST $3.54</text>
+  <text x="470" y="332" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" text-anchor="middle">Courier, not US/Mexico</text>
+  <text x="470" y="350" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">Assumed line 6109.10.00</text>
+  <text x="24" y="378" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Duty is 18 percent of $60 only if the line is 6109.10.00. Otherwise it depends on classification.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Check with CBSA. GST here is 5 percent of $70.80. Provincial tax is not shown.</text>
+</svg>

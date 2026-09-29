@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Decision flow after a clothing price drop</title>
+  <desc>Start when the price drops. Outside the retailer's stated window, keep the item. Inside the window, require the same item and the same channel. If the page excludes the event, return and rebuy only when that policy allows it. Otherwise ask for the adjustment. No dollar amounts.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Price dropped: what to do next</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">No dollar amounts. The window is the one that retailer's page states.</text>
+  <rect x="210" y="72" width="300" height="48" fill="#FFFFFF" stroke="#1A1A1A"/>
+  <text x="360" y="101" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A" text-anchor="middle">Price dropped</text>
+  <line x1="360" y1="120" x2="360" y2="136" stroke="#E5E7EB" stroke-width="2"/>
+  <line x1="175" y1="136" x2="545" y2="136" stroke="#E5E7EB" stroke-width="2"/>
+  <line x1="175" y1="136" x2="175" y2="152" stroke="#E5E7EB" stroke-width="2"/>
+  <line x1="545" y1="136" x2="545" y2="152" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="150" y="150" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#6B7280">No</text>
+  <text x="528" y="150" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Yes</text>
+  <rect x="36" y="156" width="280" height="64" fill="#FFFFFF" stroke="#6B7280"/>
+  <text x="48" y="180" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Outside the stated window</text>
+  <text x="48" y="202" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Keep it. The page did not offer a match.</text>
+  <rect x="400" y="156" width="284" height="64" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="412" y="180" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Inside the window</text>
+  <text x="412" y="202" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Same item and the same channel?</text>
+  <line x1="176" y1="220" x2="176" y2="248" stroke="#E5E7EB" stroke-width="2"/>
+  <line x1="542" y1="220" x2="542" y2="248" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="36" y="248" width="280" height="88" fill="#FFFFFF" stroke="#6B7280"/>
+  <text x="48" y="272" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Different item or channel</text>
+  <text x="48" y="294" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Do not treat the other price as a match.</text>
+  <text x="48" y="314" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Use that channel's own rule, if it has one.</text>
+  <rect x="400" y="248" width="284" height="88" fill="#FFFFFF" stroke="#0F7A4B"/>
+  <text x="412" y="272" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Same item, same channel</text>
+  <text x="412" y="294" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Excluded event: rebuy only if allowed.</text>
+  <text x="412" y="314" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Not excluded: ask for the adjustment.</text>
+  <text x="24" y="380" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Clearance, a doorbuster, or a holiday exclusion counts only when that page says so.</text>
+  <text x="24" y="402" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Checked 29 Sep 2026. No dollar amounts.</text>
+</svg>
