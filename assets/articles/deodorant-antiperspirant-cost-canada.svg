@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Annual cost</title>
+  <desc>Example with made-up inputs. Not a shelf price.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Annual cost</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a shelf price.</text>
+  <text x="24" y="86" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Dollars per year</text>
+  <line x1="70" y1="292.0" x2="696" y2="292.0" stroke="#E5E7EB"/>
+  <line x1="70" y1="200.0" x2="696" y2="200.0" stroke="#E5E7EB"/>
+  <line x1="70" y1="108.0" x2="696" y2="108.0" stroke="#E5E7EB"/>
+  <line x1="70" y1="108" x2="70" y2="292" stroke="#E5E7EB"/>
+  <text x="64" y="296.0" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">0</text>
+  <text x="64" y="204.0" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">100</text>
+  <text x="64" y="112.0" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">200</text>
+  <rect x="121.7" y="124.6" width="110.0" height="167.4" rx="6" fill="#6B7280"/>
+  <text x="176.7" y="114.6" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$182</text>
+  <text x="176.7" y="314.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Natural</text>
+  <text x="176.7" y="330.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">stick</text>
+  <rect x="335.0" y="244.2" width="110.0" height="47.8" rx="6" fill="#F59E0B"/>
+  <text x="390.0" y="234.2" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$52</text>
+  <text x="390.0" y="314.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Name-brand</text>
+  <text x="390.0" y="330.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">antiperspirant</text>
+  <rect x="548.3" y="268.1" width="110.0" height="23.9" rx="6" fill="#0F7A4B"/>
+  <text x="603.3" y="258.1" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$26</text>
+  <text x="603.3" y="314.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Store brand</text>
+  <text x="603.3" y="330.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">antiperspirant</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Natural $14 every 4 weeks is 13 × $14 = $182. Name brand is 6.5 × $8 = $52.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Store brand is 6.5 × $4 = $26. The weeks and the prices are made up.</text>
+</svg>

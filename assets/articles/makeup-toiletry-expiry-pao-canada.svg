@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Cost per month of use</title>
+  <desc>Example with made-up inputs. Not a shelf price.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Cost per month of use</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a shelf price.</text>
+  <text x="24" y="86" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Dollars per month of use</text>
+  <line x1="70" y1="292.0" x2="696" y2="292.0" stroke="#E5E7EB"/>
+  <line x1="70" y1="200.0" x2="696" y2="200.0" stroke="#E5E7EB"/>
+  <line x1="70" y1="108.0" x2="696" y2="108.0" stroke="#E5E7EB"/>
+  <line x1="70" y1="108" x2="70" y2="292" stroke="#E5E7EB"/>
+  <text x="64" y="296.0" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">0</text>
+  <text x="64" y="204.0" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">2.5</text>
+  <text x="64" y="112.0" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">5</text>
+  <rect x="175.0" y="144.8" width="110.0" height="147.2" rx="6" fill="#6B7280"/>
+  <text x="230.0" y="134.8" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$4.00</text>
+  <text x="230.0" y="314.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Large jar</text>
+  <text x="230.0" y="330.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">discarded at mark</text>
+  <rect x="495.0" y="218.4" width="110.0" height="73.6" rx="6" fill="#0F7A4B"/>
+  <text x="550.0" y="208.4" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$2.00</text>
+  <text x="550.0" y="314.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Small jar</text>
+  <text x="550.0" y="330.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">finished</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Large jar $48, stopped at a made-up 12-month mark: $48 ÷ 12 = $4.00.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Small jar $18, finished in 9 months: $18 ÷ 9 = $2.00. Prices are made up.</text>
+</svg>

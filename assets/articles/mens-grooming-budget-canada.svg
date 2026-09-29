@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Monthly grooming cost</title>
+  <desc>Example with made-up inputs. Not a shelf price.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Monthly grooming cost</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a shelf price.</text>
+  <text x="24" y="86" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Dollars per month</text>
+  <line x1="70" y1="292.0" x2="696" y2="292.0" stroke="#E5E7EB"/>
+  <line x1="70" y1="200.0" x2="696" y2="200.0" stroke="#E5E7EB"/>
+  <line x1="70" y1="108.0" x2="696" y2="108.0" stroke="#E5E7EB"/>
+  <line x1="70" y1="108" x2="70" y2="292" stroke="#E5E7EB"/>
+  <text x="64" y="296.0" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">0</text>
+  <text x="64" y="204.0" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">20</text>
+  <text x="64" y="112.0" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">40</text>
+  <rect x="175.0" y="217.2" width="110.0" height="74.8" rx="6" fill="#0F7A4B"/>
+  <text x="230.0" y="207.2" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$16.25</text>
+  <text x="230.0" y="314.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Short list</text>
+  <rect x="495.0" y="136.8" width="110.0" height="155.2" rx="6" fill="#6B7280"/>
+  <text x="550.0" y="126.8" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$33.75</text>
+  <text x="550.0" y="314.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Extended routine</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Short list $195 a year is $16.25 a month. Extended routine $405 a year is $33.75.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Line items are in the table. Every dollar in the example is made up.</text>
+</svg>
