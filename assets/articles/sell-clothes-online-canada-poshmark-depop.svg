@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: $32 kept from a $40 Poshmark listing</title>
+  <desc>Example with made-up inputs. The $40 listing price is invented. Poshmark's published fee at C$20 or more is 20 percent of the listing price, so $8 leaves and $32 stays. Depop, Facebook Marketplace, and Kijiji fees were not opened.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">What you keep on a $40 listing</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. The $40 is not a Poshmark price. The 20 percent fee is.</text>
+  <text x="24" y="120" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Poshmark, you keep</text>
+  <rect x="220" y="100" width="320" height="28" fill="#0F7A4B"/>
+  <text x="236" y="119" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$32</text>
+  <text x="24" y="168" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Poshmark fee</text>
+  <rect x="220" y="148" width="80" height="28" fill="#6B7280"/>
+  <text x="236" y="167" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$8</text>
+  <text x="24" y="220" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Depop</text>
+  <text x="220" y="220" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">See platform. Fee page did not load.</text>
+  <text x="24" y="252" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Marketplace</text>
+  <text x="220" y="252" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">See platform. Fee page not opened.</text>
+  <text x="24" y="284" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Kijiji</text>
+  <text x="220" y="284" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">See platform. Fee page not opened.</text>
+  <text x="24" y="328" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">20 percent of $40 is $8. $40 minus $8 is $32. Bar length: $32 is 320 px.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Vinted Canada closed 12 Feb 2024 and is not a bar.</text>
+</svg>

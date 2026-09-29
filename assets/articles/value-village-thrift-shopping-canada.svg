@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: thrifted outfit versus the same outfit bought new</title>
+  <desc>Example with made-up inputs, not real prices. One imagined four-piece outfit is $45 used and $180 new. Bar length uses $180 as 480 pixels. Not a Value Village ticket.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example outfit: used versus new</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a thrift ticket and not a new-store price.</text>
+  <text x="24" y="130" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Same outfit, new</text>
+  <rect x="220" y="110" width="480" height="28" fill="#6B7280"/>
+  <text x="236" y="129" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$180</text>
+  <text x="24" y="190" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Same outfit, used</text>
+  <rect x="220" y="170" width="120" height="28" fill="#0F7A4B"/>
+  <text x="236" y="189" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$45</text>
+  <line x1="220" y1="230" x2="700" y2="230" stroke="#E5E7EB"/>
+  <text x="24" y="268" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">$180 is 480 px. $45 is 120 px. The gap is $135 only inside this example.</text>
+  <text x="24" y="292" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Super Savers terms do not publish these dollars. Skip odour and damage before you compare.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Program terms checked. No shelf price opened.</text>
+</svg>
