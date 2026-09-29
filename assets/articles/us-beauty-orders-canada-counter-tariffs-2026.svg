@@ -4,7 +4,7 @@
   <desc>Example with made-up inputs. A 30 dollar US-marked eye make-up order by courier shows 15 dollars surtax and no GST in this example. A 120 dollar US-marked perfume shows 60 dollars surtax and 9 dollars GST. A 120 dollar France-made serum shipped from a US warehouse shows no surtax and 6 dollars GST. Duty is zero in each band shown. Classification is assumed, not ruled.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example landed cost, three orders</text>
-  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs. Scale: 189 dollars = 360 px. Duty is 0 in each bar.</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs. Duty is 0 in each bar.</text>
   <text x="24" y="100" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Eye make-up, $30</text>
   <rect x="200" y="82" width="57" height="22" fill="#6B7280"/>
   <rect x="257" y="82" width="29" height="22" fill="#0F7A4B"/>
@@ -24,8 +24,6 @@
   <text x="160" y="252" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Surtax</text>
   <rect x="230" y="240" width="14" height="14" fill="#1A1A1A"/>
   <text x="250" y="252" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">GST at 5 percent</text>
-  <text x="24" y="290" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">30/189 x 360 = 57 px. 15/189 x 360 = 29 px. 120/189 x 360 = 229 px.</text>
-  <text x="24" y="310" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">60/189 x 360 = 114 px. 9/189 x 360 = 17 px. 6/189 x 360 = 11 px.</text>
   <text x="24" y="334" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Perfume value for tax is 120 + 60 = 180. GST is 9. Serum GST is 6. Eye make-up GST is 0.</text>
   <text x="24" y="358" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Check classification, origin marking, and any carrier fee with CBSA or your carrier.</text>
   <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. CBSA Example 2 is quoted in the article, not drawn here.</text>

@@ -14,7 +14,7 @@
   <text x="24" y="230" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">New, minus 8%</text>
   <rect x="200" y="212" width="442" height="26" fill="#1A1A1A"/>
   <text x="210" y="230" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$239.20</text>
-  <text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">$260 times 8 percent is $20.80. $260 minus $20.80 is $239.20. Scale: $260 = 480 px.</text>
+  <text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">$260 times 8 percent is $20.80. $260 minus $20.80 is $239.20. </text>
   <text x="24" y="304" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The third bar subtracts the rebate from the pre-tax total. It is not a tax-in price. GST is not shown.</text>
   <text x="24" y="328" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The 8 percent applies only to pieces that meet Ontario's size rules. Adult sizes are excluded.</text>
   <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Ontario page updated 19 Mar 2025. Checked 29 Sep 2026.</text>
