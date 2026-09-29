@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Claim path for a personal care item</title>
+  <desc>Decision flow with no dollar figures. CRA list, then prescription or condition, then the health spending account or the medical expense credit.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Claim path for a personal care item</text>
+  <rect x="140" y="62" width="440" height="40" rx="8" fill="#0F7A4B" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="360" y="87" text-anchor="middle" font-size="14" font-weight="600" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Is it on the CRA eligible list?</text>
+  <line x1="360" y1="102" x2="360" y2="114" stroke="#6B7280" stroke-width="2"/>
+  <polygon points="354,114 366,114 360,120" fill="#6B7280"/>
+  <rect x="140" y="120" width="440" height="40" rx="8" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="360" y="145" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Does that line need a prescription?</text>
+  <line x1="360" y1="160" x2="360" y2="172" stroke="#6B7280" stroke-width="2"/>
+  <polygon points="354,172 366,172 360,178" fill="#6B7280"/>
+  <rect x="140" y="178" width="440" height="40" rx="8" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+  <text x="360" y="203" text-anchor="middle" font-size="14" font-weight="600" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Claim through the plan or the credit</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No dollar figures. Confirm the line with the CRA or the plan administrator.</text>
+</svg>

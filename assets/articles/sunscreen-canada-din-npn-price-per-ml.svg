@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Cost per full-body application</title>
+  <desc>Example with made-up inputs. Using Health Canada's about 35 mL for an adult, three made-up bottles cost $7.00, $5.13, and $3.50 per application.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Cost per full-body application</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a price survey.</text>
+  <text x="24" y="86" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Dollars per application</text>
+  <line x1="70" y1="108" x2="70" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="300" x2="690" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="300.0" x2="690" y2="300.0" stroke="#E5E7EB"/>
+  <text x="64" y="304.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0.00</text>
+  <line x1="70" y1="252.0" x2="690" y2="252.0" stroke="#E5E7EB"/>
+  <text x="64" y="256.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">2.00</text>
+  <line x1="70" y1="204.0" x2="690" y2="204.0" stroke="#E5E7EB"/>
+  <text x="64" y="208.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4.00</text>
+  <line x1="70" y1="156.0" x2="690" y2="156.0" stroke="#E5E7EB"/>
+  <text x="64" y="160.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">6.00</text>
+  <line x1="70" y1="108.0" x2="690" y2="108.0" stroke="#E5E7EB"/>
+  <text x="64" y="112.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">8.00</text>
+  <rect x="212.0" y="132.0" width="100.0" height="168.0" rx="8" fill="#6B7280"/>
+  <text x="262.0" y="124.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$7.00</text>
+  <text x="262.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">75 ml at $15</text>
+  <rect x="340.0" y="176.9" width="100.0" height="123.1" rx="8" fill="#6B7280"/>
+  <text x="390.0" y="168.9" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$5.13</text>
+  <text x="390.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">150 ml at $22</text>
+  <rect x="468.0" y="216.0" width="100.0" height="84.0" rx="8" fill="#0F7A4B"/>
+  <text x="518.0" y="208.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$3.50</text>
+  <text x="518.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">300 ml at $30</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">35 mL is Health Canada's adult amount. The bottle prices are made up.</text>
+</svg>

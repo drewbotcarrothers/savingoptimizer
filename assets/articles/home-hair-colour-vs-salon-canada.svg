@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Annual colour cost, three approaches</title>
+  <desc>Example with made-up inputs. Salon $1,020, box dye $96, hybrid $430. Not salon quotes.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Annual colour cost, three approaches</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a price survey.</text>
+  <text x="24" y="86" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Dollars a year</text>
+  <line x1="70" y1="108" x2="70" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="300" x2="690" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="300.0" x2="690" y2="300.0" stroke="#E5E7EB"/>
+  <text x="64" y="304.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0</text>
+  <line x1="70" y1="252.0" x2="690" y2="252.0" stroke="#E5E7EB"/>
+  <text x="64" y="256.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">300</text>
+  <line x1="70" y1="204.0" x2="690" y2="204.0" stroke="#E5E7EB"/>
+  <text x="64" y="208.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">600</text>
+  <line x1="70" y1="156.0" x2="690" y2="156.0" stroke="#E5E7EB"/>
+  <text x="64" y="160.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">900</text>
+  <line x1="70" y1="108.0" x2="690" y2="108.0" stroke="#E5E7EB"/>
+  <text x="64" y="112.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">1200</text>
+  <rect x="212.0" y="136.8" width="100.0" height="163.2" rx="8" fill="#6B7280"/>
+  <text x="262.0" y="128.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,020</text>
+  <text x="262.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Salon, 6 visits</text>
+  <rect x="340.0" y="284.6" width="100.0" height="15.4" rx="8" fill="#0F7A4B"/>
+  <text x="390.0" y="276.6" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$96</text>
+  <text x="390.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Box dye, 8 boxes</text>
+  <rect x="468.0" y="231.2" width="100.0" height="68.8" rx="8" fill="#6B7280"/>
+  <text x="518.0" y="223.2" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$430</text>
+  <text x="518.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hybrid</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Salon visit is $170 with tip in the example. Box is $12. Hybrid is two salon visits plus six kits.</text>
+</svg>

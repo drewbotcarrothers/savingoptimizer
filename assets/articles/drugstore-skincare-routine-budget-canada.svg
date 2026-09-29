@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Monthly cost, 3 steps versus 7</title>
+  <desc>Example with made-up inputs. A 3-step routine is $27 a month and a 7-step routine is $73. Not shelf prices.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Monthly cost, 3 steps versus 7</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a price survey.</text>
+  <text x="24" y="86" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Dollars a month</text>
+  <line x1="70" y1="108" x2="70" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="300" x2="690" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="300.0" x2="690" y2="300.0" stroke="#E5E7EB"/>
+  <text x="64" y="304.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0</text>
+  <line x1="70" y1="252.0" x2="690" y2="252.0" stroke="#E5E7EB"/>
+  <text x="64" y="256.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">20</text>
+  <line x1="70" y1="204.0" x2="690" y2="204.0" stroke="#E5E7EB"/>
+  <text x="64" y="208.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">40</text>
+  <line x1="70" y1="156.0" x2="690" y2="156.0" stroke="#E5E7EB"/>
+  <text x="64" y="160.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">60</text>
+  <line x1="70" y1="108.0" x2="690" y2="108.0" stroke="#E5E7EB"/>
+  <text x="64" y="112.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">80</text>
+  <rect x="276.0" y="235.2" width="100.0" height="64.8" rx="8" fill="#0F7A4B"/>
+  <text x="326.0" y="227.2" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$27</text>
+  <text x="326.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">3 steps</text>
+  <rect x="404.0" y="124.8" width="100.0" height="175.2" rx="8" fill="#6B7280"/>
+  <text x="454.0" y="116.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$73</text>
+  <text x="454.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">7 steps</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sunscreen is the whole $18 in the short routine. The extra $46 is four optional steps.</text>
+</svg>
