@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+
+  <title>Example with made-up inputs: value returned on a 300 dollar beauty spend</title>
+  <desc>Example with made-up inputs. The 300 dollar spend is made up. Base redemption returns 6 dollars at Beauty Insider Cash, 4.50 dollars at PC Optimum Shoppers base, and 1.20 dollars at Be Well. Not a ranking.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example with made-up inputs: $300 base return</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Spend is made up. Rates are the published base rates. No bonus event.</text>
+  <text x="24" y="110" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Beauty Insider</text>
+  <rect x="170" y="92" width="400" height="26" fill="#0F7A4B"/>
+  <text x="580" y="110" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$6.00</text>
+  <text x="24" y="160" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">PC Optimum</text>
+  <rect x="170" y="142" width="300" height="26" fill="#F59E0B"/>
+  <text x="480" y="160" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$4.50</text>
+  <text x="24" y="210" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Be Well</text>
+  <rect x="170" y="192" width="80" height="26" fill="#6B7280"/>
+  <text x="260" y="210" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$1.20</text>
+  <text x="24" y="270" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">300 points at $10 per 500. 4,500 points at $10 per 10,000. 3,000 at $10 per 25,000.</text>
+  <text x="24" y="292" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">A Rouge Reward or a points event is a different rate. Not a ranking.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+
+</svg>

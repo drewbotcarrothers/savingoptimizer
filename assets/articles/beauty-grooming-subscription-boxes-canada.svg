@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+
+  <title>Example with made-up inputs: claimed box value versus value you would use</title>
+  <desc>Example with made-up inputs. Over three made-up months, claimed value totals 360 dollars and the value of items you would use totals 80 dollars. Not a real box.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example with made-up inputs: claimed vs used</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Three made-up months. Not a real box and not an average.</text>
+  <text x="24" y="120" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Claimed</text>
+  <rect x="140" y="102" width="400" height="26" fill="#6B7280"/>
+  <text x="550" y="120" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$360</text>
+  <text x="24" y="180" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">You'd use</text>
+  <rect x="140" y="162" width="89" height="26" fill="#0F7A4B"/>
+  <text x="238" y="180" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">$80</text>
+  <text x="24" y="240" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Each month claims $120. Used value in the example: $25, then $40, then $15.</text>
+  <text x="24" y="262" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">$25 + $40 + $15 = $80. The claim does not become your value.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+
+</svg>
