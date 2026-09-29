@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Price per 100 ml, one shampoo row</title>
+  <desc>Example with made-up inputs. Price per 100 ml for one shampoo size at four retailers: Walmart $1.85, Dollarama $2.00, Costco $2.50, Shoppers $3.00. Not shelf prices.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Price per 100 ml, one shampoo row</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a price survey.</text>
+  <text x="24" y="86" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$ per 100 ml</text>
+  <line x1="70" y1="108" x2="70" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="300" x2="690" y2="300" stroke="#E5E7EB"/>
+  <line x1="70" y1="300.0" x2="690" y2="300.0" stroke="#E5E7EB"/>
+  <text x="64" y="304.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0.00</text>
+  <line x1="70" y1="252.0" x2="690" y2="252.0" stroke="#E5E7EB"/>
+  <text x="64" y="256.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">1.00</text>
+  <line x1="70" y1="204.0" x2="690" y2="204.0" stroke="#E5E7EB"/>
+  <text x="64" y="208.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">2.00</text>
+  <line x1="70" y1="156.0" x2="690" y2="156.0" stroke="#E5E7EB"/>
+  <text x="64" y="160.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">3.00</text>
+  <line x1="70" y1="108.0" x2="690" y2="108.0" stroke="#E5E7EB"/>
+  <text x="64" y="112.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">4.00</text>
+  <rect x="148.0" y="211.2" width="100.0" height="88.8" rx="8" fill="#0F7A4B"/>
+  <text x="198.0" y="203.2" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1.85</text>
+  <text x="198.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Walmart</text>
+  <rect x="276.0" y="204.0" width="100.0" height="96.0" rx="8" fill="#6B7280"/>
+  <text x="326.0" y="196.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2.00</text>
+  <text x="326.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Dollarama</text>
+  <rect x="404.0" y="180.0" width="100.0" height="120.0" rx="8" fill="#6B7280"/>
+  <text x="454.0" y="172.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$2.50</text>
+  <text x="454.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Costco</text>
+  <rect x="532.0" y="156.0" width="100.0" height="144.0" rx="8" fill="#6B7280"/>
+  <text x="582.0" y="148.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$3.00</text>
+  <text x="582.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Shoppers</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Made-up sizes: 350 ml, 200 ml, 400 ml, and 300 ml. Write your own row.</text>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: cumulative menstrual product cost over 24 months</title>
+  <desc>Example with made-up inputs. A disposable pad line rises from $0 to $182. A cup stays at $40 and period underwear stays at $150. Not shelf prices.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Cumulative cost over 24 months</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a price survey.</text>
+  <line x1="90" y1="110" x2="90" y2="330" stroke="#E5E7EB"/>
+  <line x1="90" y1="330" x2="650" y2="330" stroke="#E5E7EB"/>
+  <line x1="90" y1="330.0" x2="650" y2="330.0" stroke="#E5E7EB"/>
+  <text x="82" y="334.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0</text>
+  <line x1="90" y1="275.0" x2="650" y2="275.0" stroke="#E5E7EB"/>
+  <text x="82" y="279.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">50</text>
+  <line x1="90" y1="220.0" x2="650" y2="220.0" stroke="#E5E7EB"/>
+  <text x="82" y="224.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">100</text>
+  <line x1="90" y1="165.0" x2="650" y2="165.0" stroke="#E5E7EB"/>
+  <text x="82" y="169.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">150</text>
+  <line x1="90" y1="110.0" x2="650" y2="110.0" stroke="#E5E7EB"/>
+  <text x="82" y="114.0" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">200</text>
+  <text x="90.0" y="348" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">0</text>
+  <text x="230.0" y="348" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">6</text>
+  <text x="370.0" y="348" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">12</text>
+  <text x="510.0" y="348" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">18</text>
+  <text x="650.0" y="348" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">24</text>
+  <polyline fill="none" stroke="#6B7280" stroke-width="3" points="90.0,330.0 230.0,279.9 370.0,229.9 510.0,179.8 650.0,129.8"/>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="90.0,286.0 650.0,286.0"/>
+  <polyline fill="none" stroke="#1A1A1A" stroke-width="3" points="90.0,165.0 650.0,165.0"/>
+  <line x1="110" y1="372" x2="140" y2="372" stroke="#6B7280" stroke-width="3"/>
+  <text x="148" y="376" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pads, $7 a cycle</text>
+  <line x1="280" y1="372" x2="310" y2="372" stroke="#0F7A4B" stroke-width="3"/>
+  <text x="318" y="376" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cup, $40 once</text>
+  <line x1="450" y1="372" x2="480" y2="372" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="488" y="376" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Underwear, $150</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">13 cycles a year and a 24-month replacement are example inputs. Replace them with your count and the label.</text>
+</svg>
