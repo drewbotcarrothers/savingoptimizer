@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://savingoptimizer.com/guides/personal-care.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -288,6 +288,56 @@
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+  <!-- personal-care:store-brands-and-holiday-beauty start -->
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/pharmacy-store-brand-toiletries-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/us-beauty-orders-canada-counter-tariffs-2026.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/beauty-advent-calendars-gift-sets-value-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/shoppers-beauty-events-pc-optimum.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/beauty-dupes-counterfeits-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/razor-cost-per-shave-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/electric-toothbrush-heads-cost-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/costco-personal-care-worth-buying-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <!-- personal-care:store-brands-and-holiday-beauty end -->
   <url>
     <loc>https://savingoptimizer.com/guides/articles/canadian-grocery-prices-2026.html</loc>
     <lastmod>2026-09-18</lastmod>
