@@ -4,7 +4,7 @@
   <desc>Example with made-up inputs for prices. Manual brushes total 48 dollars, a basic electric totals 136 dollars, and a premium electric totals 360 dollars over three years. Counts use four replacements a year. Not shelf prices.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example three-year cost</text>
-  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. 360 dollars = 400 px. Not a shelf price.</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a shelf price.</text>
   <text x="24" y="130" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Manual</text>
   <rect x="160" y="110" width="53" height="26" fill="#0F7A4B"/>
   <text x="220" y="128" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$48</text>
@@ -14,7 +14,6 @@
   <text x="24" y="230" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Premium</text>
   <rect x="160" y="210" width="400" height="26" fill="#6B7280"/>
   <text x="176" y="228" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$360</text>
-  <text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">48 / 360 x 400 = 53 px. 136 / 360 x 400 = 151 px. 360 dollars = 400 px.</text>
   <text x="24" y="304" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Twelve replacements in three years, from a three-month interval. Prices are made up.</text>
-  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Canadian Dental Association page opened that day.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Canadian Dental Association page checked that day.</text>
 </svg>

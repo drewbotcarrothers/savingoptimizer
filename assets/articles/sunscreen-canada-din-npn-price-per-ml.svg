@@ -27,5 +27,5 @@
   <rect x="468.0" y="216.0" width="100.0" height="84.0" rx="8" fill="#0F7A4B"/>
   <text x="518.0" y="208.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$3.50</text>
   <text x="518.0" y="322.0" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">300 ml at $30</text>
-  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">35 mL is Health Canada's adult amount. The bottle prices are made up.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">About 35 mL (7 teaspoons) is Health Canada's adult amount. The bottle prices are made up.</text>
 </svg>

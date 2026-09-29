@@ -4,7 +4,7 @@
   <desc>Example with made-up inputs. The stated unit price is 2 dollars. After two of four bottles go unused, the effective unit price is 4 dollars. Four dollars equals 280 pixels. Not a Costco shelf price.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example unit price after waste</text>
-  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. 4 dollars = 280 px. Not a shelf price.</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a shelf price.</text>
   <text x="24" y="140" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Stated unit</text>
   <rect x="160" y="120" width="140" height="26" fill="#6B7280"/>
   <text x="308" y="138" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$2</text>
@@ -12,6 +12,5 @@
   <rect x="160" y="180" width="280" height="26" fill="#0F7A4B"/>
   <text x="448" y="198" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$4</text>
   <text x="24" y="260" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Four bottles at 2 dollars cost 8 dollars. Two finished: 8 / 2 = 4 dollars each.</text>
-  <text x="24" y="284" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Bar widths: 2 / 4 x 280 = 140 px. 4 dollars = 280 px.</text>
   <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Prices are made-up inputs.</text>
 </svg>

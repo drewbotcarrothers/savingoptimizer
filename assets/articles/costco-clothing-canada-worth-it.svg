@@ -12,6 +12,6 @@
   <rect x="240" y="170" width="200" height="28" fill="#0F7A4B"/>
   <text x="256" y="189" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">7.5 cents</text>
   <text x="24" y="250" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">$6 divided by 40 is $0.15. $18 divided by 6 is $3. $3 divided by 40 is $0.075.</text>
-  <text x="24" y="274" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Bar length: 15 cents is 400 px. Membership rules were checked. These dollars were not.</text>
-  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Conditions dated 1 Aug 2026. No clothing price opened.</text>
+  <text x="24" y="274" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Membership rules were checked. These dollars are made up.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Conditions dated 1 Aug 2026. </text>
 </svg>
