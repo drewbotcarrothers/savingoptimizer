@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: annual cost of a 10-item toiletry basket</title>
+  <desc>Example with made-up inputs, not shelf prices. The name-brand column sums to 342 dollars a year. The store-brand column sums to 160 dollars a year. The gap of 182 dollars exists only inside this example.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example annual cost, 10 items</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a shelf price. Plug in your own ten totals.</text>
+  <text x="24" y="130" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Name brand</text>
+  <rect x="160" y="110" width="400" height="28" fill="#6B7280"/>
+  <text x="176" y="129" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$342</text>
+  <text x="24" y="190" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Store brand</text>
+  <rect x="160" y="170" width="187" height="28" fill="#0F7A4B"/>
+  <text x="176" y="189" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$160</text>
+  <line x1="160" y1="220" x2="560" y2="220" stroke="#E5E7EB"/>
+  <text x="24" y="260" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">342 dollars is 400 px. 160 / 342 x 400 = 187 px.</text>
+  <text x="24" y="284" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">The 182 dollar gap is 342 minus 160. It is not a Canadian average.</text>
+  <text x="24" y="308" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Drop any bottle you will not finish before the expiry date, then divide again.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. No shelf price was opened.</text>
+</svg>
