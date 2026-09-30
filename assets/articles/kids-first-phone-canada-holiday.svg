@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>First-phone path: ready, device, plan, controls, agreement</title>
+  <desc>Five steps in order. Decide whether a phone is needed, choose a device path, choose a plan type, turn on built-in controls, then write a family agreement.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">A first phone, in order</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">No age rule. No carrier ranking. Set controls before the holiday handoff.</text>
+  <rect x="170" y="70" width="380" height="44" rx="8" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+  <text x="360.0" y="96.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="600" fill="#1A1A1A">1. Is a phone needed yet?</text>
+  <line x1="360" y1="114" x2="360" y2="132" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="170" y="132" width="380" height="44" rx="8" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+  <text x="360.0" y="158.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="600" fill="#1A1A1A">2. Hand-me-down, refurbished, or new</text>
+  <line x1="360" y1="176" x2="360" y2="194" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="170" y="194" width="380" height="44" rx="8" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+  <text x="360.0" y="220.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="600" fill="#1A1A1A">3. Prepaid, added line, or talk-and-text</text>
+  <line x1="360" y1="238" x2="360" y2="256" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="170" y="256" width="380" height="44" rx="8" fill="#0F7A4B" stroke="#0F7A4B" stroke-width="1.5"/>
+  <text x="360.0" y="282.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">4. Screen Time or Family Link is on</text>
+  <line x1="360" y1="300" x2="360" y2="318" stroke="#0F7A4B" stroke-width="2"/>
+  <rect x="170" y="318" width="380" height="44" rx="8" fill="#0F7A4B" stroke="#0F7A4B" stroke-width="1.5"/>
+  <text x="360.0" y="344.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">5. Family agreement is written down</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Trial period, if an early cancellation fee applies: at least 15 days, or 30 days if the customer</text>
+  <text x="24" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">self-identifies as a person with a disability. Wireless Code, simplified, checked 30 Sep 2026.</text>
+</svg>

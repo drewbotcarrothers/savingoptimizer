@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: cumulative cost of outright versus financed</title>
+  <desc>Example with made-up inputs. Outright is 1,200 dollars plus 40 dollars a month. Financing is 50 dollars a month for the device for 24 months plus a 55 dollar plan, then 55 dollars a month after the device balance reaches zero. The lines cross between month 18 and month 19.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="26" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs</text>
+  <text x="24" y="46" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Cumulative dollars. The phone price and both plan prices are illustrations.</text>
+  <line x1="78" y1="318.0" x2="658" y2="318.0" stroke="#E5E7EB" stroke-width="1"/><text x="72" y="322.0" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$0</text><line x1="78" y1="244.5" x2="658" y2="244.5" stroke="#E5E7EB" stroke-width="1"/><text x="72" y="248.5" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$1,000</text><line x1="78" y1="170.9" x2="658" y2="170.9" stroke="#E5E7EB" stroke-width="1"/><text x="72" y="174.9" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$2,000</text><line x1="78" y1="97.4" x2="658" y2="97.4" stroke="#E5E7EB" stroke-width="1"/><text x="72" y="101.4" text-anchor="end" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">$3,000</text>
+  <line x1="78" y1="68" x2="78" y2="318" stroke="#1A1A1A" stroke-width="1.5"/>
+  <line x1="78" y1="318" x2="668" y2="318" stroke="#1A1A1A" stroke-width="1.5"/>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="78.0,229.8 174.7,212.1 271.3,194.5 368.0,176.8 464.7,159.2 561.3,141.5 658.0,123.9"/>
+  <polyline fill="none" stroke="#F59E0B" stroke-width="3" points="78.0,318.0 174.7,271.7 271.3,225.4 368.0,179.0 464.7,132.7 561.3,108.4 658.0,84.2"/>
+  <text x="78.0" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">0</text><text x="174.7" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">6</text><text x="271.3" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">12</text><text x="368.0" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">18</text><text x="464.7" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">24</text><text x="561.3" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">30</text><text x="658.0" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">36</text>
+  <text x="360" y="356" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Months</text>
+  <text x="16" y="200" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280" transform="rotate(-90 16 200)">Cumulative cost (CAD)</text>
+  <line x1="150" y1="376" x2="178" y2="376" stroke="#0F7A4B" stroke-width="3"/>
+  <text x="184" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Outright $1,200 + $40/month</text>
+  <line x1="400" y1="376" x2="428" y2="376" stroke="#F59E0B" stroke-width="3"/>
+  <text x="434" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Financed, then $55 plan</text>
+  <text x="88" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Lines cross between month 18 ($1,920 outright, $1,890 financed) and month 19.</text>
+  <text x="88" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">After month 24 the device balance in this example is $0. The $55 plan is assumed to stay.</text>
+</svg>
