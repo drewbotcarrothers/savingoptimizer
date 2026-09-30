@@ -52,6 +52,31 @@ If Hostinger offers **Deploy as static** when importing the repo, choose that. I
 
 Also deployed from the repo root: `robots.txt`, `sitemap.xml`, `llms.txt`, `ai.txt`.
 
+`robots.txt` allows Googlebot, Bingbot, OAI-SearchBot, PerplexityBot and all other crawlers, and lists the sitemap.
+
+### IndexNow (ping Bing and other engines after each deploy)
+
+The IndexNow key file is `6e0793eceefc62d596830f3941df9174.txt` in the site root. It must deploy with the site, so it is reachable at https://savingoptimizer.com/6e0793eceefc62d596830f3941df9174.txt. Do not rename or delete it; if you ever replace the key, the file name and its contents must be the new key.
+
+After a deploy has finished and the new pages are live, run from the repo root:
+
+```bash
+# URLs for HTML files changed since the last deployed commit (replace <last-deployed-sha>)
+python3 scripts/indexnow-ping.py --changed <last-deployed-sha>
+
+# or every URL in sitemap.xml (fine after a site-wide change)
+python3 scripts/indexnow-ping.py --all
+
+# or URLs whose sitemap lastmod is on/after a date
+python3 scripts/indexnow-ping.py --since 2026-09-30
+```
+
+Add `--dry-run` to list the URLs without sending. The script checks that the key file is live before it submits, posts to `https://api.indexnow.org/indexnow` (up to 10,000 URLs per request), and stops with the HTTP status if IndexNow rejects a batch. It uses only the Python standard library. IndexNow does not cover Google; keep the sitemap submitted in Google Search Console.
+
+### Dates
+
+`datePublished` is the day a guide went live. `dateModified`, the visible "Updated" date and the sitemap `lastmod` change only when the content really changes; formatting-only edits keep existing dates. `python3 scripts/check-dates.py` must pass before merging.
+
 ## Categories
 
 The site uses a **locked set of 22 categories** (exact names in nav, headings, URLs, JSON-LD, `llms.txt`, and `sitemap.xml`): Food & Groceries, Transportation, Housing, Utilities, Kids, Clothing, Personal Care, Travel, Personal Finance, Insurance, Healthcare, Household Items and Supplies, Pets, Subscriptions, Entertainment, Students, Weddings, Events, Education, Technology, Internet, Sports. Slug files live under `guides/` (e.g. `food-groceries.html`, `household-items.html`).
