@@ -1369,3 +1369,12 @@ nav.crumbs a:hover { color: var(--green); }
   color: inherit;
   text-decoration: underline;
 }
+
+.author-box {
+  margin: 2rem 0 0;
+  font-size: 0.9375rem;
+}
+
+.author-box + .ai-note {
+  margin-top: 0.75rem;
+}
