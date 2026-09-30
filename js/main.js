@@ -131,4 +131,19 @@
       window.location.href = mailto;
     });
   }
+
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest && e.target.closest('.yt-facade-btn');
+    if (!btn) return;
+    var box = btn.parentElement, id = box.getAttribute('data-videoid');
+    if (!/^[A-Za-z0-9_-]{11}$/.test(id)) return;
+    var f = document.createElement('iframe');
+    f.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
+    f.title = box.getAttribute('data-title') || 'YouTube video';
+    f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    f.referrerPolicy = 'strict-origin-when-cross-origin';
+    f.allowFullscreen = true;
+    box.replaceChildren(f);
+  });
+
 })();
