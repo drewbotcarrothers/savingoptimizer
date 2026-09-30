@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://savingoptimizer.com/guides/kids.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2956,6 +2956,50 @@
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+  <!-- kids:tax-leave-and-school start -->
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/rrsp-raise-canada-child-benefit-afni.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/child-care-expense-deduction-canada-t778.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/children-activity-tax-credits-by-province.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/summer-day-camp-cost-canada-child-care-deduction.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/ei-maternity-parental-standard-vs-extended.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/baby-first-year-cost-canada.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/guides/articles/back-to-school-costs-canada-supplies-fees.html</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <!-- kids:tax-leave-and-school end -->
   <url>
     <loc>https://savingoptimizer.com/guides/articles/air-canada-basic-vs-standard-when-to-pay-up.html</loc>
     <lastmod>2026-09-23</lastmod>

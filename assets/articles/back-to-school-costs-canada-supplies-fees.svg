@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: September costs for three grades</title>
+  <desc>Example with made-up inputs. Horizontal bars for a September total at grade 2, grade 6, and grade 9. The totals are $155, $240, and $495. Supplies, an optional fee, lunches, a device, and activities are inside those totals. Not a school invoice.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: a September total</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Three made-up grades. Clothing is not in these bars. See the clothing guide.</text>
+  <text x="24" y="110" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Grade 2</text>
+  <rect x="140" y="92" width="125" height="26" fill="#6B7280"/>
+  <text x="148" y="110" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$155</text>
+  <text x="24" y="170" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Grade 6</text>
+  <rect x="140" y="152" width="194" height="26" fill="#0F7A4B"/>
+  <text x="148" y="170" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$240</text>
+  <text x="24" y="230" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Grade 9</text>
+  <rect x="140" y="212" width="400" height="26" fill="#1A1A1A"/>
+  <text x="148" y="230" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$495</text>
+  <text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Grade 2 is supplies, September lunches, and a small activity. No device.</text>
+  <text x="24" y="300" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Grade 6 adds a made-up optional trip fee of $40. It is not a required Ontario fee.</text>
+  <text x="24" y="320" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Grade 9 adds a made-up $250 device the household chose. Ask the school before you buy one.</text>
+  <text x="24" y="352" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario's guideline: no fees for required learning. Hardship policies must be discreet.</text>
+  <text x="24" y="372" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Other provinces: check the province. Do not copy Ontario's rule.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+</svg>

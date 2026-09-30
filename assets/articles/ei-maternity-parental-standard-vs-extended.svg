@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: monthly EI on standard versus extended parental benefits</title>
+  <desc>Example with made-up inputs. Average weekly insurable earnings of $1,000, under the weekly maximums on the Service Canada page. Standard parental is 55 percent, $550 a week, about $2,383.33 a month. Extended parental is 33 percent, $330 a week, $1,430 a month. The one-parent maximum totals are not equal.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: parental benefits, per month</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Made-up weekly insurable earnings of $1,000. A month here is 52 weeks divided by 12.</text>
+  <text x="24" y="110" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Standard, 55%</text>
+  <rect x="168" y="92" width="400" height="28" fill="#0F7A4B"/>
+  <text x="178" y="111" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$2,383.33</text>
+  <text x="24" y="170" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Extended, 33%</text>
+  <rect x="168" y="152" width="240" height="28" fill="#1A1A1A"/>
+  <text x="178" y="171" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$1,430.00</text>
+  <text x="24" y="230" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Weekly amounts are $550 and $330. Both are under the page's caps of $729 and $437.</text>
+  <text x="24" y="254" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">One parent, maximum parental weeks only: 35 times $550 is $19,250.</text>
+  <text x="24" y="274" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The same parent on extended: 61 times $330 is $20,130. The totals are not the same number.</text>
+  <text x="24" y="298" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Maternity, if it applies, is 15 weeks at 55 percent on either choice. It is not in these two bars.</text>
+  <text x="24" y="330" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Quebec uses the Quebec Parental Insurance Plan. These bars are the EI rates outside Quebec.</text>
+  <text x="24" y="362" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Service Canada page details 2 June 2026. Not a payment quote. Confirm with the estimator.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+</svg>
