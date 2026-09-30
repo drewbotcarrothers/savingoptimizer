@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Which province's children's activity credit to open</title>
-  <desc>Decision flow. Start with the province or territory of residence on 31 December. Quebec, Manitoba, and Nova Scotia have credits confirmed on official pages for the 2025 tax year. Yukon and every other province: check that jurisdiction's return before claiming. Then test the program and keep a receipt with the provider's details.</desc>
+  <desc>Decision flow. Start with the province or territory of residence on 31 December. Quebec, Manitoba, and Nova Scotia have credits on official pages for the 2025 tax year. Yukon and every other province: check that jurisdiction's return before claiming. Then test the program and keep a receipt with the provider's details.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Where were you resident on 31 December?</text>
   <rect x="40" y="48" width="200" height="88" rx="8" fill="#0F7A4B"/>

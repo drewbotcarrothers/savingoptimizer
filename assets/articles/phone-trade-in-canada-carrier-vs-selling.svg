@@ -26,5 +26,5 @@
   <text x="540" y="320" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Cash, no fee here</text>
   <text x="24" y="360" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Leave at month 8 in this example and the bill-credit bar would be $120.</text>
   <text x="24" y="378" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">That lower bar is not drawn. Your carrier's terms can differ.</text>
-  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 30 Sep 2026. Example with made-up inputs.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Example with made-up inputs.</text>
 </svg>

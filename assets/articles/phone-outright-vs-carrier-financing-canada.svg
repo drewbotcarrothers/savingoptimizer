@@ -11,12 +11,12 @@
   <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="78.0,229.8 174.7,212.1 271.3,194.5 368.0,176.8 464.7,159.2 561.3,141.5 658.0,123.9"/>
   <polyline fill="none" stroke="#F59E0B" stroke-width="3" points="78.0,318.0 174.7,271.7 271.3,225.4 368.0,179.0 464.7,132.7 561.3,108.4 658.0,84.2"/>
   <text x="78.0" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">0</text><text x="174.7" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">6</text><text x="271.3" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">12</text><text x="368.0" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">18</text><text x="464.7" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">24</text><text x="561.3" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">30</text><text x="658.0" y="338" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">36</text>
-  <text x="360" y="356" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Months</text>
+  <text x="360" y="353" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Months</text>
   <text x="16" y="200" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280" transform="rotate(-90 16 200)">Cumulative cost (CAD)</text>
-  <line x1="150" y1="376" x2="178" y2="376" stroke="#0F7A4B" stroke-width="3"/>
-  <text x="184" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Outright $1,200 + $40/month</text>
-  <line x1="400" y1="376" x2="428" y2="376" stroke="#F59E0B" stroke-width="3"/>
-  <text x="434" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Financed, then $55 plan</text>
-  <text x="88" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Lines cross between month 18 ($1,920 outright, $1,890 financed) and month 19.</text>
-  <text x="88" y="408" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">After month 24 the device balance in this example is $0. The $55 plan is assumed to stay.</text>
+  <line x1="150" y1="368" x2="178" y2="368" stroke="#0F7A4B" stroke-width="3"/>
+  <text x="184" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Outright $1,200 + $40/month</text>
+  <line x1="400" y1="368" x2="428" y2="368" stroke="#F59E0B" stroke-width="3"/>
+  <text x="434" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Financed, then $55 plan</text>
+  <text x="88" y="394" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Lines cross between month 18 ($1,920 outright, $1,890 financed) and month 19.</text>
+  <text x="88" y="411" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">After month 24 the device balance in this example is $0. The $55 plan is assumed to stay.</text>
 </svg>
