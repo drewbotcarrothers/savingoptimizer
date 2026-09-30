@@ -19,6 +19,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://savingoptimizer.com/about/andrew-carrothers.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://savingoptimizer.com/how-we-create-content.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://savingoptimizer.com/guides/index.html</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
