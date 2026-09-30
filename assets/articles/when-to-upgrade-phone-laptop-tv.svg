@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Repair, keep or replace</title>
+  <desc>Decision flow. If security updates have stopped, replace or move to a supported system. If updates continue, ask whether the repair quote is under your threshold. If it is not, replace. If it is, ask whether the device still does your tasks. Yes means keep. A repair that restores the tasks means repair.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Repair, keep or replace</text>
+  <rect x="180" y="46" width="360" height="52" rx="8" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="360" y="68" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Still getting security updates?</text>
+  <text x="360" y="86" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Check the maker. Do not guess a year.</text>
+  <path d="M250 98 V118" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+  <path d="M470 98 V118" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <text x="228" y="114" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">No</text>
+  <text x="478" y="114" font-family="Inter, Arial, sans-serif" font-size="11" fill="#0F7A4B">Yes</text>
+  <rect x="40" y="120" width="200" height="56" rx="8" fill="#F59E0B"/>
+  <text x="140" y="144" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Replace</text>
+  <text x="140" y="162" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">Or a supported system</text>
+  <rect x="300" y="120" width="380" height="56" rx="8" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="490" y="144" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Repair quote under your threshold?</text>
+  <text x="490" y="162" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Use a written quote, not an ad</text>
+  <path d="M400 176 V196" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+  <path d="M580 176 V196" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <text x="378" y="192" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">No</text>
+  <text x="588" y="192" font-family="Inter, Arial, sans-serif" font-size="11" fill="#0F7A4B">Yes</text>
+  <rect x="300" y="198" width="170" height="52" rx="8" fill="#F59E0B"/>
+  <text x="385" y="228" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Replace</text>
+  <rect x="500" y="198" width="180" height="52" rx="8" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="590" y="220" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Does it do your tasks?</text>
+  <text x="590" y="238" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">The week you actually have</text>
+  <path d="M545 250 V270" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M635 250 V270" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+  <text x="524" y="266" font-family="Inter, Arial, sans-serif" font-size="11" fill="#0F7A4B">Yes</text>
+  <text x="642" y="266" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">No</text>
+  <rect x="470" y="272" width="140" height="48" rx="8" fill="#0F7A4B"/>
+  <text x="540" y="300" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Keep</text>
+  <rect x="630" y="272" width="70" height="48" rx="8" fill="#1A1A1A"/>
+  <text x="665" y="300" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Repair</text>
+  <text x="24" y="352" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">If updates continue and the quote is acceptable, a no on tasks means repair.</text>
+  <text x="24" y="370" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A yes on tasks means keep. A launch date is not a box in this flow.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 30 Sep 2026. Thresholds are yours. No lifespan is shown.</text>
+</svg>

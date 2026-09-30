@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Order for judging a phone-plan promo</title>
+  <desc>Five steps: coverage at home and work, phone unlocked, promo price after month X, trial period window noted, then port the number. Month X is the month on your offer.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Judge the promo in this order</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Month X is the month printed on your offer, not a national month.</text>
+  <rect x="24" y="84" width="200" height="78" rx="10" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="124" y="112" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">1. Coverage</text>
+  <text x="124" y="132" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">OK at home and work?</text>
+  <rect x="260" y="84" width="200" height="78" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="360" y="112" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">2. Phone</text>
+  <text x="360" y="132" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">Unlocked?</text>
+  <rect x="496" y="84" width="200" height="78" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="596" y="108" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">3. Price</text>
+  <text x="596" y="128" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">After month X?</text>
+  <rect x="120" y="220" width="220" height="78" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="230" y="248" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">4. Trial period</text>
+  <text x="230" y="268" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">Window noted?</text>
+  <rect x="380" y="220" width="220" height="78" rx="10" fill="#0F7A4B"/>
+  <text x="490" y="248" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">5. Port</text>
+  <text x="490" y="268" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Move the number</text>
+  <path d="M224 123 H260" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M460 123 H496" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M596 162 V190 H230 V220" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M340 259 H380" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Stop if coverage fails, the phone is locked, or the price after the promo is missing.</text>
+  <text x="24" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Confirm the trial rules with the CRTC before you rely on a day count.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 30 Sep 2026.</text>
+</svg>

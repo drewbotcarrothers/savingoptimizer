@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: three TV totals</title>
+  <desc>Example with made-up inputs. Stacked bars for three imaginary television purchases. Set A is a 400 dollar sticker plus an 80 dollar example fee, total 480. Set B is 320 plus a 40 dollar fee plus a 150 dollar mount, total 510. Set C is 250 plus a 60 dollar fee plus a 90 dollar mount plus a 200 dollar warranty add-on, total 600. The fee is example only and is not a provincial rate.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs</text>
+  <rect x="24" y="44" width="12" height="12" fill="#0F7A4B"/>
+  <text x="42" y="55" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Price</text>
+  <rect x="100" y="44" width="12" height="12" fill="#6B7280"/>
+  <text x="118" y="55" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Fee, example only</text>
+  <rect x="250" y="44" width="12" height="12" fill="#1A1A1A"/>
+  <text x="268" y="55" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Mount</text>
+  <rect x="330" y="44" width="12" height="12" fill="#F59E0B"/>
+  <text x="348" y="55" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Warranty add-on</text>
+  <line x1="80" y1="80" x2="660" y2="80" stroke="#E5E7EB"/>
+  <line x1="80" y1="185" x2="660" y2="185" stroke="#E5E7EB"/>
+  <line x1="80" y1="290" x2="660" y2="290" stroke="#1A1A1A"/>
+  <text x="40" y="84" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$700</text>
+  <text x="40" y="189" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$350</text>
+  <text x="48" y="294" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$0</text>
+  <text x="16" y="180" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" transform="rotate(-90 16 180)">Made-up dollars</text>
+  <rect x="150" y="170" width="90" height="120" fill="#0F7A4B"/>
+  <rect x="150" y="146" width="90" height="24" fill="#6B7280"/>
+  <rect x="310" y="194" width="90" height="96" fill="#0F7A4B"/>
+  <rect x="310" y="182" width="90" height="12" fill="#6B7280"/>
+  <rect x="310" y="137" width="90" height="45" fill="#1A1A1A"/>
+  <rect x="470" y="215" width="90" height="75" fill="#0F7A4B"/>
+  <rect x="470" y="197" width="90" height="18" fill="#6B7280"/>
+  <rect x="470" y="170" width="90" height="27" fill="#1A1A1A"/>
+  <rect x="470" y="110" width="90" height="60" fill="#F59E0B"/>
+  <text x="195" y="136" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">$480</text>
+  <text x="355" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">$510</text>
+  <text x="515" y="100" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">$600</text>
+  <text x="195" y="314" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Set A</text>
+  <text x="355" y="314" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Set B</text>
+  <text x="515" y="314" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Set C</text>
+  <text x="24" y="356" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Set A $400 + $80 fee. Set B $320 + $40 fee + $150 mount.</text>
+  <text x="24" y="374" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Set C $250 + $60 fee + $90 mount + $200 warranty add-on.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example only. The fee is not a provincial environmental rate. 30 Sep 2026.</text>
+</svg>
