@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Used car seat checks before you pay</title>
+  <desc>Decision tree for a used car seat. National Safety Mark, expiry date, collision history, recall status, and complete parts. Any no ends at do not use the seat and buy new.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="26" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Used car seat: stop if any answer is no</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+    <rect x="24" y="44" width="360" height="36" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+    <text x="36" y="67">National Safety Mark on the seat?</text>
+    <rect x="24" y="96" width="360" height="36" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+    <text x="36" y="119">Before the expiry date on the label?</text>
+    <rect x="24" y="148" width="360" height="36" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+    <text x="36" y="171">Never in a collision, with known history?</text>
+    <rect x="24" y="200" width="360" height="36" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+    <text x="36" y="223">Not listed on the recalls database?</text>
+    <rect x="24" y="252" width="360" height="36" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
+    <text x="36" y="275">All parts and the instructions present?</text>
+    <line x1="384" y1="62" x2="430" y2="62" stroke="#6B7280"/>
+    <line x1="384" y1="114" x2="430" y2="114" stroke="#6B7280"/>
+    <line x1="384" y1="166" x2="430" y2="166" stroke="#6B7280"/>
+    <line x1="384" y1="218" x2="430" y2="218" stroke="#6B7280"/>
+    <line x1="384" y1="270" x2="430" y2="270" stroke="#6B7280"/>
+    <line x1="430" y1="62" x2="430" y2="270" stroke="#6B7280"/>
+    <line x1="430" y1="166" x2="456" y2="166" stroke="#6B7280"/>
+    <rect x="456" y="120" width="240" height="92" rx="6" fill="#1A1A1A"/>
+    <text x="472" y="152" fill="#FFFFFF" font-weight="700">Any no: don't use it.</text>
+    <text x="472" y="174" fill="#FFFFFF">Buy a new seat.</text>
+    <text x="472" y="194" fill="#FFFFFF">Do not repair a failed check.</text>
+    <rect x="24" y="312" width="672" height="52" rx="6" fill="#0F7A4B"/>
+    <text x="36" y="334" fill="#FFFFFF" font-weight="700">All yes: you can consider the seat.</text>
+    <text x="36" y="352" fill="#FFFFFF">Match the stage to the child, and follow the manufacturer's manual.</text>
+    <text x="24" y="396" fill="#6B7280">Health Canada and Transport Canada checks. Saving Optimizer. Checked 29 Sep 2026.</text>
+  </g>
+
+</svg>

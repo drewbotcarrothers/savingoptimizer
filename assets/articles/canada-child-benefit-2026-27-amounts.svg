@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: CCB for one child under 6</title>
+  <desc>Example with made-up inputs. Annual Canada Child Benefit for one child under 6 at made-up adjusted family net incomes of $30,000, $50,000, $70,000, $90,000, and $120,000, using the CRA reduction rules for July 2026 to June 2027. Results are $8,157, $7,333.59, $5,933.59, $4,805.11, and $3,845.11.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="26" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">Example with made-up inputs: one child under 6</text>
+  <text x="24" y="44" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">CRA rules for July 2026 to June 2027, applied to made-up incomes. Not your notice.</text>
+  <line x1="100" y1="320.0" x2="620" y2="320.0" stroke="#E5E7EB"/><text x="24" y="324.0" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$0</text><line x1="100" y1="243.3" x2="620" y2="243.3" stroke="#E5E7EB"/><text x="24" y="247.3" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$3,000</text><line x1="100" y1="166.7" x2="620" y2="166.7" stroke="#E5E7EB"/><text x="24" y="170.7" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$6,000</text><line x1="100" y1="90.0" x2="620" y2="90.0" stroke="#E5E7EB"/><text x="24" y="94.0" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$9,000</text>
+  <line x1="100" y1="70" x2="100" y2="320" stroke="#1A1A1A" stroke-width="1.5"/>
+  <line x1="100" y1="320" x2="640" y2="320" stroke="#1A1A1A" stroke-width="1.5"/>
+  <polyline fill="none" stroke="#0F7A4B" stroke-width="2.5" points="100.0,111.5 215.6,132.6 331.1,168.4 446.7,197.2 620.0,221.7"/>
+  <circle cx="100.0" cy="111.5" r="4" fill="#0F7A4B"/><text x="108" y="102" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">$8,157</text><circle cx="215.6" cy="132.6" r="4" fill="#0F7A4B"/><text x="223.6" y="118.6" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">$7,333.59</text><circle cx="331.1" cy="168.4" r="4" fill="#0F7A4B"/><text x="311.1" y="156.4" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">$5,933.59</text><circle cx="446.7" cy="197.2" r="4" fill="#0F7A4B"/><text x="454.7" y="183.2" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">$4,805.11</text><circle cx="620.0" cy="221.7" r="4" fill="#0F7A4B"/><text x="536" y="198" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">$3,845.11</text>
+  <text x="86.0" y="344" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$30k</text><text x="259.3" y="344" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$60k</text><text x="432.7" y="344" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$90k</text><text x="606.0" y="344" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$120k</text>
+  <text x="250" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Adjusted family net income (made-up)</text>
+  <text transform="rotate(-90 18 200)" x="18" y="200" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Annual CCB</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. First threshold $38,237. Second threshold $82,847.</text>
+
+</svg>

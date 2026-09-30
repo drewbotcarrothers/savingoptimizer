@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Ontario child care dates from January 2025 to March 2031</title>
+  <desc>Timeline of dated milestones only: the $22-a-day cap from 1 January 2025, the 29 September 2026 announcement, the extension start on 31 March 2027, the $19-a-day average commitment through 30 June 2027, and the extension end on 31 March 2031. No fee is shown after 30 June 2027.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Ontario child care dates, 1 Jan 2025 to 31 Mar 2031</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Milestones from ontario.ca and the 29 Sep 2026 release. No later fee is plotted.</text>
+  <line x1="168" y1="78" x2="168" y2="360" stroke="#E5E7EB" stroke-width="4"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">
+    <circle cx="168" cy="88" r="7" fill="#0F7A4B"/>
+    <text x="24" y="84" font-weight="700">1 Jan 2025</text>
+    <text x="188" y="84">$22-a-day cap takes effect for enrolled programs</text>
+    <text x="188" y="102" fill="#6B7280" font-size="12">Children aged 0 to 5. Provincial average described as $19 a day.</text>
+    <circle cx="168" cy="158" r="7" fill="#0F7A4B"/>
+    <text x="24" y="154" font-weight="700">29 Sep 2026</text>
+    <text x="188" y="154">Four-year Canada-Ontario extension announced</text>
+    <text x="188" y="172" fill="#6B7280" font-size="12">Release figure: nearly $12 billion in federal funding over four years.</text>
+    <circle cx="168" cy="228" r="7" fill="#F59E0B"/>
+    <text x="24" y="224" font-weight="700">31 Mar 2027</text>
+    <text x="188" y="224">Extension period starts</text>
+    <text x="188" y="242" fill="#6B7280" font-size="12">Runs through 31 Mar 2031.</text>
+    <circle cx="168" cy="292" r="7" fill="#F59E0B"/>
+    <text x="24" y="288" font-weight="700">30 Jun 2027</text>
+    <text x="188" y="288">Commitment to hold a $19-a-day average runs until this date</text>
+    <text x="188" y="306" fill="#6B7280" font-size="12">The release does not set a fee after this date.</text>
+    <circle cx="168" cy="356" r="7" fill="#1A1A1A"/>
+    <text x="24" y="352" font-weight="700">31 Mar 2031</text>
+    <text x="188" y="352">Extension period ends</text>
+    <text x="188" y="370" fill="#6B7280" font-size="12">Checked 29 Sep 2026. Saving Optimizer.</text>
+  </g>
+
+</svg>
