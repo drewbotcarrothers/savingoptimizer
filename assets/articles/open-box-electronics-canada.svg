@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Open-box inspection order</title>
+  <desc>Flow: listed condition, missing parts, full manufacturer warranty, return window, then whether the price gap is worth it.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Inspect an open-box unit in this order</text>
+  <rect x="24" y="58" width="210" height="80" rx="10" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="129" y="88" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">1. Condition</text>
+  <text x="129" y="110" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">What is listed?</text>
+  <rect x="255" y="58" width="210" height="80" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="360" y="88" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">2. Parts</text>
+  <text x="360" y="110" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">Anything missing?</text>
+  <rect x="486" y="58" width="210" height="80" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="591" y="84" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">3. Warranty</text>
+  <text x="591" y="106" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">Full manufacturer</text>
+  <text x="591" y="124" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">warranty?</text>
+  <rect x="120" y="200" width="220" height="80" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="230" y="230" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">4. Returns</text>
+  <text x="230" y="252" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">Window still open?</text>
+  <rect x="380" y="200" width="220" height="80" rx="10" fill="#0F7A4B"/>
+  <text x="490" y="230" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">5. Price gap</text>
+  <text x="490" y="252" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Worth it after parts?</text>
+  <path d="M234 98 H255" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M465 98 H486" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M591 138 V170 H230 V200" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M340 240 H380" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <text x="24" y="324" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Compare with today's sealed price of the same model number, not a was-price.</text>
+  <text x="24" y="344" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Grades and restocking fees are the retailer's. Check that page.</text>
+  <text x="24" y="364" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Boxing Day 2026 is Saturday 26 December. No discount percent is shown.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 30 Sep 2026.</text>
+</svg>

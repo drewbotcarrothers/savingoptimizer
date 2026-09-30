@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Refurbished buy or walk away</title>
+  <desc>Decision tree: seller type, then a written warranty, then a return window, then whether the device is unlocked and not reported lost or stolen. Yes continues. No means walk away.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="30" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Buy only if every answer is yes</text>
+  <rect x="36" y="52" width="150" height="64" rx="8" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="111" y="78" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Seller type</text>
+  <text x="111" y="96" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">Who is selling?</text>
+  <rect x="210" y="52" width="150" height="64" rx="8" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="285" y="78" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Warranty?</text>
+  <text x="285" y="96" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">In writing</text>
+  <rect x="384" y="52" width="150" height="64" rx="8" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="459" y="78" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Return window?</text>
+  <text x="459" y="96" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">On that unit</text>
+  <rect x="558" y="52" width="140" height="64" rx="8" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="628" y="74" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Clean?</text>
+  <text x="628" y="92" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">Unlocked, not</text>
+  <text x="628" y="106" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">lost or stolen</text>
+  <path d="M186 84 H210" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M360 84 H384" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M534 84 H558" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M628 116 V168" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M250 168 H628" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <rect x="150" y="168" width="200" height="70" rx="8" fill="#0F7A4B"/>
+  <text x="250" y="198" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Yes to all: buy</text>
+  <text x="250" y="218" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#E7F4EE">Keep the receipt</text>
+  <rect x="390" y="168" width="220" height="70" rx="8" fill="#F3F4F6" stroke="#1A1A1A"/>
+  <text x="500" y="198" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">Any no: walk away</text>
+  <text x="500" y="218" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Do not pay to fix it later</text>
+  <text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">A no at warranty, returns, or the lock and blacklist checks stops the purchase.</text>
+  <text x="24" y="304" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Quebec's good-working-order warranty is for new goods. Ask the Office</text>
+  <text x="24" y="322" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">de la protection du consommateur about a refurbished unit.</text>
+  <text x="24" y="360" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Grades are the seller's words. This chart does not define them.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 30 Sep 2026.</text>
+</svg>

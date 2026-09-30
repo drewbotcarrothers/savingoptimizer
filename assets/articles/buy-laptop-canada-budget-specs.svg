@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Laptop buying order</title>
+  <desc>Decision flow: what you will do on the laptop, what the school or employer requires, the minimum RAM and storage those requirements name, new versus refurbished, then warranty and the return window.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Buy the laptop in this order</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">RAM and storage come from the requirement, not from a sale card.</text>
+  <rect x="24" y="80" width="210" height="86" rx="10" fill="#E7F4EE" stroke="#0F7A4B"/>
+  <text x="129" y="108" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">1. Tasks</text>
+  <text x="129" y="130" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">What will you do on it?</text>
+  <rect x="255" y="80" width="210" height="86" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="360" y="108" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">2. Requirement</text>
+  <text x="360" y="130" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">School or employer?</text>
+  <rect x="486" y="80" width="210" height="86" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="591" y="108" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">3. Minimum</text>
+  <text x="591" y="130" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">RAM and storage</text>
+  <rect x="120" y="220" width="220" height="86" rx="10" fill="#F3F4F6" stroke="#E5E7EB"/>
+  <text x="230" y="248" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">4. Condition</text>
+  <text x="230" y="270" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">New or refurbished?</text>
+  <rect x="380" y="220" width="220" height="86" rx="10" fill="#0F7A4B"/>
+  <text x="490" y="248" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">5. Protection</text>
+  <text x="490" y="270" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Warranty and returns</text>
+  <path d="M234 123 H255" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M465 123 H486" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M591 166 V196 H230 V220" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <path d="M340 263 H380" stroke="#0F7A4B" stroke-width="2" fill="none"/>
+  <text x="24" y="352" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">If the school or employer names a platform, that name outranks a lower sticker.</text>
+  <text x="24" y="372" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">In Quebec, a new laptop from 5 Oct 2026 has a 3-year legal warranty.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 30 Sep 2026.</text>
+</svg>

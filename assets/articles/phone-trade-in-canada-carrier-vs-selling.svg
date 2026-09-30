@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: trade-in nets</title>
+  <desc>Example with made-up inputs. If you complete the terms, bill credits total 360 dollars, a gift card is 280 dollars, and a private sale is 340 dollars. These are not quotes. The chart does not draw the lower amount if you cancel the bill credits at month 8.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Net if you complete the terms. Not a carrier or manufacturer quote.</text>
+  <line x1="70" y1="80" x2="680" y2="80" stroke="#E5E7EB"/>
+  <line x1="70" y1="180" x2="680" y2="180" stroke="#E5E7EB"/>
+  <line x1="70" y1="280" x2="680" y2="280" stroke="#1A1A1A"/>
+  <text x="28" y="84" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$400</text>
+  <text x="28" y="184" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$200</text>
+  <text x="40" y="284" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$0</text>
+  <text x="14" y="190" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" transform="rotate(-90 14 190)">Made-up dollars</text>
+  <rect x="130" y="100" width="100" height="180" fill="#0F7A4B"/>
+  <rect x="310" y="140" width="100" height="140" fill="#6B7280"/>
+  <rect x="490" y="110" width="100" height="170" fill="#F59E0B"/>
+  <text x="180" y="92" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$360</text>
+  <text x="360" y="132" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$280</text>
+  <text x="540" y="102" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">$340</text>
+  <text x="180" y="304" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Bill credits</text>
+  <text x="180" y="320" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$15 x 24 months</text>
+  <text x="360" y="304" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Gift card</text>
+  <text x="360" y="320" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Store credit</text>
+  <text x="540" y="304" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Private sale</text>
+  <text x="540" y="320" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Cash, no fee here</text>
+  <text x="24" y="360" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Leave at month 8 in this example and the bill-credit bar would be $120.</text>
+  <text x="24" y="378" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">That lower bar is not drawn. Your carrier's terms can differ.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 30 Sep 2026. Example with made-up inputs.</text>
+</svg>

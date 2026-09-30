@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Electronics sale dates from October 2026 to January 2027</title>
+  <desc>Timeline from 1 October 2026 to 31 January 2027 with Black Friday on Friday 27 November 2026, Cyber Monday on Monday 30 November 2026, and Boxing Day on Saturday 26 December 2026. A later mark says the holiday return window ends when the retailer says so. Dates only. No price levels.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">October 2026 to January 2027</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Dates only. The return-window mark is not a national end date.</text>
+  <line x1="48" y1="188" x2="680" y2="188" stroke="#1A1A1A" stroke-width="2"/>
+  <text x="48" y="212" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">1 Oct</text>
+  <text x="196" y="212" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">1 Nov</text>
+  <text x="344" y="212" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">1 Dec</text>
+  <text x="492" y="212" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">1 Jan</text>
+  <text x="628" y="212" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">31 Jan</text>
+  <line x1="330" y1="156" x2="330" y2="188" stroke="#0F7A4B" stroke-width="3"/>
+  <text x="322" y="140" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Fri 27 Nov</text>
+  <text x="322" y="124" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Black Friday</text>
+  <line x1="348" y1="156" x2="348" y2="188" stroke="#1A1A1A" stroke-width="3"/>
+  <text x="356" y="108" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Mon 30 Nov</text>
+  <text x="356" y="92" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Cyber Monday</text>
+  <line x1="472" y1="156" x2="472" y2="188" stroke="#0F7A4B" stroke-width="3"/>
+  <text x="472" y="248" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Sat 26 Dec</text>
+  <text x="472" y="264" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Boxing Day</text>
+  <line x1="472" y1="168" x2="590" y2="168" stroke="#F59E0B" stroke-width="2" stroke-dasharray="4 3"/>
+  <line x1="590" y1="156" x2="590" y2="188" stroke="#F59E0B" stroke-width="3"/>
+  <text x="590" y="300" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Return-window end</text>
+  <text x="590" y="316" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Check your retailer</text>
+  <text x="24" y="372" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 30 Sep 2026. No discount percentages and no price levels.</text>
+  <text x="24" y="392" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The amber mark is a reminder. It is not a dated national deadline.</text>
+</svg>
