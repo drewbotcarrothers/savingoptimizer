@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+  <title>Example with made-up inputs: two holiday electronics return windows</title>
+  <desc>Example with made-up inputs. A purchase on 27 November 2026 with a made-up return end of 16 January 2027, and a purchase on 8 December 2026 with a made-up return end of 7 January 2027. Gift-receipt marks sit on the purchase dates. These end dates are not a store policy.</desc>
+  <rect width="720" height="420" fill="#FFFFFF"/>
+  <text x="24" y="28" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs</text>
+  <text x="24" y="48" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Return end dates below are illustrations. Check the retailer's holiday policy.</text>
+  <line x1="88" y1="300" x2="648" y2="300" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="88.0" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">27 Nov</text>
+  <text x="337.8" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">26 Dec</text>
+  <text x="648.0" y="322" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">31 Jan</text>
+  <line x1="88.0" y1="292" x2="88.0" y2="308" stroke="#6B7280" stroke-width="1"/>
+  <line x1="337.8" y1="292" x2="337.8" y2="308" stroke="#6B7280" stroke-width="1"/>
+  <line x1="648.0" y1="292" x2="648.0" y2="308" stroke="#6B7280" stroke-width="1"/>
+  <text x="24" y="118" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Buy 27 Nov</text>
+  <rect x="88.0" y="128" width="430.8" height="28" rx="4" fill="#0F7A4B"/>
+  <text x="303.4" y="147" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Made-up window to 16 Jan</text>
+  <circle cx="88.0" cy="142" r="7" fill="#F59E0B" stroke="#1A1A1A" stroke-width="1"/>
+  <text x="100.0" y="112" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Gift receipt</text>
+  <text x="24" y="200" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Buy 8 Dec</text>
+  <rect x="182.8" y="210" width="258.5" height="28" rx="4" fill="#F59E0B"/>
+  <text x="312.0" y="229" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Made-up window to 7 Jan</text>
+  <circle cx="182.8" cy="224" r="7" fill="#0F7A4B" stroke="#1A1A1A" stroke-width="1"/>
+  <text x="194.8" y="198" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#1A1A1A">Gift receipt</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">27 Nov 2026 is Black Friday and 26 Dec 2026 is Boxing Day. Those are calendar dates.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">The coloured bars are made-up return ends, not a banner's published window.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A phone on a new plan also has the Wireless Code trial period. That clock is separate.</text>
+</svg>
