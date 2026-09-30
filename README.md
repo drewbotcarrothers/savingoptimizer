@@ -88,6 +88,27 @@ The site uses a **locked set of 22 categories** (exact names in nav, headings, U
 - Brand rules: `BRAND-KIT.md`
 - New article: add HTML under `guides/articles/`, link from `guides/index.html` and the category page.
 
+## Required `<head>` block on every page
+
+Every HTML page (articles, hubs, about pages, redirect stubs, any future 404) starts its `<head>` with the Google tag, followed immediately by the AdSense account meta tag. New pages are built by copying an existing article, so keep this block exactly as is:
+
+```html
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-B1DYC7P4D4"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-B1DYC7P4D4');
+  </script>
+  <meta name="google-adsense-account" content="ca-pub-7909541570116920">
+```
+
+- The GA snippet appears exactly once, immediately after `<head>`.
+- The `google-adsense-account` meta tag appears exactly once, right after the GA block.
+
 ## Licence / credit
 
 Site copy © 2026 Saving Optimizer. Inter is loaded from Google Fonts.
