@@ -1345,3 +1345,27 @@ nav.crumbs a:hover { color: var(--green); }
     grid-template-columns: 1.4fr 1fr 1fr;
   }
 }
+
+.article-meta a[rel="author"] {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.ai-note {
+  margin: 2rem 0 0;
+  padding: 0.85rem 1rem;
+  border-left: 3px solid var(--border);
+  color: var(--mid-grey);
+  font-size: 0.875rem;
+}
+
+.footer-disclaimer {
+  margin-top: 0.4rem;
+  font-size: 0.8125rem;
+}
+
+.footer-disclaimer a {
+  color: inherit;
+  text-decoration: underline;
+}
