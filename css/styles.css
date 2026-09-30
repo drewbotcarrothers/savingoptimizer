@@ -1084,6 +1084,15 @@ body {
   margin: 0 0 1.5rem;
 }
 
+/* Article disclosure sits at the end of the article, after the related links and CTA. */
+.article-wrap > .disclosure {
+  margin: 2rem 0 0;
+}
+
+.article-wrap > .disclosure p {
+  margin: 0;
+}
+
 .sources {
   margin-top: 2rem;
   padding-top: 1.25rem;
