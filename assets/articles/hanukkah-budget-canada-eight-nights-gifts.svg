@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example with made-up inputs: eight nights</title>
+<desc id="d">Horizontal bars for a made-up family with two children. A $30 gift each night totals $480. A themed plan totals $270: main gift $120, small gifts $40, books $30, experience $30, game $25, giving $20 and homemade $5.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: eight nights</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A gift every night compared with a themed plan</text>
+<text x="240" y="99.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Gift every night</text>
+<rect x="250" y="84.7" width="350.0" height="21.7" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="99.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$480</text>
+<text x="240" y="134.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Themed plan</text>
+<rect x="250" y="119.7" width="196.9" height="21.7" rx="3" fill="#1A1A1A"/>
+<text x="454.9" y="134.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$270</text>
+<text x="240" y="169.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Main gift night</text>
+<rect x="250" y="154.7" width="87.5" height="21.7" rx="3" fill="#0F7A4B"/>
+<text x="345.5" y="169.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$120</text>
+<text x="240" y="204.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Small gift nights</text>
+<rect x="250" y="189.7" width="29.2" height="21.7" rx="3" fill="#1A1A1A"/>
+<text x="287.2" y="204.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$40</text>
+<text x="240" y="239.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Book night</text>
+<rect x="250" y="224.7" width="21.9" height="21.7" rx="3" fill="#0F7A4B"/>
+<text x="279.9" y="239.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$30</text>
+<text x="240" y="274.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Experience night</text>
+<rect x="250" y="259.6" width="21.9" height="21.7" rx="3" fill="#1A1A1A"/>
+<text x="279.9" y="274.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$30</text>
+<text x="240" y="309.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Game night</text>
+<rect x="250" y="294.6" width="18.2" height="21.7" rx="3" fill="#0F7A4B"/>
+<text x="276.2" y="309.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$25</text>
+<text x="240" y="344.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Giving night</text>
+<rect x="250" y="329.6" width="14.6" height="21.7" rx="3" fill="#1A1A1A"/>
+<text x="272.6" y="344.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$20</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example with made-up inputs: houseguest costs</title>
+<desc id="d">Horizontal bars for a made-up visit: total extra cost $640, paid by guests $280, paid by hosts $360, with groceries $320, takeout $120, main dinner share $120, supplies $40 and utilities $40.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: houseguest costs</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Four guests, four nights, before and after a split</text>
+<text x="240" y="99.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Total extra cost</text>
+<rect x="250" y="84.7" width="350.0" height="21.7" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="99.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$640</text>
+<text x="240" y="134.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Hosts&#x27; share</text>
+<rect x="250" y="119.7" width="196.9" height="21.7" rx="3" fill="#1A1A1A"/>
+<text x="454.9" y="134.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$360</text>
+<text x="240" y="169.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Guests&#x27; share</text>
+<rect x="250" y="154.7" width="153.1" height="21.7" rx="3" fill="#0F7A4B"/>
+<text x="411.1" y="169.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$280</text>
+<text x="240" y="204.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Extra groceries</text>
+<rect x="250" y="189.7" width="175.0" height="21.7" rx="3" fill="#1A1A1A"/>
+<text x="433.0" y="204.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$320</text>
+<text x="240" y="239.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Takeout night</text>
+<rect x="250" y="224.7" width="65.6" height="21.7" rx="3" fill="#0F7A4B"/>
+<text x="323.6" y="239.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$120</text>
+<text x="240" y="274.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Main dinner share</text>
+<rect x="250" y="259.6" width="65.6" height="21.7" rx="3" fill="#1A1A1A"/>
+<text x="323.6" y="274.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$120</text>
+<text x="240" y="309.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Supplies</text>
+<rect x="250" y="294.6" width="21.9" height="21.7" rx="3" fill="#0F7A4B"/>
+<text x="279.9" y="309.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$40</text>
+<text x="240" y="344.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Utilities</text>
+<rect x="250" y="329.6" width="21.9" height="21.7" rx="3" fill="#1A1A1A"/>
+<text x="279.9" y="344.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$40</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
