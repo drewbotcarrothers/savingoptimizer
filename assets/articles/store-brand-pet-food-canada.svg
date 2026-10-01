@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Price per kilogram for one verified dog food, cost per day not computed</title>
+  <title>Price per kilogram for one priced dog food, cost per day not computed</title>
   <desc>A single bar for Kirkland Signature chicken, rice and vegetable dog food at 3.07 dollars per kilogram from a Costco same-day price of 55.60 dollars for 18.14 kilograms. Cost per day for a 25 kilogram dog is marked not computed because kilocalories and a feeding line were not on that page.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Price per kilogram, not cost per day</text>

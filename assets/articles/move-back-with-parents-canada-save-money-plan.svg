@@ -4,7 +4,7 @@
   <desc id="desc">Labelled adult-child plan. Paying $800 toward household costs instead of a $2,273 Toronto one-bedroom frees about $1,473 a month. Twelve months is about $17,676. Twenty-four months is about $35,352 before CRA FHSA room of $8,000 a year.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Move home with a runway, not an open tab</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">TRREB Q2 2026 1-bed $2,273 vs labelled $800 contribution. CRA FHSA $8,000 / $40,000 (verified 16 Sep 2026 on the FHSA page).</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">TRREB Q2 2026 1-bed $2,273 vs labelled $800 contribution. CRA FHSA $8,000 / $40,000 (as of 16 Sep 2026 on the FHSA page).</text>
   <rect x="70" y="168" width="130" height="112" fill="#6B7280"/>
   <text x="135" y="156" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$800</text>
   <text x="135" y="302" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Contribution</text>

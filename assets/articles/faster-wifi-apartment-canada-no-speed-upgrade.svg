@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Apartment Wi-Fi fix before speed upgrade</title>
-  <desc id="desc">Flow from wired test to placement to mesh before considering a higher internet tier. Drafted 30 Sep 2026.</desc>
+  <desc id="desc">Flow from wired test to placement to mesh before considering a higher internet tier. As of 30 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Fix Wi-Fi before you buy megabits.</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian apartment path. 30 Sep 2026.</text>

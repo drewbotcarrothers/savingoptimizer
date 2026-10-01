@@ -4,7 +4,7 @@
   <desc>A seven-step Ontario-first timeline. About three months before 65, read the Ontario Drug Benefit letter and apply for the Seniors Co-Payment Program if income fits. Before the birthday, confirm the drug list and, in Quebec, contact RAMQ if choosing a private plan only. On the first day of the next month, confirm coverage at an Ontario pharmacy before cancelling a retiree drug plan. In the following months, compare dental programs, book the eye-exam interval that applies, and apply to the Assistive Devices Program before buying a hearing aid.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">65th-birthday health tasks, Ontario first</text>
-  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Apply, confirm, cancel, compare. Dates from ontario.ca and RAMQ, checked 26 Sep 2026.</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Apply, confirm, cancel, compare. Dates from ontario.ca and RAMQ, as of 26 Sep 2026.</text>
   <line x1="36" y1="118" x2="684" y2="118" stroke="#E5E7EB" stroke-width="4"/>
   <circle cx="48" cy="118" r="8" fill="#0F7A4B"/>
   <circle cx="156" cy="118" r="8" fill="#0F7A4B"/>

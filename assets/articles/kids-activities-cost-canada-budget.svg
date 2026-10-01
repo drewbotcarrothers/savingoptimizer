@@ -23,7 +23,7 @@
     <text x="590" y="284" fill="#1A1A1A">$640</text>
     <text x="24" y="330" font-size="12" fill="#6B7280">Five amounts: $180, $280, $420, $510, $640. They are not equal.</text>
     <text x="24" y="350" font-size="12" fill="#6B7280">A two-child year is two sheets like this, not this chart counted twice.</text>
-    <text x="24" y="396" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+    <text x="24" y="396" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 29 Sep 2026.</text>
   </g>
 
 </svg>

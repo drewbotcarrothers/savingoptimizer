@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Wireless home versus fibre or cable</title>
-  <desc id="desc">If fibre or cable is at the unit and you upload for work, stay on the wire. If the wire is weak, test 5G or fixed wireless. If the tower fails, look at satellite. Drafted 22 Sep 2026.</desc>
+  <desc id="desc">If fibre or cable is at the unit and you upload for work, stay on the wire. If the wire is weak, test 5G or fixed wireless. If the tower fails, look at satellite. As of 22 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Wireless home is a branch, not the default.</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Decision order for Canadian addresses. Drafted 22 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Decision order for Canadian addresses. As of 22 Sep 2026.</text>
   <rect x="230" y="74" width="260" height="52" rx="10" fill="#0F7A4B"/>
   <text x="360" y="105" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Fibre or cable already here?</text>
   <rect x="24" y="156" width="210" height="100" rx="12" fill="#E7F4EE"/>

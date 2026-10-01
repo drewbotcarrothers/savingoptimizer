@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Coverage overlap for accident, illness, and routine care</title>
-  <desc>Conceptual diagram of three overlapping areas: accident, illness, and routine care. Accident-only sits in the accident area. Accident-and-illness adds illness. Embedded wellness may add routine care. No premiums and no policy wording. Checked 27 Sep 2026.</desc>
+  <desc>Conceptual diagram of three overlapping areas: accident, illness, and routine care. Accident-only sits in the accident area. Accident-and-illness adds illness. Embedded wellness may add routine care. No premiums and no policy wording. As of 27 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">What each plan type can reach</text>
   <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Conceptual overlap only. Not a policy. No premiums drawn.</text>
@@ -22,5 +22,5 @@
     <text x="498" y="240">Embedded wellness</text>
     <text x="498" y="258" font-size="11" fill="#6B7280">May add routine care</text>
   </g>
-  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">NAPHIA labels the products. The wording you were offered decides the claim. Checked 27 Sep 2026.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">NAPHIA labels the products. The wording you were offered decides the claim. As of 27 Sep 2026.</text>
 </svg>

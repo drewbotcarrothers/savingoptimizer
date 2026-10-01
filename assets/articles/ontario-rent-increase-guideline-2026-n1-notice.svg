@@ -4,7 +4,7 @@
   <desc id="desc">Ontario 2026 guideline is 2.1 percent. On $2,200 rent the maximum guideline increase is $46.20. Form N1 needs 90 days written notice. Increases generally once every 12 months. Exempt units use N2 and have no guideline cap.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario 2026 guideline: 2.1%  —  and the form has to be N1</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">ontario.ca residential rent increases (verified 20 Sep 2026). 90 days in writing. Once every 12 months. Do not treat a text as N1.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">ontario.ca residential rent increases (as of 20 Sep 2026). 90 days in writing. Once every 12 months. Do not treat a text as N1.</text>
   <rect x="48" y="180" width="70" height="100" fill="#4B9B74"/>
   <text x="83" y="168" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">+$37.80</text>
   <text x="83" y="300" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$1,800</text>

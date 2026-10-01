@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Dyson V8 Canada parts prices if you buy one of each</title>
-  <desc>Stacked bars of Dyson Canada parts prices checked 26 September 2026. Star-filter V8 example: battery 139.99 dollars, pre-filter 32.99, post-filter 32.99. Pinch-filter example: battery 142.99 and pre-filter 20.99. These are list prices for one of each part, not a prediction that a vacuum needs them within five years. The machine purchase price is not included.</desc>
+  <desc>Stacked bars of Dyson Canada parts prices as of 26 September 2026. Star-filter V8 example: battery 139.99 dollars, pre-filter 32.99, post-filter 32.99. Pinch-filter example: battery 142.99 and pre-filter 20.99. These are list prices for one of each part, not a prediction that a vacuum needs them within five years. The machine purchase price is not included.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">One of each priced part, not a five-year forecast</text>
   <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Dyson Canada parts pages. Purchase price of the vacuum is not in the stack. Shipping of 5.99 dollars is extra.</text>

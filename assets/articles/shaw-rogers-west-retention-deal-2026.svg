@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">West retention 30-day calendar</title>
-  <desc id="desc">Timeline: day 0 gather quotes, day 7 file cancel, day 14 retention call, day 21 email terms, day 30 walk or stay. Drafted 22 Sep 2026.</desc>
+  <desc id="desc">Timeline: day 0 gather quotes, day 7 file cancel, day 14 retention call, day 21 email terms, day 30 walk or stay. As of 22 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">West retention is a 30-day calendar, not nostalgia</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative BC / Alberta playbook. Drafted 22 Sep 2026. Not a Rogers offer.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative BC / Alberta playbook. As of 22 Sep 2026. Not a Rogers offer.</text>
   <rect x="40" y="100" width="120" height="160" rx="10" fill="#E7F4EE"/>
   <text x="100" y="140" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Day 0–3</text>
   <text x="100" y="170" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Telus + Oxio</text>

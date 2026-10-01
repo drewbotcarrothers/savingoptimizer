@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Brita pitcher filter cost per litre in Canada</title>
-  <desc>Two bars: Brita standard replacement filter OB03 at 6.15 cents per litre from 9.29 dollars and 151 litres, and Brita Elite at 6.34 cents per litre from 28.79 dollars and 454 litres. Prices from brita.ca checked 26 September 2026. Bottled water is omitted because no bottle price was opened.</desc>
+  <desc>Two bars: Brita standard replacement filter OB03 at 6.15 cents per litre from 9.29 dollars and 151 litres, and Brita Elite at 6.34 cents per litre from 28.79 dollars and 454 litres. Prices from brita.ca as of 26 September 2026. Bottled water is omitted because no bottle price was opened.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Cents per litre, filter only</text>
   <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">brita.ca list price divided by the rated litres on that page. Pitcher hardware and bottles are not in the bars.</text>
@@ -23,5 +23,5 @@
     <rect x="220" y="214" width="292" height="28" fill="#9CA3AF"/>
     <text x="520" y="233">6.34 cents</text>
   </g>
-  <text x="24" y="380" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: 46 px per cent. Fridge, faucet, and under-sink rows were not priced. Checked 26 Sep 2026.</text>
+  <text x="24" y="380" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: 46 px per cent. Fridge, faucet, and under-sink rows were not priced. As of 26 Sep 2026.</text>
 </svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Statistics Canada pet food and supplies index, each August 2019 to 2026</title>
-  <desc>Line of the Canada pet food and supplies CPI, table 18-10-0004-01, 2002 equals 100, August readings 151.1, 155.0, 163.7, 178.9, 193.3, 188.6, 184.5, and 185.2. April 2023 peak of 194.8 is not plotted. Checked 27 Sep 2026.</desc>
+  <desc>Line of the Canada pet food and supplies CPI, table 18-10-0004-01, 2002 equals 100, August readings 151.1, 155.0, 163.7, 178.9, 193.3, 188.6, 184.5, and 185.2. April 2023 peak of 194.8 is not plotted. As of 27 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Pet food and supplies, August index, Canada</text>
   <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Table 18-10-0004-01, 2002=100, vector v41691082. August only. Peak April 2023 (194.8) is in the table, not on this line.</text>
@@ -36,5 +36,5 @@
   <circle cx="688.0" cy="142.6" r="4.5" fill="#0F7A4B"/>
   <text x="688.0" y="132.6" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">185.2</text>
   <text x="688.0" y="346" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">2026</text>
-  <text x="24" y="390" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Release 14 Sep 2026. Last point is August 2026, 185.2. Checked 27 Sep 2026.</text>
+  <text x="24" y="390" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Release 14 Sep 2026. Last point is August 2026, 185.2. As of 27 Sep 2026.</text>
 </svg>

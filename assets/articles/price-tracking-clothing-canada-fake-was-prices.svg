@@ -24,5 +24,5 @@
   <text x="360" y="328" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Day in a made-up 90-day window</text>
   <text x="78" y="358" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The was-price is touched only in the first days, then the selling price is $72,</text>
   <text x="78" y="376" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">with a short stretch at $58. Not a store's history.</text>
-  <text x="78" y="402" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+  <text x="78" y="402" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 29 Sep 2026.</text>
 </svg>

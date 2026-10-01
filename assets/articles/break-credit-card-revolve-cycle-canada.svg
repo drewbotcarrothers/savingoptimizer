@@ -4,7 +4,7 @@
   <desc id="desc">Separate float from revolving debt, move groceries to debit, and run a 60-day payoff without predatory products.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">60-day revolve break</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Groceries and gas stay. The revolving card does not. Drafted 22 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Groceries and gas stay. The revolving card does not. As of 22 Sep 2026.</text>
   <rect x="24" y="78" width="155" height="200" rx="12" fill="#E7F4EE"/>
   <text x="36" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Label</text>
   <text x="36" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Float vs leftover</text>

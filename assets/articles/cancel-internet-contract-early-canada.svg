@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">ETF versus stay worksheet</title>
-  <desc id="desc">Compare paying an early cancellation fee to switch now versus staying until the fee hits zero or a winback lands. Drafted 29 Sep 2026.</desc>
+  <desc id="desc">Compare paying an early cancellation fee to switch now versus staying until the fee hits zero or a winback lands. As of 29 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">ETF math before you give notice.</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Home internet fixed-term sketch after CRTC 2026-43. 29 Sep 2026.</text>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Illustrative Canadian Tire price path: regular tag versus repeated lower prices</title>
-  <desc>An illustrative chart, not a flyer archive. A grey regular tag stays high while green marks show lower prices on later weeks. No percent-off cycle was verified.</desc>
+  <desc>An illustrative chart, not a flyer archive. A grey regular tag stays high while green marks show lower prices on later weeks. No percent-off cycle is published.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Illustrative: a regular tag is not the only price</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Not a dated flyer reading. Do not treat the gap as a real percent.</text>

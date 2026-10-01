@@ -4,7 +4,7 @@
   <desc>Decision flow: is the centre licensed, is it enrolled in the Canada-wide system, and is the child under 6 or inside the provincial age rule. Outcomes are a reduced fee, a full fee with a subsidy check, or the child care expense deduction.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Will the reduced fee apply to this space?</text>
-  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">One centre, one child. Provincial age rules can extend past age 6. Checked 29 Sep 2026.</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">One centre, one child. Provincial age rules can extend past age 6. As of 29 Sep 2026.</text>
   <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">
     <rect x="24" y="68" width="300" height="52" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
     <text x="36" y="90" font-weight="700">1. Is the centre licensed?</text>

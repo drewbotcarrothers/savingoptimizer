@@ -26,5 +26,5 @@
   <text x="24" y="328" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Grey is before the deduction. Green is after. Increases: $778.48, $1,466.72, and $2,063.27.</text>
   <text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">CRA rates for July 2026 to June 2027. The CRA examples drop fractions of a cent.</text>
   <text x="24" y="368" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The bars use that method. Not a tax refund. Confirm with the CRA calculator.</text>
-  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 29 Sep 2026.</text>
 </svg>

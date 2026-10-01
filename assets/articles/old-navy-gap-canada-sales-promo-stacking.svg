@@ -30,5 +30,5 @@
   <text x="24" y="300" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Use the strip to decide when you need the clothes, not how many percent off to expect.</text>
   <text x="24" y="324" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A banner percent still has to match a real reference price. See the ordinary-price tests.</text>
   <text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Price-adjustment days are not on this strip. See the retailer for that window.</text>
-  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Checked 29 Sep 2026. Seasonal pattern only.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. As of 29 Sep 2026. Seasonal pattern only.</text>
 </svg>

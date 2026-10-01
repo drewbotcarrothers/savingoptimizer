@@ -4,7 +4,7 @@
   <desc>A status grid, not a price chart. Ontario Drug Benefit covers test strips up to a yearly maximum. It does not cover lancets. Real-time continuous glucose monitors and insulin pumps can be fully funded through the Assistive Devices Program for eligible type 1 diabetes. Intermittently scanned monitors are not funded by that program. Listed diabetes drugs are generally free at the counter in British Columbia, Manitoba, Prince Edward Island, and Yukon. Device coverage in those agreements is a separate stream to confirm locally.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="30" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Coverage status, not a price</text>
-  <text x="24" y="50" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Checked 26 Sep 2026. Green is covered on the rule shown. Grey is not. Tint is partial.</text>
+  <text x="24" y="50" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">As of 26 Sep 2026. Green is covered on the rule shown. Grey is not. Tint is partial.</text>
   <rect x="250" y="68" width="220" height="22" fill="#E5E7EB"/>
   <rect x="474" y="68" width="222" height="22" fill="#E5E7EB"/>
   <text x="360" y="83" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A">Ontario</text>

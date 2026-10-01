@@ -4,7 +4,7 @@
   <desc id="desc">Baseboards convert nearly all kWh to heat and still cost a fortune because COP is about 1. Rank levers: zone unused rooms, line-voltage thermostats, curtains and air sealing, then a ductless heat pump conversation. Quebec Rate D second tier and Ontario ULO 4 to 9 p.m. both punish recovery blasts.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Baseboards: COP ~1. Rank the cheap levers first</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Resistance heat is efficient at the heater and expensive at the meter. Verified 20 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Resistance heat is efficient at the heater and expensive at the meter. As of 20 Sep 2026.</text>
   <rect x="24" y="78" width="336" height="232" rx="12" fill="#E7F4EE"/>
   <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Do this winter (no contractor)</text>
   <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. Close and set back unused rooms</text>

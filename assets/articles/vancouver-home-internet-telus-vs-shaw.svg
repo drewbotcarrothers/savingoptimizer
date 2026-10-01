@@ -4,7 +4,7 @@
   <desc id="desc">Telus PureFibre with upload near the download, Rogers cable on the former Shaw network with a smaller upload, and a note that Novus or a strata bulk deal can replace both in some buildings.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Vancouver is two plants, plus the building</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Do not reuse an Ontario sticker. Drafted 22 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Do not reuse an Ontario sticker. As of 22 Sep 2026.</text>
   <rect x="24" y="78" width="220" height="176" rx="12" fill="#E7F4EE"/>
   <text x="134" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Telus PureFibre</text>
   <text x="134" y="142" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Glass where the unit</text>

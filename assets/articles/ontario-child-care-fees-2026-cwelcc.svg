@@ -26,7 +26,7 @@
     <circle cx="168" cy="356" r="7" fill="#1A1A1A"/>
     <text x="24" y="352" font-weight="700">31 Mar 2031</text>
     <text x="188" y="352">Extension period ends</text>
-    <text x="188" y="370" fill="#6B7280" font-size="12">Checked 29 Sep 2026. Saving Optimizer.</text>
+    <text x="188" y="370" fill="#6B7280" font-size="12">As of 29 Sep 2026. Saving Optimizer.</text>
   </g>
 
 </svg>

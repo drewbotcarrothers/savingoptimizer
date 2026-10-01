@@ -4,7 +4,7 @@
   <desc id="desc">Seven steps from reading the bill to a stay, switch, or wait decision, with a calendar reminder on day seven.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Seven days. One decision.</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Do not sign a new term on day one. Drafted 21 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Do not sign a new term on day one. As of 21 Sep 2026.</text>
   <rect x="24" y="78" width="90" height="78" rx="10" fill="#E7F4EE"/>
   <text x="69" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Day 1</text>
   <text x="69" y="128" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Split</text>

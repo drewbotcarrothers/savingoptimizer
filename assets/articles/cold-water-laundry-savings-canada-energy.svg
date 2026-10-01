@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Cold-water laundry savings versus dryer energy in Canada</title>
-  <desc id="desc">About 90 percent of washer energy is water heating. Cold wash cuts that slice. A typical Canadian dryer still uses far more kilowatt-hours per year than the washer. Verified 20 Sep 2026.</desc>
+  <desc id="desc">About 90 percent of washer energy is water heating. Cold wash cuts that slice. A typical Canadian dryer still uses far more kilowatt-hours per year than the washer. As of 20 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Cold wash saves washer heat. The dryer still wins the bill.</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">ENERGY STAR: about 90% of washer energy heats water. NRCan EnerGuide dryer example ~928 kWh/yr. 20 Sep 2026.</text>

@@ -4,7 +4,7 @@
   <desc id="desc">Cross-Canada winter bill map: diagnose the heat source, then use the provincial lever. Enbridge Ontario gas, FortisBC, Hydro-Quebec electric heat, Alberta retail gas. Equal billing is cashflow. Envelope first. Heat pump is a capital conversation.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Winter heat: fuel first, then the provincial lever</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Equal billing smooths cash. It does not cut GJ or kWh. Verified 20 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Equal billing smooths cash. It does not cut GJ or kWh. As of 20 Sep 2026.</text>
   <rect x="24" y="78" width="162" height="210" rx="12" fill="#E7F4EE"/>
   <text x="36" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Ontario gas</text>
   <text x="36" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Enbridge supply +</text>

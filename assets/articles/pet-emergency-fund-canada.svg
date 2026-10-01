@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Example with made-up inputs: pet emergency fund growth at three monthly amounts</title>
-  <desc>Example with made-up inputs, not real prices; the reader should plug in their own quotes. Line chart of an illustrative 1200 dollar target. Two hundred dollars a month reaches it in 6 months, one hundred dollars in 12 months, and fifty dollars in 24 months. No interest. The target is not a veterinary fee. Checked 27 Sep 2026.</desc>
+  <desc>Example with made-up inputs, not real prices; the reader should plug in their own quotes. Line chart of an illustrative 1200 dollar target. Two hundred dollars a month reaches it in 6 months, one hundred dollars in 12 months, and fifty dollars in 24 months. No interest. The target is not a veterinary fee. As of 27 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example fund: $50, $100, and $200 a month</text>
   <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with a made-up $1,200 target, no interest. Plug in your own clinic estimate.</text>
@@ -31,5 +31,5 @@
   <polyline fill="none" stroke="#6B7280" stroke-width="3" points="72,320 224,265 376,210 528,155 680,100"/>
   <polyline fill="none" stroke="#1A1A1A" stroke-width="3" points="72,320 224,210 376,100 528,100 680,100"/>
   <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="72,320 224,100 376,100 528,100 680,100"/>
-  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$1,200 divided by 6, 12, and 24 is $200, $100, and $50. Not a published vet fee. Checked 27 Sep 2026.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$1,200 divided by 6, 12, and 24 is $200, $100, and $50. Not a published vet fee. As of 27 Sep 2026.</text>
 </svg>

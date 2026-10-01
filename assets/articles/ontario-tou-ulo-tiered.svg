@@ -4,7 +4,7 @@
   <desc id="desc">OEB Regulated Price Plan commodity prices effective 1 November 2025: TOU 9.8 / 15.7 / 20.3 ¢/kWh, ULO overnight 3.9 ¢ and weekday 4â€“9 p.m. 39.1 ¢, Tiered 12.0 then 14.2 ¢/kWh. Delivery and the Ontario Electricity Rebate are separate.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario RPP commodity only (OEB, 1 Nov 2025)</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Not your all-in bill. Delivery, regulatory charges, and the 23.5% Ontario Electricity Rebate sit on other lines. Verified 20 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Not your all-in bill. Delivery, regulatory charges, and the 23.5% Ontario Electricity Rebate sit on other lines. As of 20 Sep 2026.</text>
   <rect x="24" y="78" width="216" height="248" rx="12" fill="#E7F4EE"/>
   <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Time-of-Use</text>
   <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Off-peak 9.8¢</text>

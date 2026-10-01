@@ -4,7 +4,7 @@
   <desc id="desc">Payroll clears, wait one business day, then split remaining skim to emergency HISA, TFSA, and FHSA. 2026 CRA limits noted.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Payday + 1 business day, then named pots</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Start small enough that you never cancel. Drafted 21 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Start small enough that you never cancel. As of 21 Sep 2026.</text>
   <rect x="24" y="78" width="200" height="90" rx="12" fill="#E7F4EE"/>
   <text x="40" y="114" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Payroll lands</text>
   <text x="40" y="138" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Spending float covers rent PAD.</text>

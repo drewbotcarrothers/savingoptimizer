@@ -4,7 +4,7 @@
   <desc id="desc">Five-step ladder: employer match, high-interest revolving debt, a one-month cash buffer, low-rate debt on a schedule beside TFSA room, then a six-month review. No market-return assumption.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What gets the next dollar</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Certain costs first. TFSA growth is not a promised rate. Drafted 21 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Certain costs first. TFSA growth is not a promised rate. As of 21 Sep 2026.</text>
   <rect x="24" y="74" width="672" height="52" rx="10" fill="#0F7A4B"/>
   <text x="40" y="96" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">1. Employer RRSP match you will actually vest</text>
   <text x="40" y="114" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Contractual match on the dollars you contribute. Read vesting.</text>

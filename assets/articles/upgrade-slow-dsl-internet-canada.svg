@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">DSL upgrade shortlist</title>
-  <desc id="desc">Confirm DSL-only, then compare fixed wireless, LTE or 5G home, satellite, and cable or fibre overbuilds. Drafted 22 Sep 2026.</desc>
+  <desc id="desc">Confirm DSL-only, then compare fixed wireless, LTE or 5G home, satellite, and cable or fibre overbuilds. As of 22 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Another year of 5 Mbps is a choice</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Confirm copper-only, then shortlist exits. Drafted 22 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Confirm copper-only, then shortlist exits. As of 22 Sep 2026.</text>
   <rect x="24" y="78" width="160" height="200" rx="12" fill="#F3F4F6"/>
   <text x="36" y="110" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1. Confirm</text>
   <text x="36" y="140" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Checkers + map</text>

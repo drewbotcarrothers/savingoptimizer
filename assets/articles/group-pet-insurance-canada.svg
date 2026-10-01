@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Flow from a group offer to naming the underwriter and deciding</title>
-  <desc>Four steps: read the offer, name the insurer or underwriter, compare policy terms, then decide. No discount percentage is drawn. Checked 27 Sep 2026.</desc>
+  <desc>Four steps: read the offer, name the insurer or underwriter, compare policy terms, then decide. No discount percentage is drawn. As of 27 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Offer, underwriter, wording, decision</text>
   <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A logo is not the contract. No plan is ranked.</text>
@@ -22,5 +22,5 @@
     <text x="360" y="310" text-anchor="middle" fill="#FFFFFF" font-weight="700">Decide</text>
     <text x="360" y="330" text-anchor="middle" fill="#FFFFFF" font-size="11">Limits, deductible, exclusions</text>
   </g>
-  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Costco's opened page names Northbridge. An employer booklet was not opened. Checked 27 Sep 2026.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Costco's opened page names Northbridge. An employer booklet was not opened. As of 27 Sep 2026.</text>
 </svg>

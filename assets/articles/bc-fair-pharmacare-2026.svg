@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Fair PharmaCare family share on one verified income band</title>
+  <title>Fair PharmaCare family share on one published income band</title>
   <desc>For net family income from 30000.01 to 31667 dollars, the regular deductible is 650 dollars and the family maximum is 900 dollars. The family pays 100 percent until 650, then 30 percent until spending reaches 900, then nothing. The Garcia example on the plan page uses 2024 income of 30589 dollars, which sits in this band.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="30" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">One band: $30,000.01 to $31,667 net income</text>

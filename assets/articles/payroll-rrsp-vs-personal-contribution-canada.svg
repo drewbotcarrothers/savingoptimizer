@@ -4,7 +4,7 @@
   <desc id="desc">Capture the employer match through payroll, then compare fees for amounts above the match in a personal RRSP.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Payroll RRSP vs personal: match, then fees</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Cashflow always. Drafted 22 Sep 2026. Not investment advice.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Cashflow always. As of 22 Sep 2026. Not investment advice.</text>
   <rect x="24" y="78" width="220" height="200" rx="12" fill="#E7F4EE"/>
   <text x="40" y="110" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Capture match</text>
   <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Payroll percent that</text>

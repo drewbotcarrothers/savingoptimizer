@@ -4,7 +4,7 @@
   <desc id="desc">After Greener Homes closure, live money is provincial or utility. Patterns differ: income-tested CleanBC, Ontario HRSP per-ton caps, Hydro-Quebec LogisVert, Atlantic wind-downs, Prairie gaps. Re-verify every number before you sign.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Heat-pump money is a map, not a national cheque</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Pattern sketch verified 20 Sep 2026. Amounts move. Treat this as a directory, not a bid.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Pattern sketch as of 20 Sep 2026. Amounts move. Treat this as a directory, not a bid.</text>
   <rect x="24" y="78" width="160" height="210" rx="12" fill="#E7F4EE"/>
   <text x="36" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">B.C.</text>
   <text x="36" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">CleanBC Better Homes</text>

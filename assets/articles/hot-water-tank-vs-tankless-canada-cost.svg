@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Tank versus tankless water heaters in Canadian winter inlet water</title>
-  <desc id="desc">Tankless units cut standby losses but lose flow when Canadian inlet water is about 5 C. Electric whole-house tankless is rarely practical. A high-efficiency tank can still win. Verified 20 Sep 2026.</desc>
+  <desc id="desc">Tankless units cut standby losses but lose flow when Canadian inlet water is about 5 C. Electric whole-house tankless is rarely practical. A high-efficiency tank can still win. As of 20 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Tankless flow shrinks when Canadian inlet water is 5 C</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">NRCan Water Heater Guide: 15 L/min at 18 C inlet can fall to about 11 L/min at 5 C. 20 Sep 2026.</text>

@@ -4,7 +4,7 @@
   <desc>Example with made-up inputs. Rough care is drawn as 40 wears and gentler care as 80 wears. Not a laboratory result and not a Statistics Canada figure.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example wears before the garment is done</text>
-  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a wear test. Symbols were checked. These counts are made up.</text>
+  <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a wear test. These counts are made up.</text>
   <text x="24" y="130" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1A1A1A">Rough care</text>
   <rect x="200" y="110" width="200" height="28" fill="#6B7280"/>
   <text x="216" y="129" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">40 wears</text>
@@ -13,5 +13,5 @@
   <text x="216" y="189" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">80 wears</text>
   <text x="24" y="250" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">80 is twice 40. Your count is the one you observe.</text>
   <text x="24" y="274" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Gentler here means the care symbol, less heat, and fewer cycles. Not a product claim.</text>
-  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Care symbols checked. </text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. </text>
 </svg>

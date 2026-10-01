@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Medical expense threshold versus net income, capped at 2,834 dollars</title>
-  <desc>The threshold rises at 3 percent of net income until 3 percent exceeds 2,834 dollars, which is above 94,466.67 dollars of net income. After that the threshold stays at 2,834 dollars. Illustrative arithmetic from the CRA figure for 2025 amounts. Checked 26 Sep 2026.</desc>
+  <desc>The threshold rises at 3 percent of net income until 3 percent exceeds 2,834 dollars, which is above 94,466.67 dollars of net income. After that the threshold stays at 2,834 dollars. Illustrative arithmetic from the CRA figure for 2025 amounts. As of 26 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Threshold: lesser of 3% of net income or $2,834</text>
   <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Illustrative arithmetic from the CRA lines page. Not a credit rate.</text>

@@ -4,7 +4,7 @@
   <desc id="desc">Grouped bars of total interest on a labelled Canadian household under a 2 percent card-minimum model and a Quebec 5 percent card-minimum model. Line of credit minimum is interest only. Fixed payment includes a 400 dollar extra that stays in the plan.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Interest to zero on a labelled $18,100 mix</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Fixed payment keeps going after a balance dies. Drafted 21 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Fixed payment keeps going after a balance dies. As of 21 Sep 2026.</text>
   <text x="24" y="92" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2% card minimums</text>
   <rect x="24" y="168" width="70" height="148" fill="#0F7A4B"/>
   <text x="59" y="160" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$5,116</text>
