@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example with made-up inputs: weekly doubles</title>
+<desc id="d">Bars for a made-up player: member total $722 (membership $500, court share $156, clinic $66); non-member total $690 (court share $156, surcharge $468, clinic $66).</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: weekly doubles</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Season cost as a member and a non-member</text>
+<text x="240" y="110.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Member total</text>
+<rect x="250" y="88.6" width="350.0" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="110.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$722</text>
+<text x="240" y="166.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Non-member total</text>
+<rect x="250" y="144.6" width="334.5" height="34.7" rx="3" fill="#1A1A1A"/>
+<text x="592.5" y="166.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$690</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Membership</text>
+<rect x="250" y="200.6" width="242.4" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="500.4" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$500</text>
+<text x="240" y="278.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Non-member surcharge</text>
+<rect x="250" y="256.6" width="226.9" height="34.7" rx="3" fill="#1A1A1A"/>
+<text x="484.9" y="278.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$468</text>
+<text x="240" y="334.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Court share</text>
+<rect x="250" y="312.6" width="75.6" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="333.6" y="334.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$156</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
