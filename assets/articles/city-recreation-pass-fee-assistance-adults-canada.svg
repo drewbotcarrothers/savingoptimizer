@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Toronto All Access: day passes vs membership</title>
+<desc id="d">Bars from Toronto&#x27;s published adult prices: 12 day passes $187.68; 18 day passes $281.52; 24 day passes $375.36; 12-month All Access membership $280.33.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Toronto All Access: day passes vs membership</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Adult cost by visits per year, before tax, as of 1 Oct 2026</text>
+<text x="240" y="117.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">24 day passes</text>
+<rect x="250" y="93.0" width="350.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$375.36</text>
+<text x="240" y="187.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">18 day passes</text>
+<rect x="250" y="163.0" width="262.5" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="520.5" y="187.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$281.52</text>
+<text x="240" y="257.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">12-month All Access</text>
+<rect x="250" y="233.0" width="261.4" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="519.4" y="257.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$280.33</text>
+<text x="240" y="327.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">12 day passes</text>
+<rect x="250" y="303.0" width="175.0" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="433.0" y="327.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$187.68</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
