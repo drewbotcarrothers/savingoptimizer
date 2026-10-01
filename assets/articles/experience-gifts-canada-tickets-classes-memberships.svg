@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example with made-up inputs: membership cost per visit</title>
+<desc id="d">Horizontal bars for a made-up membership. 2 visits $75 a visit, 4 visits $37.50, 6 visits $25, 10 visits $15. Single admission $40.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: membership cost per visit</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A $150 membership against $40 single admissions</text>
+<text x="240" y="110.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Single admission</text>
+<rect x="250" y="88.6" width="186.7" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="444.7" y="110.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$40</text>
+<text x="240" y="166.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Membership, 2 visits</text>
+<rect x="250" y="144.6" width="350.0" height="34.7" rx="3" fill="#1A1A1A"/>
+<text x="608.0" y="166.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$75</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Membership, 4 visits</text>
+<rect x="250" y="200.6" width="175.0" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="433.0" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$37.50</text>
+<text x="240" y="278.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Membership, 6 visits</text>
+<rect x="250" y="256.6" width="116.7" height="34.7" rx="3" fill="#1A1A1A"/>
+<text x="374.7" y="278.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$25</text>
+<text x="240" y="334.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Membership, 10 visits</text>
+<rect x="250" y="312.6" width="70.0" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="328.0" y="334.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$15</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
