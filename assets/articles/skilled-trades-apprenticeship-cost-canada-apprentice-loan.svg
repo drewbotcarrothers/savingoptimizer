@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example: covering an 8-week school block</title>
+<desc id="d">Bars: total cost $9,800; EI $4,200; Canada Apprentice Loan $2,500; gap from savings $2,100; incentive grant $1,000.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example: covering an 8-week school block</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs</text>
+<text x="240" y="110.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Total cost of the block</text>
+<rect x="250" y="88.6" width="350.0" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="110.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$9,800</text>
+<text x="240" y="166.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">EI benefits</text>
+<rect x="250" y="144.6" width="150.0" height="34.7" rx="3" fill="#1A1A1A"/>
+<text x="408.0" y="166.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$4,200</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Canada Apprentice Loan</text>
+<rect x="250" y="200.6" width="89.3" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="347.3" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$2,500</text>
+<text x="240" y="278.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Gap from savings</text>
+<rect x="250" y="256.6" width="75.0" height="34.7" rx="3" fill="#1A1A1A"/>
+<text x="333.0" y="278.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$2,100</text>
+<text x="240" y="334.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Incentive grant</text>
+<rect x="250" y="312.6" width="35.7" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="293.7" y="334.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$1,000</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
