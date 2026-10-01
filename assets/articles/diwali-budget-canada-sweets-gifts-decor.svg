@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example with made-up inputs: Diwali budget</title>
+<desc id="d">Horizontal bars for a made-up Diwali budget. First draft total $1,150; final plan total $720, with sweets $200, gifts $220, decor $40, clothes $200 and hosting $60.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: Diwali budget</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">First draft and final plan by line</text>
+<text x="240" y="102.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">First draft total</text>
+<rect x="250" y="85.6" width="350.0" height="24.8" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="102.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$1,150</text>
+<text x="240" y="142.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Final plan total</text>
+<rect x="250" y="125.6" width="219.1" height="24.8" rx="3" fill="#1A1A1A"/>
+<text x="477.1" y="142.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$720</text>
+<text x="240" y="182.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Gifts</text>
+<rect x="250" y="165.6" width="67.0" height="24.8" rx="3" fill="#0F7A4B"/>
+<text x="325.0" y="182.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$220</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Sweets</text>
+<rect x="250" y="205.6" width="60.9" height="24.8" rx="3" fill="#1A1A1A"/>
+<text x="318.9" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$200</text>
+<text x="240" y="262.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Clothes</text>
+<rect x="250" y="245.6" width="60.9" height="24.8" rx="3" fill="#0F7A4B"/>
+<text x="318.9" y="262.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$200</text>
+<text x="240" y="302.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Hosting</text>
+<rect x="250" y="285.6" width="18.3" height="24.8" rx="3" fill="#1A1A1A"/>
+<text x="276.3" y="302.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$60</text>
+<text x="240" y="342.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Decor</text>
+<rect x="250" y="325.6" width="12.2" height="24.8" rx="3" fill="#0F7A4B"/>
+<text x="270.2" y="342.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$40</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>

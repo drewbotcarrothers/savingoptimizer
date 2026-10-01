@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example with made-up inputs: dinner vs brunch</title>
+<desc id="d">Horizontal bars for a made-up comparison. Dinner total $560 and brunch total $290. Drinks $160 vs $60; main dishes $260 vs $130.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: dinner vs brunch</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Hosting 16 guests</text>
+<text x="240" y="105.3" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Dinner, total</text>
+<rect x="250" y="86.9" width="350.0" height="28.9" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="105.3" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$560</text>
+<text x="240" y="152.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Brunch, total</text>
+<rect x="250" y="133.5" width="181.2" height="28.9" rx="3" fill="#1A1A1A"/>
+<text x="439.2" y="152.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$290</text>
+<text x="240" y="198.7" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Dinner, main dishes</text>
+<rect x="250" y="180.2" width="162.5" height="28.9" rx="3" fill="#0F7A4B"/>
+<text x="420.5" y="198.7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$260</text>
+<text x="240" y="245.3" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Brunch, main dishes</text>
+<rect x="250" y="226.9" width="81.2" height="28.9" rx="3" fill="#1A1A1A"/>
+<text x="339.2" y="245.3" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$130</text>
+<text x="240" y="292.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Dinner, drinks</text>
+<rect x="250" y="273.5" width="100.0" height="28.9" rx="3" fill="#0F7A4B"/>
+<text x="358.0" y="292.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$160</text>
+<text x="240" y="338.7" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Brunch, drinks</text>
+<rect x="250" y="320.2" width="37.5" height="28.9" rx="3" fill="#1A1A1A"/>
+<text x="295.5" y="338.7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$60</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
