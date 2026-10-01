@@ -4,7 +4,7 @@
   <desc id="desc">2026 TFSA dollar limit 7,000 dollars. Withdrawals return 1 January next year. Pause payday PAD after an emergency withdrawal.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">TFSA room is a calendar, not a balance</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CRA 2026 dollar limit $7,000. Drafted 21 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CRA 2026 dollar limit $7,000. As of 21 Sep 2026.</text>
   <rect x="24" y="78" width="160" height="200" rx="12" fill="#E7F4EE"/>
   <text x="40" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1 Jan</text>
   <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">New $7,000</text>

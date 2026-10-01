@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Cogeco retail vs reseller on same cable</title>
-  <desc id="desc">Same plant, different 24-month bills for Cogeco retail versus wholesalers like Oxio. Drafted 22 Sep 2026.</desc>
+  <desc id="desc">Same plant, different 24-month bills for Cogeco retail versus wholesalers like Oxio. As of 22 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same Cogeco cable. Different retail bill.</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario / Québec illustrative stacks. Drafted 22 Sep 2026. Not quotes.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario / Québec illustrative stacks. As of 22 Sep 2026. Not quotes.</text>
   <rect x="80" y="120" width="220" height="180" rx="12" fill="#F3F4F6"/>
   <text x="190" y="160" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Cogeco retail</text>
   <text x="190" y="195" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Promo → regular</text>

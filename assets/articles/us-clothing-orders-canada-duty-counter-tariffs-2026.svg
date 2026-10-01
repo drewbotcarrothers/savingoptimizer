@@ -30,5 +30,5 @@
   <text x="24" y="302" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">The jacket is not US-origin, so it has no surtax.</text>
   <text x="24" y="328" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">The $35 row is in the US courier band that is duty- and tax-free, so GST is $0. The surtax</text>
   <text x="24" y="346" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">still applies. Check with CBSA or your carrier. Duty is $0 through the courier band or UST Free.</text>
-  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026. Not a courier invoice.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 29 Sep 2026. Not a courier invoice.</text>
 </svg>

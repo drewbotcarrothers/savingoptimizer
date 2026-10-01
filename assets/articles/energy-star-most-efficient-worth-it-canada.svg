@@ -4,7 +4,7 @@
   <desc>Bars show Ontario Home Renovation Savings rebate dollars read 26 September 2026: 200 dollars for a heat-pump dryer, 75 for a washer, 50 for a fridge, and 25 for a dishwasher. Payback years are not plotted.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Ontario rebate dollars, not payback years</text>
-  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Home Renovation Savings, read 26 Sep 2026. Most Efficient and eligibility still apply. No price premium was verified.</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Home Renovation Savings, read 26 Sep 2026. Most Efficient and eligibility still apply. No price premium is published.</text>
   <line x1="70" y1="80" x2="70" y2="320" stroke="#E5E7EB"/>
   <line x1="70" y1="320" x2="680" y2="320" stroke="#E5E7EB"/>
   <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">
@@ -26,5 +26,5 @@
     <text x="615" y="282" text-anchor="middle" font-weight="700" fill="#0F7A4B">$25</text>
     <text x="615" y="344" text-anchor="middle">Dishwasher</text>
   </g>
-  <text x="24" y="384" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Payback years are omitted. They need a verified price gap and a verified EnerGuide kWh gap. Ontario off-peak is 9.8 cents and on-peak is 20.3 cents on the OEB page opened the same day.</text>
+  <text x="24" y="384" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Payback years are omitted. They need a published price gap and a published EnerGuide kWh gap. Ontario off-peak is 9.8 cents and on-peak is 20.3 cents on the OEB page opened the same day.</text>
 </svg>

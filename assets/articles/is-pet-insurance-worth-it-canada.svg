@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Illustrative cumulative pet insurance premiums versus savings</title>
-  <desc>Line chart. Cumulative dog accident-and-illness premiums starting at 1176 Canadian dollars if the 2025 increase of 9.9 percent repeated for ten years, versus depositing 1176 dollars a year with no interest. Labelled illustrative. Not a forecast. Checked 26 Sep 2026.</desc>
+  <desc>Line chart. Cumulative dog accident-and-illness premiums starting at 1176 Canadian dollars if the 2025 increase of 9.9 percent repeated for ten years, versus depositing 1176 dollars a year with no interest. Labelled illustrative. Not a forecast. As of 26 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative 10-year dog premium vs saving the first year</text>
   <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Starts at the 2025 average of $1,176. The 9.9 percent rise is repeated only as an illustration. No interest on savings.</text>

@@ -17,5 +17,5 @@
   <rect x="250" y="204" width="360" height="26" fill="#E5E7EB"/>
   <rect x="250" y="204" width="360.0" height="26" fill="#0F7A4B"/>
   <text x="618.0" y="222" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">$4.00</text>
-  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: $4 is 360 px. Labelled example. Checked 27 Sep 2026.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Scale: $4 is 360 px. Labelled example. As of 27 Sep 2026.</text>
 </svg>

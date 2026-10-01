@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Claimable medical expenses if Pauline claims versus if Richard claims</title>
-  <desc>Horizontal bars of the claimable amount on line 33099 in Guide RC4065. Pauline, net income 55,000 dollars, could claim 4,650 dollars. Richard, net income 42,000 dollars, could claim 5,040 dollars. Same combined expenses of 6,300 dollars. The 2025 dollar ceiling on that guide is 2,834 dollars. Checked 27 Sep 2026.</desc>
+  <desc>Horizontal bars of the claimable amount on line 33099 in Guide RC4065. Pauline, net income 55,000 dollars, could claim 4,650 dollars. Richard, net income 42,000 dollars, could claim 5,040 dollars. Same combined expenses of 6,300 dollars. The 2025 dollar ceiling on that guide is 2,834 dollars. As of 27 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Same $6,300, two claimable amounts</text>
   <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">CRA example in RC4065, Medical Expenses 2025. July 1, 2024 to June 30, 2025. Not a refund.</text>
@@ -20,5 +20,5 @@
   <text x="190" y="235" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">$5,040</text>
   <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Thresholds: 3% of $55,000 is $1,650. 3% of $42,000 is $1,260. Both are under the $2,834 ceiling.</text>
   <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">$6,300 minus those thresholds. Jen, age 16, is inside the $6,300. Rob, age 19, is not.</text>
-  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Guide RC4065, Medical Expenses 2025. Checked 27 Sep 2026. Education only, not a notice of assessment.</text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Guide RC4065, Medical Expenses 2025. As of 27 Sep 2026. Education only, not a notice of assessment.</text>
 </svg>

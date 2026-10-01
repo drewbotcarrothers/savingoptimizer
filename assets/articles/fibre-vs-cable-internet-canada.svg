@@ -4,7 +4,7 @@
   <desc id="desc">Fibre to the home keeps upload close to download. Cable keeps a large download and a much smaller upload. The word fibre in an advertisement is not the test.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Read the second number</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative shape, not your quote. Drafted 22 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative shape, not your quote. As of 22 Sep 2026.</text>
   <rect x="24" y="78" width="320" height="176" rx="12" fill="#E7F4EE"/>
   <text x="184" y="110" text-anchor="middle" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Fibre to the suite</text>
   <text x="184" y="140" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Glass to an optical terminal</text>

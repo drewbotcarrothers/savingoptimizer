@@ -4,7 +4,7 @@
   <desc id="desc">Monthly RRSP PAD, file with both receipts, refund lands, pre-committed to debt or TFSA or FHSA. 2025 deadline 2 March 2026. 2026 dollar limit 33,810 dollars.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The refund loop: contribute monthly, assign the refund</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">2025 deadline 2 Mar 2026. 2026 RRSP dollar limit $33,810. Drafted 21 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">2025 deadline 2 Mar 2026. 2026 RRSP dollar limit $33,810. As of 21 Sep 2026.</text>
   <rect x="24" y="78" width="160" height="190" rx="12" fill="#E7F4EE"/>
   <text x="40" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">All year</text>
   <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Payday PAD into</text>

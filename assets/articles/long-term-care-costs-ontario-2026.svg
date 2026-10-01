@@ -4,7 +4,7 @@
   <desc>Maximum monthly co-payments effective 1 July 2026. Long-stay basic is $2,129.17. Long-stay semi-private is $2,567.17. Long-stay private is $3,041.97. The rate reduction applies to basic accommodation, not to regular semi-private or private rooms. Care level does not change with the room.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Monthly co-payment, effective 1 July 2026</text>
-  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">ontario.ca maximums. Same care in every room. Checked 26 Sep 2026.</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">ontario.ca maximums. Same care in every room. As of 26 Sep 2026.</text>
   <line x1="80" y1="300" x2="680" y2="300" stroke="#E5E7EB" stroke-width="1"/>
   <line x1="80" y1="80" x2="680" y2="80" stroke="#E5E7EB" stroke-width="1"/>
   <line x1="80" y1="190" x2="680" y2="190" stroke="#E5E7EB" stroke-width="1"/>

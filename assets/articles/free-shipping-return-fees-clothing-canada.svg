@@ -20,5 +20,5 @@
   <text x="555" y="340" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">Item $46 plus $4 fee</text>
   <text x="24" y="372" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Made-up inputs: $46 + $8 shipping = $54. Keep a $14 filler and pay $60.</text>
   <text x="24" y="390" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Return that filler and pay a made-up $4 fee: $46 + $4 = $50.</text>
-  <text x="24" y="410" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+  <text x="24" y="410" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 29 Sep 2026.</text>
 </svg>

@@ -22,5 +22,5 @@
   <text x="52" y="342" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Do not decide taxable versus non-taxable from this chart. CCOHS boot markings are not a deduction.</text>
   <line x1="165" y1="130" x2="165" y2="168" stroke="#E5E7EB" stroke-width="2"/>
   <line x1="290" y1="200" x2="380" y2="200" stroke="#E5E7EB" stroke-width="2"/>
-  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. T4044 and T4002 chapter 3 checked. Not tax advice.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Based on T4044 and T4002 chapter 3. Not tax advice.</text>
 </svg>

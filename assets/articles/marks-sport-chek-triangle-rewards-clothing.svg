@@ -19,5 +19,5 @@
   <text x="24" y="300" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Arithmetic: 1 percent of $200 is $2. Five times that base is $10 of bonus.</text>
   <text x="24" y="320" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">$2 plus $10 is $12. The program's real example is different: $8 bonus on $100 at 20 times.</text>
   <text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Replace the made-up rate with the offer on your account. Gift cards do not qualify.</text>
-  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. Checked 29 Sep 2026.</text>
+  <text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 29 Sep 2026.</text>
 </svg>

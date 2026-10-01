@@ -4,7 +4,7 @@
   <desc>A planning sequence, not a statutory deadline. About six weeks before departure, ask the plan and the pharmacist about a vacation supply and write the Ontario letter if the public plan's trip length applies. About two weeks before, put labelled medicine in carry-on and check the destination's import rules. At departure, declare medication to the screening officer. Abroad, a Canadian prescription may not be fillable and an Ontario Drug Benefit fill outside Ontario is not covered.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Medication timeline: plan, pack, fly, then abroad</text>
-  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A planning sequence. The only dated public-plan rule below is Ontario's. Checked 27 Sep 2026.</text>
+  <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">A planning sequence. The only dated public-plan rule below is Ontario's. As of 27 Sep 2026.</text>
   <line x1="80" y1="130" x2="640" y2="130" stroke="#E5E7EB" stroke-width="4"/>
   <circle cx="100" cy="130" r="12" fill="#0F7A4B"/>
   <circle cx="270" cy="130" r="12" fill="#0F7A4B"/>
@@ -37,5 +37,5 @@
   <text x="24" y="300" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Six weeks and two weeks are planning marks on this chart, not deadlines printed by CATSA or Ontario.</text>
   <text x="24" y="328" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Travel medical insurance is a separate decision. Read the certificate, then the insurance guides.</text>
   <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Carry a copy of the prescription with generic and trade names, and a note from the prescriber.</text>
-  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Ontario.ca drug coverage page, updated 18 Aug 2026. CATSA. Travel.gc.ca. Checked 27 Sep 2026.</text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Ontario.ca drug coverage page, updated 18 Aug 2026. CATSA. Travel.gc.ca. As of 27 Sep 2026.</text>
 </svg>

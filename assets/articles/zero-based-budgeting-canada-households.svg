@@ -4,7 +4,7 @@
   <desc id="desc">A labelled 6,200 dollar net month assigned to housing, utilities, food, kids, transport, insurance, savings, and an irregular envelope so unassigned cash is zero.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Assign the month until nothing is left</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled $6,200 net. Illustration only. Drafted 22 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled $6,200 net. Illustration only. As of 22 Sep 2026.</text>
   <rect x="24" y="76" width="672" height="36" rx="8" fill="#E7F4EE"/>
   <text x="40" y="99" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Net pay $6,200</text>
   <text x="180" y="99" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Unassigned after the jobs below: $0</text>

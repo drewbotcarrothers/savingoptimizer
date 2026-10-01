@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="t d">
 <title id="t">Pet-proofing: where the top-10 toxins usually live at home</title>
-<desc id="d">A room-by-room checklist of the ten items on the Pet Poison Helpline top-10 list checked 27 Sep 2026. Kitchen and pantry: chocolate, grapes and raisins, garlic and onions, xylitol in sugar-free products. Medicine cabinet and bags: ibuprofen, acetaminophen, vitamin D3 supplements. Garage, basement, and sheds: bromethalin and anticoagulant rodenticides. Stored anywhere: marijuana. If a pet eats one, call a veterinarian or a poison helpline.</desc>
+<desc id="d">A room-by-room checklist of the ten items on the Pet Poison Helpline top-10 list as of 27 Sep 2026. Kitchen and pantry: chocolate, grapes and raisins, garlic and onions, xylitol in sugar-free products. Medicine cabinet and bags: ibuprofen, acetaminophen, vitamin D3 supplements. Garage, basement, and sheds: bromethalin and anticoagulant rodenticides. Stored anywhere: marijuana. If a pet eats one, call a veterinarian or a poison helpline.</desc>
 <rect width="720" height="420" fill="#FFFFFF"/>
 <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Where the top-10 toxins usually live at home</text>
-<text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Grouping by room is ours. The ten items are Pet Poison Helpline’s top-10 list, checked 27 Sep 2026.</text>
+<text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Grouping by room is ours. The ten items are Pet Poison Helpline’s top-10 list, as of 27 Sep 2026.</text>
 <rect x="24" y="70" width="330" height="140" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1.5"/>
 <text x="36" y="92" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Kitchen and pantry</text>
 <text x="36" y="112" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#1A1A1A">• Chocolate</text>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Months until a microfibre pack matches Kirkland paper towel spend</title>
-  <desc>Cumulative Kirkland paper towel cost at an illustrative 10 sheets a day, using 1.30 cents a sheet from the Costco East list posted 10 June 2026, beside the 22.69 dollar purchase price of a 36-cloth Kirkland pack on a Costco same-day listing checked 26 September 2026. Washing and cloth lifespan are not in the bars.</desc>
+  <desc>Cumulative Kirkland paper towel cost at an illustrative 10 sheets a day, using 1.30 cents a sheet from the Costco East list posted 10 June 2026, beside the 22.69 dollar purchase price of a 36-cloth Kirkland pack on a Costco same-day listing as of 26 September 2026. Washing and cloth lifespan are not in the bars.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Paper spend versus one cloth pack</text>
   <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Illustrative 10 sheets a day. Kirkland paper at 1.30 cents a sheet. Cloth line is the 22.69 dollar purchase only.</text>

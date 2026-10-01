@@ -4,7 +4,7 @@
   <desc>Three illustrative scenarios. Flat-pack is 29.80 dollars a year using a 120 dollar shelf price, IKEA Family doorstep starting at 29 dollars, and 5 years. Used wood is 16.67 dollars a year using a 200 dollar price, a 50 dollar pickup, and 15 years. Mid-range new is 90 dollars a year using 900 dollars over 10 years. Item prices, pickup, and years are illustrative. The 29 dollars is IKEA's published starting fee.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Illustrative cost per year</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Only the $29 IKEA Family doorstep starting fee is a verified input. 26 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Only the $29 IKEA Family doorstep starting fee is a published input. 26 Sep 2026.</text>
   <line x1="80" y1="300" x2="680" y2="300" stroke="#E5E7EB" stroke-width="1"/>
   <line x1="80" y1="212" x2="680" y2="212" stroke="#E5E7EB" stroke-width="1"/>
   <line x1="80" y1="124" x2="680" y2="124" stroke="#E5E7EB" stroke-width="1"/>

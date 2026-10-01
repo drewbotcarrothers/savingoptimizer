@@ -4,7 +4,7 @@
   <desc id="desc">The UCA Cost Comparison Tool compares energy rate, admin fees, term, and exit fees. Delivery stays with your distributor. Rate of Last Resort energy is about 12.01â€“12.06 ¢/kWh through 31 December 2026 depending on the default retailer. Cooling-off is 10 calendar days; a switch can take 10â€“90 days.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Alberta: you shop energy, not delivery</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">UCA Cost Comparison Tool workflow. RoLR energy ~12.01â€“12.06 ¢/kWh to 31 Dec 2026. Verified 20 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">UCA Cost Comparison Tool workflow. RoLR energy ~12.01â€“12.06 ¢/kWh to 31 Dec 2026. As of 20 Sep 2026.</text>
   <rect x="24" y="78" width="330" height="200" rx="12" fill="#E7F4EE"/>
   <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">What the UCA tool shows</text>
   <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Energy rate (¢/kWh or ¢/GJ)</text>

@@ -4,7 +4,7 @@
   <desc id="desc">Three bands: under 100 Mbps for light use, 100 to 200 for most households, and 500 or more when uploads or many wired devices need it. Wi-Fi is called out as a separate bottleneck.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Buy a band, not a billboard</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Planning figures, not a speed-test prize. Drafted 21 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Planning figures, not a speed-test prize. As of 21 Sep 2026.</text>
   <rect x="24" y="80" width="210" height="150" rx="12" fill="#F3F4F6"/>
   <text x="129" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Under 100 down</text>
   <text x="129" y="140" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1-2 people, HD video,</text>

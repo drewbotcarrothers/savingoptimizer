@@ -4,7 +4,7 @@
   <desc id="desc">On $1,800 B.C. rent the security deposit cannot exceed $900. A pet damage deposit can add another $900. Ontario-style first-and-last would park $3,600. After move-out and a written forwarding address the landlord has 15 days to return deposits with interest, get written consent to deductions, or apply to the RTB.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">B.C. deposits: half a month  -  not first and last</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">RTB deposits page (updated 4 Mar 2026; verified 20 Sep 2026). $1,800 rent sketch. 2026 deposit interest rate: 0%.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">RTB deposits page (updated 4 Mar 2026; as of 20 Sep 2026). $1,800 rent sketch. 2026 deposit interest rate: 0%.</text>
   <rect x="40" y="200" width="90" height="100" fill="#4B9B74"/>
   <text x="85" y="188" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">$900</text>
   <text x="85" y="320" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Security</text>

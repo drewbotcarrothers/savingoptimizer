@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Conceptual premium paths for entry-age and age-rated pricing</title>
-  <desc>Two conceptual curves over years on a policy. The entry-age path is nearly flat. The age-rated path rises. The vertical axis has no dollar amounts and no percentages. Not a forecast and not an insurer rule. Checked 27 Sep 2026.</desc>
+  <desc>Two conceptual curves over years on a policy. The entry-age path is nearly flat. The age-rated path rises. The vertical axis has no dollar amounts and no percentages. Not a forecast and not an insurer rule. As of 27 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Conceptual premium path, not a quote</text>
   <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Shapes only. The vertical axis has no dollars and no percents.</text>
@@ -32,5 +32,5 @@
   </g>
   <polyline fill="none" stroke="#6B7280" stroke-width="3" points="80,280 147,278 213,275 280,272 347,268 413,264 480,260 547,255 613,250 680,245"/>
   <polyline fill="none" stroke="#0F7A4B" stroke-width="3" points="80,280 147,268 213,252 280,232 347,208 413,182 480,154 547,128 613,108 680,96"/>
-  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">NAPHIA does not assign these shapes to an insurer. Read the contract. Checked 27 Sep 2026.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">NAPHIA does not assign these shapes to an insurer. Read the contract. As of 27 Sep 2026.</text>
 </svg>

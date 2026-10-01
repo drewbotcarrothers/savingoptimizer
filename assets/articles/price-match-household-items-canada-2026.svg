@@ -4,7 +4,7 @@
   <desc id="desc">If a lower price is found before purchase, ask for a price match at checkout when the policy allows it. If you already bought, use the after-purchase adjustment window. If neither applies, buy the identical item from the seller that is already cheaper. Green boxes are the actions.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Three exits, one lower price</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Policies checked or retrieved 26 Sep 2026. Exclusions still apply.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Policies as of 26 Sep 2026. Exclusions still apply.</text>
   <rect x="250" y="72" width="220" height="40" rx="8" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
   <text x="360" y="97" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">Lower price found</text>
   <line x1="360" y1="112" x2="360" y2="136" stroke="#E5E7EB" stroke-width="2"/>

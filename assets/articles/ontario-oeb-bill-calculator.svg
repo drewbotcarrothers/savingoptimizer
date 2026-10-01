@@ -4,7 +4,7 @@
   <desc id="desc">Six-step Ontario Energy Board bill calculator workflow: winter and summer bills, interval or TOU-band usage, compare TOU ULO and Tiered including delivery, apply the 23.5 percent Ontario Electricity Rebate, avoid one-month mistakes, then file an LDC election.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">OEB bill calculator: six steps, not a guess</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Compare TOU, ULO, and Tiered all-in bills with your LDC. OER is 23.5% as of 1 Nov 2025. Verified 20 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Compare TOU, ULO, and Tiered all-in bills with your LDC. OER is 23.5% as of 1 Nov 2025. As of 20 Sep 2026.</text>
   <rect x="24" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
   <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Pull two seasons</text>
   <text x="40" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">January and July bills,</text>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">RFD internet deal hygiene checklist</title>
-  <desc id="desc">Filter city, technology, after-promo price; verify live; cross-check ISP and independent; build BATNA. Drafted 22 Sep 2026.</desc>
+  <desc id="desc">Filter city, technology, after-promo price; verify live; cross-check ISP and independent; build BATNA. As of 22 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">RFD is research. Your cart is the quote.</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Same-day hygiene for Canadian internet threads. Drafted 22 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Same-day hygiene for Canadian internet threads. As of 22 Sep 2026.</text>
   <rect x="40" y="90" width="150" height="200" rx="12" fill="#E7F4EE"/>
   <text x="115" y="120" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Filter</text>
   <text x="115" y="150" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">City / postal</text>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Ebox vs Bell decision</title>
-  <desc id="desc">When the flanker wins on after-promo math versus when a Bell fibre promo or support need wins. Drafted 22 Sep 2026.</desc>
+  <desc id="desc">When the flanker wins on after-promo math versus when a Bell fibre promo or support need wins. As of 22 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Same Bell plant family. Different retail bill.</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario / Québec flanker framework. Illustrative. Drafted 22 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario / Québec flanker framework. Illustrative. As of 22 Sep 2026.</text>
   <rect x="48" y="100" width="280" height="220" rx="12" fill="#E7F4EE"/>
   <text x="188" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Pick Ebox when</text>
   <text x="70" y="180" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">• After-promo 24-mo CAD is lower</text>

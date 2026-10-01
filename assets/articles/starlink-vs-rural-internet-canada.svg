@@ -4,7 +4,7 @@
   <desc id="desc">Check the National Broadband Map and UBF builds first. If fibre or a decent WISP is near, wait or join the waitlist. If not, compare Xplore-class fixed wireless versus Starlink latency, hardware, and monthly CAD at your postal code.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Rural order of operations: map, then wait, then satellite</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">UBF / National Broadband Map first. Starlink.com/ca for live CAD. Drafted 21 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">UBF / National Broadband Map first. Starlink.com/ca for live CAD. As of 21 Sep 2026.</text>
   <rect x="24" y="78" width="216" height="132" rx="12" fill="#E7F4EE"/>
   <text x="40" y="106" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Check the map</text>
   <text x="40" y="132" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">ISED National Broadband</text>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>No verified household basket was priced at all four hardware retailers</title>
+  <title>No household basket was priced at all four hardware retailers</title>
   <desc>Four retailer names with empty columns. Bars are omitted because a bulb, furnace filter, caulk, and mop were not priced at Home Depot, RONA, Home Hardware, and Canadian Tire on the same date.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Bars only when all four prices exist</text>

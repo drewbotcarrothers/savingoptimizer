@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Xbox Game Pass Canada monthly list prices</title>
-  <desc id="desc">Xbox store list prices checked 25 September 2026: Essential 13.99 dollars, PC Game Pass 16.99, Premium 17.99, Ultimate 25.99, per month.</desc>
+  <desc id="desc">Xbox store list prices as of 25 September 2026: Essential 13.99 dollars, PC Game Pass 16.99, Premium 17.99, Ultimate 25.99, per month.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What the stack costs before you keep Ultimate</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Xbox store list prices, CAD per month. Checked 25 Sep 2026. Tax at checkout.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Xbox store list prices, CAD per month. As of 25 Sep 2026. Tax at checkout.</text>
   <rect x="70" y="188" width="110" height="108" rx="6" fill="#1A1A1A"/>
   <text x="92" y="178" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1A1A1A">$13.99</text>
   <text x="88" y="318" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Essential</text>

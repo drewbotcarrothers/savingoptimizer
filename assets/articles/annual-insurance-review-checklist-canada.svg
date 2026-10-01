@@ -4,7 +4,7 @@
   <desc id="desc">Forty-five days before renewal, pull declarations, update one sheet, quote one broker market and one direct writer, then keep, negotiate, or switch with dates that overlap.</desc>
   <rect width="720" height="440" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One sitting, every policy</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">45 days before each effective date. Drafted 23 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">45 days before each effective date. As of 23 Sep 2026.</text>
   <rect x="24" y="74" width="150" height="86" rx="12" fill="#0F7A4B"/>
   <text x="36" y="106" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">1. Pull pages</text>
   <text x="36" y="128" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E7F4EE">Auto, home, life,</text>

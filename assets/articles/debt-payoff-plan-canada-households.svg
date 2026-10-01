@@ -4,7 +4,7 @@
   <desc id="desc">Keep one month of bills liquid and pay the mortgage as contracted. Send extra cash to high-rate cards first, then down the rate ladder. Keep a small registered skim.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Extra cash has a queue</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Mortgage PAD stays. Illustration only. Drafted 22 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Mortgage PAD stays. Illustration only. As of 22 Sep 2026.</text>
   <rect x="24" y="78" width="128" height="210" rx="12" fill="#E7F4EE"/>
   <text x="36" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Buffer</text>
   <text x="36" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One month</text>

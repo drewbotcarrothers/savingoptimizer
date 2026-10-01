@@ -4,7 +4,7 @@
   <desc id="desc">A labelled $450,000 25-year sketch. You shop the contract payment. OSFI MQR still qualifies most new uninsured files at the greater of contract plus 2 percent or 5.25 percent. This is not a rate call.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Choose the payment you can live with, not a headline rate</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">OSFI MQR (verified 20 Sep 2026): greater of contract + 2% or 5.25% on new uninsured originations.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">OSFI MQR (as of 20 Sep 2026): greater of contract + 2% or 5.25% on new uninsured originations.</text>
   <rect x="48" y="140" width="110" height="140" fill="#0F7A4B"/>
   <text x="103" y="128" text-anchor="middle" font-size="12" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">~$2,491</text>
   <text x="103" y="300" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4.50% P+I</text>

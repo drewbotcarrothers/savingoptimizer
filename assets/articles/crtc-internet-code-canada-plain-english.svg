@@ -4,7 +4,7 @@
   <desc id="desc">Three steps: resolve with the provider, then the CCTS, then a CRTC Part 1 only for a general interpretation. Not a shortcut to skip the provider.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Where a bill fight actually goes</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Internet Code administration. Drafted 21 Sep 2026. Not legal advice.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Internet Code administration. As of 21 Sep 2026. Not legal advice.</text>
   <rect x="24" y="84" width="200" height="150" rx="12" fill="#0F7A4B"/>
   <text x="124" y="130" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">1. Your ISP</text>
   <text x="124" y="158" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">Write the fee, the</text>

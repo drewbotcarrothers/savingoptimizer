@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Flow from a microchip implant to a reunion</title>
-  <desc>Five steps: implant the chip, register it, update contact details, scan the chip, reunite. The chip is not GPS. Checked 27 Sep 2026.</desc>
+  <desc>Five steps: implant the chip, register it, update contact details, scan the chip, reunite. The chip is not GPS. As of 27 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Implant, register, update, scan, reunite</text>
   <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">A chip stores a number. It does not broadcast a location.</text>

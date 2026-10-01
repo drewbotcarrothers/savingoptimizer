@@ -4,7 +4,7 @@
   <desc id="desc">Equal or budget billing sets monthly installments from estimated annual use. Actual winter usage still spikes. A year-end true-up is a credit or a balance owing. Enbridge EMPP, FortisBC EPP, and hydro equalized plans are cashflow tools, not conservation.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Equal billing: cashflow, not a discount</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Installments follow estimated annual use. True-up is the bill arriving later. Verified 20 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Installments follow estimated annual use. True-up is the bill arriving later. As of 20 Sep 2026.</text>
   <rect x="80" y="200" width="36" height="80" fill="#E5E7EB"/>
   <rect x="128" y="160" width="36" height="120" fill="#E5E7EB"/>
   <rect x="176" y="100" width="36" height="180" fill="#0F7A4B"/>

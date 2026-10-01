@@ -4,7 +4,7 @@
   <desc id="desc">Days 1-3 audit and open, days 4-8 payroll and government deposits, days 9-14 PAD rewrite, then two billing cycles before close. FCAC: new products first.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">14 days to start the switch - not to close</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">FCAC: open new products before you cancel old ones. Drafted 21 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">FCAC: open new products before you cancel old ones. As of 21 Sep 2026.</text>
   <rect x="24" y="78" width="160" height="210" rx="12" fill="#E7F4EE"/>
   <text x="40" y="108" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Days 1-3</text>
   <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Audit fees and</text>

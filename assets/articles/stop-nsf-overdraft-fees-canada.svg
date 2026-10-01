@@ -4,7 +4,7 @@
   <desc id="desc">From 12 March 2026 a federally regulated bank may charge at most 10 dollars NSF on a personal deposit account, not more than once in two business days, and not when the unauthorized overdraft is under 10 dollars. RBC overdraft protection is listed at 5 dollars a month plus 22 percent interest when used.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">What a shortfall can cost after 12 March 2026</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Personal deposit accounts at federally regulated banks. Drafted 21 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Personal deposit accounts at federally regulated banks. As of 21 Sep 2026.</text>
   <rect x="24" y="84" width="210" height="150" rx="12" fill="#E7F4EE"/>
   <text x="40" y="116" font-size="14" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Before the cap</text>
   <text x="40" y="148" font-size="28" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$45-$48</text>

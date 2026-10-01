@@ -4,7 +4,7 @@
   <desc id="desc">Rate D: 46.154 cents per day system access, 7.065 cents per kWh for the first 40 kWh per day, and 11.142 cents thereafter. Electric heat pushes most winter kWh into the second tier. Rate Flex D cuts winter off-peak prices and charges 46.463 cents during peak events.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Hydro-Québec Rate D (effective 1 Apr 2026)</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Daily access plus two energy tiers. Electric-heat winters live in the second tier. Not a thermostat-trick list. Verified 20 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Daily access plus two energy tiers. Electric-heat winters live in the second tier. Not a thermostat-trick list. As of 20 Sep 2026.</text>
   <rect x="24" y="78" width="330" height="196" rx="12" fill="#E7F4EE"/>
   <text x="40" y="108" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Rate D math</text>
   <text x="40" y="140" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Access: 46.154¢ per day</text>

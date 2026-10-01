@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Move-day internet timeline</title>
-  <desc id="desc">Three weeks out, quote transfer versus switch. One week out, confirm the technician fee. Moving day, test the new line. Next morning, cancel the old line and return gear. Drafted 22 Sep 2026.</desc>
+  <desc id="desc">Three weeks out, quote transfer versus switch. One week out, confirm the technician fee. Moving day, test the new line. Next morning, cancel the old line and return gear. As of 22 Sep 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">One line working, then the other line closed.</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian move timeline. Drafted 22 Sep 2026. Overlap days, not a whole cycle.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian move timeline. As of 22 Sep 2026. Overlap days, not a whole cycle.</text>
   <rect x="24" y="86" width="160" height="150" rx="12" fill="#E7F4EE"/>
   <text x="40" y="116" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">3 weeks out</text>
   <text x="40" y="144" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Quote the new unit</text>

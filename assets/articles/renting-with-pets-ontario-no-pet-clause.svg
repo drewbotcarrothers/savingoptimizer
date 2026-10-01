@@ -4,7 +4,7 @@
   <desc>Flow chart. Start when a landlord objects. If the only objection is a no-pet clause in the tenancy agreement, Residential Tenancies Act section 14 makes that clause void, where the Act applies. A condo declaration, by-law, or rule is a separate document and can restrict pets. An application grounded on the animal under section 76 uses a notice under section 64, 65, or 66, and the Board must be satisfied. Damage notices are sections 62 and 63. The Landlord and Tenant Board decides. This chart is not a ruling.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">If a landlord objects, read in this order</text>
-  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario only. Not a Board order. Checked 26 Sep 2026.</text>
+  <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario only. Not a Board order. As of 26 Sep 2026.</text>
   <rect x="150" y="62" width="420" height="40" rx="6" fill="#FFFFFF" stroke="#0F7A4B" stroke-width="2"/>
   <text x="360" y="87" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Landlord objects to the pet</text>
   <line x1="360" y1="102" x2="360" y2="118" stroke="#6B7280"/>

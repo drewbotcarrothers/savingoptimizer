@@ -14,5 +14,5 @@
   <text x="176" y="189" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">$45</text>
   <text x="24" y="348" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Insured person, co-payment of $45, Ontario Regulation 365/19 under the Health Insurance Act.</text>
   <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Toronto.ca: resident, valid health card, medically necessary, trip starts and ends in Ontario, no exemption.</text>
-  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Checked 27 Sep 2026. A higher charge for a non-resident was not copied from a hospital webpage.</text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">As of 27 Sep 2026. A higher charge for a non-resident was not copied from a hospital webpage.</text>
 </svg>
