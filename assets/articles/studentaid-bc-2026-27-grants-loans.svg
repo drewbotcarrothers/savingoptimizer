@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">B.C. Access Grant maximums</title>
+<desc id="d">Bars: full-time under 2 years $4,000; full-time 2+ years $1,000; part-time $1,000; disability loan replacement $1,560.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">B.C. Access Grant maximums</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Per 8-month school year (part-time per year), as of 1 Oct 2026</text>
+<text x="240" y="117.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Full-time, under 2 years</text>
+<rect x="250" y="93.0" width="350.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$4,000</text>
+<text x="240" y="187.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Disability grant (replaces loan)</text>
+<rect x="250" y="163.0" width="136.5" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="394.5" y="187.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$1,560</text>
+<text x="240" y="257.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Full-time, 2+ years</text>
+<rect x="250" y="233.0" width="87.5" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="345.5" y="257.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$1,000</text>
+<text x="240" y="327.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Part-time</text>
+<rect x="250" y="303.0" width="87.5" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="345.5" y="327.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$1,000</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
