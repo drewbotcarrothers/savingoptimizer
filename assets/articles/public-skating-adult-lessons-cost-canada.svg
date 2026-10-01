@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example with made-up inputs: a winter of skating</title>
+<desc id="d">Horizontal bars for a made-up winter: lesson session $85, used skates $80, transit or parking $10, drop-in skating $0, borrowed skates $0; total $175.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: a winter of skating</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Where one adult&#x27;s money goes</text>
+<text x="240" y="110.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Lesson session</text>
+<rect x="250" y="88.6" width="350.0" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="110.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$85</text>
+<text x="240" y="166.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Used skates</text>
+<rect x="250" y="144.6" width="329.4" height="34.7" rx="3" fill="#1A1A1A"/>
+<text x="587.4" y="166.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$80</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Transit or parking</text>
+<rect x="250" y="200.6" width="41.2" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="299.2" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$10</text>
+<text x="240" y="278.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Drop-in skating</text>
+<rect x="250" y="256.6" width="2.0" height="34.7" rx="3" fill="#1A1A1A"/>
+<text x="260.0" y="278.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$0</text>
+<text x="240" y="334.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Borrowed skates</text>
+<rect x="250" y="312.6" width="2.0" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="260.0" y="334.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$0</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
