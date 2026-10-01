@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">NHL viewing combinations, monthly</title>
+<desc id="d">Horizontal bars of monthly cost. Prime $9.99. Sportsnet+ Standard $34.99. Sportsnet+ Standard and Prime $44.98. Sportsnet+ Standard, Prime and TSN Standard $69.97.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">NHL viewing combinations, monthly</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Listed prices as of 1 Oct 2026, before tax</text>
+<text x="240" y="117.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Prime only</text>
+<rect x="250" y="93.0" width="50.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="308.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$9.99</text>
+<text x="240" y="187.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Sportsnet+ Standard</text>
+<rect x="250" y="163.0" width="175.0" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="433.0" y="187.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$34.99</text>
+<text x="240" y="257.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Sportsnet+ and Prime</text>
+<rect x="250" y="233.0" width="225.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="483.0" y="257.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$44.98</text>
+<text x="240" y="327.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Sportsnet+, Prime, TSN</text>
+<rect x="250" y="303.0" width="350.0" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="608.0" y="327.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$69.97</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Listed prices before tax. As of 1 Oct 2026.</text>
+</svg>
