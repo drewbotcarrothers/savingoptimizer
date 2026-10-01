@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example with made-up inputs: eight-month housing cost</title>
+<desc id="d">Horizontal bars. Residence $16,100. Shared rental with summer rent $15,100. Shared rental with a summer subtenant $11,500. Living at home $2,600.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: eight-month housing cost</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Residence, living at home and a shared rental with a 12-month lease</text>
+<text x="240" y="117.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Residence</text>
+<rect x="250" y="93.0" width="350.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$16,100</text>
+<text x="240" y="187.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Shared rental, 12-month lease</text>
+<rect x="250" y="163.0" width="328.3" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="586.3" y="187.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$15,100</text>
+<text x="240" y="257.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Shared rental, summer sublet</text>
+<rect x="250" y="233.0" width="250.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="508.0" y="257.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$11,500</text>
+<text x="240" y="327.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Living at home</text>
+<rect x="250" y="303.0" width="56.5" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="314.5" y="327.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$2,600</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
