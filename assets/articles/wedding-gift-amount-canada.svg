@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example with made-up inputs: a year of wedding gifts</title>
+<desc id="d">Horizontal bars. Sibling&#x27;s wedding $400; cousin&#x27;s shower and wedding $300; friend&#x27;s destination wedding $150; colleague&#x27;s group gift $50.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: a year of wedding gifts</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">$900 divided by closeness and cost to attend</text>
+<text x="240" y="117.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Sibling&#x27;s wedding</text>
+<rect x="250" y="93.0" width="350.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$400</text>
+<text x="240" y="187.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Cousin&#x27;s shower and wedding</text>
+<rect x="250" y="163.0" width="262.5" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="520.5" y="187.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$300</text>
+<text x="240" y="257.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Friend&#x27;s destination wedding</text>
+<rect x="250" y="233.0" width="131.2" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="389.2" y="257.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$150</text>
+<text x="240" y="327.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Colleague&#x27;s group gift</text>
+<rect x="250" y="303.0" width="43.8" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="301.8" y="327.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$50</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
