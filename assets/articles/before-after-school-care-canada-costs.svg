@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example with made-up inputs: a school year of care</title>
+<desc id="d">Horizontal bars for made-up school-year totals: school-based program $5,475, licensed centre all-inclusive $5,600.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: a school year of care</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Monthly fees plus PA days and March break</text>
+<text x="240" y="152.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">School-based program</text>
+<rect x="250" y="128.0" width="342.2" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="600.2" y="152.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$5,475</text>
+<text x="240" y="292.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Licensed centre</text>
+<rect x="250" y="268.0" width="350.0" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="608.0" y="292.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$5,600</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
