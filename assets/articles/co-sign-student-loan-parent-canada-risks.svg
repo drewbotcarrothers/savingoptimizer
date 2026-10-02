@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example: parent&#x27;s cost if payments stop</title>
+<desc id="d">Bars: co-sign $15,000 about $17,820; gift $10,000 plus co-sign $5,000 about $15,940; gift only $10,000.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example: parent&#x27;s cost if payments stop</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs</text>
+<text x="240" y="128.7" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Co-sign $15,000</text>
+<rect x="250" y="104.7" width="350.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="128.7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">About $17,820</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Gift $10,000 + co-sign $5,000</text>
+<rect x="250" y="198.0" width="313.1" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="571.1" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">About $15,940</text>
+<text x="240" y="315.3" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Gift $10,000 only</text>
+<rect x="250" y="291.3" width="196.4" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="454.4" y="315.3" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$10,000</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
