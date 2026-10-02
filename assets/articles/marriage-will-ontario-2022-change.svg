@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example: spouse&#x27;s share of a $500,000 estate</title>
+<desc id="d">Bars: no will no children $500,000; no will one child $425,000; old will to sister $0.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example: spouse&#x27;s share of a $500,000 estate</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs, Ontario rules</text>
+<text x="240" y="128.7" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">No will, no children</text>
+<rect x="250" y="104.7" width="350.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="128.7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$500,000</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">No will, one child</text>
+<rect x="250" y="198.0" width="297.5" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="555.5" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$425,000</text>
+<text x="240" y="315.3" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Old will to sister</text>
+<rect x="250" y="291.3" width="2.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="260.0" y="315.3" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$0</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>

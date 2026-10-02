@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example: tips by vendor</title>
+<desc id="d">Bars: bar team $100; second shooter $100; hair and makeup $90; setup crews $80; DJ $75; shuttle $50.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example: tips by vendor</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs</text>
+<text x="240" y="105.3" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Bar team</text>
+<rect x="250" y="86.9" width="350.0" height="28.9" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="105.3" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$100</text>
+<text x="240" y="152.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Second shooter</text>
+<rect x="250" y="133.5" width="350.0" height="28.9" rx="3" fill="#1A1A1A"/>
+<text x="608.0" y="152.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$100</text>
+<text x="240" y="198.7" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Hair and makeup</text>
+<rect x="250" y="180.2" width="315.0" height="28.9" rx="3" fill="#0F7A4B"/>
+<text x="573.0" y="198.7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$90</text>
+<text x="240" y="245.3" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Setup crews</text>
+<rect x="250" y="226.9" width="280.0" height="28.9" rx="3" fill="#1A1A1A"/>
+<text x="538.0" y="245.3" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$80</text>
+<text x="240" y="292.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">DJ</text>
+<rect x="250" y="273.5" width="262.5" height="28.9" rx="3" fill="#0F7A4B"/>
+<text x="520.5" y="292.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$75</text>
+<text x="240" y="338.7" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Shuttle driver</text>
+<rect x="250" y="320.2" width="175.0" height="28.9" rx="3" fill="#1A1A1A"/>
+<text x="433.0" y="338.7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$50</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
