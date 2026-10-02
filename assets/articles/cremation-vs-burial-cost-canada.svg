@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example: four cremation and burial choices</title>
+<desc id="d">Bars: cremation and scattering $2,449; cremation lot $4,032; niche $6,037; burial $12,569.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example: four cremation and burial choices</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs and published Mississauga and Ottawa prices</text>
+<text x="240" y="117.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Cremation, scattering</text>
+<rect x="250" y="93.0" width="68.2" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="326.2" y="117.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$2,449</text>
+<text x="240" y="187.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Cremation lot</text>
+<rect x="250" y="163.0" width="112.3" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="370.3" y="187.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$4,032</text>
+<text x="240" y="257.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Niche</text>
+<rect x="250" y="233.0" width="168.1" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="426.1" y="257.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$6,037</text>
+<text x="240" y="327.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Burial</text>
+<rect x="250" y="303.0" width="350.0" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="608.0" y="327.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$12,569</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
