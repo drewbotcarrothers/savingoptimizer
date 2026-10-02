@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example: planning help with 13% HST</title>
+<desc id="d">Bars: full planning $5,424; partial planning $3,164; month-of coordination $1,695.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example: planning help with 13% HST</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs, Ontario HST</text>
+<text x="240" y="128.7" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Full planning</text>
+<rect x="250" y="104.7" width="350.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="128.7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$5,424</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Partial planning</text>
+<rect x="250" y="198.0" width="204.2" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="462.2" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$3,164</text>
+<text x="240" y="315.3" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Month-of</text>
+<rect x="250" y="291.3" width="109.4" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="367.4" y="315.3" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$1,695</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
