@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example: three years of fishing</title>
+<desc id="d">Bars: one-day licences $366.30; card plus sport licences $88.28; card plus 3-year conservation licence $53.78.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example: three years of fishing</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs, before HST</text>
+<text x="240" y="128.7" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">30 one-day licences</text>
+<rect x="250" y="104.7" width="350.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="128.7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$366.30</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Card + sport licences</text>
+<rect x="250" y="198.0" width="84.4" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="342.4" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$88.28</text>
+<text x="240" y="315.3" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Card + 3-year conservation</text>
+<rect x="250" y="291.3" width="51.4" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="309.4" y="315.3" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$53.78</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
