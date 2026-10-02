@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example: bar formats for 100 guests, with HST</title>
+<desc id="d">Bars: open bar $5,085; consumption $3,661; limited $3,390; host then cash $2,486; cash bar $339.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example: bar formats for 100 guests, with HST</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs</text>
+<text x="240" y="110.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Open bar</text>
+<rect x="250" y="88.6" width="350.0" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="110.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$5,085</text>
+<text x="240" y="166.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Consumption</text>
+<rect x="250" y="144.6" width="252.0" height="34.7" rx="3" fill="#1A1A1A"/>
+<text x="510.0" y="166.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$3,661</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Limited bar</text>
+<rect x="250" y="200.6" width="233.3" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="491.3" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$3,390</text>
+<text x="240" y="278.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Host then cash</text>
+<rect x="250" y="256.6" width="171.1" height="34.7" rx="3" fill="#1A1A1A"/>
+<text x="429.1" y="278.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$2,486</text>
+<text x="240" y="334.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Cash bar</text>
+<rect x="250" y="312.6" width="23.3" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="281.3" y="334.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$339</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+</svg>
