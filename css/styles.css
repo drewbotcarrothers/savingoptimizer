@@ -1428,3 +1428,24 @@ nav.crumbs a:hover { color: var(--green); }
 }
 
 .form-alert p { margin: 0; }
+
+/* Related guides block inside article body (before Sources) */
+.related-guides-inline {
+  margin: 2rem 0 1.75rem;
+}
+
+@media (min-width: 720px) {
+  .related-guides-inline .related-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.prose .related-guides-inline .related-list {
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.prose .related-guides-inline .related-list li {
+  margin-bottom: 0;
+}
