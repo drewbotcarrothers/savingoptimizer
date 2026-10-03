@@ -112,24 +112,21 @@
 
   var form = document.getElementById("contact-form");
   if (form) {
-    form.addEventListener("submit", function (event) {
-      event.preventDefault();
-      var name = (form.querySelector("#name") || {}).value || "";
-      var email = (form.querySelector("#email") || {}).value || "";
-      var topic = (form.querySelector("#topic") || {}).value || "General";
-      var message = (form.querySelector("#message") || {}).value || "";
-      var subject = "Saving Optimizer: " + topic + " — " + name.trim();
-      var body =
-        "Name: " + name.trim() + "\n" +
-        "Email: " + email.trim() + "\n" +
-        "Topic: " + topic + "\n\n" +
-        message.trim();
-      var mailto =
-        "mailto:hello@savingoptimizer.com" +
-        "?subject=" + encodeURIComponent(subject) +
-        "&body=" + encodeURIComponent(body);
-      window.location.href = mailto;
+    var loaded = Date.now();
+    var tsField = document.getElementById("form_ts");
+    var elField = document.getElementById("form_elapsed");
+    if (tsField) tsField.value = String(loaded);
+    form.addEventListener("submit", function () {
+      if (elField) elField.value = String(Date.now() - loaded);
     });
+    if (/[?&]error=1(&|$)/.test(window.location.search)) {
+      var alertBox = document.getElementById("contact-error");
+      if (alertBox) {
+        alertBox.hidden = false;
+        alertBox.setAttribute("tabindex", "-1");
+        alertBox.focus();
+      }
+    }
   }
 
   document.addEventListener('click', function (e) {
