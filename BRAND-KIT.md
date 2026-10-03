@@ -12,12 +12,15 @@ Middle-aged men and women in Canada saving across everyday life: Food & Grocerie
 
 ## Logo
 
-- **Primary wordmark:** green circle with a white `$` plus charcoal “Saving Optimizer”
-- **File:** `assets/logo-primary.png`
-- **Favicon:** `assets/favicon.svg` — Savings Green circle (`#0F7A4B`) with a white `$`
-- Flat vector on white. No sparkline or chart motif.
+- **Official logo (approved 3 Oct 2026): the Saving Optimizer moose.** A cartoon brown moose in a green toque dropping a `$` coin into a green piggy bank, with the charcoal "Saving Optimizer" wordmark.
+- **Header:** `assets/logo-header.webp` with `assets/logo-header.png` fallback (493×112, shown at 56px tall on desktop, 50px on tablet, 46px on mobile). Alt text: `Saving Optimizer`.
+- **Icon:** moose head in a green circle. Favicons: `favicon.ico` (16/32/48, site root), `assets/favicon-32.png`, `assets/favicon-16.png`, `assets/apple-touch-icon.png` (180), `assets/android-chrome-192.png`, `assets/android-chrome-512.png`, listed in `site.webmanifest`.
+- **Structured data logo:** `assets/logo-moose-512.png` (Organization and Publisher `logo` in JSON-LD).
+- **Default share image:** `assets/og-default.jpg` (1200×630, stacked moose logo on white), used for `og:image`, `twitter:image` and the default Article `image`.
+- Masters (transparent PNGs, including the full header, stacked logo and 800×800 icon) live outside the site in `brand/moose/final/`.
+- The artwork is raster. A vector trace was tried and rejected because it lost the shading and added artefacts, so do not swap in an SVG trace.
 
-Use the PNG in the header and footer. Use the SVG as the browser icon. Do not recolour the mark.
+Do not recolour, stretch or redraw the moose. The old green `$` circle (`assets/logo-primary.png`, `assets/favicon.svg`) is retired and kept only so old external links still resolve.
 
 ## Colour palette
 

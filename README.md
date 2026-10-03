@@ -2,6 +2,10 @@
 
 Static site for Saving Optimizer. Pure HTML, CSS, and a small `js/main.js`. **No Node.js, no npm, no build step** — there is intentionally no `package.json`.
 
+## Brand
+
+The official Saving Optimizer logo is the **moose**: a cartoon brown moose in a green toque dropping a `$` coin into a green piggy bank. The site header uses `assets/logo-header.webp` / `.png`, the favicons come from the moose-head icon, and the JSON-LD logo is `assets/logo-moose-512.png`. See `BRAND-KIT.md` for the full asset list and rules. The old green `$` circle logo is retired.
+
 ## Local preview
 
 **Option A — open a file**
