@@ -6,6 +6,10 @@ Static site for Saving Optimizer. Pure HTML, CSS, and a small `js/main.js`. **No
 
 The official Saving Optimizer logo is the **moose**: a cartoon brown moose in a green toque dropping a `$` coin into a green piggy bank. The site header uses `assets/logo-header.webp` / `.png`, the favicons come from the moose-head icon, and the JSON-LD logo is `assets/logo-moose-512.png`. See `BRAND-KIT.md` for the full asset list and rules. The old green `$` circle logo is retired.
 
+## Contact form
+
+`contact.html` posts to `contact-submit.php`, which validates the fields, checks a honeypot, a minimum time on the page and a per-IP rate limit (5 per hour), and sends the message with PHP `mail()` to hello@savingoptimizer.com (From no-reply@savingoptimizer.com, Reply-To the visitor). It needs PHP on the host (Hostinger shared hosting has it). Success goes to `contact-thanks.html` (noindex, not in the sitemap); errors go back to `contact.html?error=1`. No keys or passwords are involved.
+
 ## Local preview
 
 **Option A — open a file**
