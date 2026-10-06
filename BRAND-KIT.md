@@ -14,7 +14,7 @@ Middle-aged men and women in Canada saving across everyday life: Food & Grocerie
 
 - **Official logo (approved 3 Oct 2026): the Saving Optimizer moose.** A cartoon brown moose in a green toque dropping a `$` coin into a green piggy bank, with the charcoal "Saving Optimizer" wordmark.
 - **Header:** `assets/logo-header.webp` with `assets/logo-header.png` fallback (493×112, shown at 56px tall on desktop, 50px on tablet, 46px on mobile). Alt text: `Saving Optimizer`.
-- **Icon:** moose head in a green circle. Favicons: `favicon.ico` (16/32/48, site root), `assets/favicon-32.png`, `assets/favicon-16.png`, `assets/apple-touch-icon.png` (180), `assets/android-chrome-192.png`, `assets/android-chrome-512.png`, listed in `site.webmanifest`.
+- **Icon:** moose head in a green circle (JSON-LD logo). Favicons use the moose head on a solid white (`#FFFFFF`) background (changed 6 Oct 2026): `favicon.ico` (16/32/48, site root), `assets/favicon-32.png`, `assets/favicon-16.png`, `assets/apple-touch-icon.png` (180), `assets/android-chrome-192.png`, `assets/android-chrome-512.png`, listed in `site.webmanifest`.
 - **Structured data logo:** `assets/logo-moose-512.png` (Organization and Publisher `logo` in JSON-LD).
 - **Default share image:** `assets/og-default.jpg` (1200×630, stacked moose logo on white), used for `og:image`, `twitter:image` and the default Article `image`.
 - Masters (transparent PNGs, including the full header, stacked logo and 800×800 icon) live outside the site in `brand/moose/final/`.
