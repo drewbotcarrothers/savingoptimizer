@@ -1101,6 +1101,13 @@ body {
   margin: 0;
 }
 
+/* Short affiliate notice under the byline on pages with Amazon.ca links. */
+.affiliate-top {
+  color: var(--mid-grey);
+  font-size: 0.875rem;
+  margin: -1rem 0 1.5rem;
+}
+
 .sources {
   margin-top: 2rem;
   padding-top: 1.25rem;
