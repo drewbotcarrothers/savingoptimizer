@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Clothing accessories prices: average change by month</title>
+<desc id="d">Average month-over-month change in the clothing accessories index: December down about 4.8%; January up about 2.3%; February up about 1.7%; November up about 0.5%; October up about 0.9%.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Clothing accessories prices: average change by month</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Statistics Canada CPI, Canada, not seasonally adjusted</text>
+<text x="240" y="110.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">October (avg rise)</text>
+<rect x="250" y="88.6" width="65.6" height="34.7" rx="3" fill="#6B7280"/>
+<text x="323.6" y="110.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">+0.9%</text>
+<text x="240" y="166.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">November (avg rise)</text>
+<rect x="250" y="144.6" width="36.5" height="34.7" rx="3" fill="#6B7280"/>
+<text x="294.5" y="166.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">+0.5%</text>
+<text x="240" y="222.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">December (avg drop)</text>
+<rect x="250" y="200.6" width="350.0" height="34.7" rx="3" fill="#0F7A4B"/>
+<text x="608.0" y="222.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">-4.8%</text>
+<text x="240" y="278.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">January (avg rise)</text>
+<rect x="250" y="256.6" width="167.7" height="34.7" rx="3" fill="#6B7280"/>
+<text x="425.7" y="278.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">+2.3%</text>
+<text x="240" y="334.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">February (avg rise)</text>
+<rect x="250" y="312.6" width="124.0" height="34.7" rx="3" fill="#6B7280"/>
+<text x="382.0" y="334.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">+1.7%</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Statistics Canada CPI table 18-10-0004-01. As of 7 Oct 2026.</text>
+</svg>
