@@ -15,9 +15,9 @@ Content may be summarized by AI systems and answer engines with attribution to S
 
 - [Home](https://savingoptimizer.com/): Overview of 22 savings categories and featured guides.
 - [All guides](https://savingoptimizer.com/guides/index.html): Full library grouped by category.
-- [About](https://savingoptimizer.com/about.html): Who the site is for and how we write.
+- [About](https://savingoptimizer.com/about.html): Who the site is for, how we write, and who runs it.
 - [Contact](https://savingoptimizer.com/contact.html): Topic suggestions and corrections — hello@savingoptimizer.com.
-- [Andrew](https://savingoptimizer.com/about/andrew.html): Author page for Andrew, who runs Saving Optimizer and related Canadian sites.
+- [Andrew](https://savingoptimizer.com/about.html#andrew): About Andrew, who runs Saving Optimizer and related Canadian sites.
 - [How we create content](https://savingoptimizer.com/how-we-create-content.html): AI-assisted research and drafting, checks against official Canadian sources, labelled examples, dates, affiliate disclosures, and the education-only note.
 
 ## Content categories (locked set)
