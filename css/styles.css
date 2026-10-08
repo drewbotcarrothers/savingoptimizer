@@ -1332,6 +1332,163 @@ nav.crumbs a:hover { color: var(--green); }
   .card-grid.cols-4 { grid-template-columns: repeat(4, 1fr); }
 }
 
+/* Homepage category cards: one sentence, guide count, chip links, pinned Browse link */
+.cat-card {
+  position: relative;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.cat-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow);
+  border-color: #c9d4cc;
+}
+
+.cat-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.7rem;
+}
+
+.card.card-dense.cat-card .icon-pill {
+  margin-bottom: 0;
+}
+
+.cat-card-count {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--mid-grey);
+  white-space: nowrap;
+}
+
+.card.cat-card h3 {
+  margin-bottom: 0.4rem;
+}
+
+.cat-card-link {
+  color: var(--near-black);
+  text-decoration: none;
+}
+
+.cat-card-link:hover {
+  color: var(--green);
+}
+
+/* Stretched link: the whole card opens the category; chips and Browse sit above it */
+.cat-card-link::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius);
+  z-index: 0;
+}
+
+.cat-card-link:focus-visible {
+  outline: none;
+}
+
+.cat-card-link:focus-visible::after {
+  outline: 3px solid var(--green);
+  outline-offset: 3px;
+}
+
+.card.cat-card p {
+  flex: none;
+}
+
+.cat-card-foot {
+  margin-top: auto;
+  padding-top: 0.95rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.card.cat-card .cat-card-label {
+  margin: 0 0 0.4rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--mid-grey);
+}
+
+.cat-card-chips {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.cat-card-chips li {
+  margin: 0;
+}
+
+.cat-card .chip,
+.cat-card-browse {
+  position: relative;
+  z-index: 1;
+}
+
+.cat-card .chip {
+  display: inline-block;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--soft-grey);
+  color: var(--near-black);
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.3;
+  text-decoration: none;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.cat-card .chip:hover {
+  background: var(--green-soft);
+  border-color: var(--green);
+  color: var(--green);
+}
+
+.cat-card .chip:focus-visible {
+  outline-offset: 2px;
+}
+
+.cat-card-browse {
+  margin-top: 0.95rem;
+  text-decoration: none;
+}
+
+.cat-card-browse:hover {
+  color: var(--green-hover);
+  text-decoration: underline;
+}
+
+@media (max-width: 639px) {
+  .cat-card .chip {
+    padding: 0.42rem 0.75rem;
+  }
+
+  .cat-card-foot {
+    padding-top: 0.8rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cat-card,
+  .cat-card .chip {
+    transition: none;
+  }
+
+  .cat-card:hover {
+    transform: none;
+  }
+}
+
 /* Footer: many categories in a denser list */
 .footer-cats ul {
   columns: 1;
