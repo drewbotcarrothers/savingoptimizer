@@ -1613,3 +1613,18 @@ nav.crumbs a:hover { color: var(--green); }
 .prose .related-guides-inline .related-list li {
   margin-bottom: 0;
 }
+
+/* ---------- Featured (hero) images ---------- */
+.article-hero {
+  margin: 0 0 1.75rem;
+}
+
+.article-hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: var(--radius);
+  background: var(--soft-grey);
+}
