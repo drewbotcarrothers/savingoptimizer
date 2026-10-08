@@ -40,6 +40,14 @@
   "prompt": "Realistic documentary photograph of a father in the passenger seat of a car giving driving advice to his teenage daughter at the wheel, quiet suburban street, autumn leaves, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No dashboard displays, no licence plates, no text."
  },
  {
+  "slug": "adoption-vs-breeder-cost-canada",
+  "alt": "A young couple meeting a scruffy mixed-breed dog in an animal shelter visiting room, the dog sniffing the woman's hand, illustrating adoption versus breeder first-year costs in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a young couple meeting a scruffy mixed-breed dog in an animal shelter visiting room, the dog sniffing the woman's hand, bright room, a leash on a bench, in a Canadian animal shelter. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no text."
+ },
+ {
   "slug": "adult-hockey-gear-used-vs-new-canada",
   "alt": "A set of used adult hockey gear laid out on a basement floor: skates, shin pads, gloves, a helmet, a stick and a gear bag, illustrating buying adult hockey gear used vs new in Canada.",
   "focal_y": 0.5,
@@ -64,12 +72,36 @@
   "prompt": "Realistic documentary photograph of mid-game action in an adult recreational hockey game, two players in mismatched plain jerseys chasing the puck along the boards while a goalie crouches in the net, motion and ice spray, candid documentary moment, not posed, in a community arena in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No team names, numbers or logos on jerseys, no boards advertising, no signs."
  },
  {
+  "slug": "aeroplan-dynamic-pricing-pitfalls-canada",
+  "alt": "A couple at their kitchen table planning a trip with a paper map, the woman pointing at it, illustrating Aeroplan dynamic pricing pitfalls.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a couple at their kitchen table planning a trip with a paper map, the woman pointing at it, coffee cups, a passport wallet, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No readable map text, no screens."
+ },
+ {
+  "slug": "aeroplan-vs-cash-cpp-framework-canada",
+  "alt": "An airplane wing over snow-capped mountains seen from a window seat, illustrating Aeroplan points versus paying cash.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of an airplane wing over snow-capped mountains seen from a window seat, blue sky, sunlight on the clouds, over the Rocky Mountains. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no text."
+ },
+ {
   "slug": "affordable-therapy-canada",
   "alt": "A young woman talking with a counsellor in a warm, plainly furnished therapy room, illustrating affordable therapy options in Canada.",
   "focal_y": 0.42,
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a young woman talking with a counsellor in a warm, plainly furnished therapy room, two armchairs, a box of tissues, soft daylight, in a Canadian community clinic. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text, no certificates on the walls."
+ },
+ {
+  "slug": "air-canada-basic-vs-standard-when-to-pay-up",
+  "alt": "A carry-on suitcase and a small backpack next to an airplane seat in the aisle, illustrating Air Canada Basic versus Standard fares.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a carry-on suitcase and a small backpack next to an airplane seat in the aisle, cabin interior, warm light, on a plane. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no text."
  },
  {
   "slug": "air-fryer-vs-oven-cost-canada",
@@ -88,12 +120,44 @@
   "prompt": "Realistic documentary photograph of close-up of a shopper's hand holding a plain blank loyalty card above a grocery cart full of produce, a checkout lane softly blurred behind, in a Canadian grocery store. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Card completely blank, no logos, no signs."
  },
  {
+  "slug": "air-passenger-protection-compensation-canada-how-to-claim",
+  "alt": "A frustrated traveller sitting on the floor of an airport gate area with her suitcase, on the phone, illustrating claiming air passenger protection compensation in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a frustrated traveller sitting on the floor of an airport gate area with her suitcase, on the phone, large windows, a delayed plane outside, in a Canadian airport. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no screens, no logos."
+ },
+ {
   "slug": "air-sealing-draft-proofing-home-canada-diy",
   "alt": "Hands pressing a strip of foam weatherstripping into the frame of an exterior door, illustrating DIY air sealing to fix the highest-impact drafts in Canadian homes.",
   "focal_y": 0.5,
   "shot_type": "hands",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of hands pressing a strip of foam weatherstripping into the frame of an exterior door, a caulking gun on the floor, cold light through the glass, in a Canadian house in late autumn. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels on tools, no text."
+ },
+ {
+  "slug": "airbnb-vs-hotel-canada-all-in-cost",
+  "alt": "A cosy rental apartment bedroom with a city view, a suitcase open on the bed, illustrating Airbnb versus hotel all-in costs in Canada.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a cosy rental apartment bedroom with a city view, a suitcase open on the bed, Montréal rooftops through the window, in Montréal. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text."
+ },
+ {
+  "slug": "airline-booking-mistake-fix-canada",
+  "alt": "A young man at an airport check-in kiosk area talking to an agent, passport in hand, illustrating fixing airline booking mistakes before losing the fare.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a young man at an airport check-in kiosk area talking to an agent, passport in hand, terminal blurred, luggage, in a Canadian airport. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No screens with text, no signs, no logos, no readable passport."
+ },
+ {
+  "slug": "airport-parking-rideshare-transit-canada",
+  "alt": "A woman with a suitcase boarding an airport express train, illustrating getting to Canadian airports cheaply.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a woman with a suitcase boarding an airport express train, platform, morning light, in Toronto. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no logos, no screens, no text."
  },
  {
   "slug": "alberta-auto-insurance-changes-checklist",
@@ -142,6 +206,22 @@
   "shot_type": "hands",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a hand holding a plain utility bill folded in thirds above a kitchen table, a pen beside it, reading glasses, a mug, in an Alberta home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No visible writing, numbers or logos on the paper."
+ },
+ {
+  "slug": "all-inclusive-mexico-vs-diy-canada-cost",
+  "alt": "A quiet beach with palm trees, lounge chairs and turquoise water, illustrating all-inclusive Mexico versus booking it yourself from Canada.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a quiet beach with palm trees, lounge chairs and turquoise water, morning light, on the Riviera Maya in Mexico. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no logos, no text."
+ },
+ {
+  "slug": "alternate-airports-canada-cheap-flights",
+  "alt": "A small regional airport terminal with a single jet parked at the gate, illustrating alternate Canadian airports that cut fares.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a small regional airport terminal with a single jet parked at the gate, overcast sky, flat farmland around, in southern Ontario. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos on the plane, no signs, no text."
  },
  {
   "slug": "amazon-prime-big-deal-days-canada-2026",
@@ -294,6 +374,22 @@
   "shot_type": "hands",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of close-up of a hand stacking loonies and toonies into neat columns on a wooden table, a small glass jar of silver coins beside them, soft daylight, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs, no banknotes. Any coins are Canadian loonies, toonies and silver coins only, no pennies. Coins clearly Canadian loonies, toonies, quarters, dimes and nickels only, no pennies, no foreign coins."
+ },
+ {
+  "slug": "avoid-dynamic-currency-conversion-canada",
+  "alt": "A hand holding a contactless card over a payment terminal at a café counter abroad, illustrating always choosing local currency to avoid dynamic currency conversion.",
+  "focal_y": 0.5,
+  "shot_type": "hands",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a hand holding a contactless card over a payment terminal at a café counter abroad, espresso cup, terminal screen turned away, in Lisbon. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Terminal screen not visible, no text, no logos."
+ },
+ {
+  "slug": "banff-jasper-budget-trip-canada-shoulder",
+  "alt": "Turquoise Lake Louise with mountains and a few hikers on the shoreline trail, illustrating Banff and Jasper on a budget.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of turquoise Lake Louise with mountains and a few hikers on the shoreline trail, early autumn, golden larches, in Banff National Park. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no text."
  },
  {
   "slug": "bank-switching-bonus-canada",
@@ -488,6 +584,14 @@
   "prompt": "Realistic documentary photograph of a young man carrying a large plain cardboard TV box and a small boxed pair of headphones out of an electronics store into a snowy parking lot, grinning, his friend opening a car trunk, at a Canadian big-box plaza on Boxing Day. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Boxes plain with no printing, no store signs, no logos, no licence plates."
  },
  {
+  "slug": "book-hotel-direct-vs-ota-canada-loyalty",
+  "alt": "A couple checking in at a small hotel front desk, the clerk handing them a key card, illustrating booking a hotel direct versus through an OTA.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a couple checking in at a small hotel front desk, the clerk handing them a key card, warm lobby, flowers, in a Canadian hotel. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no screens, no logos, no text."
+ },
+ {
   "slug": "braces-cost-kids-canada",
   "alt": "A smiling teenage girl with braces sitting in an orthodontist's chair while the orthodontist shows her a mirror, illustrating braces for kids and orthodontic costs in Canada.",
   "focal_y": 0.42,
@@ -648,6 +752,14 @@
   "prompt": "Realistic documentary photograph of a woman carrying a stack of plain brown cardboard parcels to a post office counter, a postal clerk smiling, parcels wrapped with twine and tape, other customers waiting in winter coats, inside a small Canadian post office in December. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels or addresses on parcels, no signs, no logos, no uniforms with lettering."
  },
  {
+  "slug": "canada-road-trip-budget-fuel-camping",
+  "alt": "A loaded hatchback parked at a scenic lookout over a winding highway and a lake, illustrating budgeting a Canadian road trip.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a loaded hatchback parked at a scenic lookout over a winding highway and a lake, camping gear on the roof, autumn colours, in northern Ontario. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no signs."
+ },
+ {
   "slug": "canada-student-grant-2026-27-amounts-income-thresholds",
   "alt": "A first-year university student walking across a campus quad with a backpack, smiling with friends, illustrating Canada Student Grant amounts and income thresholds for 2026-27.",
   "focal_y": 0.42,
@@ -662,6 +774,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a woman photographing a minor dent on her car's rear bumper with her phone after a fender-bender in a parking lot, another car behind, the other driver standing nearby, in a Canadian parking lot. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Phone screen not visible, no licence plates, no logos, no signs."
+ },
+ {
+  "slug": "canadian-city-staycation-budget",
+  "alt": "A couple walking along a city waterfront promenade with coffees on a sunny weekend, illustrating Canadian city staycations that cost less than a flight.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a couple walking along a city waterfront promenade with coffees on a sunny weekend, sailboats, skyline, in Halifax. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no logos, no text."
  },
  {
   "slug": "canadian-dental-care-plan-2026-27",
@@ -848,6 +968,14 @@
   "prompt": "Realistic documentary photograph of a team of office coworkers chatting in a bright break room, one pouring coffee, all smiling, lanyards with blank badges, a window with city views, in a Canadian office in Toronto. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Badges blank, no posters, no screens, no logos."
  },
  {
+  "slug": "car-camping-vs-hotels-canada-family",
+  "alt": "A family tent and a minivan at a lakeside campsite at dusk with a campfire, illustrating car camping versus hotels for family trips.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a family tent and a minivan at a lakeside campsite at dusk with a campfire, pine trees, calm lake, in an Ontario provincial park. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no logos."
+ },
+ {
   "slug": "car-rental-vs-car-share-for-weekend-canada",
   "alt": "A couple loading weekend bags into the trunk of a small hatchback parked on a city street, illustrating car rental versus car-share for Canadian weekends.",
   "focal_y": 0.42,
@@ -880,6 +1008,14 @@
   "prompt": "Realistic documentary photograph of a father riding a cargo bike with two young children in the front box along a bike lane, helmets, autumn trees, a residential street, in a Canadian city. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no signs."
  },
  {
+  "slug": "caribbean-from-canada-budget-packages-shoulder-fees",
+  "alt": "A pastel-coloured Caribbean beach town with fishing boats pulled onto the sand, illustrating the Caribbean from Canada on a budget.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a pastel-coloured Caribbean beach town with fishing boats pulled onto the sand, palm trees, calm sea, in the Dominican Republic. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no text."
+ },
+ {
   "slug": "carpool-commuting-canada-save-money-insurance-notes",
   "alt": "Three co-workers getting into a small SUV together in an office parking lot in the morning, illustrating carpooling commutes in Canada.",
   "focal_y": 0.42,
@@ -888,12 +1024,28 @@
   "prompt": "Realistic documentary photograph of three co-workers getting into a small SUV together in an office parking lot in the morning, coffee cups, light frost on the cars, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no logos, no signs."
  },
  {
+  "slug": "cash-back-vs-travel-points-canada",
+  "alt": "A hand sliding a plain blank credit card into a travel wallet beside a passport, illustrating when cash-back beats travel points.",
+  "focal_y": 0.5,
+  "shot_type": "hands",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a hand sliding a plain blank credit card into a travel wallet beside a passport, wooden table, sunglasses, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Card blank, no readable passport, no text, no logos."
+ },
+ {
   "slug": "cashflow-calendar-canada-payday-bills",
   "alt": "A paper wall calendar with a blank grid pinned on a kitchen bulletin board, some squares marked with coloured dots, beside a few envelopes in a wire organiser, illustrating building a cashflow calendar for paydays and bills in Canada.",
   "focal_y": 0.5,
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a paper wall calendar with a blank grid pinned on a kitchen bulletin board, some squares marked with coloured dots, beside a few envelopes in a wire organiser, a mug and keys on the counter below, in a Canadian kitchen. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Calendar has no numbers, words or month name, envelopes blank, no text anywhere."
+ },
+ {
+  "slug": "cat-litter-cost-per-month-canada",
+  "alt": "A covered cat litter box in a laundry room corner with a scoop and a bin of pine litter pellets beside it, illustrating cat litter costs per month in Canada.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a covered cat litter box in a laundry room corner with a scoop and a bin of pine litter pellets beside it, tabby cat peeking out, soft light, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text, no logos."
  },
  {
   "slug": "catch-up-unused-tfsa-room-canada",
@@ -966,6 +1118,14 @@
   "shot_type": "hands",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of close-up of hands inserting a tiny SIM card into the tray of a smartphone, the SIM tray tool and a blank SIM card holder on a wooden table, in a Canadian home, soft daylight. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Phone screen dark, card holder blank with no printing or logos."
+ },
+ {
+  "slug": "cheaper-pet-medications-canada",
+  "alt": "A hand pushing a pill into a soft treat for a golden retriever waiting eagerly, illustrating buying pet medications for less in Canada.",
+  "focal_y": 0.5,
+  "shot_type": "hands",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a hand pushing a pill into a soft treat for a golden retriever waiting eagerly, kitchen floor, daylight, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text."
  },
  {
   "slug": "cheapest-months-travel-canada-shoulder-season",
@@ -1158,6 +1318,22 @@
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a mid-size family car parked in a driveway beside a house, with a car wash bucket and a set of seasonal tires stacked by the garage, autumn leaves on the driveway, in a Canadian suburb on a bright autumn afternoon. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plate, no badges or logos, no house numbers."
+ },
+ {
+  "slug": "cost-of-owning-a-cat-canada",
+  "alt": "A young woman on her sofa with a playful grey kitten chasing a string, illustrating what a cat really costs in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a young woman on her sofa with a playful grey kitten chasing a string, cosy living room, afternoon light, in a Canadian apartment. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text."
+ },
+ {
+  "slug": "cost-of-owning-a-dog-canada",
+  "alt": "A family walking a Labrador retriever on a leash along a leafy suburban sidewalk, illustrating what a dog really costs in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a family walking a Labrador retriever on a leash along a leafy suburban sidewalk, autumn leaves, the kids holding the leash together, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text, no signs."
  },
  {
   "slug": "costco-canada-executive-vs-gold-star",
@@ -1408,6 +1584,14 @@
   "prompt": "Realistic documentary photograph of two young kids in pyjamas watching a cartoon on a sofa, seen from behind, stuffed blanket, lamp light, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. TV screen not visible, no text."
  },
  {
+  "slug": "diy-dog-grooming-vs-groomer-canada",
+  "alt": "A woman bathing a wet, unimpressed spaniel in a bathtub at home, illustrating DIY dog grooming versus a groomer.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a woman bathing a wet, unimpressed spaniel in a bathtub at home, towels, a handheld shower, in a Canadian bathroom. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text."
+ },
+ {
   "slug": "diy-household-cleaners-canada",
   "alt": "Plain glass spray bottles, a box of baking soda without printing, lemons and a bottle of vinegar on a counter, illustrating DIY household cleaners in Canada.",
   "focal_y": 0.5,
@@ -1454,6 +1638,30 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a friendly pet sitter in her twenties walking a client's golden retriever on a leash along a residential sidewalk, smiling naturally at the dog, face visible, holding a spare leash, the owner's house keys clipped to her jacket, on a leafy residential street of older semi-detached houses in Ottawa, Canada, in early autumn with fallen leaves on the sidewalk. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions (fictional). Not AI-polished, no studio look. No text, no lettering, no logos. No tags with writing, no house numbers, no street signs."
+ },
+ {
+  "slug": "dog-daycare-vs-dog-walker-cost-canada",
+  "alt": "A dog walker walking four dogs of different sizes along a park path, illustrating dog daycare versus dog walker costs in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a dog walker walking four dogs of different sizes along a park path, autumn trees, morning sun, in a Canadian city park. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no text."
+ },
+ {
+  "slug": "dog-training-costs-canada",
+  "alt": "A group dog training class on a grassy field, owners holding treats as their dogs sit, illustrating dog training costs, group classes versus private trainers.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a group dog training class on a grassy field, owners holding treats as their dogs sit, trainer demonstrating, sunny day, in a Canadian community park. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no signs, no text."
+ },
+ {
+  "slug": "dog-treats-chews-budget-canada",
+  "alt": "Homemade dog treats cooling on a baking sheet beside a bowl of sweet potato slices, illustrating dog treats and chews on a budget.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of homemade dog treats cooling on a baking sheet beside a bowl of sweet potato slices, kitchen counter, a dog's nose at the edge, in a Canadian kitchen. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text."
  },
  {
   "slug": "dollarama-vs-walmart-vs-costco-household-canada",
@@ -1536,6 +1744,14 @@
   "prompt": "Realistic documentary photograph of two roommates on a couch comparing internet options, one gesturing while the other thinks, apartment living room, late afternoon, in a Canadian city. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No screens visible, no papers."
  },
  {
+  "slug": "emergency-vet-bills-canada",
+  "alt": "A worried couple at an emergency vet reception at night, the man holding a small dog wrapped in a blanket, illustrating emergency vet bills in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a worried couple at an emergency vet reception at night, the man holding a small dog wrapped in a blanket, clinic lights, waiting area, in a Canadian emergency animal hospital. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no screens, no text."
+ },
+ {
   "slug": "employer-transit-subsidy-canada-taxable-benefit",
   "alt": "Office workers walking out of a subway station exit onto a downtown sidewalk in the morning, illustrating employer transit subsidies and taxable benefits in Canada.",
   "focal_y": 0.42,
@@ -1616,6 +1832,14 @@
   "prompt": "Realistic documentary photograph of employees walking into a modern office tower lobby in the morning with coffees, one woman smiling at a colleague, glass and steel, bright morning, in downtown Calgary, Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No company signs, no logos, no lettering."
  },
  {
+  "slug": "europe-from-canada-shoulder-season-budget",
+  "alt": "A quiet cobblestone square with café tables and few tourists in soft autumn light, illustrating travelling to Europe in shoulder season from Canada.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a quiet cobblestone square with café tables and few tourists in soft autumn light, old stone buildings, in Porto, Portugal. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no shop text."
+ },
+ {
   "slug": "ev-vs-gas-commuting-costs-canada",
   "alt": "An electric car and a gas car parked side by side in a driveway, one plugged into a wall charger, illustrating EV versus gas commuting costs in Canada.",
   "focal_y": 0.5,
@@ -1662,6 +1886,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a family of four with suitcases walking through an airport terminal, the kids pulling small bags, bright terminal, large windows, in a Canadian airport. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no screens, no logos."
+ },
+ {
+  "slug": "family-vacation-budget-canada-kids-lodging",
+  "alt": "A family of four walking along a beach boardwalk with ice cream cones, illustrating family vacation budgeting in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a family of four walking along a beach boardwalk with ice cream cones, summer, ocean, in Prince Edward Island. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no text."
  },
  {
   "slug": "faster-wifi-apartment-canada-no-speed-upgrade",
@@ -1808,6 +2040,22 @@
   "prompt": "Realistic documentary photograph of three different surplus food hauls side by side on a kitchen table: a box of mixed produce, a paper bag of bakery bread and pastries, and a tray of discounted meat and cheese, natural window light, in a Canadian kitchen. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no labels, no text on bags or boxes."
  },
  {
+  "slug": "flea-tick-heartworm-prevention-cost-canada",
+  "alt": "A woman checking her dog's fur for ticks after a hike, parting the coat with her fingers, illustrating flea, tick and heartworm prevention costs in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a woman checking her dog's fur for ticks after a hike, parting the coat with her fingers, forest trail, spring sunshine, in a Canadian forest. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text."
+ },
+ {
+  "slug": "flight-cancellation-refund-vs-voucher-canada-appr",
+  "alt": "A group of passengers lined up at an airline service counter after a cancellation, one man rubbing his eyes, illustrating flight cancellations, refunds, rebooking and vouchers.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a group of passengers lined up at an airline service counter after a cancellation, one man rubbing his eyes, terminal, evening, in a Canadian airport. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no screens, no logos, no text."
+ },
+ {
   "slug": "flight-vs-train-vs-drive-short-haul-canada",
   "alt": "A passenger train crossing a rural landscape alongside a highway with a few cars, illustrating flight versus train versus driving for short Canadian trips.",
   "focal_y": 0.5,
@@ -1830,6 +2078,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a woman at a checkout showing her phone to a friendly cashier who is scanning a bunch of grapes, the phone screen facing the cashier and away from camera, at a Canadian discount grocery checkout. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No screens visible to the camera, no signs, no logos."
+ },
+ {
+  "slug": "flying-with-pet-canada-air-canada-westjet",
+  "alt": "A small dog peeking out of an airline-approved soft carrier under an airplane seat, illustrating flying with a pet in Canada.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a small dog peeking out of an airline-approved soft carrier under an airplane seat, cabin interior, window light, on a plane. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no text."
  },
  {
   "slug": "food-basics-vs-no-frills-in-ontario-price-loyalty-and-student-discount",
@@ -1894,6 +2150,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of two laughing children riding a red plastic sled down a snowy park hill while their dad jogs alongside, other families scattered on the slope, snow spray, bright blue sky, natural candid moment, at a city park hill in Ottawa, Canada in January. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no signs, no text on sleds."
+ },
+ {
+  "slug": "fresh-dog-food-subscription-cost-canada",
+  "alt": "A dog bowl of fresh food with chunks of meat and vegetables beside a bowl of kibble on a kitchen floor, illustrating fresh and raw dog food subscriptions versus kibble.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a dog bowl of fresh food with chunks of meat and vegetables beside a bowl of kibble on a kitchen floor, a dog's paws in frame, daylight, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text, no packaging."
  },
  {
   "slug": "freshco-lowest-price-guarantee",
@@ -2054,6 +2318,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of an international student in a winter coat carrying two full grocery bags along a snowy sidewalk, a leek and a baguette sticking out of a bag, a cheerful expression, near campus in Halifax, Canada in winter. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no signs, no text on bags."
+ },
+ {
+  "slug": "group-pet-insurance-canada",
+  "alt": "A man in a warehouse store parking lot lifting a big bag of dog food into his car trunk while his dog watches from the back seat, illustrating group and membership pet insurance offers in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a man in a warehouse store parking lot lifting a big bag of dog food into his car trunk while his dog watches from the back seat, sunny day, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no logos, no text, no licence plates."
  },
  {
   "slug": "gst-hst-new-housing-rebate-first-time-buyer",
@@ -2336,6 +2608,22 @@
   "prompt": "Realistic documentary photograph of a compact tankless water heater mounted on a basement wall next to an older tank water heater, copper pipes, concrete floor, in a Canadian house. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text, no stickers."
  },
  {
+  "slug": "hotel-airbnb-taxes-canada-explained",
+  "alt": "A hotel room with a made bed, a window view of the city and a small luggage rack, illustrating hotel and Airbnb taxes in Canada.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a hotel room with a made bed, a window view of the city and a small luggage rack, warm evening light, in Toronto. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text, no logos."
+ },
+ {
+  "slug": "hotel-loyalty-programs-canada-leisure",
+  "alt": "A woman in her forties walking down a hotel corridor pulling a carry-on suitcase, illustrating choosing a hotel loyalty program for leisure travel.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a woman in her forties walking down a hotel corridor pulling a carry-on suitcase, patterned carpet, warm lights, in a Canadian hotel. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no room numbers, no text."
+ },
+ {
   "slug": "household-saas-audit-canada",
   "alt": "A woman running a small Etsy-style craft business, packing orders at a table in a spare room, illustrating auditing household and side-hustle software subscriptions.",
   "focal_y": 0.42,
@@ -2600,6 +2888,14 @@
   "prompt": "Realistic documentary photograph of a two-storey brick house with solar panels on a south-facing roof, bright summer day, garden in front, in Ontario. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no house numbers."
  },
  {
+  "slug": "is-pet-insurance-worth-it-canada",
+  "alt": "A vet examining a Bernese mountain dog on an exam table while the owner holds its head, illustrating whether pet insurance is worth it in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a vet examining a Bernese mountain dog on an exam table while the owner holds its head, clinic exam room, daylight, in a Canadian veterinary clinic. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text, no signs, no logos."
+ },
+ {
   "slug": "january-budget-reset-canada-2027",
   "alt": "A woman in a cozy sweater taking down holiday decorations and packing ornaments into a box, looking calm and determined, illustrating a January budget reset to recover from the holidays in Canada.",
   "focal_y": 0.42,
@@ -2784,6 +3080,14 @@
   "prompt": "Realistic documentary photograph of an older man video calling his grandchildren on a tablet at his kitchen table, smiling, teacup, lace curtain, daylight, in a Canadian senior's home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Tablet screen not visible, no text."
  },
  {
+  "slug": "low-cost-spay-neuter-canada",
+  "alt": "A sleepy cat in a soft cone recovering on a blanket after surgery, illustrating low-cost spay and neuter clinics in Canada.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a sleepy cat in a soft cone recovering on a blanket after surgery, living room, gentle light, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text."
+ },
+ {
   "slug": "low-cost-vet-care-canada",
   "alt": "A veterinarian examining a mixed-breed dog on an exam table while its owner gently holds the dog, illustrating low-cost vet care in Canada.",
   "focal_y": 0.42,
@@ -2854,6 +3158,14 @@
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a pickup truck on a gravel road between golden wheat fields, big prairie sky, grain elevator in the distance, in Manitoba. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no logos, no signs."
+ },
+ {
+  "slug": "march-break-alternatives-canada-cheaper",
+  "alt": "A family skating on an outdoor rink with mountains behind during a winter break, illustrating alternatives to peak March Break travel prices.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a family skating on an outdoor rink with mountains behind during a winter break, bright sun, snow, in Canmore, Alberta. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no logos, no text."
  },
  {
   "slug": "maximize-pc-optimum-points-canada",
@@ -2984,6 +3296,14 @@
   "prompt": "Realistic documentary photograph of two cars, a minivan and a small sedan, parked in a family driveway in front of a house, kids' bikes on the lawn, summer evening, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no logos, no house numbers."
  },
  {
+  "slug": "multi-generation-trip-canada-budget",
+  "alt": "Grandparents, parents and kids sharing a meal at a long table on a cottage deck, illustrating splitting costs fairly on multi-generation trips.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of grandparents, parents and kids sharing a meal at a long table on a cottage deck, lake view, summer evening, in a Canadian cottage. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text."
+ },
+ {
   "slug": "multi-generational-living-cost-canada-parents-kids",
   "alt": "Three generations sharing dinner at a big kitchen table, grandparents, parents and two children, illustrating multi-generational living costs for Canadian families.",
   "focal_y": 0.42,
@@ -2998,6 +3318,14 @@
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a family car parked in front of a home with a porch light on and a child's bike on the porch, dusk, autumn, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no house numbers."
+ },
+ {
+  "slug": "nail-trims-cat-grooming-canada",
+  "alt": "Hands trimming a cat's nail with small clippers while the cat sits on a lap, illustrating cat nail trims and grooming, DIY versus paying.",
+  "focal_y": 0.5,
+  "shot_type": "hands",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of hands trimming a cat's nail with small clippers while the cat sits on a lap, towel, soft daylight, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text."
  },
  {
   "slug": "national-pharmacare-canada-2026-coverage",
@@ -3046,6 +3374,30 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of two university friends in separate apartments, one waving goodbye at the door as the other leaves with a backpack, apartment hallway, in a Canadian city. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text, no door numbers."
+ },
+ {
+  "slug": "new-puppy-kitten-supply-list-canada",
+  "alt": "A new puppy crate set up with a bed, a water bowl and a chew toy in a living room corner, illustrating a new puppy or kitten supply list.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a new puppy crate set up with a bed, a water bowl and a chew toy in a living room corner, a sleeping puppy inside, afternoon light, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text, no logos."
+ },
+ {
+  "slug": "nexus-vs-global-entry-canadians",
+  "alt": "A car at a land border crossing booth with a short line of cars behind, illustrating NEXUS versus Global Entry for Canadians.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a car at a land border crossing booth with a short line of cars behind, daylight, flat landscape, at the Canada–US border. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no text, no licence plates, no logos, no flags with text."
+ },
+ {
+  "slug": "nexus-worth-it-canada-household-break-even",
+  "alt": "A business traveller striding through an airport terminal with a carry-on and a coffee, illustrating whether NEXUS is worth it for Canadian households.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a business traveller striding through an airport terminal with a carry-on and a coffee, bright windows, morning, in a Canadian airport. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no screens, no logos."
  },
  {
   "slug": "nintendo-switch-online-family-canada",
@@ -3352,6 +3704,22 @@
   "prompt": "Realistic documentary photograph of a cosy living room set up for a movie night with popcorn bowls and blankets on the sofa, TV turned off, string lights, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. TV screen black, no logos."
  },
  {
+  "slug": "parks-canada-camping-reservation-tips",
+  "alt": "An empty forested campsite with a picnic table, a fire pit and a tent pad, illustrating booking Parks Canada campsites.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of an empty forested campsite with a picnic table, a fire pit and a tent pad, tall pines, morning mist, in a Canadian national park. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no numbers, no text."
+ },
+ {
+  "slug": "parks-canada-discovery-pass-worth-it",
+  "alt": "A family hiking on a boardwalk trail through a mountain meadow, illustrating whether a Parks Canada Discovery Pass is worth it.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a family hiking on a boardwalk trail through a mountain meadow, wildflowers, peaks behind, in Jasper National Park. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no text."
+ },
+ {
   "slug": "pay-off-debt-or-tfsa-canada",
   "alt": "A woman in her late twenties sitting on her apartment balcony with a coffee, looking thoughtful as she weighs a decision, illustrating paying off debt vs contributing to a TFSA in Canada.",
   "focal_y": 0.42,
@@ -3424,12 +3792,92 @@
   "prompt": "Realistic documentary photograph of three plain loyalty cards in different colours fanned out on top of a reusable grocery bag full of produce, on a wooden counter by a window, in a Canadian kitchen. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Cards completely blank, no logos, no text."
  },
  {
+  "slug": "pet-dental-costs-canada",
+  "alt": "A vet looking at a dog's teeth while a vet tech gently holds the dog, illustrating pet dental costs in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a vet looking at a dog's teeth while a vet tech gently holds the dog, clinic exam room, bright light, in a Canadian veterinary clinic. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text, no logos."
+ },
+ {
+  "slug": "pet-deposits-fees-by-province-canada",
+  "alt": "A young man carrying his cat in a carrier up the stairs of an apartment building on moving day, illustrating pet deposits and pet fees across Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a young man carrying his cat in a carrier up the stairs of an apartment building on moving day, boxes behind him, in a Canadian apartment building. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No writing on boxes, no door numbers."
+ },
+ {
+  "slug": "pet-end-of-life-costs-canada",
+  "alt": "An older man sitting on a porch step with his arm around his elderly grey-muzzled dog, illustrating end-of-life costs for pets in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of an older man sitting on a porch step with his arm around his elderly grey-muzzled dog, autumn afternoon, warm light, in a Canadian neighbourhood. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text."
+ },
+ {
+  "slug": "pet-food-cost-per-day-canada",
+  "alt": "Bags of dry pet food in plain packaging and a kitchen scale with a measured scoop, illustrating comparing pet food cost per day in Canada.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of bags of dry pet food in plain packaging and a kitchen scale with a measured scoop, pantry shelf, cat sitting beside it, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text, no logos, no numbers on the scale."
+ },
+ {
+  "slug": "pet-food-prices-canada-2026",
+  "alt": "A woman carrying a large bag of dog food out of a pet store, her dog trotting beside her, illustrating pet food prices in 2026 and protecting your budget.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a woman carrying a large bag of dog food out of a pet store, her dog trotting beside her, parking lot, overcast day, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no logos, no labels, no text."
+ },
+ {
   "slug": "pet-insurance-plan-types-canada",
   "alt": "A young woman sitting on the floor of her living room hugging her cat while scratching its chin, illustrating accident-only vs accident and illness vs wellness pet insurance plans in Canada.",
   "focal_y": 0.42,
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a young woman sitting on the floor of her living room hugging her cat while scratching its chin, a cat tree and a sunny window, happy relaxed expression, in a Canadian apartment. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text, no logos."
+ },
+ {
+  "slug": "pet-insurance-premium-increases-canada",
+  "alt": "A woman on her sofa with her cat on her lap, looking at a plain envelope with mild concern, illustrating why pet insurance premiums rise at renewal.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a woman on her sofa with her cat on her lap, looking at a plain envelope with mild concern, living room, afternoon, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No visible writing on the envelope or paper."
+ },
+ {
+  "slug": "pet-licence-fees-canadian-cities",
+  "alt": "A dog wearing a collar with a blank metal tag sitting on a front step, illustrating pet licence fees in Canadian cities.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a dog wearing a collar with a blank metal tag sitting on a front step, brick house, autumn leaves, in a Canadian city. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Tag completely blank, no text, no house numbers."
+ },
+ {
+  "slug": "pet-microchip-cost-canada",
+  "alt": "A vet scanning a calm cat with a handheld microchip scanner, illustrating pet microchipping costs and registration in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a vet scanning a calm cat with a handheld microchip scanner, exam table, owner's hands on the cat, in a Canadian veterinary clinic. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Scanner display blank, no text."
+ },
+ {
+  "slug": "pet-proofing-avoid-emergency-vet-bills",
+  "alt": "A curious puppy sniffing a houseplant and a bowl of chocolates on a low coffee table, illustrating pet-proofing to avoid emergency vet bills.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a curious puppy sniffing a houseplant and a bowl of chocolates on a low coffee table, living room, afternoon light, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text."
+ },
+ {
+  "slug": "pet-vaccine-costs-canada",
+  "alt": "A vet giving a vaccine to a puppy held by its owner at a community clinic, illustrating pet vaccine costs and low-cost rabies clinics.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a vet giving a vaccine to a puppy held by its owner at a community clinic, folding tables, other pet owners waiting, in a Canadian community centre. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no labels, no text."
  },
  {
   "slug": "petro-points-platinum-worth-it-canada",
@@ -3464,6 +3912,14 @@
   "prompt": "Realistic documentary photograph of a warehouse store's pharmacy counter at the end of a wide aisle, bright overhead lights, a few shoppers, in a Canadian big-box store. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no text, no logos."
  },
  {
+  "slug": "pharmacy-fill-pet-prescription-canada",
+  "alt": "A pharmacist handing a white bag to a woman with a small dog on a leash at the counter, illustrating filling a pet's prescription at a regular pharmacy.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a pharmacist handing a white bag to a woman with a small dog on a leash at the counter, pharmacy shelves blurred, in a Canadian pharmacy. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no labels, no text."
+ },
+ {
   "slug": "pharmacy-loyalty-points-prescriptions-canada",
   "alt": "A hand holding a blank loyalty card next to a white prescription bag on a pharmacy counter, illustrating pharmacy loyalty points on prescriptions in Canada.",
   "focal_y": 0.5,
@@ -3494,6 +3950,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a mechanic showing a customer something underneath a car raised on a hoist, an independent repair garage, tools on the wall, in a Canadian garage. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no signs, no papers."
+ },
+ {
+  "slug": "prepaid-travel-card-vs-credit-card-canada",
+  "alt": "A hand paying with a plain card at a market stall abroad, the vendor handing over oranges, illustrating prepaid travel cards versus credit cards abroad.",
+  "focal_y": 0.5,
+  "shot_type": "hands",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a hand paying with a plain card at a market stall abroad, the vendor handing over oranges, colourful fruit, sunshine, in Spain. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Card blank, no signs, no text."
  },
  {
   "slug": "price-adjustment-policies-canada",
@@ -3624,6 +4088,14 @@
   "prompt": "Realistic documentary photograph of a father and his young daughter, she hugging a basketball, walking excitedly hand in hand along a downtown sidewalk at dusk on their way to a game, city lights glowing and softly blurred behind them, light snow, in downtown Toronto, Canada in winter. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No arena, no signs, no screens, no lettering anywhere, no jerseys with names, numbers or logos, basketball plain."
  },
  {
+  "slug": "read-pet-insurance-policy-canada",
+  "alt": "A man reading through a plain document at his kitchen table while his golden retriever rests its head on his knee, illustrating reading a pet insurance policy in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a man reading through a plain document at his kitchen table while his golden retriever rests its head on his knee, coffee cup, evening lamp, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No visible writing on the paper."
+ },
+ {
   "slug": "read-tfsa-contribution-room-cra-canada",
   "alt": "A man in his fifties reading glasses on, looking closely at a tablet on his kitchen table with a puzzled then understanding expression, illustrating reading TFSA contribution room in CRA My Account.",
   "focal_y": 0.42,
@@ -3688,6 +4160,14 @@
   "prompt": "Realistic documentary photograph of a woman brushing heavy snow off her car windshield with a snow brush in the morning, her breath visible, a frosted car beside, in an apartment parking lot in Quebec City, Canada in January. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no logos."
  },
  {
+  "slug": "renew-canadian-passport-online-timeline-checklist",
+  "alt": "A woman having her passport photo taken against a plain white wall, illustrating renewing a Canadian passport without derailing your trip.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a woman having her passport photo taken against a plain white wall, photographer with a camera, small studio, in a Canadian city. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text, no signs."
+ },
+ {
   "slug": "renew-convert-term-life-insurance-canada",
   "alt": "A couple in their fifties walking their dog by a lake at sunset, illustrating renewing, converting or replacing term life insurance before it expires.",
   "focal_y": 0.42,
@@ -3750,6 +4230,14 @@
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a condo building's shared rooftop terrace with lounge chairs and planters overlooking the city, city skyline, late afternoon sun, in a Canadian city. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no logos."
+ },
+ {
+  "slug": "renting-with-pets-ontario-no-pet-clause",
+  "alt": "A young couple unpacking in a new apartment while their dog explores the empty rooms, illustrating renting with pets in Ontario.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a young couple unpacking in a new apartment while their dog explores the empty rooms, boxes, bright windows, in an Ontario apartment. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No writing on boxes."
  },
  {
   "slug": "repair-cafe-diy-appliance-repair-canada",
@@ -3960,6 +4448,14 @@
   "prompt": "Realistic documentary photograph of a man checking his tire pressure with a gauge at the side of his car in a parking lot, morning light, autumn leaves, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no logos, no numbers."
  },
  {
+  "slug": "save-money-vet-bills-canada",
+  "alt": "A cat being weighed on a clinic scale while the vet tech smiles, illustrating saving money on vet bills without skimping on care.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a cat being weighed on a clinic scale while the vet tech smiles, exam room, owner watching, in a Canadian veterinary clinic. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No text, no numbers on the scale."
+ },
+ {
   "slug": "save-on-transit-canada",
   "alt": "Commuters boarding a light rail train on a snowy platform, illustrating spending less on getting around in Canada.",
   "focal_y": 0.42,
@@ -3982,6 +4478,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a smiling woman leaving a supermarket pushing a cart of groceries and holding a receipt-free tote, automatic doors behind, autumn day, at a Canadian supermarket entrance. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no logos, no text."
+ },
+ {
+  "slug": "scene-plus-vs-aeroplan-travel-canada",
+  "alt": "A carry-on bag and a jacket on an empty airport waiting area seat by a big window with a plane outside, illustrating Scene+ for travel versus Aeroplan.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a carry-on bag and a jacket on an empty airport waiting area seat by a big window with a plane outside, morning light, in a Canadian airport. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no screens, no logos."
  },
  {
   "slug": "scheduled-valuables-home-insurance-canada",
@@ -4008,6 +4512,14 @@
   "prompt": "Realistic documentary photograph of an end-of-season clearance display in a garden centre with stacked patio chairs, a folded patio umbrella, a barbecue and a few garden planters grouped together, half the shelves behind already empty, bright overhead light, polished concrete floor, in a Canadian home and garden store in September. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No price tags, no signs, no hanging signs, no printing on boxes, no logos."
  },
  {
+  "slug": "secondhand-pet-gear-canada",
+  "alt": "A used dog crate, a folded pet bed and a carrier on a driveway at a garage sale, illustrating secondhand pet gear you can buy used.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a used dog crate, a folded pet bed and a carrier on a driveway at a garage sale, tables of household items behind, sunny day, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no price tags, no text."
+ },
+ {
   "slug": "self-employed-disability-insurance-canada",
   "alt": "A self-employed carpenter measuring wood in his home workshop, illustrating income protection for self-employed Canadians.",
   "focal_y": 0.42,
@@ -4030,6 +4542,22 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a senior couple shopping together, the husband pushing the cart and the wife choosing tomatoes, warm natural smiles, mid-morning quiet store, in a Canadian supermarket on a weekday morning. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no price tags, no labels."
+ },
+ {
+  "slug": "senior-pet-costs-canada",
+  "alt": "An older woman gently lifting her stiff senior Labrador into the back of her car, illustrating senior pet costs in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of an older woman gently lifting her stiff senior Labrador into the back of her car, driveway, autumn, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no logos."
+ },
+ {
+  "slug": "service-animal-medical-expense-tax-credit",
+  "alt": "A visually impaired man walking with his guide dog on a city sidewalk, illustrating service animals and the medical expense tax credit.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a visually impaired man walking with his guide dog on a city sidewalk, harness, crosswalk, daylight, in a Canadian city. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no text."
  },
  {
   "slug": "setup-cra-my-account-canada",
@@ -4238,6 +4766,14 @@
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a medicine cabinet with plain white bottles of pain relievers and allergy tablets lined up, bathroom mirror door open, in a Canadian bathroom. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text, no logos."
+ },
+ {
+  "slug": "store-brand-pet-food-canada",
+  "alt": "A cat eating from a bowl next to a plain bag of store-brand cat food on a kitchen floor, illustrating store-brand pet food cost per day in Canada.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a cat eating from a bowl next to a plain bag of store-brand cat food on a kitchen floor, tile floor, daylight, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text, no logos."
  },
  {
   "slug": "store-return-policies-canada",
@@ -4472,6 +5008,14 @@
   "prompt": "Realistic documentary photograph of a Canadian couple walking down a sunny cobblestone street abroad with a daypack, old buildings, warm light, in Portugal. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No shop signs, no text."
  },
  {
+  "slug": "travel-with-teens-canada-budget",
+  "alt": "Two teenagers and their mother kayaking on a calm lake, illustrating travelling with teens on a budget.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of two teenagers and their mother kayaking on a calm lake, forest shoreline, summer, in Algonquin Park, Ontario. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no text."
+ },
+ {
   "slug": "travelling-with-medication-canada",
   "alt": "Hands packing a weekly pill organizer and pill bottles into a toiletry bag inside a suitcase, illustrating travelling with medication from Canada.",
   "focal_y": 0.5,
@@ -4552,6 +5096,14 @@
   "prompt": "Realistic documentary photograph of a car packed for a long winter road trip parked in a driveway with a dog crate in the open hatchback and a retriever sitting next to it on a leash tied to the bumper, suitcases and a cooler beside the crate, early morning light, in a Canadian suburban driveway in November with frost on the lawn. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no logos, no text."
  },
  {
+  "slug": "us-trips-from-canada-budget-tradeoffs",
+  "alt": "A car on a highway approaching a long bridge over a river at a border city, illustrating US trips from Canada, fly, drive or cross the border.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a car on a highway approaching a long bridge over a river at a border city, blue sky, light traffic, near the Canada–US border. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no text, no licence plates."
+ },
+ {
   "slug": "used-vs-new-car-canada-tco",
   "alt": "A brand-new car and a ten-year-old car parked next to each other in a driveway, illustrating used versus new car total cost of ownership in Canada.",
   "focal_y": 0.5,
@@ -4606,6 +5158,22 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a young woman stirring a big pot of chickpea curry while her partner sets bowls of rice on the table, a jar of lentils and fresh cilantro on the counter, smiling, in a Canadian apartment kitchen. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text."
+ },
+ {
+  "slug": "vet-rights-ontario-estimates-bills",
+  "alt": "A vet discussing treatment options with a dog owner in an exam room, the owner nodding, illustrating your rights at the vet in Ontario, estimates and itemized bills.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a vet discussing treatment options with a dog owner in an exam room, the owner nodding, small dog on the table, in an Ontario veterinary clinic. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No papers with writing, no screens, no text."
+ },
+ {
+  "slug": "via-rail-leisure-trips-canada",
+  "alt": "A couple in a train's dome car watching the Rockies roll by, illustrating VIA Rail for leisure trips in Canada.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a couple in a train's dome car watching the Rockies roll by, glass ceiling, snowy peaks, on a train in western Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no text."
  },
  {
   "slug": "via-rail-vs-driving-cost-quebec-windsor-corridor",
@@ -4704,6 +5272,14 @@
   "prompt": "Realistic documentary photograph of a supermarket parking lot with mountains on the horizon, a few shoppers loading cars, crisp clear autumn day, in Calgary, Alberta, Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No store signs, no logos, no lettering, no licence plates."
  },
  {
+  "slug": "westjet-ultrabasic-vs-econo-bag-fees",
+  "alt": "A traveller weighing a carry-on suitcase on a bathroom scale at home before a trip, illustrating prepaying bags on WestJet UltraBasic versus Econo.",
+  "focal_y": 0.65,
+  "shot_type": "people",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a traveller weighing a carry-on suitcase on a bathroom scale at home before a trip, clothes folded beside it, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No numbers on the scale, no text."
+ },
+ {
   "slug": "what-to-cook-when-chicken-hits-a-stock-up-price-a-canadian-sale-protei",
   "alt": "A roast whole chicken, a tray of marinated drumsticks and a pot of chicken soup on a stovetop and counter, illustrating what to cook when chicken hits a stock-up price.",
   "focal_y": 0.5,
@@ -4742,6 +5318,14 @@
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a neatly made bed with crisp white sheets and folded towels stacked at the foot, bedroom window, soft daylight, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no text."
+ },
+ {
+  "slug": "where-to-buy-pet-supplies-canada",
+  "alt": "A pile of pet supplies on a front porch, plain boxes, a bag of litter and a new dog bed, illustrating where to buy pet supplies for less in Canada.",
+  "focal_y": 0.5,
+  "shot_type": "scene",
+  "version": "20261008",
+  "prompt": "Realistic documentary photograph of a pile of pet supplies on a front porch, plain boxes, a bag of litter and a new dog bed, a cat watching from the window, in a Canadian neighbourhood. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No printing, no labels, no logos, no house numbers."
  },
  {
   "slug": "where-to-park-emergency-fund-canada-hisa",
