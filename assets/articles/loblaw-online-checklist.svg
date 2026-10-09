@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 417" role="img" aria-labelledby="title desc">
   <title id="title">Loblaw online grocery pay checklist</title>
   <desc id="desc">Checklist before hitting pay on PC Express: offers loaded, fee vs pass, produce risk, Flashfood still in-store.</desc>
-  <rect width="720" height="400" fill="#FFFFFF"/>
+  <rect width="720" height="417" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Hit pay only after this Loblaw online check</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">PC Express is convenient. It is not a Flashfood substitute and it is not automatically cheaper than No Frills.</text>
   <g font-family="Inter, system-ui, sans-serif" font-size="14">
@@ -22,5 +22,5 @@
     <text x="44" y="316" fill="#0F7A4B" font-weight="700">5</text>
     <text x="72" y="316" fill="#1A1A1A">Card / gift-card stack still pay-in-full. Insiders Pass is a fee product</text>
   </g>
-  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Public 2026 explainers: Express Pass $9.99/mo or $99.99/yr. Confirm the slot on your order. Saving Optimizer - 20 Sep 2026.</text>
+  <text x="24" y="368" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280"><tspan x="24">Public 2026 explainers: Express Pass $9.99/mo or $99.99/yr. Confirm the slot on your order. Saving Optimizer - 20 Sep </tspan><tspan x="24" dy="16.2">2026.</tspan></text>
 </svg>

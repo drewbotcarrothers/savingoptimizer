@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 456" role="img" aria-labelledby="title desc">
   <title id="title">Submetered condo hydro budgeting for Canadian tenants</title>
   <desc id="desc">Submetering means the unit’s electricity is measured separately from bulk building power. Ask who holds the account, whether heat is electric, and last winter’s bills before you sign. 20 September 2026.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="456" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Submetered ` heat included</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Condo rental education. Last-winter bills beat a listing slogan. 20 Sep 2026.</text>
   <rect x="40" y="80" width="200" height="200" fill="#F3F4F6"/>
@@ -23,7 +23,7 @@
   <text x="580" y="174" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$30–$80 typical</text>
   <text x="580" y="198" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Baseboard heat</text>
   <text x="580" y="230" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$150–$400 Jan</text>
-  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Who is the account holder — tenant, landlord, or provider — decides deposits, disconnects, and the move-out final read.</text>
-  <text x="24" y="346" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Anomalous spike: photo the meter, compare degree-days, ask the provider and landlord in writing. High-level only.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a utility quote. CMHC condo FAQs and provincial tenancy pages. No natural affiliate product.</text>
+  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">Who is the account holder — tenant, landlord, or provider — decides deposits, disconnects, and the move-out </tspan><tspan x="24" dy="17.6">final read.</tspan></text>
+  <text x="24" y="346" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)"><tspan x="24">Anomalous spike: photo the meter, compare degree-days, ask the provider and landlord in writing. High-level </tspan><tspan x="24" dy="17.6">only.</tspan></text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6) translate(0,17.6)">Not a utility quote. CMHC condo FAQs and provincial tenancy pages. No natural affiliate product.</text>
 </svg>

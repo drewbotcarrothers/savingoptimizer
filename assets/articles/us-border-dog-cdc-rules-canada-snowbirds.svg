@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 453" role="img">
   <title>Snowbird dog paperwork timeline</title>
   <desc>Planning order, not a CDC deadline. Eight weeks: age, microchip scan, rabies dates. Four weeks: free CDC Dog Import Form. One week: receipt on the phone and any airline health-certificate request. Border day: receipt, healthy dog, chip, declare to CBP. Return to Canada: CFIA rabies certificate. As of 26 Sep 2026.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="453" fill="#FFFFFF"/>
   <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Planning order for a dog that has stayed in Canada</text>
   <text x="24" y="56" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Not a legal deadline. CDC says the form may be completed on the day of travel. 26 Sep 2026.</text>
   <line x1="70" y1="110" x2="650" y2="110" stroke="#E5E7EB" stroke-width="4"/>
@@ -34,9 +34,9 @@
     <text x="650" y="182" text-anchor="middle" font-size="11" fill="#6B7280">English or French</text>
   </g>
   <text x="24" y="250" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#1A1A1A">What the pages actually require</text>
-  <text x="24" y="278" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">U.S. low-risk path (CDC, 22 Jul 2024): form receipt, healthy, at least 6 months old, universal-scanner microchip. Form is free.</text>
-  <text x="24" y="300" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Canada return (CFIA reference, amended 8 Oct 2025): rabies certificate for a dog over 3 months from a non-designated country.</text>
-  <text x="24" y="322" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Airlines may still want a health certificate (CBP page, modified 8 Jun 2026). That fee is a vet quote, not a published price.</text>
-  <text x="24" y="390" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Green dots are preparation. The black dot is the Canadian border. A second U.S. entry needs an unexpired receipt.</text>
+  <text x="24" y="278" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A"><tspan x="24">U.S. low-risk path (CDC, 22 Jul 2024): form receipt, healthy, at least 6 months old, universal-scanner microchip. Form </tspan><tspan x="24" dy="16.2">is free.</tspan></text>
+  <text x="24" y="300" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" transform="translate(0,16.2)"><tspan x="24">Canada return (CFIA reference, amended 8 Oct 2025): rabies certificate for a dog over 3 months from a non-designated </tspan><tspan x="24" dy="16.2">country.</tspan></text>
+  <text x="24" y="322" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A" transform="translate(0,16.2) translate(0,16.2)">Airlines may still want a health certificate (CBP page, modified 8 Jun 2026). That fee is a vet quote, not a published price.</text>
+  <text x="24" y="390" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" transform="translate(0,16.2) translate(0,16.2)">Green dots are preparation. The black dot is the Canadian border. A second U.S. entry needs an unexpired receipt.</text>
 
 </svg>

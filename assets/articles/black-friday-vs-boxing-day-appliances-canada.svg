@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 437" role="img" aria-labelledby="title desc">
   <title id="title">October to January household deal calendar</title>
   <desc id="desc">Rows for major appliances, small appliances and vacuums, televisions, furniture, bedding, and cleaning supplies, from October through January. Green blocks mark Prime Big Deal Days on 6 to 7 October 2026 for small appliances and vacuums, Black Friday on 27 November for major appliances, televisions, and furniture, and Boxing Day on 26 December as a calendar date without a sourced appliance window.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="437" fill="#FFFFFF"/>
   <text x="24" y="28" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Deal calendar, Oct 2026 to Jan 2027</text>
   <text x="24" y="48" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Green = a sourced date. Grey = no discount percent opened for this draft.</text>
   <text x="200" y="78" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Oct</text>
@@ -33,5 +33,5 @@
   <rect x="455" y="348" width="70" height="22" fill="#0F7A4B"/>
   <text x="490" y="363" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#FFFFFF">26 Dec</text>
   <text x="535" y="363" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Boxing Day, calendar date</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">6-7 Oct block is Prime Big Deal Days (Amazon, 14 Sep 2026). 27 Nov is the calendar date, tied to categories by Neo Financial, 24 Nov 2025.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280"><tspan x="24">6-7 Oct block is Prime Big Deal Days (Amazon, 14 Sep 2026). 27 Nov is the calendar date, tied to categories by Neo </tspan><tspan x="24" dy="16.2">Financial, 24 Nov 2025.</tspan></text>
 </svg>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 438" role="img">
   <title>Questions to ask every hearing clinic before comparing a quote</title>
   <desc>A question grid, not a score. No channel is rated. Ask whether the price is itemized, whether the trial is in writing, who pays for follow-ups, and who owns the clinic.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="438" fill="#FFFFFF"/>
   <text x="24" y="36" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Ask every channel the same four things</text>
   <text x="24" y="58" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Qualitative only. No score, no price, and no ranking of Costco or any clinic.</text>
   <rect x="24" y="84" width="672" height="44" fill="#E5E7EB"/>
@@ -13,8 +13,8 @@
   <text x="40" y="224" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1A1A1A">3. Which follow-ups and repairs are included, and for how many years?</text>
   <rect x="24" y="252" width="672" height="44" fill="#FFFFFF" stroke="#E5E7EB"/>
   <text x="40" y="280" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1A1A1A">4. Is the seller registered for the public program, and who owns the clinic?</text>
-  <text x="24" y="330" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Alberta AADL states a minimum 28-day trial. One Costco.ca product page stated a 3-year repair warranty and no price.</text>
-  <text x="24" y="354" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Those two facts are not a score for every warehouse club or every independent clinic.</text>
-  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 27 Sep 2026. Write the answers on the quote. Do not invent a winner.</text>
+  <text x="24" y="330" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280"><tspan x="24">Alberta AADL states a minimum 28-day trial. One Costco.ca product page stated a 3-year repair warranty and </tspan><tspan x="24" dy="17.6">no price.</tspan></text>
+  <text x="24" y="354" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280" transform="translate(0,17.6)">Those two facts are not a score for every warehouse club or every independent clinic.</text>
+  <text x="24" y="396" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">Saving Optimizer, 27 Sep 2026. Write the answers on the quote. Do not invent a winner.</text>
 
 </svg>

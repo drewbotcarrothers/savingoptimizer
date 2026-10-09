@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 438" role="img" aria-labelledby="title desc">
   <title id="title">Home solar credit rules differ by Canadian utility</title>
   <desc id="desc">Net metering is not one national product. Ontario credits offset electricity kWh for up to 12 months, not delivery. BC Hydro closed RS 1289 to new customers on 1 Jul 2026 and pays 10 cents per kWh exports on RS 2289. Hydro-Quebec banks kWh on Option I.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="438" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Net metering is a provincial product</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Not a U.S. 1:1 forever credit. Verify interconnection the week you quote. 20 Sep 2026.</text>
   <rect x="24" y="78" width="216" height="230" rx="12" fill="#E7F4EE"/>
@@ -29,7 +29,7 @@
   <text x="496" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Bank reset rules live in</text>
   <text x="496" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">the 1 Apr 2026 tariff.</text>
   <text x="496" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Apply before you buy panels.</text>
-  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Roof, shade, and the panel amps kill more quotes than c/kWh. Federal Greener Homes is closed - no grant nostalgia.</text>
-  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask the installer which tariff, how exports are priced, and who files the interconnection.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not an interconnection approval. Re-check OEB, BC Hydro, and Hydro-Quebec pages.</text>
+  <text x="24" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">Roof, shade, and the panel amps kill more quotes than c/kWh. Federal Greener Homes is closed - no grant </tspan><tspan x="24" dy="17.6">nostalgia.</tspan></text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Ask the installer which tariff, how exports are priced, and who files the interconnection.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">Education only. Not an interconnection approval. Re-check OEB, BC Hydro, and Hydro-Quebec pages.</text>
 </svg>

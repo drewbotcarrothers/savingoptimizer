@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 438" role="img" aria-labelledby="title desc">
   <title id="title">Vancouver Form B and depreciation-report checklist before you buy</title>
   <desc id="desc">Read Form B, depreciation report, contingency reserve, parking and storage contributions, rental-restriction bylaws, and earthquake deductible before celebrating a low strata fee. 20 September 2026.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="438" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Form B first. List price second.</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Metro Vancouver strata package. CMHC condo-buyer framing. Not legal advice. 20 Sep 2026.</text>
   <rect x="36" y="80" width="210" height="200" fill="#E7F4EE"/>
@@ -26,7 +26,7 @@
   <text x="579" y="194" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Contingency $</text>
   <text x="579" y="218" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Bylaw rental rules</text>
   <text x="579" y="252" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Lawyer reads it</text>
-  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A $210/month “saving” vs Tower A is a $15,000 levy if the membrane is year two. Fee + implied catch-up is the stack.</text>
-  <text x="24" y="346" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rental-restriction bylaws change resale and your own flexibility if you are posted east.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not brokerage or legal advice. Mortgage and home-insurance comparison tools are offer types only.</text>
+  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">A $210/month “saving” vs Tower A is a $15,000 levy if the membrane is year two. Fee + implied catch-up is the </tspan><tspan x="24" dy="17.6">stack.</tspan></text>
+  <text x="24" y="346" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Rental-restriction bylaws change resale and your own flexibility if you are posted east.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">Not brokerage or legal advice. Mortgage and home-insurance comparison tools are offer types only.</text>
 </svg>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 438" role="img" aria-labelledby="title desc">
   <title id="title">Canadian tenant insurance: typical monthly premium vs going bare</title>
   <desc id="desc">A labelled national average tenant premium of $21.74 per month versus the cash a renter is on the hook for if a leak, fire, or stolen laptop is uninsured. Landlord liability minimums are often $1 million or $2 million.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="438" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Tenant insurance is a lease line, not a luxury add-on</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">APOLLO issued-policy average $21.74/month (Jul 2025–Jun 2026, excl. Québec &amp; Yukon). Not your quote.</text>
   <rect x="48" y="210" width="88" height="70" fill="#4B9B74"/>
@@ -21,6 +21,6 @@
   <text x="420" y="220" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Proof of insurance PDF for the landlord</text>
   <text x="420" y="252" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A leak into the unit below is the</text>
   <text x="420" y="276" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">claim that dwarfs a $261 premium</text>
-  <text x="24" y="354" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Going bare saves the premium until a claim. Landlord clauses can still treat no policy as a lease breach. Education only.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a quote. Confirm wording with a licensed intermediary. Saving Optimizer does not sell insurance.</text>
+  <text x="24" y="354" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">Going bare saves the premium until a claim. Landlord clauses can still treat no policy as a lease breach. </tspan><tspan x="24" dy="17.6">Education only.</tspan></text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">Not a quote. Confirm wording with a licensed intermediary. Saving Optimizer does not sell insurance.</text>
 </svg>

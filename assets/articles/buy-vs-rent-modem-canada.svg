@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 437" role="img" aria-labelledby="title desc">
   <title id="title">Buy vs rent modem payback in Canada</title>
   <desc id="desc">Payback months if a compatible DOCSIS modem costs 80 to 250 dollars versus a 10 dollar monthly rental. Rogers and Bell often do not allow bring-your-own. Independents may. Verify the approved list. As of 21 Sep 2026.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="437" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Payback only if your ISP actually allows BYO</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Rental $10 / month vs purchase. Months to break even. As of 21 Sep 2026.</text>
   <rect x="56" y="150" width="70" height="160" rx="8" fill="#E7F4EE"/>
@@ -29,6 +29,6 @@
   <text x="564" y="224" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fizz: included modem</text>
   <text x="564" y="256" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Approved-list first.</text>
   <text x="564" y="276" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">DOCSIS version trap.</text>
-  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Rogers community bills often show a $10 gateway line, sometimes credited on a term. A random Amazon modem will not authenticate on Canadian cable plant.</text>
-  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Bridge mode plus your own Wi-Fi is the hybrid when the ISP owns the modem. Education only. Verify the live approved list.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280"><tspan x="24">Rogers community bills often show a $10 gateway line, sometimes credited on a term. A random Amazon modem will </tspan><tspan x="24" dy="16.2">not authenticate on Canadian cable plant.</tspan></text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,16.2)">Bridge mode plus your own Wi-Fi is the hybrid when the ISP owns the modem. Education only. Verify the live approved list.</text>
 </svg>

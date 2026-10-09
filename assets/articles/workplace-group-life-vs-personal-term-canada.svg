@@ -17,7 +17,7 @@
     <text x="208" y="204" fill="#FFFFFF">Placeholder. Your worksheet, not this bar.</text>
   </g>
   <text x="24" y="260" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">The group contract ends when the job ends. Personal term is the amount you still want the next morning.</text>
-  <text x="24" y="292" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Employer-paid group term premiums are generally a T4 code 40 taxable benefit. That is the premium, not the face amount.</text>
-  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">Assuris: greater of $1,000,000 or 90% if a member insurer fails. It does not enlarge a 1x benefit.</text>
-  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Group continuation after a failure runs to the next renewal or six months, whichever is earlier.</text>
+  <text x="24" y="292" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A"><tspan x="24">Employer-paid group term premiums are generally a T4 code 40 taxable benefit. That is the premium, not the </tspan><tspan x="24" dy="17.6">face amount.</tspan></text>
+  <text x="24" y="336" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B" transform="translate(0,17.6)">Assuris: greater of $1,000,000 or 90% if a member insurer fails. It does not enlarge a 1x benefit.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">Group continuation after a failure runs to the next renewal or six months, whichever is earlier.</text>
 </svg>

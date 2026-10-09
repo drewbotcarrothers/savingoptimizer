@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 438" role="img" aria-labelledby="title desc">
   <title id="title">Alberta Rate of Last Resort versus fixed and floating contracts</title>
   <desc id="desc">Decision matrix: stay on Rate of Last Resort energy of about 12 cents per kWh through 31 December 2026 with no exit fee; sign a fixed contract only if the all-in energy plus admin beats RoLR after exit risk; floating can undercut and then spike. Shop energy only. Delivery stays with the distributor.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="438" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Alberta RoLR vs fixed vs floating (through 2026)</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">UCA default tables used 20 Sep 2026. Energy only. Delivery stays with the wires company.</text>
   <rect x="24" y="78" width="224" height="236" rx="12" fill="#E7F4EE"/>
@@ -29,6 +29,6 @@
   <text x="508" y="220" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Fits: can watch the UCA</text>
   <text x="508" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">tool and switch again.</text>
   <text x="508" y="274" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Not a set-and-forget.</text>
-  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">One January bill is a bad sample. Model 12 months of kWh. Compare electricity and gas as two lines even on a dual-fuel logo.</text>
-  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: ucahelps.alberta.ca default rates and Cost Comparison Tool. Education only - not a retailer recommendation.</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">One January bill is a bad sample. Model 12 months of kWh. Compare electricity and gas as two lines even on a </tspan><tspan x="24" dy="17.6">dual-fuel logo.</tspan></text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">Source: ucahelps.alberta.ca default rates and Cost Comparison Tool. Education only - not a retailer recommendation.</text>
 </svg>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 442" role="img">
   <title>Flow from Form T2201 Part A and Part B to a CRA decision</title>
   <desc>Part A is completed by the person with the impairment or a legal representative. Part B is completed only by a medical practitioner and is submitted to the CRA. If approved, prior-year adjustments may be requested and other programs that require the disability tax credit can be considered. If refused, the person can ask for a review or file an objection.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="442" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">T2201 path: Part A, Part B, then the CRA decision</text>
   <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Digital form. Applicants do not complete Part B. As of 27 Sep 2026.</text>
   <rect x="24" y="78" width="150" height="64" rx="8" fill="#0F7A4B"/>
@@ -29,6 +29,6 @@
   <text x="396" y="274" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">that was not already provided.</text>
   <text x="396" y="298" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Or object no later than 90 days</text>
   <text x="396" y="314" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">after the notice is mailed.</text>
-  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">The decision uses Part B. A targeted processing time is published on the how-to-apply page; this chart does not print a week count.</text>
-  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">CRA how-to-apply page and Guide RC4064, Disability-Related Information 2025. As of 27 Sep 2026.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A"><tspan x="24">The decision uses Part B. A targeted processing time is published on the how-to-apply page; this chart does not print a </tspan><tspan x="24" dy="16.2">week count.</tspan></text>
+  <text x="24" y="410" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280" transform="translate(0,16.2)">CRA how-to-apply page and Guide RC4064, Disability-Related Information 2025. As of 27 Sep 2026.</text>
 </svg>

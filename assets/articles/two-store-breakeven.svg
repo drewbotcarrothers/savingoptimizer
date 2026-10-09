@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 436" role="img" aria-labelledby="title desc">
   <title id="title">When a second Canadian grocery stop pays</title>
   <desc id="desc">Break-even sketch using a $14 flyer-protein gap versus extra kilometres at 73 cents per kilometre CRA 2026 provincial allowance, plus 20 minutes of time.</desc>
-  <rect width="720" height="400" fill="#FFFFFF"/>
+  <rect width="720" height="436" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">The extra stop needs a job, not a vibe</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">CRA 2026 provincial allowance is 73 cents/km for the first 5,000 km - a ceiling for thinking, not your true gas cost.</text>
-  <rect x="40" y="88" width="200" height="170" rx="12" fill="#F3F4F6"/>
-  <text x="140" y="124" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#6B7280">Flyer gap</text>
-  <text x="140" y="176" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700" fill="#1A1A1A">$14</text>
-  <text x="140" y="208" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">protein + produce you</text>
-  <text x="140" y="228" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">would buy anyway</text>
-  <rect x="260" y="88" width="200" height="170" rx="12" fill="#F3F4F6"/>
-  <text x="360" y="124" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#6B7280">12 km extra</text>
-  <text x="360" y="176" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700" fill="#1A1A1A">$8.76</text>
-  <text x="360" y="208" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">12 x $0.73 CRA 2026</text>
-  <text x="360" y="228" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">parking extra</text>
-  <rect x="480" y="88" width="200" height="170" rx="12" fill="#E7F4EE" stroke="#0F7A4B"/>
-  <text x="580" y="124" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B">Net if on a loop</text>
-  <text x="580" y="176" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700" fill="#0F7A4B">~$5</text>
-  <text x="580" y="208" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">before valuing 20 minutes</text>
-  <text x="580" y="228" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">skip if the gap is $4</text>
-  <text x="24" y="294" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Use your real cents/km if you know it. CRA 73 cents is an all-in allowance, so it is a strict test - if it still wins, the stop is real.</text>
-  <text x="24" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Transit and walking households: the test is extra minutes and carrying weight, not kilometres.</text>
-  <text x="24" y="350" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Four-store hopping for pennies fails this chart every week.</text>
-  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280"><tspan x="24">CRA 2026 provincial allowance is 73 cents/km for the first 5,000 km - a ceiling for thinking, not your true gas </tspan><tspan x="24" dy="17.6">cost.</tspan></text>
+  <rect x="40" y="88" width="200" height="170" rx="12" fill="#F3F4F6" transform="translate(0,17.6)"/>
+  <text x="140" y="124" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#6B7280" transform="translate(0,17.6)">Flyer gap</text>
+  <text x="140" y="176" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700" fill="#1A1A1A" transform="translate(0,17.6)">$14</text>
+  <text x="140" y="208" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">protein + produce you</text>
+  <text x="140" y="228" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">would buy anyway</text>
+  <rect x="260" y="88" width="200" height="170" rx="12" fill="#F3F4F6" transform="translate(0,17.6)"/>
+  <text x="360" y="124" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#6B7280" transform="translate(0,17.6)">12 km extra</text>
+  <text x="360" y="176" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700" fill="#1A1A1A" transform="translate(0,17.6)">$8.76</text>
+  <text x="360" y="208" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">12 x $0.73 CRA 2026</text>
+  <text x="360" y="228" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">parking extra</text>
+  <rect x="480" y="88" width="200" height="170" rx="12" fill="#E7F4EE" stroke="#0F7A4B" transform="translate(0,17.6)"/>
+  <text x="580" y="124" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#0F7A4B" transform="translate(0,17.6)">Net if on a loop</text>
+  <text x="580" y="176" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700" fill="#0F7A4B" transform="translate(0,17.6)">~$5</text>
+  <text x="580" y="208" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A" transform="translate(0,17.6)">before valuing 20 minutes</text>
+  <text x="580" y="228" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A" transform="translate(0,17.6)">skip if the gap is $4</text>
+  <text x="24" y="294" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A" transform="translate(0,17.6)"><tspan x="24">Use your real cents/km if you know it. CRA 73 cents is an all-in allowance, so it is a strict test - if it still wins, </tspan><tspan x="24" dy="17.6">the stop is real.</tspan></text>
+  <text x="24" y="322" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6) translate(0,17.6)">Transit and walking households: the test is extra minutes and carrying weight, not kilometres.</text>
+  <text x="24" y="350" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6) translate(0,17.6)">Four-store hopping for pennies fails this chart every week.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280" transform="translate(0,17.6) translate(0,17.6)">Saving Optimizer - Canada - 20 Sep 2026</text>
 </svg>

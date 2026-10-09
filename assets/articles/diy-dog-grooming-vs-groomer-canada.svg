@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 435" role="img">
   <title>Illustrative year of small-dog grooms versus two grooms plus a clipper</title>
   <desc>Line chart over 12 months. Six full grooms at the K9+ small-dog start of 95 dollars, before tax, reach 570 dollars at month 12. A 17.99 dollar nail clipper in month 1 plus two of those grooms, at months 6 and 12, reaches 207.99 dollars. Illustrative. The clipper does not include a bath, a dry, or a haircut.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="435" fill="#FFFFFF"/>
   <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Illustrative year, K9+ small-dog start</text>
   <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">$95 before HST. Clipper $17.99. Not a national average. 26 Sep 2026.</text>
   <line x1="80" y1="80" x2="680" y2="80" stroke="#E5E7EB"/>
@@ -22,5 +22,5 @@
   <text x="660" y="362" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">12 mo</text>
   <text x="500" y="72" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Six grooms, $570</text>
   <text x="430" y="232" font-family="Inter, Arial, sans-serif" font-size="12" fill="#0F7A4B">Two grooms + clipper, $207.99</text>
-  <text x="24" y="392" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Grey: $95 every two months. Green: clipper in month 1, then a groom at month 6 and month 12. Change the visits and both lines change.</text>
+  <text x="24" y="392" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280"><tspan x="24">Grey: $95 every two months. Green: clipper in month 1, then a groom at month 6 and month 12. Change the visits and both lines </tspan><tspan x="24" dy="14.9">change.</tspan></text>
 </svg>

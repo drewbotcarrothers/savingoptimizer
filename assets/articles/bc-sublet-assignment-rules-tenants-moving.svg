@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 438" role="img" aria-labelledby="title desc">
   <title id="title">B.C. sublet and assignment: leave early without wasting rent</title>
   <desc id="desc">RTB: written landlord consent required. On a fixed term with six or more months left, consent cannot be unreasonably withheld. Landlords must not charge a fee for considering or consenting. 2026 rent-increase limit 2.3%.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="438" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">B.C.: written consent, no fee, then compare to proper notice</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">RTA s. 34 · RTB sublet/assignment page. 2026 increase limit 2.3%. Used 20 Sep 2026.</text>
   <rect x="24" y="84" width="220" height="200" rx="12" fill="#E7F4EE"/>
@@ -26,6 +26,6 @@
   <text x="504" y="200" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Fixed term ` always stuck</text>
   <text x="504" y="224" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">RTB-7 timing if staying</text>
   <text x="504" y="248" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">15-day deposit clock</text>
-  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Informal Kijiji “take over my lease” without written consent can become a One Month Notice problem — and you still owe the rent.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">gov.bc.ca residential tenancies. RTA s. 34(3): no charge for considering, investigating, or consenting. Not legal advice.</text>
+  <text x="24" y="322" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">Informal Kijiji “take over my lease” without written consent can become a One Month Notice problem — and </tspan><tspan x="24" dy="17.6">you still owe the rent.</tspan></text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">gov.bc.ca residential tenancies. RTA s. 34(3): no charge for considering, investigating, or consenting. Not legal advice.</text>
 </svg>

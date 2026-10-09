@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 437" role="img">
   <title>Which dental program to ask about before a denture quote</title>
   <desc>A flow from program check to quote, preauthorization, fit, and follow-up. Start with the Canadian Dental Care Plan if enrolled, the Ontario Seniors Dental Care Program if enrolled in Ontario, a workplace plan if you have one, or cash. Implant-supported dentures are excluded from the CDCP.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="437" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Ask which program pays before you book the impressions</text>
   <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Order of questions, not a promise that two programs pay the same tooth.</text>
   <rect x="24" y="74" width="160" height="78" rx="4" fill="#FFFFFF" stroke="#0F7A4B"/>
@@ -29,5 +29,5 @@
   <path d="M368 113 H392" stroke="#6B7280" fill="none" stroke-width="1.5"/>
   <path d="M552 113 H616 V174" stroke="#6B7280" fill="none" stroke-width="1.5"/>
   <path d="M616 252 V313 H512" stroke="#6B7280" fill="none" stroke-width="1.5"/>
-  <text x="24" y="390" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Implant-supported dentures are a CDCP exclusion. OSDCP dentures are partial. Confirm both before you choose a provider.</text>
+  <text x="24" y="390" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif"><tspan x="24">Implant-supported dentures are a CDCP exclusion. OSDCP dentures are partial. Confirm both before you choose a </tspan><tspan x="24" dy="16.2">provider.</tspan></text>
 </svg>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 438" role="img" aria-labelledby="title desc">
   <title id="title">Canadian condo special-assessment budget sketch</title>
   <desc id="desc">Special assessments fund big repairs when the reserve is short. Model lump-sum vs payment plan, resale disclosure, refinance math, and a reserve rule of thumb for owners. Renters: the landlord usually pays the levy. 20 September 2026.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="438" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Fees feel fixed. Levies are not.</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled owner sketch. CMHC condo-buyer framing. 20 Sep 2026.</text>
   <rect x="40" y="80" width="300" height="200" fill="#F3F4F6"/>
@@ -17,7 +17,7 @@
   <text x="530" y="176" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$700 / month extra</text>
   <text x="530" y="200" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ask about interest / arrears</text>
   <text x="530" y="236" text-anchor="middle" font-size="16" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Cashflow, not a discount</text>
-  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rule of thumb: keep 3–6 months of condo fees plus a $5,000–$15,000 levy buffer on older towers — replace with the study.</text>
-  <text x="24" y="346" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Renters: a special is usually the owner’s invoice. It is not a new rent line unless a lawful increase path is used.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not legal, tax, or brokerage advice. No natural affiliate product on a levy letter.</text>
+  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">Rule of thumb: keep 3–6 months of condo fees plus a $5,000–$15,000 levy buffer on older towers — replace </tspan><tspan x="24" dy="17.6">with the study.</tspan></text>
+  <text x="24" y="346" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Renters: a special is usually the owner’s invoice. It is not a new rent line unless a lawful increase path is used.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">Education only. Not legal, tax, or brokerage advice. No natural affiliate product on a levy letter.</text>
 </svg>
