@@ -1,13 +1,13 @@
 <?php
 /**
  * Saving Optimizer contact form handler.
- * Receives POSTs from /contact.html and emails them to hello@savingoptimizer.com with PHP mail().
+ * Receives POSTs from /contact.html and emails them to contact@savingoptimizer.com with PHP mail().
  * No secrets live here. Works on PHP 7.2+.
  */
 
 declare(strict_types=1);
 
-const CF_TO          = 'hello@savingoptimizer.com';
+const CF_TO          = 'contact@savingoptimizer.com';
 const CF_FROM        = 'no-reply@savingoptimizer.com';
 const CF_FROM_NAME   = 'Saving Optimizer website';
 const CF_THANKS      = '/contact-thanks.html';

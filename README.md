@@ -8,7 +8,7 @@ The official Saving Optimizer logo is the **moose**: a cartoon brown moose in a 
 
 ## Contact form
 
-`contact.html` posts to `contact-submit.php`, which validates the fields, checks a honeypot, a minimum time on the page and a per-IP rate limit (5 per hour), and sends the message with PHP `mail()` to hello@savingoptimizer.com (From no-reply@savingoptimizer.com, Reply-To the visitor). It needs PHP on the host (Hostinger shared hosting has it). Success goes to `contact-thanks.html` (noindex, not in the sitemap); errors go back to `contact.html?error=1`. No keys or passwords are involved.
+`contact.html` posts to `contact-submit.php`, which validates the fields, checks a honeypot, a minimum time on the page and a per-IP rate limit (5 per hour), and sends the message with PHP `mail()` to contact@savingoptimizer.com (From no-reply@savingoptimizer.com, Reply-To the visitor). It needs PHP on the host (Hostinger shared hosting has it). Success goes to `contact-thanks.html` (noindex, not in the sitemap); errors go back to `contact.html?error=1`. No keys or passwords are involved.
 
 ## Local preview
 
