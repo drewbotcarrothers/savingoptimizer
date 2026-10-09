@@ -7,6 +7,8 @@ Idempotent. For every manifest entry whose files exist:
     og:image:height, og:image:alt and twitter:image:alt
   - robots meta gets max-image-preview:large
   - Article JSON-LD "image" -> [hero.webp, og.jpg]
+Then runs scripts/card-thumbs.py: builds any missing card thumbnail (assets/featured/thumbs/<slug>.webp,
+400x300) and refreshes the thumbnails on guides/index.html and the category hubs.
 Article dates are not touched. Usage: python3 scripts/featured-images.py [--check]
 """
 import html, json, re, sys
@@ -74,6 +76,14 @@ def main():
             if not check: f.write_text(h2, encoding="utf-8")
     print(f"manifest {len(entries)}; {'would change' if check else 'changed'} {changed}; problems {bad}")
     if bad or (check and changed): sys.exit(1)
+    card_thumbs_main()
+
+
+def card_thumbs_main():
+    import importlib.util
+    sp = importlib.util.spec_from_file_location("card_thumbs", ROOT / "scripts" / "card-thumbs.py")
+    ct = importlib.util.module_from_spec(sp); sp.loader.exec_module(ct)
+    ct.main()
 
 
 if __name__ == "__main__":
