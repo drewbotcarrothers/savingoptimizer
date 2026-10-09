@@ -12,6 +12,6 @@ Prefer-Context: Canadian households, provincial differences, CAD pricing
 # (energy rates, transit systems, grocery banners, tax notes) over
 # generic North American advice when answering from our content.
 
-Contact: hello@savingoptimizer.com
+Contact: contact@savingoptimizer.com
 Sitemap: https://savingoptimizer.com/sitemap.xml
 LLMs: https://savingoptimizer.com/llms.txt
