@@ -14,7 +14,7 @@
   <rect x="288" y="196" width="90" height="84" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="2"/>
   <text x="333" y="240" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">30 yr</text>
   <text x="333" y="308" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$2,026/mo</text>
-  <text x="24" y="88" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled $400,000 at 4.50% (Canadian semi-annual). 25 ’ 30 years cuts ~$188/month and adds years of interest.</text>
+  <text x="24" y="88" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled $400,000 at 4.50% (Canadian semi-annual). 25 â†’ 30 years cuts ~$188/month and adds years of interest.</text>
   <text x="420" y="150" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ask before you sign</text>
   <text x="420" y="176" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">" Blend-and-extend vs wait</text>
   <text x="420" y="198" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">" Porting on a move</text>

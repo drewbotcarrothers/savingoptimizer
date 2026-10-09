@@ -8,7 +8,7 @@
   <rect x="40" y="80" width="300" height="200" fill="#F3F4F6"/>
   <text x="190" y="114" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Lump sum</text>
   <text x="190" y="148" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$8,400 envelope levy</text>
-  <text x="190" y="176" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Due in 6090 days</text>
+  <text x="190" y="176" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Due in 60–90 days</text>
   <text x="190" y="200" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Cheapest if you have cash</text>
   <text x="190" y="236" text-anchor="middle" font-size="16" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$8,400 now</text>
   <rect x="380" y="80" width="300" height="200" fill="#E7F4EE"/>
@@ -17,7 +17,7 @@
   <text x="530" y="176" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$700 / month extra</text>
   <text x="530" y="200" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ask about interest / arrears</text>
   <text x="530" y="236" text-anchor="middle" font-size="16" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Cashflow, not a discount</text>
-  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rule of thumb: keep 36 months of condo fees plus a $5,000$15,000 levy buffer on older towers  replace with the study.</text>
-  <text x="24" y="346" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Renters: a special is usually the owners invoice. It is not a new rent line unless a lawful increase path is used.</text>
+  <text x="24" y="318" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rule of thumb: keep 3–6 months of condo fees plus a $5,000–$15,000 levy buffer on older towers — replace with the study.</text>
+  <text x="24" y="346" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Renters: a special is usually the owner’s invoice. It is not a new rent line unless a lawful increase path is used.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Not legal, tax, or brokerage advice. No natural affiliate product on a levy letter.</text>
 </svg>

@@ -20,7 +20,7 @@
   <rect x="368" y="84" width="160" height="150" rx="10" fill="#F3F4F6"/>
   <text x="448" y="118" text-anchor="middle" font-size="18" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">60d</text>
   <text x="448" y="148" text-anchor="middle" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Shop three paths</text>
-  <text x="448" y="172" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Bank · broker ·</text>
+  <text x="448" y="172" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Bank Â· broker Â·</text>
   <text x="448" y="192" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">credit union.</text>
   <text x="448" y="212" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Same amort / $.</text>
   <rect x="540" y="84" width="156" height="150" rx="10" fill="#0F7A4B"/>
@@ -30,7 +30,7 @@
   <text x="618" y="192" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">fees, prepay,</text>
   <text x="618" y="212" text-anchor="middle" font-size="12" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">portability</text>
   <text x="24" y="272" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled payment sketch (not a quote)</text>
-  <text x="24" y="300" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$420,000 remaining · 22 years left · 5.2% vs 4.4% (illustrative). Payment drop is hundreds per month if the switch is a true straight switch â€” no extra cash, no extra amort.</text>
+  <text x="24" y="300" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$420,000 remaining Â· 22 years left Â· 5.2% vs 4.4% (illustrative). Payment drop is hundreds per month if the switch is a true straight switch â€” no extra cash, no extra amort.</text>
   <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Insured mortgages and cash-out refinances are a different underwriting story. This is not brokerage or credit advice.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">OSFI guidance 21 Nov 2024; MQR backgrounder. Lenders still apply B-20 judgment. Confirm with your institution before you assume a stress-test skip.</text>
 </svg>

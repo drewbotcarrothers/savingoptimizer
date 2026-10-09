@@ -16,7 +16,7 @@
   <text x="426" y="194" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">5–15%</text>
   <rect x="250" y="216" width="188" height="34" rx="6" fill="#4B9B74"/>
   <text x="24" y="238" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Higher deductible (if funded)</text>
-  <text x="448" y="238" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">ask $500�$1,000</text>
+  <text x="448" y="238" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">ask $500→$1,000</text>
   <rect x="250" y="260" width="141" height="34" rx="6" fill="#4B9B74"/>
   <text x="24" y="282" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Honest annual km / use</text>
   <text x="402" y="282" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F7A4B">company-specific</text>
