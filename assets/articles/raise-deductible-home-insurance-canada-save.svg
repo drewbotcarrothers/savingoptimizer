@@ -17,7 +17,7 @@
   <rect x="408" y="112" width="70" height="168" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="2"/>
   <text x="443" y="196" text-anchor="middle" font-size="12" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$5,000</text>
   <text x="443" y="308" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$1,360/yr</text>
-  <text x="24" y="88" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled premium sketch (same rebuild, same water limits). $500 � $2,500 saves ~$330/year if you never claim  and costs $2,000 extra if you do.</text>
+  <text x="24" y="88" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Labelled premium sketch (same rebuild, same water limits). $500 → $2,500 saves ~$330/year if you never claim — and costs $2,000 extra if you do.</text>
   <text x="520" y="150" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Emergency-fund test</text>
   <text x="520" y="176" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Can you pay the deductible</text>
   <text x="520" y="196" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">the same month as a</text>

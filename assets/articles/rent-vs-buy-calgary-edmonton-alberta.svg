@@ -19,12 +19,12 @@
   <text x="268" y="250" font-size="12" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">tax + insurance + rates</text>
   <rect x="468" y="88" width="216" height="188" rx="12" fill="#F3F4F6"/>
   <text x="576" y="122" text-anchor="middle" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">What charts skip</text>
-  <text x="484" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No LTT  good. Not free.</text>
+  <text x="484" y="158" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">No LTT — good. Not free.</text>
   <text x="484" y="182" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Land Titles + legal still cash</text>
   <text x="484" y="206" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">June tax bill if not escrowed</text>
   <text x="484" y="230" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Hail / insurance quotes</text>
   <text x="484" y="254" font-size="13" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Two-year job = stay risk</text>
-  <text x="24" y="314" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If owning is $250/month cheaper and year-one cash is $8,000 (legal, inspection, move, titles), break-even is 32 months  before sell costs.</text>
+  <text x="24" y="314" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">If owning is $250/month “cheaper” and year-one cash is $8,000 (legal, inspection, move, titles), break-even is 32 months — before sell costs.</text>
   <text x="24" y="340" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A 0.50% rate shock on a large balance can erase that $250 gap. Income volatility is a renter advantage, not a vibe.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a mortgage, tax, or brokerage quote. Replace every line with statements, municipal tax estimators, and insurer quotes for the address.</text>
 </svg>

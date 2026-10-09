@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
-  <title id="title">PC Express vs Voil‡ vs Instacart fee anatomy</title>
+  <title id="title">PC Express vs Voil√† vs Instacart fee anatomy</title>
   <desc id="desc">Stacked comparison of typical extra cost on a $100 grocery order: delivery or pickup fee, service fee or pass, markup, and tip.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Extra cost on a $100 basket (illustrative, before tax)</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Fees change by city and slot. Confirm in-app. Pass prices: PC Express $99.99/yr; Voil‡ Anytime $99.99/yr; Instacart+ often $99/yr.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Fees change by city and slot. Confirm in-app. Pass prices: PC Express $99.99/yr; Voil√† Anytime $99.99/yr; Instacart+ often $99/yr.</text>
   <g font-family="Inter, system-ui, sans-serif">
     <!-- PC Express pickup no pass: $1 -->
     <rect x="70" y="250" width="100" height="50" rx="6" fill="#4B9B74"/>
@@ -19,7 +19,7 @@
     <!-- Voila payg ~$8-12, no tip -->
     <rect x="330" y="140" width="100" height="160" rx="6" fill="#0C643D"/>
     <text x="380" y="130" text-anchor="middle" font-size="14" font-weight="700" fill="#0C643D">~$8‚Äì16</text>
-    <text x="380" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A">Voil‡</text>
+    <text x="380" y="322" text-anchor="middle" font-size="12" fill="#1A1A1A">Voil√†</text>
     <text x="380" y="340" text-anchor="middle" font-size="11" fill="#6B7280">slot fee, no tip</text>
     <!-- Instacart stacked: fee+service+markup+tip ~$25 -->
     <rect x="470" y="80" width="100" height="40" rx="6" fill="#9CA3AF"/>
@@ -38,5 +38,5 @@
     <rect x="600" y="154" width="12" height="12" fill="#0F7A4B"/>
     <text x="618" y="164" font-size="11" fill="#6B7280">Delivery</text>
   </g>
-  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">With a pass, PC Express and Voil‡ drop toward $0 delivery on eligible orders. Instacart+ waives some delivery but usually not markup or tip. Reviewed 16 Sep 2026.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">With a pass, PC Express and Voil√† drop toward $0 delivery on eligible orders. Instacart+ waives some delivery but usually not markup or tip. Reviewed 16 Sep 2026.</text>
 </svg>

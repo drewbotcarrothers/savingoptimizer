@@ -18,7 +18,7 @@
   <text x="268" y="160" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Delivery slabs + transport</text>
   <text x="268" y="184" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Carbon-related lines</text>
   <text x="268" y="220" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">EGD vs Union South supply</text>
-  <text x="268" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">are different ¢/m3.</text>
+  <text x="268" y="238" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">are different Â¢/m3.</text>
   <rect x="480" y="78" width="216" height="200" rx="12" fill="#E7F4EE"/>
   <text x="496" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Usage you control</text>
   <text x="496" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Setpoint and setbacks</text>

@@ -4,7 +4,7 @@
   <desc id="desc">The lease (or TAL / RTB / LTB world) decides who the landlord can chase. A roommate agreement decides deposits, e-transfer dates, guests, and who pays if someone leaves early.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Write the money rules. The lease will not do it for you.</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario LTB, B.C. RTB, Québec TAL: the landlords contract is not a chore chart. Joint-and-several still applies if you all signed.</text>
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario LTB, B.C. RTB, QuÃ©bec TAL: the landlordâ€™s contract is not a chore chart. Joint-and-several still applies if you all signed.</text>
   <rect x="40" y="84" width="300" height="150" fill="#E8F5EE" stroke="#0F7A4B" stroke-width="2"/>
   <text x="190" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">On the lease</text>
   <text x="190" y="146" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Who the landlord can chase</text>
@@ -18,7 +18,7 @@
   <text x="530" y="190" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Early-exit buyout plan</text>
   <text x="530" y="212" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Does not bind the landlord</text>
   <text x="24" y="268" font-size="14" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Wallet protections to write before keys</text>
-  <text x="24" y="296" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rent due date · who holds last-month / security · damage photos · whose tenant policy · 30-day exit notice between roommates · replacement roommate rules</text>
+  <text x="24" y="296" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Rent due date Â· who holds last-month / security Â· damage photos Â· whose tenant policy Â· 30-day exit notice between roommates Â· replacement roommate rules</text>
   <text x="24" y="328" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A handshake plus Interac is how deposits vanish when someone ghosts in month four.</text>
   <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Illustrative clauses, not a form and not legal advice. Tribunals Ontario / gov.bc.ca / TAL used 20 Sep 2026.</text>
 </svg>

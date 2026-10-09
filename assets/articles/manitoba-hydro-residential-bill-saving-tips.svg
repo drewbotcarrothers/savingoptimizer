@@ -8,7 +8,7 @@
   <rect x="24" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
   <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. The lines</text>
   <text x="40" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Energy 9.970 ¢.</text>
-  <text x="40" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Basic $9.84 (<=200 A).</text>
+  <text x="40" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Basic $9.84 (&lt;=200 A).</text>
   <text x="40" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Seasonal $118.08 / year.</text>
   <rect x="252" y="78" width="216" height="140" rx="12" fill="#F3F4F6"/>
   <text x="268" y="106" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">2. Prairie heat</text>

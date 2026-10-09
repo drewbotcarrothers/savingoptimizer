@@ -4,7 +4,7 @@
   <desc id="desc">BC Hydro residential rates as published for 2026: tiered Step 1 11.87 cents and Step 2 14.08 cents per kWh with a 23.44 cent daily basic charge; optional flat 12.70 cents with a 25.00 cent daily basic; optional time-of-day overlay minus 5 cents overnight and plus 5 cents from 4 to 9 p.m.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">BC Hydro residential: tiered, flat, time-of-day</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">BCUC / BC Hydro pages used 20 Sep 2026. Confirm live ¢ in Account Online before you switch.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">BCUC / BC Hydro pages used 20 Sep 2026. Confirm live Â¢ in Account Online before you switch.</text>
   <rect x="24" y="78" width="224" height="248" rx="12" fill="#E7F4EE"/>
   <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">Tiered (RS 1101)</text>
   <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Step 1 11.87 cents/kWh</text>
