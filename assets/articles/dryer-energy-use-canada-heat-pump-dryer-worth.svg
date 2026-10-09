@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 438" role="img" aria-labelledby="title desc">
   <title id="title">Canadian dryer energy: vents, heat-pump dryers, and winter drying</title>
   <desc id="desc">NRCan: ENERGY STAR dryers use about 20 percent less energy. Heat-pump dryers can save an extra 20 to 60 percent versus a standard dryer. Clean vents first. 20 Sep 2026.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="438" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Winter laundry energy lives in the dryer, not the washer</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">NRCan: ENERGY STAR dryer ~20% less. Heat-pump models 20-60% more saving vs standard. 20 Sep 2026.</text>
   <rect x="60" y="160" width="70" height="120" fill="#E5E7EB"/>
@@ -21,6 +21,6 @@
   <text x="376" y="236" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Heat-pump: longer cycle, condensate</text>
   <text x="376" y="256" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">drain, cooler room, higher price</text>
   <text x="376" y="280" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Line-dry only what winter allows.</text>
-  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A clogged vent is a fire risk and a longer cycle. Replace a 15-year vented dryer when repairs stack and you already spin hard.</text>
-  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: NRCan ENERGY STAR clothes dryers; Hydro-Quebec Energy Wise laundry tips. Education only.</text>
+  <text x="24" y="368" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">A clogged vent is a fire risk and a longer cycle. Replace a 15-year vented dryer when repairs stack and you </tspan><tspan x="24" dy="17.6">already spin hard.</tspan></text>
+  <text x="24" y="396" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">Sources: NRCan ENERGY STAR clothes dryers; Hydro-Quebec Energy Wise laundry tips. Education only.</text>
 </svg>

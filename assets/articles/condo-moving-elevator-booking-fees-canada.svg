@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 456" role="img" aria-labelledby="title desc">
   <title id="title">Canadian condo and strata elevator booking cost traps</title>
   <desc id="desc">Toronto and Vancouver pattern: book freight elevators 2 to 4 weeks ahead, weekday windows, certificate of insurance often $2 million naming the corporation, refundable damage deposits, and overtime if you miss the slot. 20 September 2026.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="456" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Elevator first. Quote second.</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Condo / strata access is a first-class moving cost. Pattern notes, not your board’s form. 20 Sep 2026.</text>
   <rect x="36" y="80" width="210" height="188" fill="#E7F4EE"/>
@@ -26,7 +26,7 @@
   <text x="579" y="190" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Dock overtime fees</text>
   <text x="579" y="214" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Pad / concierge hours</text>
   <text x="579" y="246" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Photo the pads</text>
-  <text x="24" y="304" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Toronto condos and Vancouver strata pages commonly describe weekday freight windows and named COIs. Your declaration / bylaws win.</text>
-  <text x="24" y="332" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A $1,200 “cheap” Saturday crew that cannot enter the loading dock is not cheaper than a Tuesday booked window.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Not a mover brokerage. Moving-quote tools are an offer type. Confirm both buildings before you pay a deposit.</text>
+  <text x="24" y="304" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">Toronto condos and Vancouver strata pages commonly describe weekday freight windows and named COIs. </tspan><tspan x="24" dy="17.6">Your declaration / bylaws win.</tspan></text>
+  <text x="24" y="332" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)"><tspan x="24">A $1,200 “cheap” Saturday crew that cannot enter the loading dock is not cheaper than a Tuesday booked </tspan><tspan x="24" dy="17.6">window.</tspan></text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6) translate(0,17.6)">Not a mover brokerage. Moving-quote tools are an offer type. Confirm both buildings before you pay a deposit.</text>
 </svg>

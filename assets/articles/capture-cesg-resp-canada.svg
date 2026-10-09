@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 437" role="img" aria-labelledby="title desc">
   <title id="title">CESG capture without a lump sum</title>
   <desc id="desc">Basic CESG is 20 percent on the first 2,500 dollars, which is 500 dollars a year, lifetime 7,200 dollars. Catch-up can reach 1,000 dollars of basic grant on 5,000 dollars. Additional CESG depends on 2026 family income and does not carry forward. Avoid high-fee group plans.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="437" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">CESG: the grant is the point, not the product</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canada.ca amounts used 22 Sep 2026. Not tax or investment advice.</text>
   <rect x="24" y="74" width="216" height="168" rx="12" fill="#E7F4EE"/>
@@ -28,5 +28,5 @@
   <text x="40" y="310" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Individual or family RESP at a bank, credit union, or brokerage that pays CESG. Ask the fee before you sign.</text>
   <text x="40" y="330" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Group scholarship plans and insurance wraps are a sales meeting, not a requirement for the grant.</text>
   <text x="40" y="350" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Lifetime contributions $50,000 per child. Money above the grant band still does not attract more basic CESG.</text>
-  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: Canada.ca estimating RESP amounts, CESG page. Income bands are 2026 adjusted family net income. Education only.</text>
+  <text x="24" y="394" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280"><tspan x="24">Source: Canada.ca estimating RESP amounts, CESG page. Income bands are 2026 adjusted family net income. </tspan><tspan x="24" dy="16.2">Education only.</tspan></text>
 </svg>

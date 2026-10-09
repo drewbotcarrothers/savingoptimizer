@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 437" role="img" aria-labelledby="title desc">
   <title id="title">Open an RESP and request the Canada Learning Bond</title>
   <desc id="desc">Canada Learning Bond up to 2,000 dollars. 500 dollars in the first eligible year plus 100 dollars a year through age 15. No personal contribution required. Child born 2004 or later. Request before age 21. Confirm the deposit. Then add CESG only if you can contribute later.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="437" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">CLB: open the RESP, skip the sales pitch</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">ESDC and Canada.ca figures used 22 Sep 2026. Not a product ranking.</text>
   <rect x="24" y="74" width="160" height="150" rx="12" fill="#E7F4EE"/>
@@ -34,5 +34,5 @@
   <text x="40" y="296" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">1 to 3 children: adjusted income at or under $58,523. 4 children: under $66,036. 5 children: under $73,577.</text>
   <text x="40" y="316" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">More than 5: call 1-800-O-Canada. Born 2004 or later. Claim before the beneficiary turns 21.</text>
   <text x="40" y="344" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">A branch insurance RESP is optional. The bond does not require a contribution or a scholarship trust.</text>
-  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: CRA Canada Learning Bond page (modified 2026-02-27) and Canada.ca estimating-amounts table. Education only.</text>
+  <text x="24" y="392" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280"><tspan x="24">Sources: CRA Canada Learning Bond page (modified 2026-02-27) and Canada.ca estimating-amounts table. Education </tspan><tspan x="24" dy="16.2">only.</tspan></text>
 </svg>

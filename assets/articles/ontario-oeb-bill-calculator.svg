@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 437" role="img" aria-labelledby="title desc">
   <title id="title">How to use the OEB bill calculator</title>
   <desc id="desc">Six-step Ontario Energy Board bill calculator workflow: winter and summer bills, interval or TOU-band usage, compare TOU ULO and Tiered including delivery, apply the 23.5 percent Ontario Electricity Rebate, avoid one-month mistakes, then file an LDC election.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="437" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">OEB bill calculator: six steps, not a guess</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Compare TOU, ULO, and Tiered all-in bills with your LDC. OER is 23.5% as of 1 Nov 2025. As of 20 Sep 2026.</text>
   <rect x="24" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
@@ -32,5 +32,5 @@
   <text x="496" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">6. Then elect</text>
   <text x="496" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">LDC form, not OEB.</text>
   <text x="496" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">10 business days.</text>
-  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Source: oeb.ca bill calculator and choosing-your-electricity-price-plan. RPP prices 1 Nov 2025-31 Oct 2026. Education only.</text>
+  <text x="24" y="384" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280"><tspan x="24">Source: oeb.ca bill calculator and choosing-your-electricity-price-plan. RPP prices 1 Nov 2025-31 Oct 2026. Education </tspan><tspan x="24" dy="16.2">only.</tspan></text>
 </svg>

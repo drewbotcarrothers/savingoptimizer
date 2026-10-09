@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 438" role="img" aria-labelledby="title desc">
   <title id="title">Oxio provinces and wholesale plant</title>
   <desc id="desc">Six provinces where Oxio says it serves, mapped to Cogeco in Ontario, Videotron in Quebec, and Rogers in the four western provinces. Atlantic Canada is outside that list.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="438" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Where the flat rate can exist</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Oxio moving FAQ, 21 Sep 2026. Address check still required.</text>
   <rect x="24" y="78" width="210" height="110" rx="12" fill="#E7F4EE"/>
@@ -23,6 +23,6 @@
   <text x="24" y="306" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Oxio's own help centre: coaxial last mile on those fibre-to-the-node networks. Not pure fibre to the home.</text>
   <text x="24" y="334" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Homepage 21 Sep 2026: fixed price, equipment included, speeds up to 1 Gbps, 60-day guarantee, chat 8 a.m. to 7 p.m.</text>
   <text x="24" y="358" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Ground Rules list a $30 account processing fee and a $12 NSF fee. Marketing and the fee table are different documents.</text>
-  <text x="24" y="382" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Moving page: no moving fees for existing clients, two-week head start, code FRESHSTART advertised for one month free. Confirm the code is live.</text>
-  <text x="24" y="406" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Education only. Not an Oxio partnership.</text>
+  <text x="24" y="382" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif"><tspan x="24">Moving page: no moving fees for existing clients, two-week head start, code FRESHSTART advertised for one month </tspan><tspan x="24" dy="16.2">free. Confirm the code is live.</tspan></text>
+  <text x="24" y="406" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif" transform="translate(0,16.2)">Education only. Not an Oxio partnership.</text>
 </svg>

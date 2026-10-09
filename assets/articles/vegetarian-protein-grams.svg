@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 418" role="img" aria-labelledby="title desc">
   <title id="title">Vegetarian protein cost per gram in Canada</title>
   <desc id="desc">Illustrative cost per gram of protein for pulses, tofu, eggs, dairy, and fake meat at Canadian discounters.</desc>
-  <rect width="720" height="400" fill="#FFFFFF"/>
+  <rect width="720" height="418" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Plant-forward protein: pulses first, fake meat last</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative cents per gram, discounter / ethnic grocer, 20 Sep 2026. Recalculate the label.</text>
   <g font-family="Inter, system-ui, sans-serif">
@@ -22,7 +22,7 @@
     <rect x="220" y="258" width="320" height="26" rx="6" fill="#1A1A1A"/>
     <text x="552" y="276" font-size="13" font-weight="700" fill="#1A1A1A">~12-25c+</text>
   </g>
-  <text x="24" y="324" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Canada's Food Guide budget tips still start with beans, lentils, tofu, eggs, and frozen veg - not a freezer aisle of brands.</text>
-  <text x="24" y="356" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Not medical advice. Cost per gram uses the nutrition table, not the front of the box. Frozen veg beats January berries.</text>
-  <text x="24" y="380" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Loyalty still applies: PC / Scene+ / Moi on the cheap banner, not a premium "plant-based" endcap.</text>
+  <text x="24" y="324" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">Canada's Food Guide budget tips still start with beans, lentils, tofu, eggs, and frozen veg - not a freezer aisle </tspan><tspan x="24" dy="17.6">of brands.</tspan></text>
+  <text x="24" y="356" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Not medical advice. Cost per gram uses the nutrition table, not the front of the box. Frozen veg beats January berries.</text>
+  <text x="24" y="380" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Loyalty still applies: PC / Scene+ / Moi on the cheap banner, not a premium "plant-based" endcap.</text>
 </svg>

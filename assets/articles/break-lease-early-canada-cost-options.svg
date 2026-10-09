@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 438" role="img" aria-labelledby="title desc">
   <title id="title">Canadian early-lease-exit cost ladder from cheapest to costliest</title>
   <desc id="desc">Ranked 2026 education sketch: mutual written termination, assignment, sublet, then paying remaining months. Provincial rules change who can refuse and whether the original tenant stays liable. 20 September 2026.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="438" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Early-exit cost ladder — cheapest first</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled 2026 education. Verify LTB / RTB / TAL. Not legal advice. 20 Sep 2026.</text>
   <rect x="40" y="80" width="150" height="200" fill="#E7F4EE"/>
@@ -33,7 +33,7 @@
   <text x="603" y="198" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Mitigation still</text>
   <text x="603" y="222" text-anchor="middle" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">applies — verify</text>
   <text x="603" y="256" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Usually costliest</text>
-  <text x="24" y="320" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Ontario assignment refusal can open a 30-day notice path. B.C. consent rules differ on fixed terms. Quebec assignment often releases you.</text>
-  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Illegal key money and “application fees” for a replacement are not a shortcut. Advertise, screen, write the paper.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Education only. Tribunals Ontario LTB, gov.bc.ca tenancy, TAL Quebec. Your lease and statute win over this ladder.</text>
+  <text x="24" y="320" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">Ontario assignment refusal can open a 30-day notice path. B.C. consent rules differ on fixed terms. Quebec </tspan><tspan x="24" dy="17.6">assignment often releases you.</tspan></text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Illegal key money and “application fees” for a replacement are not a shortcut. Advertise, screen, write the paper.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)">Education only. Tribunals Ontario LTB, gov.bc.ca tenancy, TAL Quebec. Your lease and statute win over this ladder.</text>
 </svg>

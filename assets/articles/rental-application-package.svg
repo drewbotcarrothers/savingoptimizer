@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 454" role="img" aria-labelledby="title desc">
   <title id="title">Canadian rental application package: share this, watermark that, refuse the rest</title>
   <desc id="desc">A landlord-ready Canadian rental package is a one-page cover, proof of income, a credit report you control, and references. Watermark PDFs. Do not send a SIN, open banking logins, or application fees. Ontario, B.C., and Québec generally treat application fees as a refuse.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="454" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Application package: complete, not oversharing</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Canadian privacy and tenancy norms  -  not a U.S. tenant-screening script. As of 20 Sep 2026.</text>
   <rect x="24" y="80" width="220" height="230" rx="12" fill="#E7F4EE"/>
@@ -29,6 +29,6 @@
   <text x="504" y="228" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Blank signed forms</text>
   <text x="504" y="256" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Photos of every room</text>
   <text x="504" y="284" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">you ever lived in</text>
-  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Timing: same-day PDF after a real viewing beats a "I'll send it Friday" in Toronto and Vancouver. Montreal July 1 still rewards a complete French/English pair.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Credit-monitoring tools and tenant-insurance quotes are offer types only. We do not claim bureau or insurer partnerships. Not legal advice.</text>
+  <text x="24" y="348" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">Timing: same-day PDF after a real viewing beats a "I'll send it Friday" in Toronto and Vancouver. Montreal July </tspan><tspan x="24" dy="17.6">1 still rewards a complete French/English pair.</tspan></text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)"><tspan x="24">Credit-monitoring tools and tenant-insurance quotes are offer types only. We do not claim bureau or insurer </tspan><tspan x="24" dy="16.2">partnerships. Not legal advice.</tspan></text>
 </svg>

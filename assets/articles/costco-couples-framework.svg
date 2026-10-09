@@ -12,7 +12,7 @@
   <text x="82" y="194" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$160</text>
   <text x="82" y="134" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$240</text>
   <line x1="90" y1="263" x2="680" y2="263" stroke="#9CA3AF" stroke-dasharray="5 5"/>
-  <text x="686" y="267" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$65 fee</text>
+  <text x="714" y="258" text-anchor="end" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">$65 fee</text>
   <rect x="130" y="236" width="120" height="74" rx="8" fill="#9CA3AF"/>
   <text x="190" y="226" text-anchor="middle" font-size="13" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">~$40</text>
   <text x="190" y="332" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">All Costco cart</text>

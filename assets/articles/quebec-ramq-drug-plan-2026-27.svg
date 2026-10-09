@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 437" role="img">
   <title>Monthly RAMQ contribution at three drug-cost levels</title>
   <desc>For an adult on the public plan from 1 July 2026 to 30 June 2027, a 60 dollar covered drug costs 32.88 at the counter in the RAMQ example. Two 60 dollar drugs cost 50.88. At 400 dollars of covered drugs the contribution is capped at 105.25. The premium on the tax return is separate.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="437" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">What you pay at the pharmacy, before the annual premium</text>
   <text x="24" y="52" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">1 July 2026 to 30 June 2027. Deductible $21.25, then 30 percent, cap $105.25.</text>
   <line x1="80" y1="300" x2="680" y2="300" stroke="#E5E7EB"/>
@@ -17,5 +17,5 @@
   <text x="530" y="200" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif">$105.25</text>
   <text x="530" y="324" text-anchor="middle" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$400 of drugs</text>
   <text x="24" y="364" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">The first two bars are the worked example in the 30 June 2026 RAMQ release. The third is the monthly cap.</text>
-  <text x="24" y="386" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">A person with GIS at 1 to 93 percent has a lower monthly cap of $58.08. The premium of $0 to $789 is on the Quebec return, not on these bars.</text>
+  <text x="24" y="386" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif"><tspan x="24">A person with GIS at 1 to 93 percent has a lower monthly cap of $58.08. The premium of $0 to $789 is on the Quebec </tspan><tspan x="24" dy="16.2">return, not on these bars.</tspan></text>
 </svg>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 437" role="img" aria-labelledby="title desc">
   <title id="title">EQ Bank vs Wealthsimple chequing vs Tangerine habit matrix</title>
   <desc id="desc">Three use-cases: EQ everyday rate with payroll, Wealthsimple asset tiers plus spending perks, Tangerine five-month promo then cliff. Public figures 21 Sep 2026.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="437" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Pick the cash account that matches the habit</text>
   <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Rates move. Confirm issuer pages. As of 21 Sep 2026.</text>
   <rect x="24" y="78" width="216" height="250" rx="12" fill="#E7F4EE"/>
@@ -32,7 +32,7 @@
   <text x="496" y="232" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">$250 payroll switch offer*</text>
   <text x="496" y="262" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Best for: promo hopping</text>
   <text x="496" y="284" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">if you will move at month 6.</text>
-  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">EQ rates effective 16 Sep 2026. Wealthsimple tiers as of 11 Jun 2026. Tangerine promo: Ratehub 21 Sep 2026. *Payroll bonus terms on tangerine.ca (client numbers through 31 Oct 2026).</text>
-  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Notice savings (EQ 2.35% / 2.75%) delay withdrawals. CIPF is for dealer insolvency, not chequing cash. Education only.</text>
-  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Do not invent live affiliate deals. Confirm every rate and bonus on the issuer page before you switch payroll.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280"><tspan x="24">EQ rates effective 16 Sep 2026. Wealthsimple tiers as of 11 Jun 2026. Tangerine promo: Ratehub 21 Sep 2026. *Payroll </tspan><tspan x="24" dy="16.2">bonus terms on tangerine.ca (client numbers through 31 Oct 2026).</tspan></text>
+  <text x="24" y="382" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,16.2)">Notice savings (EQ 2.35% / 2.75%) delay withdrawals. CIPF is for dealer insolvency, not chequing cash. Education only.</text>
+  <text x="24" y="404" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,16.2)">Do not invent live affiliate deals. Confirm every rate and bonus on the issuer page before you switch payroll.</text>
 </svg>

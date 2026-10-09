@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 454" role="img" aria-labelledby="title desc">
   <title id="title">Key money and application fees in Canada — refuse the rebrands</title>
   <desc id="desc">Common illegal or red-flag landlord fees across Ontario, B.C., and Québec: application fees, holding e-transfers, key money, and extra damage deposits. Walking away can be cheaper than paying to “win” the unit.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="454" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">“Everyone pays this” is not a statute</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Ontario LTB · B.C. RTB · Québec TAL. 20 Sep 2026. Cash saved, not litigation theatre.</text>
   <rect x="24" y="80" width="220" height="214" rx="12" fill="#E7F4EE"/>
@@ -29,6 +29,6 @@
   <text x="504" y="224" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">one more viewing day</text>
   <text x="504" y="248" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">Recover if already paid</text>
   <text x="504" y="272" font-size="13" fill="#E7F4EE" font-family="Inter, system-ui, sans-serif">T1 / RTB / TAL path</text>
-  <text x="24" y="328" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">B.C. cannot charge to process an application (RTB). Ontario rental-offences material flags extra fees. Québec bars extra amounts besides rent.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Educational map. Atlantic and Prairie rules differ — find that province’s tenancy office before you import these three. Not legal advice.</text>
+  <text x="24" y="328" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif"><tspan x="24">B.C. cannot charge to process an application (RTB). Ontario rental-offences material flags extra fees. Québec </tspan><tspan x="24" dy="17.6">bars extra amounts besides rent.</tspan></text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)"><tspan x="24">Educational map. Atlantic and Prairie rules differ — find that province’s tenancy office before you import these three. </tspan><tspan x="24" dy="16.2">Not legal advice.</tspan></text>
 </svg>

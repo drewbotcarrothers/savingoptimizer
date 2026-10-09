@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 436" role="img" aria-labelledby="title desc">
   <title id="title">Zone A Opus: monthly vs tickets for three commute profiles</title>
   <desc id="desc">Hybrid 26 × $3.75 = $97.50 beats the $110 monthly. Five weekday round trips already pass $110. Confirm stm.info / artm.quebec before you load the card.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="436" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Zone A Opus: monthly vs tickets for three commute profiles</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">ARTM/STM fares in effect 1 Jul 2026. Ordinary 1-trip $3.75; monthly All Modes A $110.</text>
   <line x1="64" y1="88" x2="64" y2="300" stroke="#E5E7EB"/>
@@ -23,5 +23,5 @@
   <text x="502" y="100" text-anchor="middle" font-size="12" font-weight="700" fill="#4B9B74" font-family="Inter, system-ui, sans-serif">$170</text>
   <text x="502" y="322" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">AB monthly</text>
   <text x="502" y="338" text-anchor="middle" font-size="10" fill="#6B7280" font-family="Inter, system-ui, sans-serif">off-island</text>
-  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Hybrid 26 × $3.75 = $97.50 beats the $110 monthly. Five weekday round trips already pass $110. Confirm stm.info / artm.quebec before you load the card.</text>
+  <text x="24" y="376" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280"><tspan x="24">Hybrid 26 × $3.75 = $97.50 beats the $110 monthly. Five weekday round trips already pass $110. Confirm stm.info / </tspan><tspan x="24" dy="16.2">artm.quebec before you load the card.</tspan></text>
 </svg>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 454" role="img" aria-labelledby="title desc">
   <title id="title">PC Express vs Voilà vs Instacart fee anatomy</title>
   <desc id="desc">Stacked comparison of typical extra cost on a $100 grocery order: delivery or pickup fee, service fee or pass, markup, and tip.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="454" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Extra cost on a $100 basket (illustrative, before tax)</text>
-  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Fees change by city and slot. Confirm in-app. Pass prices: PC Express $99.99/yr; Voilà Anytime $99.99/yr; Instacart+ often $99/yr.</text>
-  <g font-family="Inter, system-ui, sans-serif">
+  <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280"><tspan x="24">Fees change by city and slot. Confirm in-app. Pass prices: PC Express $99.99/yr; Voilà Anytime $99.99/yr; </tspan><tspan x="24" dy="17.6">Instacart+ often $99/yr.</tspan></text>
+  <g font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">
     <!-- PC Express pickup no pass: $1 -->
     <rect x="70" y="250" width="100" height="50" rx="6" fill="#4B9B74"/>
     <text x="120" y="240" text-anchor="middle" font-size="14" font-weight="700" fill="#0F7A4B">~$1</text>
@@ -38,5 +38,5 @@
     <rect x="600" y="154" width="12" height="12" fill="#0F7A4B"/>
     <text x="618" y="164" font-size="11" fill="#6B7280">Delivery</text>
   </g>
-  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">With a pass, PC Express and Voilà drop toward $0 delivery on eligible orders. Instacart+ waives some delivery but usually not markup or tip. Reviewed 16 Sep 2026.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,17.6)"><tspan x="24">With a pass, PC Express and Voilà drop toward $0 delivery on eligible orders. Instacart+ waives some delivery but </tspan><tspan x="24" dy="16.2">usually not markup or tip. Reviewed 16 Sep 2026.</tspan></text>
 </svg>

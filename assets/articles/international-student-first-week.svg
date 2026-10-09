@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 417" role="img" aria-labelledby="title desc">
   <title id="title">First-week grocery kit for international students in Canada</title>
   <desc id="desc">Budget blocks for a first-week staple kit under $80 at a discounter instead of a campus convenience store.</desc>
-  <rect width="720" height="400" fill="#FFFFFF"/>
+  <rect width="720" height="417" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Week one: discounter kit, not airport pricing</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Illustrative first-week cart under $80. Campus convenience and downtown mini-marts are a tuition surcharge.</text>
   <g font-family="Inter, system-ui, sans-serif">
@@ -32,5 +32,5 @@
     <text x="586" y="280" text-anchor="middle" font-size="12" fill="#6B7280">ID for Tuesday</text>
   </g>
   <text x="24" y="340" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#1A1A1A">Find Food Basics, No Frills, FreshCo, Maxi, Super C, or an ethnic grocer on transit. Install Flipp the same day.</text>
-  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer - Canada - 20 Sep 2026. GST/HST is generally not charged on basic groceries; snacks and prepared foods often are.</text>
+  <text x="24" y="372" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280"><tspan x="24">Saving Optimizer - Canada - 20 Sep 2026. GST/HST is generally not charged on basic groceries; snacks and prepared </tspan><tspan x="24" dy="16.2">foods often are.</tspan></text>
 </svg>

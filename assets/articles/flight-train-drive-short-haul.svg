@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 453" role="img" aria-labelledby="title desc">
   <title id="title">Flight versus train versus drive for a short Canadian trip</title>
   <desc id="desc">Door-to-door one-way cost sketch for Toronto-Montreal comparing airfare plus airport access, Via Economy, and a car with one or three passengers.</desc>
-  <rect width="720" height="420" fill="#FFFFFF"/>
+  <rect width="720" height="453" fill="#FFFFFF"/>
   <text x="24" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Door-to-door, not ticket vs gas - Toronto-Montreal</text>
   <text x="24" y="56" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Labelled one-way. Air and Via are 2026 fare bands. Confirm live. Reviewed 20 Sep 2026.</text>
   <line x1="56" y1="80" x2="56" y2="290" stroke="#E5E7EB"/>
@@ -25,7 +25,7 @@
   <text x="520" y="310" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Drive / 3</text>
   <text x="520" y="326" text-anchor="middle" font-size="11" fill="#6B7280" font-family="Inter, system-ui, sans-serif">~$40-$60 ea</text>
   <text x="641" y="310" text-anchor="middle" font-size="11" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Via / 3</text>
-  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Flight bar includes a cheap-ish fare plus UP/rideshare or airport parking and a bag. 70 minutes in the air is not door-to-door. Union and Central Station skip that.</text>
-  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Three adults in one car crush per-person cost. Three advance Economy seats can still win if downtown-to-downtown and nobody wants the 401. Carbon is secondary here.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Keep vacation itineraries in Travel. This page is mode-cost math for errands, meetings, and visiting family under ~800 km.</text>
+  <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280"><tspan x="24">Flight bar includes a cheap-ish fare plus UP/rideshare or airport parking and a bag. 70 minutes in the air is not </tspan><tspan x="24" dy="16.2">door-to-door. Union and Central Station skip that.</tspan></text>
+  <text x="24" y="380" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,16.2)"><tspan x="24">Three adults in one car crush per-person cost. Three advance Economy seats can still win if downtown-to-downtown </tspan><tspan x="24" dy="16.2">and nobody wants the 401. Carbon is secondary here.</tspan></text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280" transform="translate(0,16.2) translate(0,16.2)">Keep vacation itineraries in Travel. This page is mode-cost math for errands, meetings, and visiting family under ~800 km.</text>
 </svg>
