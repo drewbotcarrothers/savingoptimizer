@@ -18,7 +18,7 @@
   <text x="268" y="138" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Sized to keep heating at −25°C</text>
   <text x="268" y="162" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">COP still drops in the deep freeze</text>
   <text x="268" y="186" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Needs panel, siting, and defrost</text>
-  <text x="268" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Marketing floor ` seasonal COP.</text>
+  <text x="268" y="222" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Marketing floor, not seasonal COP.</text>
   <text x="268" y="240" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Read the spec sheet at −15°C.</text>
   <text x="268" y="276" font-size="12" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Ask: lockout temp and backup.</text>
   <rect x="480" y="78" width="216" height="230" rx="12" fill="#E7F4EE" transform="translate(0,17.6)"/>
