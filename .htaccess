@@ -9,4 +9,7 @@
   RewriteEngine On
   RewriteCond %{HTTP_HOST} ^www\.savingoptimizer\.com(:[0-9]+)?$ [NC]
   RewriteRule ^ https://savingoptimizer.com%{REQUEST_URI} [R=301,L,NE]
+
+  # Old author URL: one permanent redirect to the author page
+  RewriteRule ^about/andrew-carrothers\.html$ https://savingoptimizer.com/about/andrew.html [R=301,L]
 </IfModule>
