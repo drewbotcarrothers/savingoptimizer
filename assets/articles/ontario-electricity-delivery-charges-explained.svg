@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Ontario bill anatomy: six lines that are not the same ¢</title>
-  <desc id="desc">RPP commodity vs delivery vs regulatory vs the 23.5% OER. As of 20 Sep 2026.</desc>
+  <desc id="desc">RPP commodity vs delivery vs regulatory vs the 15.7% OER (from 1 Nov 2026). Checked 23 Oct 2026.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario bill anatomy: six lines that are not the same ¢</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">RPP commodity vs delivery vs regulatory vs the 23.5% OER. As of 20 Sep 2026.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">RPP commodity vs delivery vs regulatory vs the 15.7% OER (from 1 Nov 2026). Checked 23 Oct 2026.</text>
   <rect x="24" y="78" width="216" height="140" rx="12" fill="#E7F4EE"/>
   <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">1. Electricity (RPP)</text>
   <text x="40" y="132" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">TOU, ULO, or Tiered.</text>
@@ -21,10 +21,10 @@
   <text x="496" y="152" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">from 1 Jan 2026.</text>
   <text x="496" y="182" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">Province-wide, not shoppable.</text>
   <rect x="24" y="234" width="216" height="140" rx="12" fill="#F3F4F6"/>
-  <text x="40" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. OER 23.5%</text>
+  <text x="40" y="262" font-size="15" font-weight="700" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">4. OER 15.7%</text>
   <text x="40" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Pre-HST credit on the</text>
-  <text x="40" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">eligible base (from 13.1%).</text>
-  <text x="40" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">About $36 on 700 kWh illus.</text>
+  <text x="40" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">eligible base (was 23.5%).</text>
+  <text x="40" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">About $23 on 700 kWh (OEB).</text>
   <rect x="252" y="234" width="216" height="140" rx="12" fill="#E7F4EE"/>
   <text x="268" y="262" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif">5. Global Adjustment</text>
   <text x="268" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">Inside RPP ¢.</text>
@@ -35,5 +35,5 @@
   <text x="496" y="288" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">The clock, or rarely</text>
   <text x="496" y="308" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif">a contract. Not poles.</text>
   <text x="496" y="338" font-size="12" fill="#6B7280" font-family="Inter, system-ui, sans-serif">USMP suites cannot elect.</text>
-  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: OEB RPP / regulatory orders; Hydro One and Toronto Hydro residential rates. Education only.</text>
+  <text x="24" y="400" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Sources: OEB RPP (16 Oct 2026) and regulatory orders; Hydro One and Toronto Hydro rates. Education only.</text>
 </svg>

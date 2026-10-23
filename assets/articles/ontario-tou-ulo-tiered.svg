@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 472" role="img" aria-labelledby="title desc">
   <title id="title">Ontario RPP commodity prices: TOU vs ULO vs Tiered</title>
-  <desc id="desc">OEB Regulated Price Plan commodity prices effective 1 November 2026: TOU 9.8 / 15.7 / 18.9 ¢/kWh, ULO overnight 3.7 ¢ and weekday 4–9 p.m. 37.7 ¢, Tiered 12.0 then 13.2 ¢/kWh. Delivery and the Ontario Electricity Rebate are separate.</desc>
+  <desc id="desc">OEB Regulated Price Plan commodity prices effective 1 November 2026: TOU 9.1 / 14.6 / 18.9 ¢/kWh, ULO overnight 3.7 ¢ and weekday 4–9 p.m. 37.7 ¢, Tiered 11.2 then 13.2 ¢/kWh. Delivery and the Ontario Electricity Rebate are separate.</desc>
   <rect width="720" height="472" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#1A1A1A">Ontario RPP commodity only (OEB, 1 Nov 2026)</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280"><tspan x="24">Not your all-in bill. Delivery, regulatory charges, and the 15.7% Ontario Electricity Rebate sit on other lines. As </tspan><tspan x="24" dy="17.6">of 20 Sep 2026.</tspan></text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280"><tspan x="24">Not your all-in bill. Delivery, regulatory charges, and the 15.7% Ontario Electricity Rebate sit on other lines. </tspan><tspan x="24" dy="17.6">Checked 23 Oct 2026.</tspan></text>
   <rect x="24" y="78" width="216" height="248" rx="12" fill="#E7F4EE" transform="translate(0,17.6)"/>
   <text x="40" y="106" font-size="15" font-weight="700" fill="#0F7A4B" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Time-of-Use</text>
   <text x="40" y="136" font-size="13" fill="#1A1A1A" font-family="Inter, system-ui, sans-serif" transform="translate(0,17.6)">Off-peak 9.1¢</text>
