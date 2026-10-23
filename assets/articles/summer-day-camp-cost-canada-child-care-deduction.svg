@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Example with made-up inputs: nine summer weeks by care type</title>
-  <desc>Example with made-up inputs. Nine weeks from July into August. Bar height follows the made-up cost. City day camp weeks are $175 or $190. A specialty day camp week is $340. A sitter week is $150. An overnight week costs $780 and the deductible portion for a child under 7 is $200.</desc>
+  <title>Example with illustrative inputs: nine summer weeks by care type</title>
+  <desc>Example with illustrative inputs. Nine weeks from July into August. Bar height follows the example cost. City day camp weeks are $175 or $190. A specialty day camp week is $340. A sitter week is $150. An overnight week costs $780 and the deductible portion for a child under 7 is $200.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="26" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: nine summer weeks</text>
-  <text x="24" y="46" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">July into August. Height follows the made-up cost. Not a city's price list.</text>
+  <text x="24" y="26" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with illustrative inputs: nine summer weeks</text>
+  <text x="24" y="46" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">July into August. Height follows the example cost. Not a city's price list.</text>
   <rect x="28" y="276" width="64" height="34" fill="#0F7A4B"/>
   <text x="60" y="268" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">$175</text>
   <text x="60" y="326" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">W1</text>
@@ -41,5 +41,5 @@
   <rect x="380" y="348" width="14" height="14" fill="#1A1A1A"/>
   <text x="400" y="360" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Overnight, cost $780, deductible $200</text>
   <text x="24" y="392" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Child under 7 at year-end. Overnight deductible is the $200 weekly amount, not the $780 fee.</text>
-  <text x="24" y="410" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 29 Sep 2026.</text>
+  <text x="24" y="410" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer. Example with illustrative inputs. As of 29 Sep 2026.</text>
 </svg>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
-<title id="t">Example with made-up inputs: points from one trip</title>
-<desc id="d">Horizontal bars for made-up points: detergent 2,000, chicken 1,000, yogurt 500, bread 500.</desc>
+<title id="t">Example with illustrative inputs: points from one trip</title>
+<desc id="d">Horizontal bars for example points: detergent 2,000, chicken 1,000, yogurt 500, bread 500.</desc>
 <rect width="720" height="420" fill="#FFFFFF"/>
-<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: points from one trip</text>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with illustrative inputs: points from one trip</text>
 <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Loaded offers used on list items</text>
 <text x="240" y="117.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Laundry detergent</text>
 <rect x="250" y="93.0" width="350.0" height="40.0" rx="3" fill="#0F7A4B"/>

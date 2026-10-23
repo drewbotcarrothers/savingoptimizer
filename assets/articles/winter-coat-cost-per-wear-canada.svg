@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Example with made-up inputs: coat cost per wear over five winters</title>
-  <desc>Example with made-up inputs. Line chart of cost per wear against winters of use for three coat prices, $180, $360 and $540. Each winter is 50 wears. Cost per wear is price divided by total wears. No repair is included in the lines.</desc>
+  <title>Example with illustrative inputs: coat cost per wear over five winters</title>
+  <desc>Example with illustrative inputs. Line chart of cost per wear against winters of use for three coat prices, $180, $360 and $540. Each winter is 50 wears. Cost per wear is price divided by total wears. No repair is included in the lines.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: cost per wear</text>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with illustrative inputs: cost per wear</text>
   <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Price divided by 50 wears times the number of winters. Not a store price.</text>
   <line x1="80" y1="80" x2="680" y2="80" stroke="#E5E7EB"/>
   <line x1="80" y1="166" x2="680" y2="166" stroke="#E5E7EB"/>

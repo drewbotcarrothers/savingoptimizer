@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 454" role="img" aria-labelledby="title desc">
   <title id="title">Example: a 90-day Costco Gold Star audit</title>
-  <desc id="desc">Example with made-up inputs. $60 of unit-price wins, minus $12 of waste, minus $10 of extra driving, minus $16.25 of pro-rated Gold Star fee, leaves a net of $21.75 after 90 days.</desc>
+  <desc id="desc">Example with illustrative inputs. $60 of unit-price wins, minus $12 of waste, minus $10 of extra driving, minus $16.25 of pro-rated Gold Star fee, leaves a net of $21.75 after 90 days.</desc>
   <rect width="720" height="454" fill="#FFFFFF"/>
   <text x="24" y="36" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Example: a 90-day Gold Star audit</text>
-  <text x="24" y="60" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Gold Star $65 a year plus tax (Costco.ca, checked 20 Oct 2026).</text>
+  <text x="24" y="60" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with illustrative inputs. Gold Star $65 a year plus tax (Costco.ca, checked 20 Oct 2026).</text>
   <line x1="70" y1="360" x2="690" y2="360" stroke="#9CA3AF"/>
   <!-- scale: $60 = 240 px (4 px per $); baseline y=360 -->
   <rect x="90" y="120" width="96" height="240" rx="6" fill="#0F7A4B"/>

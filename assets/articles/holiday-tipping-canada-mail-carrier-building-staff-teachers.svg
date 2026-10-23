@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
-<title id="t">Example with made-up inputs: thank-you list</title>
-<desc id="d">Horizontal bars for a made-up holiday thank-you list: cleaner $80, two concierges $60, nanny gift $50, superintendent $40, dog walker $40, mail carrier $15, teacher $10 and coach $10.</desc>
+<title id="t">Example with illustrative inputs: thank-you list</title>
+<desc id="d">Horizontal bars for an example holiday thank-you list: cleaner $80, two concierges $60, nanny gift $50, superintendent $40, dog walker $40, mail carrier $15, teacher $10 and coach $10.</desc>
 <rect width="720" height="420" fill="#FFFFFF"/>
-<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: thank-you list</text>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with illustrative inputs: thank-you list</text>
 <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Nine people, $305 in total</text>
 <text x="240" y="99.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Cleaner</text>
 <rect x="250" y="84.7" width="350.0" height="21.7" rx="3" fill="#0F7A4B"/>
@@ -28,5 +28,5 @@
 <text x="240" y="344.5" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Coach share</text>
 <rect x="250" y="329.6" width="43.8" height="21.7" rx="3" fill="#1A1A1A"/>
 <text x="301.8" y="344.5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$10</text>
-<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with illustrative inputs. As of 1 Oct 2026.</text>
 </svg>

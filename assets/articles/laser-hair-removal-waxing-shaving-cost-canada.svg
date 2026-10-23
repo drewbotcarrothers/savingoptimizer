@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Ten-year cumulative cost</title>
-  <desc>Example with made-up inputs. At year 10, shaving is $1,500, laser is $2,000, and waxing is $4,800. Not clinic fees.</desc>
+  <desc>Example with illustrative inputs. At year 10, shaving is $1,500, laser is $2,000, and waxing is $4,800. Not clinic fees.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="30" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Ten-year cumulative cost</text>
-  <text x="24" y="50" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs. Not a clinic quote.</text>
+  <text x="24" y="50" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with illustrative inputs. Not a clinic quote.</text>
   <text x="18" y="190" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" transform="rotate(-90 18 190)">Dollars</text>
   <line x1="100" y1="280.0" x2="660" y2="280.0" stroke="#E5E7EB"/>
   <text x="94" y="284.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">0</text>
@@ -26,5 +26,5 @@
   <line x1="430" y1="352" x2="460" y2="352" stroke="#1A1A1A" stroke-width="3"/>
   <text x="468" y="356" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Waxing $4,800</text>
   <text x="24" y="384" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Shaving $150 a year. Waxing $480 a year. Laser $1,600, then $200 in year 4 and year 8.</text>
-  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Arithmetic on made-up inputs only.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Saving Optimizer, 29 Sep 2026. Arithmetic on example inputs only.</text>
 </svg>

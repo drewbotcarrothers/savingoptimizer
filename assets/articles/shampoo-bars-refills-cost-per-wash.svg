@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Cost per wash</title>
-  <desc>Example with made-up inputs. Not a shelf price.</desc>
+  <desc>Example with illustrative inputs. Not a shelf price.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Cost per wash</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a shelf price.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with illustrative inputs. Not a shelf price.</text>
   <text x="24" y="86" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Cents per wash</text>
   <line x1="70" y1="292.0" x2="696" y2="292.0" stroke="#E5E7EB"/>
   <line x1="70" y1="200.0" x2="696" y2="200.0" stroke="#E5E7EB"/>
@@ -26,5 +26,5 @@
   <text x="603.3" y="314.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">Refill</text>
   <text x="603.3" y="330.0" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#1A1A1A">10 mL dose</text>
   <text x="24" y="360" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Bottle $16, 400 mL, 10 mL dose: 40 washes, 40 cents. Bar $12 over 80 washes.</text>
-  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Refill $8, 500 mL, 10 mL dose: 50 washes, 16 cents. Dose is made up.</text>
+  <text x="24" y="378" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#6B7280">Refill $8, 500 mL, 10 mL dose: 50 washes, 16 cents. Dose is an example.</text>
 </svg>

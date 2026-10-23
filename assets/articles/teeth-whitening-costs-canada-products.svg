@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Two-year whitening cost</title>
-  <desc>Example with made-up inputs. Not a clinic fee.</desc>
+  <desc>Example with illustrative inputs. Not a clinic fee.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Two-year whitening cost</text>
-  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs. Not a clinic fee.</text>
+  <text x="24" y="54" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with illustrative inputs. Not a clinic fee.</text>
   <text x="24" y="86" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Dollars</text>
   <line x1="70" y1="292.0" x2="690" y2="292.0" stroke="#E5E7EB"/>
   <text x="64" y="296.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">0</text>
