@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Example with made-up inputs: three TV totals</title>
-  <desc>Example with made-up inputs. Stacked bars for three imaginary television purchases. Set A is a 400 dollar sticker plus an 80 dollar example fee, total 480. Set B is 320 plus a 40 dollar fee plus a 150 dollar mount, total 510. Set C is 250 plus a 60 dollar fee plus a 90 dollar mount plus a 200 dollar warranty add-on, total 600. The fee is example only and is not a provincial rate.</desc>
+  <title>Example with illustrative inputs: three TV totals</title>
+  <desc>Example with illustrative inputs. Stacked bars for three imaginary television purchases. Set A is a 400 dollar sticker plus an 80 dollar example fee, total 480. Set B is 320 plus a 40 dollar fee plus a 150 dollar mount, total 510. Set C is 250 plus a 60 dollar fee plus a 90 dollar mount plus a 200 dollar warranty add-on, total 600. The fee is example only and is not a provincial rate.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs</text>
+  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with illustrative inputs</text>
   <rect x="24" y="44" width="12" height="12" fill="#0F7A4B"/>
   <text x="42" y="55" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Price</text>
   <rect x="100" y="44" width="12" height="12" fill="#6B7280"/>
@@ -18,7 +18,7 @@
   <text x="40" y="84" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$700</text>
   <text x="40" y="189" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$350</text>
   <text x="48" y="294" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">$0</text>
-  <text x="16" y="180" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" transform="rotate(-90 16 180)">Made-up dollars</text>
+  <text x="16" y="180" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280" transform="rotate(-90 16 180)">Example dollars</text>
   <rect x="150" y="170" width="90" height="120" fill="#0F7A4B"/>
   <rect x="150" y="146" width="90" height="24" fill="#6B7280"/>
   <rect x="310" y="194" width="90" height="96" fill="#0F7A4B"/>

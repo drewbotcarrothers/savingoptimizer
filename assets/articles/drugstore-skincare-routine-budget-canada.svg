@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
   <title>Monthly cost, 3 steps versus 7</title>
-  <desc>Example with made-up inputs. A 3-step routine is $27 a month and a 7-step routine is $73. Not shelf prices.</desc>
+  <desc>Example with illustrative inputs. A 3-step routine is $27 a month and a 7-step routine is $73. Not shelf prices.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1A1A1A">Monthly cost, 3 steps versus 7</text>
-  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with made-up inputs. Not a price survey.</text>
+  <text x="24" y="54" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#6B7280">Example with illustrative inputs. Not a price survey.</text>
   <text x="24" y="86" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#6B7280">Dollars a month</text>
   <line x1="70" y1="108" x2="70" y2="300" stroke="#E5E7EB"/>
   <line x1="70" y1="300" x2="690" y2="300" stroke="#E5E7EB"/>

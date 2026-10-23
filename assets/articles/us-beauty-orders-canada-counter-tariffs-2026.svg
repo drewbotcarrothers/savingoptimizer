@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Example with made-up inputs: three beauty orders split into value, surtax, and GST</title>
-  <desc>Example with made-up inputs. A 30 dollar US-marked eye make-up order by courier shows 15 dollars surtax and no GST in this example. A 120 dollar US-marked perfume shows 60 dollars surtax and 9 dollars GST. A 120 dollar France-made serum shipped from a US warehouse shows no surtax and 6 dollars GST. Duty is zero in each band shown. Classification is assumed, not ruled.</desc>
+  <title>Example with illustrative inputs: three beauty orders split into value, surtax, and GST</title>
+  <desc>Example with illustrative inputs. A 30 dollar US-marked eye make-up order by courier shows 15 dollars surtax and no GST in this example. A 120 dollar US-marked perfume shows 60 dollars surtax and 9 dollars GST. A 120 dollar France-made serum shipped from a US warehouse shows no surtax and 6 dollars GST. Duty is zero in each band shown. Classification is assumed, not ruled.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
   <text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example landed cost, three orders</text>
-  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with made-up inputs. Duty is 0 in each bar.</text>
+  <text x="24" y="52" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Example with illustrative inputs. Duty is 0 in each bar.</text>
   <text x="24" y="100" font-family="Inter, Arial, sans-serif" font-size="12" fill="#1A1A1A">Eye make-up, $30</text>
   <rect x="200" y="82" width="57" height="22" fill="#6B7280"/>
   <rect x="257" y="82" width="29" height="22" fill="#0F7A4B"/>
