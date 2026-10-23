@@ -1628,3 +1628,10 @@ nav.crumbs a:hover { color: var(--green); }
   border-radius: var(--radius);
   background: var(--soft-grey);
 }
+
+/* Hub back-link under a guide's byline */
+.hub-link {
+  margin: -0.35rem 0 1rem;
+  font-size: 0.9rem;
+  color: var(--mid-grey);
+}
