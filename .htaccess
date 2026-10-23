@@ -13,3 +13,19 @@
   # Old author URL: one permanent redirect to the author page
   RewriteRule ^about/andrew-carrothers\.html$ https://savingoptimizer.com/about/andrew.html [R=301,L]
 </IfModule>
+
+# Merged guides (Oct 2026): exact-path 301s from removed duplicate guides to the kept guide
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^guides/articles/bank-switching-bonus-canada\.html$ https://savingoptimizer.com/guides/articles/how-to-switch-banks-canada-14-day-plan.html [R=301,L]
+  RewriteRule ^guides/articles/lower-water-sewer-bill-canada-municipal\.html$ https://savingoptimizer.com/guides/articles/toronto-water-bill-sewer-charge-explained.html [R=301,L]
+  RewriteRule ^guides/articles/multi-policy-insurance-discount-canada\.html$ https://savingoptimizer.com/guides/articles/multi-car-insurance-discounts-canada.html [R=301,L]
+  RewriteRule ^guides/articles/pet-insurance-plan-types-canada\.html$ https://savingoptimizer.com/guides/articles/is-pet-insurance-worth-it-canada.html [R=301,L]
+  RewriteRule ^guides/articles/pet-insurance-premium-increases-canada\.html$ https://savingoptimizer.com/guides/articles/is-pet-insurance-worth-it-canada.html [R=301,L]
+  RewriteRule ^guides/articles/black-friday-vs-boxing-day-clothing-canada\.html$ https://savingoptimizer.com/guides/articles/black-friday-vs-boxing-day-appliances-canada.html [R=301,L]
+  RewriteRule ^guides/articles/black-friday-vs-boxing-day-tech-canada-2026\.html$ https://savingoptimizer.com/guides/articles/black-friday-vs-boxing-day-appliances-canada.html [R=301,L]
+  RewriteRule ^guides/articles/repayment-assistance-plan-how-much-pay-canada\.html$ https://savingoptimizer.com/guides/articles/student-loan-repayment-canada-grace-period-rap.html [R=301,L]
+  RewriteRule ^guides/articles/costco-gas-membership-canada-worth-the-trip\.html$ https://savingoptimizer.com/guides/articles/does-costco-gas-make-the-membership-worth-it-in-canada.html [R=301,L]
+  RewriteRule ^guides/articles/starlink-vs-rural-internet-canada\.html$ https://savingoptimizer.com/guides/articles/xplore-vs-starlink-rural-canada.html [R=301,L]
+  RewriteRule ^guides/articles/adding-teen-driver-insurance-canada-life-event\.html$ https://savingoptimizer.com/guides/articles/young-driver-auto-insurance-canada-parents.html [R=301,L]
+</IfModule>
