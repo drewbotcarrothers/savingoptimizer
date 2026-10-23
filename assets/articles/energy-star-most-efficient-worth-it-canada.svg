@@ -26,5 +26,5 @@
     <text x="615" y="282" text-anchor="middle" font-weight="700" fill="#0F7A4B">$25</text>
     <text x="615" y="344" text-anchor="middle">Dishwasher</text>
   </g>
-  <text x="24" y="384" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280"><tspan x="24">Payback years are omitted. They need a published price gap and a published EnerGuide kWh gap. Ontario off-peak is 9.8 cents </tspan><tspan x="24" dy="14.9">and on-peak is 20.3 cents on the OEB page opened the same day.</tspan></text>
+  <text x="24" y="384" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280"><tspan x="24">Payback years are omitted. They need a published price gap and a published EnerGuide kWh gap. Ontario off-peak is 9.1 cents </tspan><tspan x="24" dy="14.9">and on-peak is 18.9 cents from 1 Nov 2026 (OEB, checked 23 Oct 2026).</tspan></text>
 </svg>
