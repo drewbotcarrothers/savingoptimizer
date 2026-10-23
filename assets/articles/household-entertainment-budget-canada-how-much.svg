@@ -25,5 +25,5 @@
 <text x="240" y="342.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Nova Scotia</text>
 <rect x="250" y="325.6" width="261.7" height="24.8" rx="3" fill="#0F7A4B"/>
 <text x="519.7" y="342.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$4,469</text>
-<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example only. As of 1 Oct 2026.</text>
 </svg>
