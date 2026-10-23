@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
-<title id="t">Example with made-up inputs: monthly movie cost</title>
+<title id="t">Example: monthly movie cost</title>
 <desc id="d">Horizontal bars. Occasional without $8.75, with $10.99. Monthly without $32.50, with $22.99. Frequent without $97.50, with $68.97.</desc>
 <rect width="720" height="420" fill="#FFFFFF"/>
-<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example with made-up inputs: monthly movie cost</text>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example: monthly movie cost</text>
 <text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">With and without CineClub for three moviegoers</text>
 <text x="240" y="105.3" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Frequent, without CineClub</text>
 <rect x="250" y="86.9" width="350.0" height="28.9" rx="3" fill="#0F7A4B"/>
@@ -22,5 +22,5 @@
 <text x="240" y="338.7" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Occasional, with CineClub</text>
 <rect x="250" y="320.2" width="39.5" height="28.9" rx="3" fill="#1A1A1A"/>
 <text x="297.5" y="338.7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$10.99</text>
-<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with made-up inputs. As of 1 Oct 2026.</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example only. As of 1 Oct 2026.</text>
 </svg>
