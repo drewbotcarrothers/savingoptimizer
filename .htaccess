@@ -1,0 +1,12 @@
+# Saving Optimizer - Apache/LiteSpeed rules (deployed to public_html by Hostinger Git sync)
+
+# Canonical host: send every www.savingoptimizer.com request to the apex domain
+# with a single 301, keeping the path. The query string is carried over
+# automatically because the target has no "?" of its own.
+# HTTP -> HTTPS on the apex is left to Hostinger's own SSL redirect, to avoid
+# redirect loops behind the Hostinger CDN.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP_HOST} ^www\.savingoptimizer\.com(:[0-9]+)?$ [NC]
+  RewriteRule ^ https://savingoptimizer.com%{REQUEST_URI} [R=301,L,NE]
+</IfModule>
