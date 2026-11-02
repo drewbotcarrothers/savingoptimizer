@@ -1,43 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img">
-  <title>Costco unit cost beside a name brand on the same 10 June 2026 list</title>
-  <desc>Six pairs. In each pair the longer bar is the higher unit cost on the Costco East list posted 10 June 2026. Kirkland is the shorter bar in every pair shown. Units differ by row and are printed on the bars.</desc>
+  <title>Kirkland unit cost beside a name brand on the same 7 October 2026 Costco East list</title>
+  <desc>Seven pairs from the Costco East cleaning-supply list of 7 October 2026, regular tags. Green is the lower unit cost in each pair. Kirkland is lower on liquid laundry versus Tide, pacs, tissue, paper towel and freezer bags; Palmolive dish liquid and Springtime laundry are lower than Kirkland.</desc>
   <rect width="720" height="420" fill="#FFFFFF"/>
-  <text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">Same-list unit cost, Kirkland beside a name brand</text>
-  <text x="24" y="46" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Each pair is scaled to its own higher price. Do not compare bar lengths across rows. Green is the lower unit cost.</text>
+  <text x="24" y="26" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#1A1A1A">Same-list unit cost, Kirkland beside a name brand (7 Oct 2026)</text>
+  <text x="24" y="44" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Each pair is scaled to its own higher price. Do not compare bar lengths across rows. Green is the lower unit cost.</text>
   <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#1A1A1A">
-    <text x="24" y="74">Liquid, cents/load</text>
-    <rect x="160" y="62" width="167" height="14" fill="#0F7A4B"/>
-    <text x="332" y="73" fill="#1A1A1A">Kirkland 13.69</text>
-    <rect x="160" y="78" width="200" height="14" fill="#D1D5DB"/>
-    <text x="366" y="89" fill="#1A1A1A">Tide Original 16.43</text>
-    <text x="24" y="122">Pacs, cents each</text>
-    <rect x="160" y="110" width="142" height="14" fill="#0F7A4B"/>
-    <text x="308" y="121" fill="#1A1A1A">Kirkland 17.76</text>
-    <rect x="160" y="126" width="200" height="14" fill="#D1D5DB"/>
-    <text x="366" y="137" fill="#1A1A1A">Tide Pods 152 ct 24.99</text>
-    <text x="24" y="170">Bath tissue, cents/100 sheets</text>
-    <rect x="160" y="158" width="78" height="14" fill="#0F7A4B"/>
-    <text x="244" y="169" fill="#1A1A1A">Kirkland 21.04</text>
-    <rect x="160" y="174" width="200" height="14" fill="#D1D5DB"/>
-    <text x="366" y="185" fill="#1A1A1A">Charmin 54.15</text>
-    <text x="24" y="218">Towels, $ per 100 sheets</text>
-    <rect x="160" y="206" width="87" height="14" fill="#0F7A4B"/>
-    <text x="252" y="217" fill="#1A1A1A">Kirkland $1.30</text>
-    <rect x="160" y="222" width="200" height="14" fill="#D1D5DB"/>
-    <text x="366" y="233" fill="#1A1A1A">Bounty Plus $2.98</text>
-    <text x="24" y="266">Dish liquid, $ per litre</text>
-    <rect x="160" y="254" width="146" height="14" fill="#0F7A4B"/>
-    <text x="312" y="265" fill="#1A1A1A">Kirkland $4.13</text>
-    <rect x="160" y="270" width="200" height="14" fill="#D1D5DB"/>
-    <text x="366" y="281" fill="#1A1A1A">Dawn Platinum $5.64</text>
-    <text x="24" y="314">Large freezer bag, cents</text>
-    <rect x="160" y="302" width="142" height="14" fill="#0F7A4B"/>
-    <text x="308" y="313" fill="#1A1A1A">Kirkland 10.41</text>
-    <rect x="160" y="318" width="200" height="14" fill="#D1D5DB"/>
-    <text x="366" y="329" fill="#1A1A1A">Ziploc 14.66</text>
+    <text x="24" y="77">Dish liquid, $/L</text>
+    <rect x="170" y="58" width="200" height="14" fill="#9CA3AF"/>
+    <text x="376" y="69">Kirkland 4.13</text>
+    <rect x="170" y="75" width="113" height="14" fill="#0F7A4B"/>
+    <text x="289" y="86">Palmolive 2.34</text>
+    <text x="24" y="125">Liquid, cents/load</text>
+    <rect x="170" y="106" width="133" height="14" fill="#0F7A4B"/>
+    <text x="309" y="117">Kirkland 13.69</text>
+    <rect x="170" y="123" width="200" height="14" fill="#9CA3AF"/>
+    <text x="376" y="134">Tide Original 20.54</text>
+    <text x="24" y="173">Liquid, cents/load</text>
+    <rect x="170" y="154" width="200" height="14" fill="#9CA3AF"/>
+    <text x="376" y="165">Kirkland 13.69</text>
+    <rect x="170" y="171" width="111" height="14" fill="#0F7A4B"/>
+    <text x="287" y="182">Springtime 7.60</text>
+    <text x="24" y="221">Pacs, cents each</text>
+    <rect x="170" y="202" width="142" height="14" fill="#0F7A4B"/>
+    <text x="318" y="213">Kirkland 17.76</text>
+    <rect x="170" y="219" width="200" height="14" fill="#9CA3AF"/>
+    <text x="376" y="230">Tide Pods 24.99</text>
+    <text x="24" y="269">Tissue, cents/100</text>
+    <rect x="170" y="250" width="196" height="14" fill="#0F7A4B"/>
+    <text x="372" y="261">Kirkland 21.04</text>
+    <rect x="170" y="267" width="200" height="14" fill="#9CA3AF"/>
+    <text x="376" y="278">Cashmere* 21.49</text>
+    <text x="24" y="317">Towel, $/100 sheets</text>
+    <rect x="170" y="298" width="113" height="14" fill="#0F7A4B"/>
+    <text x="289" y="309">Kirkland 1.35</text>
+    <rect x="170" y="315" width="200" height="14" fill="#9CA3AF"/>
+    <text x="376" y="326">Bounty Plus* 2.38</text>
+    <text x="24" y="365">Freezer bag, cents</text>
+    <rect x="170" y="346" width="143" height="14" fill="#0F7A4B"/>
+    <text x="319" y="357">Kirkland 11.45</text>
+    <rect x="170" y="363" width="200" height="14" fill="#9CA3AF"/>
+    <text x="376" y="374">Ziploc 15.99</text>
   </g>
-  <text x="24" y="360" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Palmolive Advanced on the same list was $2.34/L, lower than Kirkland dish liquid. That pair is in the table, not this chart.</text>
-  <text x="24" y="378" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Tide Original price includes a $6 instant saving the list said expired 5 Jul 2026. Cash prices can move.</text>
-  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer, 26 Sep 2026. Within each pair the higher unit cost is drawn at 200 px.</text>
+  <text x="24" y="404" font-family="Inter, Arial, sans-serif" font-size="10" fill="#6B7280">* saving ended 25 Oct 2026. Source: Costco East cleaning-supply post, 7 Oct 2026 (Ontario, Atlantic). Saving Optimizer, 2 Nov 2026.</text>
 </svg>
