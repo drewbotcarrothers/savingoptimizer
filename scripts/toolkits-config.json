@@ -1,0 +1,168 @@
+{
+ "_note": "Edit this file, then run: python3 scripts/build-toolkits.py. Payment Link URLs below are PLACEHOLDERS until Andrew creates the live Stripe Payment Links. Never put paid PDFs or buyer download URLs in this repo.",
+ "price_display": "CA$15",
+ "price_amount": "15.00",
+ "currency": "CAD",
+ "support_email": "contact@savingoptimizer.com",
+ "refund_days": 30,
+ "utm": {
+  "utm_source": "savingoptimizer",
+  "utm_medium": "site",
+  "utm_campaign": "toolkit"
+ },
+ "payment_links": {
+  "activities": "https://buy.stripe.com/REPLACE_WITH_ACTIVITIES_PAYMENT_LINK",
+  "education": "https://buy.stripe.com/REPLACE_WITH_EDUCATION_PAYMENT_LINK",
+  "groceries": "https://buy.stripe.com/REPLACE_WITH_GROCERIES_PAYMENT_LINK",
+  "healthcare": "https://buy.stripe.com/REPLACE_WITH_HEALTHCARE_PAYMENT_LINK",
+  "household": "https://buy.stripe.com/REPLACE_WITH_HOUSEHOLD_PAYMENT_LINK",
+  "housing": "https://buy.stripe.com/REPLACE_WITH_HOUSING_PAYMENT_LINK",
+  "insurance": "https://buy.stripe.com/REPLACE_WITH_INSURANCE_PAYMENT_LINK",
+  "kids": "https://buy.stripe.com/REPLACE_WITH_KIDS_PAYMENT_LINK",
+  "money-admin": "https://buy.stripe.com/REPLACE_WITH_MONEY_ADMIN_PAYMENT_LINK",
+  "pets": "https://buy.stripe.com/REPLACE_WITH_PETS_PAYMENT_LINK",
+  "phone-internet": "https://buy.stripe.com/REPLACE_WITH_PHONE_INTERNET_PAYMENT_LINK",
+  "subscriptions": "https://buy.stripe.com/REPLACE_WITH_SUBSCRIPTIONS_PAYMENT_LINK",
+  "transportation": "https://buy.stripe.com/REPLACE_WITH_TRANSPORTATION_PAYMENT_LINK",
+  "travel": "https://buy.stripe.com/REPLACE_WITH_TRAVEL_PAYMENT_LINK",
+  "utilities": "https://buy.stripe.com/REPLACE_WITH_UTILITIES_PAYMENT_LINK",
+  "weddings": "https://buy.stripe.com/REPLACE_WITH_WEDDINGS_PAYMENT_LINK"
+ },
+ "bundles_note": "Bundles (CA$39) are not on the site until Andrew picks a structure. Add them here later; the thank-you page already accepts bundle SKUs listed in 'bundles'.",
+ "bundles": {},
+ "hubs": {
+  "groceries": [
+   "food-groceries"
+  ],
+  "transportation": [
+   "transportation"
+  ],
+  "housing": [
+   "housing"
+  ],
+  "utilities": [
+   "utilities"
+  ],
+  "kids": [
+   "kids"
+  ],
+  "household": [
+   "household-items",
+   "personal-care",
+   "clothing"
+  ],
+  "travel": [
+   "travel"
+  ],
+  "money-admin": [
+   "personal-finance"
+  ],
+  "insurance": [
+   "insurance"
+  ],
+  "healthcare": [
+   "healthcare"
+  ],
+  "pets": [
+   "pets"
+  ],
+  "subscriptions": [
+   "subscriptions"
+  ],
+  "activities": [
+   "entertainment",
+   "sports",
+   "events"
+  ],
+  "education": [
+   "education",
+   "students"
+  ],
+  "weddings": [
+   "weddings"
+  ],
+  "phone-internet": [
+   "internet",
+   "technology"
+  ]
+ },
+ "top_posts": {
+  "activities": [
+   "grey-cup-2026-calgary-tickets-festival-budget.html",
+   "stratford-shaw-festival-2027-tickets-save-canada.html"
+  ],
+  "education": [
+   "free-university-tuition-seniors-canada.html",
+   "professional-exam-fees-tuition-tax-credit-cpa.html"
+  ],
+  "groceries": [
+   "pc-express-vs-voila-vs-instacart.html",
+   "scene-plus-free-groceries-canada.html"
+  ],
+  "healthcare": [
+   "90-day-prescription-fills-canada.html",
+   "northern-health-travel-grant-ontario.html"
+  ],
+  "household": [
+   "clothing-budget-canada-households.html",
+   "sephora-beauty-insider-pc-optimum-rexall-be-well.html"
+  ],
+  "housing": [
+   "tenant-insurance-canada-compare-cheap-coverage.html",
+   "heat-included-vs-hydro-lease-canada.html"
+  ],
+  "insurance": [
+   "multi-car-insurance-discounts-canada.html",
+   "family-travel-medical-insurance-canada.html"
+  ],
+  "kids": [
+   "halloween-budget-canada-costumes-candy.html",
+   "youth-bank-accounts-canada-fees-joint-allowance-apps.html"
+  ],
+  "money-admin": [
+   "how-to-switch-banks-canada-14-day-plan.html",
+   "tfsa-withdrawal-contribution-room-canada.html"
+  ],
+  "pets": [
+   "low-cost-spay-neuter-canada.html",
+   "cat-litter-cost-per-month-canada.html"
+  ],
+  "phone-internet": [
+   "us-electronics-orders-canada-counter-tariffs-2026.html",
+   "apartment-condo-internet-canada-rights.html"
+  ],
+  "subscriptions": [
+   "paramount-apple-tv-canada-rotate.html",
+   "netflix-extra-member-sharing-canada.html"
+  ],
+  "transportation": [
+   "ttc-fare-capping-vs-presto-pass-2026.html",
+   "communauto-vs-zipcar-vs-owning-car-canada.html"
+  ],
+  "travel": [
+   "hotel-airbnb-taxes-canada-explained.html",
+   "nexus-worth-it-canada-household-break-even.html"
+  ],
+  "utilities": [
+   "toronto-water-bill-sewer-charge-explained.html",
+   "ontario-winter-disconnection-ban-electricity-gas.html"
+  ],
+  "weddings": [
+   "credit-card-points-wedding-spending-canada.html",
+   "backyard-wedding-cost-permits-canada.html"
+  ]
+ },
+ "lead_magnet": {
+  "_note": "No email provider is chosen yet. The sign-up block stays hidden until form_action AND sender_mailing_address are filled in. Field names must match the provider's form.",
+  "form_action": "",
+  "method": "post",
+  "email_field": "email",
+  "name_field": "first_name",
+  "consent_field": "casl_consent",
+  "hidden_fields": {},
+  "sample_title": "Free sample: Subscriptions Savings Toolkit 2027 (excerpt)",
+  "sender_name": "Saving Optimizer (Andrew)",
+  "sender_email": "contact@savingoptimizer.com",
+  "sender_mailing_address": ""
+ }
+}

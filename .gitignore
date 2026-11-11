@@ -1,0 +1,6 @@
+# Paid toolkit files and buyer download links must never be committed (see scripts/TOOLKITS.md).
+*.pdf
+*.zip
+*.ics
+.so-toolkit-links.ini
+.env
