@@ -1,5 +1,5 @@
 {
- "_note": "Edit this file, then run: python3 scripts/build-toolkits.py. Payment Link URLs are the live Stripe links (the Stripe account is shared with other brands; Saving Optimizer objects carry metadata brand=savingoptimizer). Never put paid PDFs or buyer download URLs in this repo.",
+ "_note": "Edit this file, then run: python3 scripts/build-toolkits.py. Payment Link URLs are the live Stripe links (the Stripe account is shared with other brands; Saving Optimizer objects carry metadata brand=savingoptimizer). Never put paid PDFs or zips in this repo. The Drive download links (downloads) are public by decision (Andrew, 2026-11-11): the thank-you page and the Stripe webhook email both read them from here.",
  "price_display": "CA$15",
  "price_amount": "15.00",
  "currency": "CAD",
@@ -192,5 +192,96 @@
   "sender_name": "Saving Optimizer (Andrew)",
   "sender_email": "contact@savingoptimizer.com",
   "sender_mailing_address": ""
+ },
+ "downloads_note": "Google Drive links, Anyone-with-link Viewer. folder_url opens the SKU folder; zip_url downloads the zip directly. Generated into toolkits/lib/toolkit-data.php.",
+ "downloads": {
+  "activities": {
+   "folder_url": "https://drive.google.com/drive/folders/1BCg8AzcT863wVIV60wq4XeatQwxuqMgl",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1IoahLEnIG93kAJ8gLai1e9KuDuIa1FM1"
+  },
+  "bundle-all": {
+   "folder_url": "https://drive.google.com/drive/folders/1qHczNIMpRgltVvYVx_rmgxdiM5KKW5_b",
+   "zip_url": "https://drive.google.com/uc?export=download&id=19xh2TZwVLs9FCXuqig7fYGqOH59Lps4L"
+  },
+  "education": {
+   "folder_url": "https://drive.google.com/drive/folders/1D6UZhkx9yGvYc4n_TweChrIswy0V5ywH",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1QOXvkqgnnykcPR5tuhWPVM2O9nj456Ma"
+  },
+  "groceries": {
+   "folder_url": "https://drive.google.com/drive/folders/1s5UhJSpAkata85PSheVzoozCZmzAN2nQ",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1QPJ2hc52apGtX6Mn2Qs7QUr9F4MABhI0"
+  },
+  "healthcare": {
+   "folder_url": "https://drive.google.com/drive/folders/1BagSRCCZps4-P4l7fD6nyWM6dnWj1WH5",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1nHlm5zsKlJcw0BD4CN5gLbSbyOIJ9kIB"
+  },
+  "household": {
+   "folder_url": "https://drive.google.com/drive/folders/17wxEXGskCCQ7UqbJLVtR8KRH0Sv0at00",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1oSybQGSWfq9i-rmis5LBuZTkmpM5yS1q"
+  },
+  "housing": {
+   "folder_url": "https://drive.google.com/drive/folders/15Jf_7oDjfNmjzpljjfwTiHSpVF170eb4",
+   "zip_url": "https://drive.google.com/uc?export=download&id=16WyWVrl4aAZeBJ54Ey04KzN0nLznhXoL"
+  },
+  "insurance": {
+   "folder_url": "https://drive.google.com/drive/folders/13EZ6cJ1ua80Q8HPOKRU1lRHoaKzUbIgZ",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1dE1fvIyGsRrlOG1yvAuaZKliLvRSXlHE"
+  },
+  "kids": {
+   "folder_url": "https://drive.google.com/drive/folders/1S8Fcnz3tWHeFDoBXWwnKV4J1_tsCCDKP",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1qcFjHIR0HuVxyEFXy-rSoGBq8CT7ktZY"
+  },
+  "money-admin": {
+   "folder_url": "https://drive.google.com/drive/folders/1GkclYCXPUZ29CMB1Isf-Wu-SFoXPhJ5I",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1kFNraZp8QgjYuhpyqhVuUJdG8sp8fypp"
+  },
+  "pets": {
+   "folder_url": "https://drive.google.com/drive/folders/1QPhd7hqbJQBhe7UCri0Q6KBuOOI0wrcx",
+   "zip_url": "https://drive.google.com/uc?export=download&id=17R5aSMN68eznA86-rtRfYmjp-fGNKHfK"
+  },
+  "phone-internet": {
+   "folder_url": "https://drive.google.com/drive/folders/17t2kQi3Iv9rJiWJdc52sEgPmm2hXuEWw",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1yOSVcb1qsGfHVkCRz1bRwxEFrfUP2pCA"
+  },
+  "subscriptions": {
+   "folder_url": "https://drive.google.com/drive/folders/1ngi74fr-x5ZSq9jU4lH6YBvgkGI1_ugP",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1zSV_gDmkKeIQhwVp3j4Hb_15SwVB0Toj"
+  },
+  "transportation": {
+   "folder_url": "https://drive.google.com/drive/folders/1GTxpObHre1SXS52KbVoqSo55M7CQ3VAq",
+   "zip_url": "https://drive.google.com/uc?export=download&id=15OMni_0UGa5DIzv7JvK41US2BYR3vFim"
+  },
+  "travel": {
+   "folder_url": "https://drive.google.com/drive/folders/1u_s_tbaJ-4pIQ5Lwhkrzlgpv_Z-XOD0W",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1aJbwn3rwx8nbhzHcuFeQDNzwiKBvvuky"
+  },
+  "utilities": {
+   "folder_url": "https://drive.google.com/drive/folders/1XDEl5S2l96JLXJvLrX497oYcSBrt4vDq",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1zS4b8yvyGpyeVKx0pAcxbdFUv8r0Q-1M"
+  },
+  "weddings": {
+   "folder_url": "https://drive.google.com/drive/folders/1z9TuLSabbARWfNbEYZhOy9DmrmgzuazQ",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1XHDQ4rPiRii_pTv-H8sax0bkNLdMMm4G"
+  }
+ },
+ "payment_link_ids_note": "Stripe live Payment Link IDs. The webhook maps session.payment_link to a SKU with this list and ignores every other brand on the shared Stripe account.",
+ "payment_link_ids": {
+  "plink_1UaXV0FtabtGqOsdqKdGE0P5": "activities",
+  "plink_1UaXicFtabtGqOsdSVQb8GJg": "bundle-all",
+  "plink_1UaXV3FtabtGqOsdyAl1Sz1h": "education",
+  "plink_1UaXUlFtabtGqOsdmQFDg92d": "groceries",
+  "plink_1UaXV4FtabtGqOsdeccan6Ig": "healthcare",
+  "plink_1UaXV6FtabtGqOsdV0ioT9rn": "household",
+  "plink_1UaXV9FtabtGqOsdbbqm8Slh": "housing",
+  "plink_1UaXVIFtabtGqOsdlpvXwkIw": "insurance",
+  "plink_1UaXVLFtabtGqOsdYCAzyW6n": "kids",
+  "plink_1UaXVNFtabtGqOsdPrZFMTeI": "money-admin",
+  "plink_1UaXVQFtabtGqOsdcsGZpNUz": "pets",
+  "plink_1UaXVTFtabtGqOsdnnfIKMVj": "phone-internet",
+  "plink_1UaXVvFtabtGqOsdNURhQfrJ": "subscriptions",
+  "plink_1UaXVeFtabtGqOsdExeKfgsi": "transportation",
+  "plink_1UaXVhFtabtGqOsdvufu8K16": "travel",
+  "plink_1UaXVkFtabtGqOsdexS4NOtQ": "utilities",
+  "plink_1UaXVnFtabtGqOsdWLCfIAlb": "weddings"
  }
 }
