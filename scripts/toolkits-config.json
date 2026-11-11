@@ -1,0 +1,287 @@
+{
+ "_note": "Edit this file, then run: python3 scripts/build-toolkits.py. Payment Link URLs are the live Stripe links (the Stripe account is shared with other brands; Saving Optimizer objects carry metadata brand=savingoptimizer). Never put paid PDFs or zips in this repo. The Drive download links (downloads) are public by decision (Andrew, 2026-11-11): the thank-you page and the Stripe webhook email both read them from here.",
+ "price_display": "CA$15",
+ "price_amount": "15.00",
+ "currency": "CAD",
+ "support_email": "contact@savingoptimizer.com",
+ "refund_days": 30,
+ "utm": {
+  "utm_source": "savingoptimizer",
+  "utm_medium": "site",
+  "utm_campaign": "toolkit"
+ },
+ "payment_links": {
+  "activities": "https://buy.stripe.com/bJe3cvb7BcEueYoeLU9oc06",
+  "education": "https://buy.stripe.com/00w3cvdfJ6g6bMcfPY9oc07",
+  "groceries": "https://buy.stripe.com/8x28wP0sX33UcQg47g9oc05",
+  "healthcare": "https://buy.stripe.com/00wcN55NhfQG17y0V49oc08",
+  "household": "https://buy.stripe.com/4gMdR90sXbAq8A07js9oc09",
+  "housing": "https://buy.stripe.com/dRmcN5ejNawm7vWbzI9oc0a",
+  "insurance": "https://buy.stripe.com/bJe5kD3F97kaaI833c9oc0b",
+  "kids": "https://buy.stripe.com/5kQaEX3F95c26rS1Z89oc0c",
+  "money-admin": "https://buy.stripe.com/5kQaEX6RldIybMc33c9oc0d",
+  "pets": "https://buy.stripe.com/28E8wP5Nh1ZQbMc47g9oc0e",
+  "phone-internet": "https://buy.stripe.com/4gM4gzgrVbAq03u33c9oc0f",
+  "subscriptions": "https://buy.stripe.com/28EaEX1x10VM6rSbzI9oc0k",
+  "transportation": "https://buy.stripe.com/eVq28rgrV47Y4jK33c9oc0g",
+  "travel": "https://buy.stripe.com/4gM3cv8Zt47Y03u1Z89oc0h",
+  "utilities": "https://buy.stripe.com/28E4gz7VpeMC4jKgU29oc0i",
+  "weddings": "https://buy.stripe.com/bJebJ12B57kag2s6fo9oc0j"
+ },
+ "bundles_note": "One bundle: all 16 toolkits for CA$39 (Stripe sku=bundle-all). The thank-you page shows the bundle zip (PUBLIC_TOOLKIT_BUNDLE_ALL_FOLDER_URL / _ZIP_URL) plus each toolkit's own links.",
+ "bundles": {
+  "bundle-all": {
+   "name": "All 16 Savings Toolkits 2027 (Bundle)",
+   "skus": [
+    "groceries",
+    "household",
+    "subscriptions",
+    "phone-internet",
+    "utilities",
+    "housing",
+    "insurance",
+    "transportation",
+    "money-admin",
+    "healthcare",
+    "kids",
+    "education",
+    "pets",
+    "travel",
+    "activities",
+    "weddings"
+   ],
+   "price_display": "CA$39",
+   "price_amount": "39.00",
+   "payment_link": "https://buy.stripe.com/fZu28ra3xfQG8A0eLU9oc0l"
+  }
+ },
+ "hubs": {
+  "groceries": [
+   "food-groceries"
+  ],
+  "transportation": [
+   "transportation"
+  ],
+  "housing": [
+   "housing"
+  ],
+  "utilities": [
+   "utilities"
+  ],
+  "kids": [
+   "kids"
+  ],
+  "household": [
+   "household-items",
+   "personal-care",
+   "clothing"
+  ],
+  "travel": [
+   "travel"
+  ],
+  "money-admin": [
+   "personal-finance"
+  ],
+  "insurance": [
+   "insurance"
+  ],
+  "healthcare": [
+   "healthcare"
+  ],
+  "pets": [
+   "pets"
+  ],
+  "subscriptions": [
+   "subscriptions"
+  ],
+  "activities": [
+   "entertainment",
+   "sports",
+   "events"
+  ],
+  "education": [
+   "education",
+   "students"
+  ],
+  "weddings": [
+   "weddings"
+  ],
+  "phone-internet": [
+   "internet",
+   "technology"
+  ]
+ },
+ "top_posts": {
+  "activities": [
+   "grey-cup-2026-calgary-tickets-festival-budget.html",
+   "stratford-shaw-festival-2027-tickets-save-canada.html"
+  ],
+  "education": [
+   "free-university-tuition-seniors-canada.html",
+   "professional-exam-fees-tuition-tax-credit-cpa.html"
+  ],
+  "groceries": [
+   "pc-express-vs-voila-vs-instacart.html",
+   "scene-plus-free-groceries-canada.html"
+  ],
+  "healthcare": [
+   "90-day-prescription-fills-canada.html",
+   "northern-health-travel-grant-ontario.html"
+  ],
+  "household": [
+   "clothing-budget-canada-households.html",
+   "sephora-beauty-insider-pc-optimum-rexall-be-well.html"
+  ],
+  "housing": [
+   "tenant-insurance-canada-compare-cheap-coverage.html",
+   "heat-included-vs-hydro-lease-canada.html"
+  ],
+  "insurance": [
+   "multi-car-insurance-discounts-canada.html",
+   "family-travel-medical-insurance-canada.html"
+  ],
+  "kids": [
+   "halloween-budget-canada-costumes-candy.html",
+   "youth-bank-accounts-canada-fees-joint-allowance-apps.html"
+  ],
+  "money-admin": [
+   "how-to-switch-banks-canada-14-day-plan.html",
+   "tfsa-withdrawal-contribution-room-canada.html"
+  ],
+  "pets": [
+   "low-cost-spay-neuter-canada.html",
+   "cat-litter-cost-per-month-canada.html"
+  ],
+  "phone-internet": [
+   "us-electronics-orders-canada-counter-tariffs-2026.html",
+   "apartment-condo-internet-canada-rights.html"
+  ],
+  "subscriptions": [
+   "paramount-apple-tv-canada-rotate.html",
+   "netflix-extra-member-sharing-canada.html"
+  ],
+  "transportation": [
+   "ttc-fare-capping-vs-presto-pass-2026.html",
+   "communauto-vs-zipcar-vs-owning-car-canada.html"
+  ],
+  "travel": [
+   "hotel-airbnb-taxes-canada-explained.html",
+   "nexus-worth-it-canada-household-break-even.html"
+  ],
+  "utilities": [
+   "toronto-water-bill-sewer-charge-explained.html",
+   "ontario-winter-disconnection-ban-electricity-gas.html"
+  ],
+  "weddings": [
+   "credit-card-points-wedding-spending-canada.html",
+   "backyard-wedding-cost-permits-canada.html"
+  ]
+ },
+ "lead_magnet": {
+  "_note": "Provider: Hostinger Reach, the same provider latestmortgagerates.ca uses. The sign-up block stays hidden, and no Reach script loads, until reach_form_id AND sender_mailing_address are both set. Create the form in Reach (Forms > embedded form, consent checkbox UNTICKED by default, double opt-in on, savingoptimizer.com verified as a sending domain) and paste its data-reach-form ID here. form_action is only a fallback for a plain HTML form provider.",
+  "provider": "hostinger-reach",
+  "reach_form_id": "",
+  "reach_embed_src": "https://cdn-reach.hostinger.com/js/embed.js",
+  "form_action": "",
+  "method": "post",
+  "email_field": "email",
+  "name_field": "first_name",
+  "consent_field": "casl_consent",
+  "hidden_fields": {},
+  "sample_title": "Free sample: Subscriptions Savings Toolkit 2027 (excerpt)",
+  "sender_name": "Saving Optimizer (Andrew)",
+  "sender_email": "contact@savingoptimizer.com",
+  "sender_mailing_address": ""
+ },
+ "downloads_note": "Google Drive links, Anyone-with-link Viewer. folder_url opens the SKU folder; zip_url downloads the zip directly. Generated into toolkits/lib/toolkit-data.php.",
+ "downloads": {
+  "activities": {
+   "folder_url": "https://drive.google.com/drive/folders/1BCg8AzcT863wVIV60wq4XeatQwxuqMgl",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1IoahLEnIG93kAJ8gLai1e9KuDuIa1FM1"
+  },
+  "bundle-all": {
+   "folder_url": "https://drive.google.com/drive/folders/1qHczNIMpRgltVvYVx_rmgxdiM5KKW5_b",
+   "zip_url": "https://drive.google.com/uc?export=download&id=19xh2TZwVLs9FCXuqig7fYGqOH59Lps4L"
+  },
+  "education": {
+   "folder_url": "https://drive.google.com/drive/folders/1D6UZhkx9yGvYc4n_TweChrIswy0V5ywH",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1QOXvkqgnnykcPR5tuhWPVM2O9nj456Ma"
+  },
+  "groceries": {
+   "folder_url": "https://drive.google.com/drive/folders/1s5UhJSpAkata85PSheVzoozCZmzAN2nQ",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1QPJ2hc52apGtX6Mn2Qs7QUr9F4MABhI0"
+  },
+  "healthcare": {
+   "folder_url": "https://drive.google.com/drive/folders/1BagSRCCZps4-P4l7fD6nyWM6dnWj1WH5",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1nHlm5zsKlJcw0BD4CN5gLbSbyOIJ9kIB"
+  },
+  "household": {
+   "folder_url": "https://drive.google.com/drive/folders/17wxEXGskCCQ7UqbJLVtR8KRH0Sv0at00",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1oSybQGSWfq9i-rmis5LBuZTkmpM5yS1q"
+  },
+  "housing": {
+   "folder_url": "https://drive.google.com/drive/folders/15Jf_7oDjfNmjzpljjfwTiHSpVF170eb4",
+   "zip_url": "https://drive.google.com/uc?export=download&id=16WyWVrl4aAZeBJ54Ey04KzN0nLznhXoL"
+  },
+  "insurance": {
+   "folder_url": "https://drive.google.com/drive/folders/13EZ6cJ1ua80Q8HPOKRU1lRHoaKzUbIgZ",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1dE1fvIyGsRrlOG1yvAuaZKliLvRSXlHE"
+  },
+  "kids": {
+   "folder_url": "https://drive.google.com/drive/folders/1S8Fcnz3tWHeFDoBXWwnKV4J1_tsCCDKP",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1qcFjHIR0HuVxyEFXy-rSoGBq8CT7ktZY"
+  },
+  "money-admin": {
+   "folder_url": "https://drive.google.com/drive/folders/1GkclYCXPUZ29CMB1Isf-Wu-SFoXPhJ5I",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1kFNraZp8QgjYuhpyqhVuUJdG8sp8fypp"
+  },
+  "pets": {
+   "folder_url": "https://drive.google.com/drive/folders/1QPhd7hqbJQBhe7UCri0Q6KBuOOI0wrcx",
+   "zip_url": "https://drive.google.com/uc?export=download&id=17R5aSMN68eznA86-rtRfYmjp-fGNKHfK"
+  },
+  "phone-internet": {
+   "folder_url": "https://drive.google.com/drive/folders/17t2kQi3Iv9rJiWJdc52sEgPmm2hXuEWw",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1yOSVcb1qsGfHVkCRz1bRwxEFrfUP2pCA"
+  },
+  "subscriptions": {
+   "folder_url": "https://drive.google.com/drive/folders/1ngi74fr-x5ZSq9jU4lH6YBvgkGI1_ugP",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1zSV_gDmkKeIQhwVp3j4Hb_15SwVB0Toj"
+  },
+  "transportation": {
+   "folder_url": "https://drive.google.com/drive/folders/1GTxpObHre1SXS52KbVoqSo55M7CQ3VAq",
+   "zip_url": "https://drive.google.com/uc?export=download&id=15OMni_0UGa5DIzv7JvK41US2BYR3vFim"
+  },
+  "travel": {
+   "folder_url": "https://drive.google.com/drive/folders/1u_s_tbaJ-4pIQ5Lwhkrzlgpv_Z-XOD0W",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1aJbwn3rwx8nbhzHcuFeQDNzwiKBvvuky"
+  },
+  "utilities": {
+   "folder_url": "https://drive.google.com/drive/folders/1XDEl5S2l96JLXJvLrX497oYcSBrt4vDq",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1zS4b8yvyGpyeVKx0pAcxbdFUv8r0Q-1M"
+  },
+  "weddings": {
+   "folder_url": "https://drive.google.com/drive/folders/1z9TuLSabbARWfNbEYZhOy9DmrmgzuazQ",
+   "zip_url": "https://drive.google.com/uc?export=download&id=1XHDQ4rPiRii_pTv-H8sax0bkNLdMMm4G"
+  }
+ },
+ "payment_link_ids_note": "Stripe live Payment Link IDs. The webhook maps session.payment_link to a SKU with this list and ignores every other brand on the shared Stripe account.",
+ "payment_link_ids": {
+  "plink_1UaXV0FtabtGqOsdqKdGE0P5": "activities",
+  "plink_1UaXicFtabtGqOsdSVQb8GJg": "bundle-all",
+  "plink_1UaXV3FtabtGqOsdyAl1Sz1h": "education",
+  "plink_1UaXUlFtabtGqOsdmQFDg92d": "groceries",
+  "plink_1UaXV4FtabtGqOsdeccan6Ig": "healthcare",
+  "plink_1UaXV6FtabtGqOsdV0ioT9rn": "household",
+  "plink_1UaXV9FtabtGqOsdbbqm8Slh": "housing",
+  "plink_1UaXVIFtabtGqOsdlpvXwkIw": "insurance",
+  "plink_1UaXVLFtabtGqOsdYCAzyW6n": "kids",
+  "plink_1UaXVNFtabtGqOsdPrZFMTeI": "money-admin",
+  "plink_1UaXVQFtabtGqOsdcsGZpNUz": "pets",
+  "plink_1UaXVTFtabtGqOsdnnfIKMVj": "phone-internet",
+  "plink_1UaXVvFtabtGqOsdNURhQfrJ": "subscriptions",
+  "plink_1UaXVeFtabtGqOsdExeKfgsi": "transportation",
+  "plink_1UaXVhFtabtGqOsdvufu8K16": "travel",
+  "plink_1UaXVkFtabtGqOsdexS4NOtQ": "utilities",
+  "plink_1UaXVnFtabtGqOsdWLCfIAlb": "weddings"
+ }
+}
