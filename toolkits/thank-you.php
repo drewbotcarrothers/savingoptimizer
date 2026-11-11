@@ -9,7 +9,7 @@ declare(strict_types=1);
 header('X-Robots-Tag: noindex, nofollow');
 header('Cache-Control: no-store');
 $SKUS = array('activities' => 'Tickets, Passes and Activities Toolkit 2027', 'education' => 'Education Savings Toolkit 2027', 'groceries' => 'Groceries Savings Toolkit 2027', 'healthcare' => 'Health Costs Toolkit 2027', 'household' => 'Household Shopping Toolkit 2027', 'housing' => 'Rent and Housing Cost Toolkit 2027', 'insurance' => 'Insurance Savings Toolkit 2027', 'kids' => 'Raising Kids in Canada: Cost Toolkit 2027', 'money-admin' => 'Canadian Money Admin Toolkit 2027', 'pets' => 'Pet Cost Toolkit 2027', 'phone-internet' => 'Phone and Internet Bill Toolkit 2027', 'subscriptions' => 'Subscriptions Savings Toolkit 2027', 'transportation' => 'Transportation Savings Toolkit 2027', 'travel' => 'Canadian Travel Savings Toolkit 2027', 'utilities' => 'Utilities Savings Toolkit 2027', 'weddings' => 'Weddings Savings Toolkit 2027');
-$BUNDLES = array();
+$BUNDLES = array('bundle-all' => array('name' => 'All 16 Savings Toolkits 2027 (Bundle)', 'skus' => array('groceries', 'household', 'subscriptions', 'phone-internet', 'utilities', 'housing', 'insurance', 'transportation', 'money-admin', 'healthcare', 'kids', 'education', 'pets', 'travel', 'activities', 'weddings')));
 $sku = isset($_GET['sku']) && is_string($_GET['sku']) ? strtolower($_GET['sku']) : '';
 $ini = array();
 if (!empty($_SERVER['DOCUMENT_ROOT'])) {
@@ -101,7 +101,16 @@ function h(string $s): string { return htmlspecialchars($s, ENT_QUOTES, 'UTF-8')
     <h1>Thanks for your order</h1>
 <?php if (!$items): ?>
     <p>We couldn't tell which toolkit this page is for. Your download link will also come by email. If it hasn't arrived within 24 hours, email <a href="mailto:contact@savingoptimizer.com">contact@savingoptimizer.com</a> with the email you used at checkout.</p>
-<?php else: foreach ($items as $s): $folder = so_link($s, 'FOLDER', $ini); $zip = so_link($s, 'ZIP', $ini); ?>
+<?php else: ?>
+<?php if (isset($BUNDLES[$sku])): $bf = so_link($sku, 'FOLDER', $ini); $bz = so_link($sku, 'ZIP', $ini); ?>
+    <section class="tk-box paid" style="margin:1.5rem 0;">
+      <h2 style="margin-top:0;"><?= h($BUNDLES[$sku]['name']) ?></h2>
+      <p>Your bundle has <?= count($items) ?> toolkits. Get them all at once with the zip, or open each toolkit's own folder below.</p>
+<?php if ($bf || $bz): ?>
+      <p><?php if ($bz): ?><a class="btn btn-primary" href="<?= h($bz) ?>" rel="noopener noreferrer">Download all <?= count($items) ?> (zip)</a> <?php endif; ?><?php if ($bf): ?><a class="btn btn-ghost" href="<?= h($bf) ?>" rel="noopener noreferrer">Open the bundle folder</a><?php endif; ?></p>
+<?php endif; ?>
+    </section>
+<?php endif; foreach ($items as $s): $folder = so_link($s, 'FOLDER', $ini); $zip = so_link($s, 'ZIP', $ini); ?>
     <section class="tk-box paid" style="margin:1.5rem 0;">
       <h2 style="margin-top:0;"><?= h($SKUS[$s] ?? $s) ?></h2>
       <p><strong>Start here:</strong> open the main PDF and read the Start Here page (page 2) first. It walks you through a 60-minute first pass.</p>

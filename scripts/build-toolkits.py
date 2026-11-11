@@ -33,6 +33,12 @@ TOPIC = {'groceries': 'your grocery bill', 'household': 'household and personal-
          'insurance': 'home, auto, life and travel insurance', 'transportation': 'car, transit and fuel costs', 'money-admin': 'bank fees, TFSA, RRSP and FHSA room and your credit report',
          'healthcare': 'drug, dental, vision and other health costs', 'kids': 'the costs of raising kids', 'education': 'RESPs, tuition and student costs',
          'pets': 'pet costs', 'travel': 'trips in and out of Canada', 'activities': 'tickets, passes, sports and activities', 'weddings': 'wedding costs'}
+BUNDLE_ID = 'bundle-all'
+BUNDLE = CFG.get('bundles', {}).get(BUNDLE_ID)
+ALL16_PRICE = f"CA${int(float(CFG['price_amount']) * len(ORDER))}"  # 16 x CA$15 bought one at a time
+def bundle_btn(where, cls='btn btn-ghost'):
+    if not BUNDLE: return ''
+    return f'<a class="{cls} tk-buy-bundle" href="{e(BUNDLE["payment_link"])}" rel="nofollow noopener" data-sku="{BUNDLE_ID}" data-placement="{where}">Get all 16 for {BUNDLE["price_display"]}</a>'
 NFA = 'Education only. Not financial, tax, legal, insurance or medical advice. No savings are guaranteed; results depend on your situation.'
 e = lambda s: html.escape(str(s), quote=True)
 def md(s):  # **bold** only
@@ -109,18 +115,25 @@ def head(title, desc, canonical, robots='index,follow,max-image-preview:large', 
 <body>
 '''
 
+def signup_ready():
+    lm = CFG['lead_magnet']
+    has_form = bool(lm.get('reach_form_id')) if lm.get('provider') == 'hostinger-reach' else bool(lm.get('form_action'))
+    return has_form and bool(lm.get('sender_mailing_address'))
+
 def signup(content):
     lm = CFG['lead_magnet']
-    ready = bool(lm.get('form_action')) and bool(lm.get('sender_mailing_address'))
-    hidden = '' if ready else ' hidden data-signup-not-configured="no email provider or mailing address set in scripts/toolkits-config.json"'
+    ready = signup_ready()
+    hidden = '' if ready else ' hidden data-signup-not-configured="set lead_magnet.reach_form_id and sender_mailing_address in scripts/toolkits-config.json"'
     addr = e(lm.get('sender_mailing_address') or '[mailing address]')
-    hf = ''.join(f'<input type="hidden" name="{e(k)}" value="{e(v)}">' for k, v in lm.get('hidden_fields', {}).items())
-    hf += f'<input type="hidden" name="signup_source" value="{e(content)}">'
-    return f'''
-    <section class="tk-signup" id="free-sample" aria-labelledby="free-sample-h"{hidden}>
-      <h2 id="free-sample-h">Free sample: the 30-minute subscription audit</h2>
-      <p>Get a free 12-page excerpt of the Subscriptions Savings Toolkit 2027 by email. It has Chapters 1 and 2, a worked example, a decision guide, a call script, a worksheet and the yearly calendar.</p>
-      <form action="{e(lm.get('form_action', ''))}" method="{e(lm.get('method', 'post'))}">
+    if lm.get('provider') == 'hostinger-reach':
+        # Reach renders its own form (email + an unticked consent checkbox, set up in Reach) in an iframe.
+        # The script is only emitted once the block is ready, so nothing loads from Reach before then.
+        script = f'<script src="{e(lm["reach_embed_src"])}" defer></script>' if ready else ''
+        form = f'<div data-reach-form="{e(lm.get("reach_form_id", ""))}" data-signup-source="{e(content)}"></div>{script}'
+    else:
+        hf = ''.join(f'<input type="hidden" name="{e(k)}" value="{e(v)}">' for k, v in lm.get('hidden_fields', {}).items())
+        hf += f'<input type="hidden" name="signup_source" value="{e(content)}">'
+        form = f'''<form action="{e(lm.get('form_action', ''))}" method="{e(lm.get('method', 'post'))}">
         <label for="tk-fname-{e(content)}">First name (optional)</label>
         <input type="text" id="tk-fname-{e(content)}" name="{e(lm['name_field'])}" autocomplete="given-name">
         <label for="tk-email-{e(content)}">Email</label>
@@ -128,8 +141,13 @@ def signup(content):
         <label class="tk-consent"><input type="checkbox" name="{e(lm['consent_field'])}" value="yes" required> <span>Yes, email me the free sample, plus Saving Optimizer emails with money-saving guides and news about new toolkits. I can unsubscribe at any time.</span></label>
         {hf}
         <button class="btn btn-primary" type="submit">Email me the free sample</button>
-      </form>
-      <p class="tk-fine">Emails are sent by {e(lm['sender_name'])}, {e(lm['sender_email'])}, {addr}. Every email has an unsubscribe link, or you can email {e(EMAIL)} to unsubscribe; requests are processed within 10 business days. The box above is unticked until you tick it. See the <a href="../privacy.html">privacy policy</a>.</p>
+      </form>'''
+    return f'''
+    <section class="tk-signup" id="free-sample" aria-labelledby="free-sample-h"{hidden}>
+      <h2 id="free-sample-h">Free sample: the 30-minute subscription audit</h2>
+      <p>Get a free 12-page excerpt of the Subscriptions Savings Toolkit 2027 by email. It has Chapters 1 and 2, a worked example, a decision guide, a call script, a worksheet and the yearly calendar.</p>
+      {form}
+      <p class="tk-fine">By ticking the consent box you agree to get the free sample plus Saving Optimizer emails with money-saving guides and news about new toolkits. Emails are sent by {e(lm['sender_name'])}, {e(lm['sender_email'])}, {addr}{', through Hostinger Reach' if lm.get('provider') == 'hostinger-reach' else ''}. You'll get a confirmation email first. Every email has an unsubscribe link, or you can email {e(EMAIL)} to unsubscribe; requests are processed within 10 business days. The consent box is unticked until you tick it. See the <a href="../privacy.html">privacy policy</a>.</p>
     </section>'''
 
 def faq_html(faqs):
@@ -183,7 +201,8 @@ def sales_page(slug, header, footer):
         <h1>{e(d['title'])}</h1>
         <p class="lede">{e(d['subtitle'])}</p>
         <p class="tk-price"><strong>{PRICE}</strong> one-time · PDF, Printables PDF and calendar file</p>
-        <p>{buy('hero')}</p>
+        <p>{buy('hero')} {bundle_btn('hero')}</p>
+        {f'<p class="tk-trust">Or get all 16 toolkits for {BUNDLE["price_display"]} ({ALL16_PRICE} if bought one at a time).</p>' if BUNDLE else ''}
         <p class="tk-trust">{CFG['refund_days']}-day refund · Free updates to the 2027 edition · By <a href="../about/andrew.html" rel="author">Andrew</a></p>
       </div>
       <div><img src="../assets/toolkits/{slug}-cover.webp" width="560" height="724" alt="Cover of the {e(d['title'])}"></div>
@@ -216,7 +235,7 @@ def sales_page(slug, header, footer):
       </div>
     </section>
 
-    <div class="article-cta"><p>{buy('bottom')} <a class="btn btn-ghost" href="index.html">See all 16 toolkits</a></p></div>
+    <div class="article-cta"><p>{buy('bottom')} {bundle_btn('bottom')} <a class="btn btn-ghost" href="index.html">See all 16 toolkits</a></p></div>
 {signup('sales-' + slug)}
     <p class="author-box"><strong>About the author:</strong> <a href="../about/andrew.html">Andrew</a> is a personal finance expert, DIY investor and life optimizer based in Toronto, Canada.</p>
     <div class="disclosure"><p><strong>Note:</strong> {NFA} Saving Optimizer isn't affiliated with any company named in the toolkit.</p></div>
@@ -242,6 +261,19 @@ def hub_page(header, footer):
           <span class="tk-card-price">{PRICE} · See what's inside →</span>
         </a>'''
     faqs = COMMON_FAQ
+    bundle_panel, bundle_ld = '', ''
+    if BUNDLE:
+        bundle_panel = f'''        <div class="tk-box paid tk-bundle" id="bundle" style="margin:0 0 1.75rem;">
+          <p class="kicker">Bundle · 2027 edition</p>
+          <h2 style="margin-top:0;">All 16 toolkits for {BUNDLE["price_display"]}</h2>
+          <p>Every toolkit below in one purchase: groceries, household shopping, subscriptions, phone and internet, utilities, housing, insurance, transportation, money admin, health costs, raising kids, education, pets, travel, activities and weddings. Bought one at a time, the 16 cost {ALL16_PRICE}.</p>
+          <p>{bundle_btn('hub', 'btn btn-primary')}</p>
+          <p class="tk-trust">One zip with all 16 kits, plus each toolkit's own folder · {CFG['refund_days']}-day refund · Free updates to the 2027 editions</p>
+        </div>'''
+        bundle_ld = ld({'@context': 'https://schema.org', '@type': 'Product', 'name': 'Saving Optimizer: ' + BUNDLE['name'],
+                        'description': 'All 16 Saving Optimizer savings toolkits for Canadian households, 2027 edition.',
+                        'brand': {'@type': 'Brand', 'name': 'Saving Optimizer'},
+                        'offers': {'@type': 'Offer', 'price': BUNDLE['price_amount'], 'priceCurrency': CFG['currency'], 'url': url + '#bundle', 'availability': 'https://schema.org/InStock'}})
     items = {'@context': 'https://schema.org', '@type': 'ItemList', 'itemListElement': [{'@type': 'ListItem', 'position': i, 'url': f'{SITE}/toolkits/{s}.html', 'name': DATA[s]['title']} for i, s in enumerate(ORDER, 1)]}
     body = f'''{header}
 
@@ -251,11 +283,12 @@ def hub_page(header, footer):
         <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../index.html">Home</a></li><li aria-current="page">Toolkits</li></ol></nav>
         <p class="eyebrow">Savings toolkits · 2027 edition</p>
         <h1>Savings toolkits for Canadian households</h1>
-        <p>The free guides on Saving Optimizer explain. Each toolkit is the kit you use to act: call and email scripts with replies for when they say no, worksheets, worked Canadian examples, decision guides with the math shown, a guide for all 13 provinces and territories, and a 12-month calendar file. {PRICE} each, one-time.</p>
+        <p>The free guides on Saving Optimizer explain. Each toolkit is the kit you use to act: call and email scripts with replies for when they say no, worksheets, worked Canadian examples, decision guides with the math shown, a guide for all 13 provinces and territories, and a 12-month calendar file. {PRICE} each, one-time{f', or all 16 for {BUNDLE["price_display"]}' if BUNDLE else ''}.</p>
       </div>
     </section>
     <section class="section" style="padding-top:1.25rem;">
       <div class="wrap">
+{bundle_panel}
         <div class="tk-grid">{cards}
         </div>
         <h2 style="margin-top:2.5rem;">Every toolkit includes</h2>
@@ -284,8 +317,8 @@ def hub_page(header, footer):
 </body>
 </html>
 '''
-    desc = f'16 Canadian savings toolkits for 2027: scripts, worksheets, worked examples, province guides and a calendar file. {PRICE} each, 30-day refund.'
-    return head(f'Savings toolkits for Canadian households ({PRICE} each)', desc, url, extra=ld(items) + ld(faq_ld(faqs))) + body
+    desc = f'16 Canadian savings toolkits for 2027: scripts, worksheets, worked examples, province guides and a calendar file. {PRICE} each' + (f' or all 16 for {BUNDLE["price_display"]}' if BUNDLE else '') + ', 30-day refund.'
+    return head(f'Savings toolkits for Canadian households ({PRICE} each)', desc, url, extra=ld(items) + bundle_ld + ld(faq_ld(faqs))) + body
 
 def thank_you(header, footer):
     skus = {s: DATA[s]['title'] for s in DATA}
@@ -341,7 +374,16 @@ function h(string $s): string {{ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'
     <h1>Thanks for your order</h1>
 <?php if (!$items): ?>
     <p>We couldn't tell which toolkit this page is for. Your download link will also come by email. If it hasn't arrived within 24 hours, email <a href="mailto:{EMAIL}">{EMAIL}</a> with the email you used at checkout.</p>
-<?php else: foreach ($items as $s): $folder = so_link($s, 'FOLDER', $ini); $zip = so_link($s, 'ZIP', $ini); ?>
+<?php else: ?>
+<?php if (isset($BUNDLES[$sku])): $bf = so_link($sku, 'FOLDER', $ini); $bz = so_link($sku, 'ZIP', $ini); ?>
+    <section class="tk-box paid" style="margin:1.5rem 0;">
+      <h2 style="margin-top:0;"><?= h($BUNDLES[$sku]['name']) ?></h2>
+      <p>Your bundle has <?= count($items) ?> toolkits. Get them all at once with the zip, or open each toolkit's own folder below.</p>
+<?php if ($bf || $bz): ?>
+      <p><?php if ($bz): ?><a class="btn btn-primary" href="<?= h($bz) ?>" rel="noopener noreferrer">Download all <?= count($items) ?> (zip)</a> <?php endif; ?><?php if ($bf): ?><a class="btn btn-ghost" href="<?= h($bf) ?>" rel="noopener noreferrer">Open the bundle folder</a><?php endif; ?></p>
+<?php endif; ?>
+    </section>
+<?php endif; foreach ($items as $s): $folder = so_link($s, 'FOLDER', $ini); $zip = so_link($s, 'ZIP', $ini); ?>
     <section class="tk-box paid" style="margin:1.5rem 0;">
       <h2 style="margin-top:0;"><?= h($SKUS[$s] ?? $s) ?></h2>
       <p><strong>Start here:</strong> open the main PDF and read the Start Here page (page 2) first. It walks you through a 60-minute first pass.</p>
@@ -397,6 +439,24 @@ def wire_hubs_and_posts():
 def strip_hub_wrappers(s):  # make hub insertion idempotent
     return re.sub(r'\n    <div class="wrap">\s*\n    </div>', '', s)
 
+PRIV = {
+ 'intro': ("You can read every guide without an account, and we do not run a newsletter or comments. We handle personal information in four ways:",
+           "You can read every guide without an account, and we do not run comments. We handle personal information in five ways:"),
+ 'items': ("""<li><strong>Toolkit purchases.</strong> Paid toolkits are sold through Stripe Checkout. Stripe collects your payment details, email address and billing country or postal code; we never see your full card number. We receive your email address, what you bought, the amount and your billing country or postal code. We use them to deliver your files, send free updates to the edition you bought, handle refunds and keep the records tax law requires. Stripe's privacy policy applies to the checkout page.</li>""",
+           """<li><strong>Toolkit purchases.</strong> Paid toolkits are sold through Stripe Checkout. Stripe collects your payment details, email address and billing country or postal code; we never see your full card number. We receive your email address, what you bought, the amount and your billing country or postal code. We use them to deliver your files, send free updates to the edition you bought, handle refunds and keep the records tax law requires. Stripe's privacy policy applies to the checkout page.</li>
+            <li><strong>Free sample and emails.</strong> If you ask for the free toolkit sample, the sign-up form (provided by Hostinger Reach) collects your email address, your first name if you give it, and your consent. You only join the list after you tick the unticked consent box and confirm by email. We use it to send the sample and Saving Optimizer emails about money-saving guides and new toolkits. Every email has an unsubscribe link, or email contact@savingoptimizer.com; we process requests within 10 business days. Your details are stored with Hostinger Reach until you unsubscribe.</li>"""),
+ 'short': ("<li>No accounts, no newsletter, no comments</li>\n            <li>Toolkit payments are handled by Stripe</li>",
+           "<li>No accounts or comments; email only if you opt in</li>\n            <li>Toolkit payments are handled by Stripe</li>"),
+ 'where': ("Google, Amazon, Stripe and our web host may process information on servers outside Canada, including in the United States.",
+           "Google, Amazon, Stripe, Hostinger Reach and our web host may process information on servers outside Canada, including in the United States."),
+}
+def privacy():
+    s = read('privacy.html'); k = 1 if signup_ready() else 0
+    for name, pair in PRIV.items():
+        s, n = re.subn(rf'(<!-- tk-privacy:{name} -->).*?(<!-- /tk-privacy:{name} -->)', lambda m: m.group(1) + pair[k] + m.group(2), s, flags=re.S)
+        assert n == 1, name
+    write('privacy.html', s)
+
 def sitemap():
     s = read('sitemap.xml')
     urls = [f'{SITE}/toolkits/'] + [f'{SITE}/toolkits/{x}.html' for x in ORDER]
@@ -418,4 +478,5 @@ if __name__ == '__main__':
             write(p, s)
     wired = wire_hubs_and_posts()
     sitemap()
+    privacy()
     print(f'nav/footer updated on {n} pages; wrote toolkits/ (hub, {len(DATA)} sales pages, thank-you.php); CTAs on {len(wired)} pages; sitemap +{len(DATA) + 1}')

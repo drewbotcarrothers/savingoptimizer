@@ -1,5 +1,5 @@
 {
- "_note": "Edit this file, then run: python3 scripts/build-toolkits.py. Payment Link URLs below are PLACEHOLDERS until Andrew creates the live Stripe Payment Links. Never put paid PDFs or buyer download URLs in this repo.",
+ "_note": "Edit this file, then run: python3 scripts/build-toolkits.py. Payment Link URLs are the live Stripe links (the Stripe account is shared with other brands; Saving Optimizer objects carry metadata brand=savingoptimizer). Never put paid PDFs or buyer download URLs in this repo.",
  "price_display": "CA$15",
  "price_amount": "15.00",
  "currency": "CAD",
@@ -28,8 +28,33 @@
   "utilities": "https://buy.stripe.com/28E4gz7VpeMC4jKgU29oc0i",
   "weddings": "https://buy.stripe.com/bJebJ12B57kag2s6fo9oc0j"
  },
- "bundles_note": "Bundles (CA$39) are not on the site until Andrew picks a structure. Add them here later; the thank-you page already accepts bundle SKUs listed in 'bundles'.",
- "bundles": {},
+ "bundles_note": "One bundle: all 16 toolkits for CA$39 (Stripe sku=bundle-all). The thank-you page shows the bundle zip (PUBLIC_TOOLKIT_BUNDLE_ALL_FOLDER_URL / _ZIP_URL) plus each toolkit's own links.",
+ "bundles": {
+  "bundle-all": {
+   "name": "All 16 Savings Toolkits 2027 (Bundle)",
+   "skus": [
+    "groceries",
+    "household",
+    "subscriptions",
+    "phone-internet",
+    "utilities",
+    "housing",
+    "insurance",
+    "transportation",
+    "money-admin",
+    "healthcare",
+    "kids",
+    "education",
+    "pets",
+    "travel",
+    "activities",
+    "weddings"
+   ],
+   "price_display": "CA$39",
+   "price_amount": "39.00",
+   "payment_link": "https://buy.stripe.com/fZu28ra3xfQG8A0eLU9oc0l"
+  }
+ },
  "hubs": {
   "groceries": [
    "food-groceries"
@@ -153,7 +178,10 @@
   ]
  },
  "lead_magnet": {
-  "_note": "No email provider is chosen yet. The sign-up block stays hidden until form_action AND sender_mailing_address are filled in. Field names must match the provider's form.",
+  "_note": "Provider: Hostinger Reach, the same provider latestmortgagerates.ca uses. The sign-up block stays hidden, and no Reach script loads, until reach_form_id AND sender_mailing_address are both set. Create the form in Reach (Forms > embedded form, consent checkbox UNTICKED by default, double opt-in on, savingoptimizer.com verified as a sending domain) and paste its data-reach-form ID here. form_action is only a fallback for a plain HTML form provider.",
+  "provider": "hostinger-reach",
+  "reach_form_id": "",
+  "reach_embed_src": "https://cdn-reach.hostinger.com/js/embed.js",
   "form_action": "",
   "method": "post",
   "email_field": "email",
