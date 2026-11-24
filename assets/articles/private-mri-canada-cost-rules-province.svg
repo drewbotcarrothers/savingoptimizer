@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Published private MRI prices</title>
+<desc id="d">Bars show $730 in Calgary, $749 in Edmonton, $730 at Medvue in Quebec and $950 in Vancouver.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Published private MRI prices</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">One body area, self-pay</text>
+<text x="240" y="117.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Calgary (Mayfair)</text>
+<rect x="250" y="93.0" width="268.9" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="526.9" y="117.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$730</text>
+<text x="240" y="187.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Edmonton (Insight)</text>
+<rect x="250" y="163.0" width="275.9" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="533.9" y="187.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$749</text>
+<text x="240" y="257.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Quebec (Medvue, brain)</text>
+<rect x="250" y="233.0" width="268.9" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="526.9" y="257.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$730</text>
+<text x="240" y="327.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Vancouver (CDC)</text>
+<rect x="250" y="303.0" width="350.0" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="608.0" y="327.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$950</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with illustrative inputs. As of 24 Nov 2026.</text>
+</svg>
