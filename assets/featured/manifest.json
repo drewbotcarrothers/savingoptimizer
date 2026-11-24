@@ -3040,6 +3040,14 @@
   "prompt": "Realistic documentary photograph of a family of four on a sofa each holding their own phone, laughing at something together, living room, evening light, in a Canadian home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Phone screens not visible, no text."
  },
  {
+  "slug": "family-resp-siblings-canada-share-grants",
+  "alt": "Parents reviewing statements at a kitchen table while two children draw, illustrating family RESPs.",
+  "focal_y": 0.4,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of parents reviewing statements at a kitchen table while two children draw, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
   "slug": "family-reunion-cost-canada",
   "alt": "A big family reunion picnic in a park with several generations at long tables, illustrating family reunions and fair cost-splitting.",
   "focal_y": 0.42,
@@ -5654,6 +5662,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of two people standing beside a used hatchback in a driveway, the seller handing over car keys, plain closed folder under the buyer's arm, autumn day, in Ontario. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No writing visible, no licence plates, no logos."
+ },
+ {
+  "slug": "ontario-vs-bc-household-budget-quirks",
+  "alt": "A couple unpacking in a new BC apartment with mountains outside, reviewing bills, illustrating Ontario vs BC budgets.",
+  "focal_y": 0.45,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a couple unpacking in a new BC apartment with mountains outside, reviewing bills, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "ontario-winter-disconnection-ban-electricity-gas",
