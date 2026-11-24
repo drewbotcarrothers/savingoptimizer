@@ -37,4 +37,6 @@
   RewriteRule ^guides/articles/costco\-canada\-executive\-vs\-gold\-star\.html$ https://savingoptimizer.com/guides/articles/costco-canada-membership-worth-it.html [R=301,L]
   RewriteRule ^guides/articles/pc\-optimum\-offer\-loading\-habit\.html$ https://savingoptimizer.com/guides/articles/maximize-pc-optimum-points-canada.html [R=301,L]
   RewriteRule ^guides/articles/when\-to\-bank\-pc\-optimum\-points\-for\-shoppers\-bonus\-redemption\-events\.html$ https://savingoptimizer.com/guides/articles/maximize-pc-optimum-points-canada.html [R=301,L]
+  RewriteRule ^guides/articles/real\-canadian\-superstore\-vs\-no\-frills\-which\-loblaw\-discounter\-should\-b\.html$ https://savingoptimizer.com/guides/articles/no-frills-vs-freshco-vs-food-basics-vs-walmart.html [R=301,L]
+  RewriteRule ^guides/articles/food\-basics\-vs\-no\-frills\-in\-ontario\-price\-loyalty\-and\-student\-discount\.html$ https://savingoptimizer.com/guides/articles/no-frills-vs-freshco-vs-food-basics-vs-walmart.html [R=301,L]
 </IfModule>
