@@ -104,6 +104,22 @@
   "prompt": "Realistic documentary photograph of mid-game action in an adult recreational hockey game, two players in mismatched plain jerseys chasing the puck along the boards while a goalie crouches in the net, motion and ice spray, candid documentary moment, not posed, in a community arena in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No team names, numbers or logos on jerseys, no boards advertising, no signs."
  },
  {
+  "slug": "adult-rec-league-fees-canada",
+  "alt": "An adult co-ed rec soccer team in matching shirts laughing in a huddle on a park field, illustrating adult rec league fees.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of an adult co-ed rec soccer team in matching shirts laughing in a huddle on a park field, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
+  "slug": "adult-swim-lessons-lane-swim-cost-canada",
+  "alt": "A man in a swim cap and goggles resting at the edge of a lap pool, illustrating adult swim lessons and lane swim.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a man in a swim cap and goggles resting at the edge of a lap pool, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
   "slug": "aeroplan-dynamic-pricing-pitfalls-canada",
   "alt": "A couple at their kitchen table planning a trip with a paper map, the woman pointing at it, illustrating Aeroplan dynamic pricing pitfalls.",
   "focal_y": 0.42,
@@ -528,6 +544,14 @@
   "prompt": "Realistic documentary photograph of a white rented tent set up in a large backyard with round tables, chairs and string lights, mature trees, summer evening, in a Canadian backyard. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs, no text."
  },
  {
+  "slug": "badminton-squash-court-cost-canada",
+  "alt": "Four adults playing doubles badminton in a community centre gym, illustrating badminton and squash court costs.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of four adults playing doubles badminton in a community centre gym, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
   "slug": "banff-jasper-budget-trip-canada-shoulder",
   "alt": "Turquoise Lake Louise with mountains and a few hikers on the shoreline trail, illustrating Banff and Jasper on a budget.",
   "focal_y": 0.5,
@@ -742,6 +766,14 @@
   "shot_type": "hands",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of hands clipping on a bicycle helmet next to a commuter bike with front and rear lights and fenders, a garage door, morning light, in a Canadian city. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos on helmet or bike, no text."
+ },
+ {
+  "slug": "bike-tune-up-cost-canada",
+  "alt": "A bike mechanic adjusting a derailleur on a bike in a repair stand while the customer watches, illustrating bike tune-up costs.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a bike mechanic adjusting a derailleur on a bike in a repair stand while the customer watches, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "black-friday-boxing-day-beauty-deals-canada-2026",
@@ -1478,6 +1510,14 @@
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a clean late-model used SUV parked in a dealership service bay with the hood up, polished concrete floor, tool cart, bright light, in a Canadian dealership. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no signs, no licence plates."
+ },
+ {
+  "slug": "cheap-cfl-tickets-canada",
+  "alt": "A family cheering together in the stands at a CFL football game, illustrating cheap CFL tickets.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a family cheering together in the stands at a CFL football game, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "cheap-comedy-show-tickets-canada",
@@ -2824,6 +2864,14 @@
   "prompt": "Realistic documentary photograph of a hand repositioning a plain white router on a high shelf in an apartment hallway, plants, framed blurry prints, in a Canadian apartment. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no text, no readable prints."
  },
  {
+  "slug": "fat-biking-winter-cost-canada",
+  "alt": "A woman riding a fat-tire bike on a groomed snowy forest trail, illustrating winter fat biking costs.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a woman riding a fat-tire bike on a groomed snowy forest trail, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
   "slug": "federal-quebec-tax-filing-cost-canada",
   "alt": "A kitchen table by a window with two separate neat stacks of tax slips and envelopes, a pen and a cup of coffee, illustrating filing federal and Quebec taxes without paying twice.",
   "focal_y": 0.5,
@@ -3992,12 +4040,28 @@
   "prompt": "Realistic documentary photograph of a family shopping in a bustling international grocery store, the mother picking mangoes while the father holds a bag of lentils, crates of okra, eggplants and limes, warm expressions, in a South Asian grocery store in Brampton, Ontario, Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No signs or lettering in any language, no labels, no price tags."
  },
  {
+  "slug": "hunting-licence-cost-canada",
+  "alt": "A hunter in a blaze orange jacket and cap walking a trail at the edge of an autumn field, illustrating hunting licence costs.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a hunter in a blaze orange jacket and cap walking a trail at the edge of an autumn field, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
   "slug": "hydro-quebec-save-on-power",
   "alt": "A woman adjusting a baseboard thermostat in a snug living room in winter, illustrating lowering a Hydro-Québec Rate D bill.",
   "focal_y": 0.42,
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a woman adjusting a baseboard thermostat in a snug living room in winter, knitted blanket, a window with snow outside, in a Québec home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No numbers or text on the thermostat."
+ },
+ {
+  "slug": "ice-fishing-budget-canada",
+  "alt": "A father and daughter ice fishing on buckets beside a hole in a frozen lake, illustrating an ice fishing budget.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a father and daughter ice fishing on buckets beside a hole in a frozen lake, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "icloud-storage-full-canada",
@@ -4174,6 +4238,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a woman in a cozy sweater taking down holiday decorations and packing ornaments into a box, looking calm and determined, a bare tree and folded wrapping paper beside her, in a Canadian living room in early January, snow outside the window. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Boxes unlabelled, no text."
+ },
+ {
+  "slug": "kayak-canoe-buy-vs-rent-canada",
+  "alt": "A couple in lifejackets paddling a red canoe past a rental dock with kayaks, illustrating buying vs renting a kayak or canoe.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a couple in lifejackets paddling a red canoe past a rental dock with kayaks, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "keep-one-news-subscription-canada",
@@ -4576,6 +4648,14 @@
   "prompt": "Realistic documentary photograph of a newlywed couple at their kitchen table, the woman holding a closed plain folder, wedding flowers drying in a vase, morning, in an Ontario home. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No visible writing."
  },
  {
+  "slug": "martial-arts-classes-adults-cost-canada",
+  "alt": "An instructor leading an adult beginner martial arts class on padded mats, illustrating adult martial arts class costs.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of an instructor leading an adult beginner martial arts class on padded mats, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
   "slug": "maternity-clothes-budget-canada",
   "alt": "A pregnant woman holding up a borrowed maternity dress in front of a mirror, her friend smiling, illustrating maternity clothes on a budget.",
   "focal_y": 0.42,
@@ -4710,6 +4790,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a young girl in full hockey gear sitting on a dressing-room bench while her dad tightens her skates, hockey bags and sticks leaning against the wall, both focused and smiling, in a community arena dressing room in Canada on a winter morning. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No team names, logos or numbers on jerseys or bags, no text."
+ },
+ {
+  "slug": "mls-cpl-soccer-tickets-canada",
+  "alt": "Two friends in scarves cheering at a professional soccer match, illustrating MLS and CPL soccer tickets.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of two friends in scarves cheering at a professional soccer match, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "mobile-home-internet-bundle-discount-canada",
@@ -8054,6 +8142,14 @@
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a large airport window overlooking parked passenger jets and a runway at sunrise, a single traveller's carry-on and coffee on a seat in the foreground, at a Canadian airport terminal in autumn. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No airline logos or lettering on planes, no signs, no screens."
+ },
+ {
+  "slug": "when-to-replace-ski-helmet-canada",
+  "alt": "A skier at a lodge table inspecting a dent in his ski helmet, illustrating when to replace a ski helmet.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a skier at a lodge table inspecting a dent in his ski helmet, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "when-to-upgrade-phone-laptop-tv",
