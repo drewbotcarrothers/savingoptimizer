@@ -28,4 +28,8 @@
   RewriteRule ^guides/articles/costco-gas-membership-canada-worth-the-trip\.html$ https://savingoptimizer.com/guides/articles/does-costco-gas-make-the-membership-worth-it-in-canada.html [R=301,L]
   RewriteRule ^guides/articles/starlink-vs-rural-internet-canada\.html$ https://savingoptimizer.com/guides/articles/xplore-vs-starlink-rural-canada.html [R=301,L]
   RewriteRule ^guides/articles/adding-teen-driver-insurance-canada-life-event\.html$ https://savingoptimizer.com/guides/articles/young-driver-auto-insurance-canada-parents.html [R=301,L]
+  RewriteRule ^guides/articles/pc\-optimum\-esso\-gas\-points\-how\-to\-maximize\.html$ https://savingoptimizer.com/guides/articles/pc-optimum-vs-petro-points-vs-scene-gas-canada.html [R=301,L]
+  RewriteRule ^guides/articles/dollar\-store\-toiletries\-canada\.html$ https://savingoptimizer.com/guides/articles/toiletries-price-check-costco-walmart-shoppers-dollarama.html [R=301,L]
+  RewriteRule ^guides/articles/read\-pet\-insurance\-policy\-canada\.html$ https://savingoptimizer.com/guides/articles/is-pet-insurance-worth-it-canada.html [R=301,L]
+  RewriteRule ^guides/articles/group\-pet\-insurance\-canada\.html$ https://savingoptimizer.com/guides/articles/is-pet-insurance-worth-it-canada.html [R=301,L]
 </IfModule>
