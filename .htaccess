@@ -19,7 +19,7 @@
   RewriteEngine On
   RewriteRule ^guides/articles/bank-switching-bonus-canada\.html$ https://savingoptimizer.com/guides/articles/how-to-switch-banks-canada-14-day-plan.html [R=301,L]
   RewriteRule ^guides/articles/lower-water-sewer-bill-canada-municipal\.html$ https://savingoptimizer.com/guides/articles/toronto-water-bill-sewer-charge-explained.html [R=301,L]
-  RewriteRule ^guides/articles/multi-policy-insurance-discount-canada\.html$ https://savingoptimizer.com/guides/articles/multi-car-insurance-discounts-canada.html [R=301,L]
+  RewriteRule ^guides/articles/multi-policy-insurance-discount-canada\.html$ https://savingoptimizer.com/guides/articles/bundle-auto-tenant-insurance-canada-worth-it.html [R=301,L]
   RewriteRule ^guides/articles/pet-insurance-plan-types-canada\.html$ https://savingoptimizer.com/guides/articles/is-pet-insurance-worth-it-canada.html [R=301,L]
   RewriteRule ^guides/articles/pet-insurance-premium-increases-canada\.html$ https://savingoptimizer.com/guides/articles/is-pet-insurance-worth-it-canada.html [R=301,L]
   RewriteRule ^guides/articles/black-friday-vs-boxing-day-clothing-canada\.html$ https://savingoptimizer.com/guides/articles/black-friday-vs-boxing-day-appliances-canada.html [R=301,L]
@@ -39,4 +39,5 @@
   RewriteRule ^guides/articles/when\-to\-bank\-pc\-optimum\-points\-for\-shoppers\-bonus\-redemption\-events\.html$ https://savingoptimizer.com/guides/articles/maximize-pc-optimum-points-canada.html [R=301,L]
   RewriteRule ^guides/articles/real\-canadian\-superstore\-vs\-no\-frills\-which\-loblaw\-discounter\-should\-b\.html$ https://savingoptimizer.com/guides/articles/no-frills-vs-freshco-vs-food-basics-vs-walmart.html [R=301,L]
   RewriteRule ^guides/articles/food\-basics\-vs\-no\-frills\-in\-ontario\-price\-loyalty\-and\-student\-discount\.html$ https://savingoptimizer.com/guides/articles/no-frills-vs-freshco-vs-food-basics-vs-walmart.html [R=301,L]
+  RewriteRule ^guides/articles/multi\-car\-insurance\-discounts\-canada\.html$ https://savingoptimizer.com/guides/articles/bundle-auto-tenant-insurance-canada-worth-it.html [R=301,L]
 </IfModule>
