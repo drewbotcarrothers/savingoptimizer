@@ -35,4 +35,6 @@
   RewriteRule ^guides/articles/is\-costco\-worth\-it\-for\-couples\-in\-canada\-a\-small\-household\-framework\.html$ https://savingoptimizer.com/guides/articles/costco-canada-membership-worth-it.html [R=301,L]
   RewriteRule ^guides/articles/does\-costco\-gas\-make\-the\-membership\-worth\-it\-in\-canada\.html$ https://savingoptimizer.com/guides/articles/costco-canada-membership-worth-it.html [R=301,L]
   RewriteRule ^guides/articles/costco\-canada\-executive\-vs\-gold\-star\.html$ https://savingoptimizer.com/guides/articles/costco-canada-membership-worth-it.html [R=301,L]
+  RewriteRule ^guides/articles/pc\-optimum\-offer\-loading\-habit\.html$ https://savingoptimizer.com/guides/articles/maximize-pc-optimum-points-canada.html [R=301,L]
+  RewriteRule ^guides/articles/when\-to\-bank\-pc\-optimum\-points\-for\-shoppers\-bonus\-redemption\-events\.html$ https://savingoptimizer.com/guides/articles/maximize-pc-optimum-points-canada.html [R=301,L]
 </IfModule>
