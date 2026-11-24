@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" role="img" aria-labelledby="t d">
+<title id="t">Example: cost of finishing 10 credits</title>
+<desc id="d">Bars compare $0 at an adult day school, $400 through TVO ILC, $280 through TVO ILC after 3 PLAR credits, and $100 for the CAEC.</desc>
+<rect width="720" height="420" fill="#FFFFFF"/>
+<text x="24" y="28" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1A1A1A">Example: cost of finishing 10 credits</text>
+<text x="24" y="48" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B7280">Ontario routes, example adult learner</text>
+<text x="240" y="117.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">Adult day school</text>
+<rect x="250" y="93.0" width="2.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="260.0" y="117.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$0</text>
+<text x="240" y="187.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">TVO ILC, 10 courses</text>
+<rect x="250" y="163.0" width="350.0" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="608.0" y="187.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$400</text>
+<text x="240" y="257.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">TVO ILC after PLAR</text>
+<rect x="250" y="233.0" width="245.0" height="40.0" rx="3" fill="#0F7A4B"/>
+<text x="503.0" y="257.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$280</text>
+<text x="240" y="327.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A1A">CAEC equivalency</text>
+<rect x="250" y="303.0" width="87.5" height="40.0" rx="3" fill="#1A1A1A"/>
+<text x="345.5" y="327.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1A1A1A">$100</text>
+<text x="24" y="400" font-family="Inter, Arial, sans-serif" font-size="11" fill="#6B7280">Saving Optimizer. Example with illustrative inputs. As of 24 Nov 2026.</text>
+</svg>
