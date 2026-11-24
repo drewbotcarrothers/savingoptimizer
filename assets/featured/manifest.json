@@ -776,12 +776,28 @@
   "prompt": "Realistic documentary photograph of a man in his forties in a welding class, lifting his helmet to look at his work, trade school workshop, sparks, in an Ontario college. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no signs, no text."
  },
  {
+  "slug": "bike-allowance-vs-transit-subsidy-canada",
+  "alt": "A commuter wheeling a bicycle along a train platform, illustrating bike allowance vs transit subsidy.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a commuter wheeling a bicycle along a train platform, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
   "slug": "bike-commute-safety-gear-checklist-canada",
   "alt": "Hands clipping on a bicycle helmet next to a commuter bike with front and rear lights and fenders, illustrating budgeting bike commute safety gear in Canada.",
   "focal_y": 0.5,
   "shot_type": "hands",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of hands clipping on a bicycle helmet next to a commuter bike with front and rear lights and fenders, a garage door, morning light, in a Canadian city. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Natural, correctly formed hands (fictional person). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos on helmet or bike, no text."
+ },
+ {
+  "slug": "bike-to-work-employer-supports-canada",
+  "alt": "An office worker locking a commuter bike in a secure indoor bike room at work, illustrating bike-to-work supports.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of an office worker locking a commuter bike in a secure indoor bike room at work, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "bike-tune-up-cost-canada",
@@ -2014,6 +2030,14 @@
   "shot_type": "people",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a couple at a pharmacy counter picking up a prescription for their young son, pharmacist handing over a white paper bag, shelves blurred, in a Canadian pharmacy. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No labels, no signs, no text on bags or shelves."
+ },
+ {
+  "slug": "corporate-presto-compass-transit-program-ask-hr",
+  "alt": "An employee talking with an HR manager at a small meeting table in a bright office, illustrating corporate transit programs.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of an employee talking with an HR manager at a small meeting table in a bright office, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "cost-of-owning-a-car-canada-2026",
@@ -4328,6 +4352,14 @@
   "prompt": "Realistic documentary photograph of a woman in a cozy sweater taking down holiday decorations and packing ornaments into a box, looking calm and determined, a bare tree and folded wrapping paper beside her, in a Canadian living room in early January, snow outside the window. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Boxes unlabelled, no text."
  },
  {
+  "slug": "journie-rewards-ultramar-gas-stack",
+  "alt": "A man filling his car at a gas station pump while checking a rewards app on his phone, illustrating Journie Rewards gas savings.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a man filling his car at a gas station pump while checking a rewards app on his phone, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
   "slug": "kayak-canoe-buy-vs-rent-canada",
   "alt": "A couple in lifejackets paddling a red canoe past a rental dock with kayaks, illustrating buying vs renting a kayak or canoe.",
   "focal_y": 0.42,
@@ -5200,6 +5232,14 @@
   "prompt": "Realistic documentary photograph of a woman writing notes at her kitchen table beside a laptop and a framed photo of an older man, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
+  "slug": "oc-transpo-pass-ottawa-gatineau-save",
+  "alt": "A commuter in a winter coat tapping a plain transit card on a reader as she boards a city bus, illustrating OC Transpo passes.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a commuter in a winter coat tapping a plain transit card on a reader as she boards a city bus, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
   "slug": "ohip-plus-under-25-prescriptions",
   "alt": "A pharmacist handing a prescription bag to a university student, illustrating OHIP+ free prescriptions for Ontarians 24 and under.",
   "focal_y": 0.42,
@@ -5552,6 +5592,14 @@
   "prompt": "Realistic documentary photograph of a father hugging his adult son goodbye beside a car packed for university, driveway, late summer, in a Canadian suburb. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No licence plates, no writing on boxes."
  },
  {
+  "slug": "parking-tickets-canadian-cities-stop-paying",
+  "alt": "A driver setting a parking timer on his phone beside his parked car on a city street, illustrating avoiding parking tickets.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a driver setting a parking timer on his phone beside his parked car on a city street, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
+ },
+ {
   "slug": "parks-canada-camping-reservation-tips",
   "alt": "An empty forested campsite with a picnic table, a fire pit and a tent pad, illustrating booking Parks Canada campsites.",
   "focal_y": 0.5,
@@ -5654,6 +5702,14 @@
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of three plain loyalty cards in different colours fanned out on top of a reusable grocery bag full of produce, on a wooden counter by a window, in a Canadian kitchen. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. Cards completely blank, no logos, no text."
+ },
+ {
+  "slug": "peer-to-peer-car-rental-canada-when-it-makes-sense",
+  "alt": "A woman taking photos of a rented hatchback with her phone in a residential driveway before a weekend trip, illustrating peer-to-peer car rental.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a woman taking photos of a rented hatchback with her phone in a residential driveway before a weekend trip, in Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "personal-care-medical-expenses-hsa-canada",
@@ -7998,6 +8054,14 @@
   "shot_type": "scene",
   "version": "20261008",
   "prompt": "Realistic documentary photograph of a Vancouver condo balcony view of glass towers and mountains with a plain router inside the doorway, rainy afternoon, potted plants, in Vancouver. Natural daylight, bright and true-to-life colour, real texture and small imperfections. No people. Not AI-polished, no studio look. No text, no lettering, no logos, no signs. No logos, no text."
+ },
+ {
+  "slug": "vancouver-residential-parking-permit-car-lite",
+  "alt": "A woman walking past parked cars on a leafy residential street lined with houses on a rainy day, illustrating Vancouver residential parking permits.",
+  "focal_y": 0.42,
+  "shot_type": "people",
+  "version": "20261124",
+  "prompt": "Realistic documentary photograph of a woman walking past parked cars on a leafy residential street lined with houses on a rainy day, in Vancouver, Canada. Natural daylight, bright and true-to-life colour, real texture and small imperfections. Ordinary people with natural expressions, faces visible (fictional). Not AI-polished, no studio look. No text, no lettering, no logos, no signs."
  },
  {
   "slug": "vegetarian-on-a-canadian-grocery-budget-protein-without-the-meat-aisle",
