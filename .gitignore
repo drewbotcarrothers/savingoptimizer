@@ -1,0 +1,14 @@
+# Paid toolkit files and buyer download links must never be committed (see scripts/TOOLKITS.md).
+*.pdf
+*.zip
+*.ics
+.so-toolkit-links.ini
+.env
+# Stripe webhook secrets and state (see toolkits/stripe-webhook.php). Never commit.
+.so-webhook-config.php
+so-webhook-config.php
+!scripts/so-webhook-config.sample.php
+.so-webhook-data/
+*.private
+*.private.*
+scripts/.webhook-test-sample-email.txt

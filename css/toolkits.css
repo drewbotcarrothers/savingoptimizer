@@ -1,0 +1,35 @@
+/* Saving Optimizer paid toolkits: sales pages, hub, CTAs and sign-up block. Loaded only where used. */
+.tk-hero { display: grid; grid-template-columns: 1.3fr 1fr; gap: 2rem; align-items: start; }
+.tk-hero img { width: 100%; height: auto; border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); }
+.tk-price { font-size: 1.1rem; margin: 1rem 0 .5rem; }
+.tk-price strong { font-size: 1.6rem; color: var(--near-black); }
+.tk-buy { font-size: 1.1rem; padding: .9rem 1.6rem; }
+.tk-trust { font-size: .92rem; color: var(--mid-grey); margin-top: .6rem; }
+.tk-files { list-style: none; padding: 0; margin: 1rem 0; }
+.tk-files li { padding: .4rem 0 .4rem 1.6rem; position: relative; border-bottom: 1px solid var(--border); }
+.tk-files li::before { content: "\2713"; color: var(--green); position: absolute; left: 0; font-weight: 700; }
+.tk-two { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+.tk-box { background: var(--soft-grey); border-radius: var(--radius); padding: 1.25rem 1.5rem; }
+.tk-box.paid { background: var(--green-soft); }
+.tk-box h3 { margin-top: 0; }
+.tk-chapters { columns: 2; column-gap: 2rem; }
+.tk-chapters li { break-inside: avoid; margin-bottom: .35rem; }
+.tk-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1.25rem; }
+.tk-card { display: flex; flex-direction: column; border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem; background: var(--white); color: inherit; text-decoration: none; }
+.tk-card:hover { border-color: var(--green); }
+.tk-card img { width: 100%; height: auto; border-radius: 8px; border: 1px solid var(--border); }
+.tk-card h3 { font-size: 1.05rem; margin: .75rem 0 .35rem; }
+.tk-card p { font-size: .92rem; margin: 0 0 .6rem; }
+.tk-card .tk-card-price { margin-top: auto; font-weight: 600; color: var(--green); }
+.toolkit-cta { display: grid; grid-template-columns: 120px 1fr; gap: 1.25rem; align-items: center; background: var(--green-soft); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem; margin: 2rem 0; }
+.toolkit-cta img { width: 120px; height: auto; border-radius: 6px; border: 1px solid var(--border); }
+.toolkit-cta h2 { font-size: 1.2rem; margin: .2rem 0 .4rem; }
+.toolkit-cta p { margin: 0 0 .6rem; }
+.toolkit-cta .toolkit-cta-note { font-size: .85rem; color: var(--mid-grey); margin: .4rem 0 0; }
+.tk-signup { border: 1px solid var(--border); border-radius: var(--radius); padding: 1.5rem; margin: 2.5rem 0; background: var(--white); }
+.tk-signup label { display: block; font-weight: 500; margin: .6rem 0 .25rem; }
+.tk-signup input[type="email"], .tk-signup input[type="text"] { width: 100%; max-width: 420px; padding: .6rem .75rem; border: 1px solid var(--border); border-radius: 8px; font: inherit; }
+.tk-signup .tk-consent { display: flex; gap: .6rem; align-items: flex-start; font-weight: 400; margin: 1rem 0; }
+.tk-signup .tk-consent input { margin-top: .3rem; }
+.tk-signup .tk-fine { font-size: .85rem; color: var(--mid-grey); }
+@media (max-width: 760px) { .tk-hero, .tk-two { grid-template-columns: 1fr; } .tk-chapters { columns: 1; } .toolkit-cta { grid-template-columns: 1fr; } .toolkit-cta img { width: 100px; } }

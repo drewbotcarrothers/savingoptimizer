@@ -1,0 +1,530 @@
+{
+ "activities": {
+  "title": "Tickets, Passes and Activities Toolkit 2027",
+  "file_title": "Tickets, Passes and Activities Toolkit 2027",
+  "subtitle": "Fun budgets, ticket fee and resale rules, season pass and gym math, kids' sports registration and help, activity tax credits, gear choices and free passes for Canadian families and fans.",
+  "inside": [
+   "8 scripts for ticket sellers, gyms, leagues and gear buyers, each with 'if they say no' replies",
+   "3 full worked examples (a St. John's family's sports season, a Calgary family's park passes, a Toronto couple's concert tickets) laid out side by side",
+   "6 decision guides with the math shown: season passes, total ticket price, gym cost per visit, gear, watching games and registration",
+   "A guide to activity tax credits, KidSport funding, ticket and gym rules and consumer offices in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian household paying for sports, lessons, events, attractions and entertainment. Written for every province and territory.",
+  "checked": "Pricing and ticket rules, park fees, gym contract rules, activity tax credits and grant programs checked against Competition Bureau, Ontario, Quebec OPC, Parks Canada, Manitoba, Nova Scotia, Newfoundland and Labrador, KidSport, Jumpstart and library sources on November 10, 2026",
+  "chapters": [
+   "Your yearly fun and activities budget",
+   "Ticket prices, fees and the total price",
+   "Resale tickets and refunds",
+   "Season passes and memberships",
+   "Gyms and fitness memberships",
+   "Kids' sports and lessons: registration and help",
+   "Tax credits for activities",
+   "Gear: new, used, rented or sold",
+   "Free and low-cost fun",
+   "Watching games at home and your yearly plan"
+  ],
+  "pages": 42,
+  "sources": 26,
+  "files": [
+   "Tickets, Passes and Activities Toolkit 2027.pdf (42 pages)",
+   "Tickets, Passes and Activities Toolkit 2027 - Printables.pdf",
+   "activities-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "education": {
+  "title": "Education Savings Toolkit 2027",
+  "file_title": "Education Savings Toolkit 2027",
+  "subtitle": "RESP grant math, Canada Learning Bond steps, student grant and loan rules, a school-year budget, tax credits for students and adult learners, and scripts for financial aid offices, from early savings to repayment.",
+  "inside": [
+   "8 financial aid, registrar, bank and family scripts, each with 'if they say no' replies",
+   "3 full worked examples (a Hamilton family catching up on RESP grants, a Saskatchewan first-year student, an adult learner going back to college) laid out side by side",
+   "6 decision guides with the math shown: CESG catch-up, the Canada Learning Bond, starting an RESP early, work or borrow, living at home, and loan payments",
+   "A guide to tuition, provincial RESP grants, student aid offices and loan interest in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian parent saving for a child's education, a student heading to college, university or a trade school, or an adult going back to school. Written for every province and territory.",
+  "checked": "Grant, loan, tax and tuition figures checked against Government of Canada, Canada Revenue Agency, Statistics Canada, provincial and institution sources on November 10, 2026",
+  "chapters": [
+   "What a school year really costs",
+   "RESP basics: the account that gets the grants",
+   "Free money: the CESG, the Canada Learning Bond and provincial grants",
+   "Choosing a program and a path with cost in mind",
+   "Scholarships and bursaries",
+   "Student grants and loans: apply once, get both",
+   "Repaying student loans, and help if you cannot",
+   "Student living costs: rent, food, phone, transit and books",
+   "Tax credits for students and families",
+   "Going back to school as an adult or a senior"
+  ],
+  "pages": 42,
+  "sources": 23,
+  "files": [
+   "Education Savings Toolkit 2027.pdf (42 pages)",
+   "Education Savings Toolkit 2027 - Printables.pdf",
+   "education-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "groceries": {
+  "title": "Groceries Savings Toolkit 2027",
+  "file_title": "Groceries Savings Toolkit 2027",
+  "subtitle": "Unit-price sheets, a weekly flyer-to-menu routine, a price book built on Statistics Canada averages, PC Optimum and Scene+ points maps, and price-error scripts for Canadian grocery stores.",
+  "inside": [
+   "8 checkout, store and customer-service scripts, each with 'if they say no' replies",
+   "3 full worked examples (a Winnipeg family of four, a Halifax single parent, a Montreal student) laid out side by side",
+   "6 decision guides with the math shown: unit price, real sales, warehouse memberships, points value, delivery fees, fresh, frozen or in season",
+   "A guide to sales tax, price-accuracy rules, average prices and points programs in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian household of 1 to 5 people whose grocery bill is one of its biggest monthly costs. Written for every province and territory, with Statistics Canada's average retail prices to September 2026.",
+  "checked": "Rules, programs and average prices checked against government, Statistics Canada and program sources on November 10, 2026",
+  "chapters": [
+   "Your real grocery number",
+   "Store types and where to do the weekly shop",
+   "The 20-minute flyer-to-menu routine",
+   "The unit-price test",
+   "The price book: know a real sale",
+   "Points that pay: PC Optimum, Scene+ and others",
+   "Price errors, taxes and in-store asks",
+   "Best-before dates and markdown shopping",
+   "The waste audit: stop paying for the bin",
+   "Seasonal buying and help programs"
+  ],
+  "pages": 41,
+  "sources": 15,
+  "files": [
+   "Groceries Savings Toolkit 2027.pdf (41 pages)",
+   "Groceries Savings Toolkit 2027 - Printables.pdf",
+   "groceries-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "healthcare": {
+  "title": "Health Costs Toolkit 2027",
+  "file_title": "Health Costs Toolkit 2027",
+  "subtitle": "Canadian Dental Care Plan co-pay math, dental teaching clinics, provincial drug plans, eye exam and hearing aid coverage, and medical expense tax credit worksheets, for the health costs your provincial plan does not pay. Educational only, not medical advice.",
+  "inside": [
+   "8 dental office, pharmacy, insurer, clinic and HR scripts, each with 'if they say no' replies",
+   "3 full worked examples (a Halifax family on the CDCP, an Ontario senior's prescriptions, a Calgary couple's medical expense claim) laid out side by side",
+   "6 decision guides with the math shown: CDCP co-pays, teaching clinics, generic or brand, longer fills, workplace plans, and who claims medical expenses",
+   "A guide to public drug plans, free pharmacare medicines, eye exams and dental teaching clinics in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian household paying for dental care, prescriptions, glasses, hearing aids or other costs that provincial health plans don't fully cover. Written for every province and territory. It is about costs and coverage, not about which treatment you need.",
+  "checked": "Program rules, co-pays and tax amounts checked against Government of Canada, CRA, provincial and university sources on November 10, 2026",
+  "chapters": [
+   "What your province covers, and what you pay",
+   "The Canadian Dental Care Plan (CDCP)",
+   "Dental care without insurance",
+   "Eye exams, glasses and contacts",
+   "Prescriptions: provincial plans, generics and fills",
+   "Physio, massage, counselling and other therapy",
+   "Workplace and private health plans",
+   "The medical expense tax credit",
+   "Hearing aids, mobility aids and other devices",
+   "A yearly health costs routine"
+  ],
+  "pages": 42,
+  "sources": 23,
+  "files": [
+   "Health Costs Toolkit 2027.pdf (42 pages)",
+   "Health Costs Toolkit 2027 - Printables.pdf",
+   "healthcare-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "household": {
+  "title": "Household Shopping Toolkit 2027",
+  "file_title": "Household Shopping Toolkit 2027",
+  "subtitle": "Unit-price sheets, membership break-even math, real-sale checks, cross-border shipping rules, appliance and warranty decisions, clothing and personal care costs, and return scripts for Canadian households.",
+  "inside": [
+   "8 store, seller and warranty scripts, each with 'if they say no' replies",
+   "3 full worked examples (a Calgary family's warehouse membership, a Mississauga back-to-school clothing list, a Winnipeg fridge purchase) laid out side by side",
+   "6 decision guides with the math shown: unit prices, real sales, cross-border orders, cost per wear, extended warranties and personal care cost per use",
+   "A guide to sales tax, children's clothing tax relief, average prices and consumer offices in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian household buying cleaning supplies, paper goods, clothing, personal care products, small appliances and home basics. Written for every province and territory.",
+  "checked": "Tax rules, import thresholds, average prices and consumer rules checked against CRA, CBSA, Statistics Canada, Competition Bureau, Health Canada, NRCan and provincial sources on November 10, 2026",
+  "chapters": [
+   "Your household spend baseline",
+   "The unit-price test",
+   "Warehouse memberships and bulk buying",
+   "Sales, regular prices and price tracking",
+   "Buying online and across the border",
+   "Appliances: energy labels and warranties",
+   "Clothing: cost per wear and children's sizes",
+   "Used and second-hand: safe buys",
+   "Personal care: cost per use",
+   "Returns, gift cards and your yearly routine"
+  ],
+  "pages": 42,
+  "sources": 24,
+  "files": [
+   "Household Shopping Toolkit 2027.pdf (42 pages)",
+   "Household Shopping Toolkit 2027 - Printables.pdf",
+   "household-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "housing": {
+  "title": "Rent and Housing Cost Toolkit 2027",
+  "file_title": "Rent and Housing Cost Toolkit 2027",
+  "subtitle": "A rent-increase checker for every province and territory, stay-or-move math, moving budgets, renter tax credits, first-home program limits, and property tax grant checklists for Canadian renters and new homeowners.",
+  "inside": [
+   "8 landlord, tenancy office, mover, roommate and property tax scripts, each with 'if they say no' replies",
+   "3 full worked examples (a Toronto renter at renewal, a Winnipeg renter over the 30% line, first-time buyers in Ottawa) laid out side by side",
+   "6 decision guides with the math shown: stay or move, is the increase legal, utilities included, splitting rent, FHSA and HBP, and a repair fund",
+   "A guide to 2027 rent increase limits, notice rules, average rents, renter credits and homeowner help in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian renter facing a rent increase or a move, or a first-time buyer or new homeowner checking closing costs, property tax and grants. Written for every province and territory. It doesn't cover mortgage rates.",
+  "checked": "Rent rules, credits, grants and program limits checked against provincial, territorial, CRA, CMHC and Statistics Canada sources on November 10, 2026",
+  "chapters": [
+   "Your housing cost ratio",
+   "Is this rent increase legal?",
+   "Renewal time: negotiate, stay or move",
+   "Moving: the real cost",
+   "Utilities included or separate?",
+   "Roommates and splitting costs fairly",
+   "Tax credits and benefits for renters",
+   "First home: FHSA, HBP, credits and land transfer help",
+   "Property tax, homeowner grants and assessment reviews",
+   "A home repair fund and planning big repairs"
+  ],
+  "pages": 43,
+  "sources": 36,
+  "files": [
+   "Rent and Housing Cost Toolkit 2027.pdf (43 pages)",
+   "Rent and Housing Cost Toolkit 2027 - Printables.pdf",
+   "housing-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "insurance": {
+  "title": "Insurance Savings Toolkit 2027",
+  "file_title": "Insurance Savings Toolkit 2027",
+  "subtitle": "Scripts, worksheets and a 12-month calendar to lower what your household pays for car, home, travel and life insurance, without cutting the cover you need.",
+  "inside": [
+   "8 word-for-word scripts, each with 'if they say no' replies",
+   "3 full worked examples (renter, homeowner, two-car family) laid out side by side",
+   "6 decision guides with the math shown: claim or pay, deductibles, bundles, monthly vs annual, travel cover, term life",
+   "A guide to all 13 provinces and territories, plus 9 printable worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian household paying for two or more policies (car, home or tenant, travel, life) that wants to stop overpaying at renewal and understand what it's actually buying. Written for every province, with extra detail where Ontario and Alberta rules changed in 2026–2027.",
+  "checked": "Rules and limits checked against official sources on November 10, 2026",
+  "chapters": [
+   "Map every policy you pay for",
+   "The 45-day renewal routine",
+   "Get quotes you can actually compare",
+   "Car insurance: what your province lets you change",
+   "Run a discount audit",
+   "Deductibles and the claim-or-pay decision",
+   "Home, condo and tenant: close the water gap",
+   "Travel medical: know what your province won't pay",
+   "Life and mortgage insurance: right amount, right type",
+   "When something goes wrong: claims and complaints"
+  ],
+  "pages": 44,
+  "sources": 42,
+  "files": [
+   "Insurance Savings Toolkit 2027.pdf (44 pages)",
+   "Insurance Savings Toolkit 2027 - Printables.pdf",
+   "insurance-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "kids": {
+  "title": "Raising Kids in Canada: Cost Toolkit 2027",
+  "file_title": "Raising Kids in Canada Cost Toolkit 2027",
+  "subtitle": "A family cost map, EI parental benefit math, the Canada Child Benefit and provincial benefits, child care fees and the child care deduction, baby gear safety, clothing tax relief, RESP grants and activity help for Canadian parents.",
+  "inside": [
+   "8 scripts for employers, the CRA, child care centres, RESP providers, stores and clubs, each with 'if they say no' replies",
+   "3 full worked examples (a Brampton couple's parental leave, a Saskatoon single parent's benefits and child care, a Halifax family's baby gear) laid out side by side",
+   "6 decision guides with the math shown: standard or extended leave, the child care deduction, new or used gear, RESP grants, child care costs and checking your CCB",
+   "A guide to provincial child benefits, child care fees, children's clothing tax relief and KidSport funding in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian family expecting a baby or raising children. Written for every province and territory.",
+  "checked": "CCB, CDB, EI maternity and parental benefits, child care deduction, child care fees, RESP grants, provincial child benefits, dental care and product safety rules checked against CRA, ESDC, Service Canada, Health Canada and provincial sources on November 10, 2026",
+  "chapters": [
+   "Your family's cost map",
+   "Before and after birth: EI maternity and parental benefits",
+   "The Canada Child Benefit and the Child Disability Benefit",
+   "Provincial and territorial child benefits",
+   "Child care fees and the child care expense deduction",
+   "Baby gear: what to buy new, what to borrow",
+   "Clothes, shoes, diapers and sales tax relief",
+   "RESP grants and the Canada Learning Bond",
+   "Sports, lessons, camps and help with fees",
+   "Dental, allowance and your yearly plan"
+  ],
+  "pages": 43,
+  "sources": 39,
+  "files": [
+   "Raising Kids in Canada Cost Toolkit 2027.pdf (43 pages)",
+   "Raising Kids in Canada Cost Toolkit 2027 - Printables.pdf",
+   "kids-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "money-admin": {
+  "title": "Canadian Money Admin Toolkit 2027",
+  "file_title": "Canadian Money Admin Toolkit 2027",
+  "subtitle": "Bank fees, TFSA, RRSP and FHSA room, your credit report and a yearly money-admin calendar, with switch-bank and fee-refund scripts.",
+  "inside": [
+   "8 bank, credit bureau and complaint scripts, each with 'if they say no' replies",
+   "3 full worked examples (a new grad, a couple saving for a home, a single parent) laid out side by side",
+   "6 decision guides with the math shown: fee waivers, savings rates, TFSA room, RRSP room, debt payoff order, emergency fund",
+   "A guide to credit union deposit protection, credit freezes and CRA-paid benefits in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian adult who pays bank fees, isn't sure of their TFSA, RRSP or FHSA room, hasn't looked at their credit report lately, or has put off switching banks. Written for every province and territory, with notes on rules that changed in 2025 and 2026.",
+  "checked": "Limits, rules and dates checked against CRA, FCAC, CDIC and other official sources on November 10, 2026",
+  "chapters": [
+   "Your money map in one page",
+   "Bank fees: refund, waive or switch",
+   "The 14-day bank switch",
+   "High-interest savings: where idle cash goes",
+   "TFSA room without over-contributing",
+   "RRSP and FHSA: deadlines and room",
+   "Credit report and score check",
+   "Debt payoff order",
+   "CRA account and benefits check",
+   "Your yearly money-admin calendar"
+  ],
+  "pages": 43,
+  "sources": 54,
+  "files": [
+   "Canadian Money Admin Toolkit 2027.pdf (43 pages)",
+   "Canadian Money Admin Toolkit 2027 - Printables.pdf",
+   "money-admin-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "pets": {
+  "title": "Pet Cost Toolkit 2027",
+  "file_title": "Pet Cost Toolkit 2027",
+  "subtitle": "Yearly pet budgets, first-year costs, licences, vet and clinic fees, insurance versus a vet fund, food unit prices, renting with a pet, travel rules and tax points for Canadian pet owners.",
+  "inside": [
+   "8 scripts for vets, clinics, insurers, landlords and airlines, each with 'if they say no' replies",
+   "3 full worked examples (a Toronto adopter's first-year cat costs, a Vancouver renter's dog deposit, a Calgary family's insurance or vet fund) laid out side by side",
+   "6 decision guides with the math shown: first-year costs, insurance or a vet fund, food per day, vet estimates, boarding or a sitter, and flying with a pet",
+   "A guide to pet deposits and rental rules, licence fee examples and consumer offices in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian household with a cat or dog, or thinking about getting one. Written for every province and territory.",
+  "checked": "Tenancy rules, licence fees, clinic fees, rabies rules, import rules, airline pet fees and tax rules checked against provincial, municipal, CFIA, CBSA, CRA, SPCA and airline sources on November 10, 2026",
+  "chapters": [
+   "Your pet's yearly budget",
+   "Before you get a pet: the first-year costs",
+   "Licences, ID and local rules",
+   "Vaccines, checkups and vet estimates",
+   "Spay, neuter and lower-cost clinics",
+   "Pet insurance or a vet fund",
+   "Food, litter and supplies: the unit price",
+   "Renting with a pet: deposits and rules",
+   "Travel, boarding and pet sitters",
+   "Taxes, service animals and your yearly plan"
+  ],
+  "pages": 41,
+  "sources": 16,
+  "files": [
+   "Pet Cost Toolkit 2027.pdf (41 pages)",
+   "Pet Cost Toolkit 2027 - Printables.pdf",
+   "pets-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "phone-internet": {
+  "title": "Phone and Internet Bill Toolkit 2027",
+  "file_title": "Phone and Internet Bill Toolkit 2027",
+  "subtitle": "Bill checks, data and speed math, promo and contract trackers, switching and cancelling rules, device and roaming decisions, TV and streaming costs, and scripts for Canadian phone, internet and TV customers.",
+  "inside": [
+   "8 provider scripts (retention, fees, cancelling, unlocking, roaming and complaints), each with 'if they say no' replies",
+   "3 full worked examples (a Halifax family's four phone lines, a Hamilton renter's internet promo, an Edmonton traveller's roaming plan) laid out side by side",
+   "6 decision guides with the math shown: data needs, keep or switch, phone financing, bundles, roaming and device protection",
+   "A guide to sales tax on your bill and consumer offices in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian household paying for cellphones, home internet or TV. Written for every province and territory.",
+  "checked": "Wireless Code, Internet Code, Television Service Provider Code, fee rules, roaming caps, Connecting Families and complaint figures checked against CRTC, CCTS, ISED, CRA and Quebec OPC sources on November 10, 2026",
+  "chapters": [
+   "Your phone, internet and TV baseline",
+   "Reading your bill and your contract summary",
+   "How much data and speed you really use",
+   "Promotions, contract ends and price changes",
+   "Comparing plans and providers",
+   "Switching, cancelling and trial periods",
+   "Phones and devices: financing, unlocking and warranties",
+   "Roaming and travel",
+   "TV packages, bundles and streaming",
+   "Help programs, complaints and your yearly plan"
+  ],
+  "pages": 42,
+  "sources": 19,
+  "files": [
+   "Phone and Internet Bill Toolkit 2027.pdf (42 pages)",
+   "Phone and Internet Bill Toolkit 2027 - Printables.pdf",
+   "phone-internet-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "subscriptions": {
+  "title": "Subscriptions Savings Toolkit 2027",
+  "file_title": "Subscriptions Savings Toolkit 2027",
+  "subtitle": "Scripts, worksheets and a 12-month rotation calendar to find every recurring charge, cancel or pause what you don't use, and pay for each service only in the months you actually watch or listen.",
+  "inside": [
+   "8 cancel, pause, refund and retention scripts, each with 'if they say no' replies",
+   "3 full worked examples (a single renter, a couple, a family of four) laid out side by side",
+   "6 decision guides with the math shown: cost per use, annual vs monthly, rotation, family plans, bundles, price increases",
+   "A guide to subscription and online-contract rules in all 13 provinces and territories, plus 9 printable worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian household with six or more recurring charges across cards, bank accounts, app stores and phone bills that isn't sure what it pays in total. Written for every province and territory, with extra detail where BC and Quebec subscription rules changed in 2026.",
+  "checked": "Rules, plan prices and cancel steps checked against official and service help pages on November 10, 2026",
+  "chapters": [
+   "The 30-minute statement audit",
+   "Price increases: spot them and respond",
+   "Cancel, pause or downgrade: the decision tree",
+   "Streaming rotation: one service at a time",
+   "Carrier-billed add-ons and app-store charges",
+   "Family plans and sharing rules",
+   "Annual vs monthly: when a year up front pays off",
+   "Retention offers: what to ask for",
+   "Free alternatives worth using",
+   "Your yearly subscription routine"
+  ],
+  "pages": 43,
+  "sources": 33,
+  "files": [
+   "Subscriptions Savings Toolkit 2027.pdf (43 pages)",
+   "Subscriptions Savings Toolkit 2027 - Printables.pdf",
+   "subscriptions-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "transportation": {
+  "title": "Transportation Savings Toolkit 2027",
+  "file_title": "Transportation Savings Toolkit 2027",
+  "subtitle": "Your real cost per kilometre, fuel and tire routines, repair-quote scripts, transit fare-cap math and used-car paperwork, province by province.",
+  "inside": [
+   "8 repair shop, dealer, seller and employer scripts, each with 'if they say no' replies",
+   "3 full worked examples (a Toronto commuter, a Vancouver two-car family, a Quebec EV shopper) laid out side by side",
+   "6 decision guides with the math shown: cost per km, transit fare caps, car share or own, winter tire sets, toll roads, EV or gas fuel cost",
+   "A guide to winter tire rules, used-vehicle inspections, EV incentives and dealer regulators in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian household with one or two vehicles, or someone deciding between a car, transit and car share. Written for every province and territory, with the federal EV incentive change on January 1, 2027 and the end of Quebec's Roulez vert program.",
+  "checked": "Rules, fares and incentives checked against government, transit agency and regulator sources on November 10, 2026",
+  "chapters": [
+   "Your real cost per kilometre",
+   "Fuel: habits that cut what you burn",
+   "A maintenance calendar that prevents big bills",
+   "Tires: winter rules, sets and storage",
+   "Repairs: estimates, quotes and your rights",
+   "Tolls and parking: the quiet monthly costs",
+   "Transit: passes, fare caps and discounts",
+   "Car share, rental or owning a car",
+   "Buying a used vehicle without surprises",
+   "Selling, downsizing or going electric"
+  ],
+  "pages": 43,
+  "sources": 29,
+  "files": [
+   "Transportation Savings Toolkit 2027.pdf (43 pages)",
+   "Transportation Savings Toolkit 2027 - Printables.pdf",
+   "transportation-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "travel": {
+  "title": "Canadian Travel Savings Toolkit 2027",
+  "file_title": "Canadian Travel Savings Toolkit 2027",
+  "subtitle": "Whole-trip budgets, total flight prices, air passenger compensation, baggage claims, passport and NEXUS costs, money abroad, out-of-country health coverage and coming-home rules for Canadian travellers.",
+  "inside": [
+   "8 scripts for airlines, hotels, card issuers and insurers, each with 'if they say no' replies",
+   "3 full worked examples (a Toronto family's delayed flight, an Ottawa couple's passports and NEXUS, a Saskatoon traveller's health cover gap) laid out side by side",
+   "6 decision guides with the math shown: whole-trip cost, fly or drive, paying abroad, passport length, health cover and refund or rebooking",
+   "A guide to out-of-country health coverage and consumer offices in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian household planning trips inside Canada or abroad. Written for every province and territory.",
+  "checked": "Air passenger rules, passport and NEXUS fees, customs exemptions, entry rules, card conversion examples and provincial out-of-country coverage checked against CTA, IRCC, CBSA, Global Affairs Canada, FCAC and provincial sources on November 10, 2026",
+  "chapters": [
+   "Your whole-trip budget",
+   "Flights: the total price, fare types and extras",
+   "When flights go wrong: delays, cancellations and denied boarding",
+   "Baggage fees, damage and delays",
+   "Hotels and rentals: taxes, fees and cancellation",
+   "Passports, NEXUS and entry rules",
+   "Money abroad: exchange, cards and fees",
+   "Health coverage outside Canada and travel insurance",
+   "Coming home: customs exemptions and declarations",
+   "Family trips, at-destination costs and your yearly plan"
+  ],
+  "pages": 41,
+  "sources": 16,
+  "files": [
+   "Canadian Travel Savings Toolkit 2027.pdf (41 pages)",
+   "Canadian Travel Savings Toolkit 2027 - Printables.pdf",
+   "travel-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "utilities": {
+  "title": "Utilities Savings Toolkit 2027",
+  "file_title": "Utilities Savings Toolkit 2027",
+  "subtitle": "Read your hydro, gas and water bills, pick a rate plan with the math shown, claim rebates and cut winter heating costs, province by province.",
+  "inside": [
+   "8 utility, landlord and rebate scripts, each with 'if they say no' replies",
+   "3 full worked examples (a Toronto renter, a Montreal electric-heat home, a Calgary house) laid out side by side",
+   "6 decision guides with the math shown: Ontario rate plans, thermostat setbacks, heat pump payback, BC time-of-day, Alberta contracts, water leaks",
+   "A guide to regulators, rate plans, winter protections and rebates in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian homeowner or renter who pays their own hydro, gas or water bill and dreads the winter ones. Written for every province and territory, with the rate changes of November 2026 and the rebate programs that were open when checked.",
+  "checked": "Rates, programs and rules checked against regulators, utilities and government sources on November 10, 2026",
+  "chapters": [
+   "Decode your bill: usage, delivery and the rest",
+   "Pick your rate plan: time-of-use, tiered, overnight or fixed",
+   "Heating: where the money goes",
+   "Draft hunt and cheap fixes",
+   "A thermostat schedule that works",
+   "Heat pumps: rebates, order of steps and payback",
+   "Rebates and bill help programs",
+   "Water and sewer bills",
+   "Disputes, payment plans and winter protections",
+   "Your seasonal utility calendar"
+  ],
+  "pages": 43,
+  "sources": 42,
+  "files": [
+   "Utilities Savings Toolkit 2027.pdf (43 pages)",
+   "Utilities Savings Toolkit 2027 - Printables.pdf",
+   "utilities-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ },
+ "weddings": {
+  "title": "Weddings Savings Toolkit 2027",
+  "file_title": "Weddings Savings Toolkit 2027",
+  "subtitle": "Guest-count math, vendor quote grids, contract checklists, marriage licence and name-change steps by province, and a 12-month planning calendar.",
+  "inside": [
+   "8 venue, vendor, family and contract scripts, each with 'if they say no' replies",
+   "3 full worked examples (a Toronto couple cutting the guest list, a Calgary couple comparing photographers, a Quebec City civil ceremony) laid out side by side",
+   "6 decision guides with the math shown: cost per guest, a budget you can save for, service charges and tax, date pricing, DIY or hire, borrowing or waiting",
+   "A guide to marriage licence fees, waiting periods, name rules and sales tax in all 13 provinces and territories, plus 9 worksheets and a 12-month calendar"
+  ],
+  "reader": "a Canadian couple 6 to 18 months from their wedding, working to a fixed budget. Written for every province and territory.",
+  "checked": "Licence fees, rules and tax rates checked against provincial, territorial and federal government sources on November 10, 2026",
+  "chapters": [
+   "Budget by guest count",
+   "Priorities: what to spend on, what to skip",
+   "Venue and catering quotes",
+   "Photo, music and flowers: comparing vendors",
+   "Contracts and deposits",
+   "Attire and rings",
+   "Licence, officiant and paperwork",
+   "Changing your name after marriage",
+   "Gifts, guests and etiquette costs",
+   "The 12-month planning timeline"
+  ],
+  "pages": 43,
+  "sources": 23,
+  "files": [
+   "Weddings Savings Toolkit 2027.pdf (43 pages)",
+   "Weddings Savings Toolkit 2027 - Printables.pdf",
+   "weddings-savings-calendar-2027.ics",
+   "README - Start Here.txt"
+  ]
+ }
+}
