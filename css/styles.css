@@ -549,6 +549,71 @@ main { flex: 1; }
 
 .page-intro.compact { padding-bottom: 1.5rem; }
 
+/* Category hub: scannable intro. The label is the jump; the sentence stays readable. */
+.page-intro p.hub-promise {
+  margin: 0 0 0.85rem;
+  max-width: 40rem;
+  color: var(--near-black);
+}
+
+.page-intro .hub-jumps {
+  list-style: disc;
+  margin: 0 0 0.9rem;
+  padding: 0 0 0 1.2rem;
+  max-width: 40rem;
+}
+
+.page-intro .hub-jumps li {
+  margin: 0 0 0.6rem;
+  padding: 0;
+  line-height: 1.45;
+  color: var(--near-black);
+}
+
+.page-intro .hub-jumps li:last-child { margin-bottom: 0; }
+
+.page-intro .hub-jumps a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.page-intro .hub-jumps a strong {
+  color: var(--green);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+.page-intro .hub-jumps a:hover strong {
+  color: var(--green-hover);
+}
+
+.page-intro p.hub-scope {
+  margin: 0.2rem 0 0;
+  max-width: 40rem;
+  color: var(--mid-grey);
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.page-intro p.hub-scope a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.page-intro p.hub-scope a:hover { color: var(--green-hover); }
+
+h2[id] {
+  scroll-margin-top: calc(var(--header-h) + 0.75rem);
+}
+
+@media (max-width: 639px) {
+  .page-intro .hub-jumps { padding-left: 1.1rem; }
+  .page-intro .hub-jumps li { margin-bottom: 0.75rem; }
+}
+
 /* ---------- Cards ---------- */
 .card-grid {
   display: grid;
